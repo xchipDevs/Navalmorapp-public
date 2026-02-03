@@ -37,6 +37,7 @@
             "name": "Mateo Hinojal",
             "address": "C/ Urbano Glez. Serrano, 10",
             "phone": "927 53 02 71",
+            "notes": "Guardias de 22:00 a 9:30h, el resto del horario lo cubre Asunción Jiménez Martín-Neble (C/ Carnaval, 5).",
             "schedule": [
                 {
                     "startDate": "2026-01-07",
