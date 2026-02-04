@@ -10,7 +10,6 @@ import sys
 from datetime import datetime
 import asyncio
 from playwright.async_api import async_playwright
-import google.generativeai as genai
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -28,9 +27,8 @@ MESES = {
     "julio": 7, "agosto": 8, "septiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12
 }
 
-# Configurar Gemini
-genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-3-flash')
+# Configurar Gemini (ahora local en la función)
+
 
 async def scrape_cinema():
     """Scrape cinema website using Playwright"""
@@ -245,7 +243,29 @@ Devuelve SOLO los títulos limpios, uno por línea, numerados igual:
 {titles_text}"""
     
     try:
-        response = model.generate_content(prompt)
+        from google import genai
+        client = genai.Client(api_key=GEMINI_API_KEY)
+        
+        # Prioridad: Gemini 3 Flash Preview
+        # Fallback: 2.0 Flash -> 1.5 Flash
+        models_to_try = ['gemini-3-flash-preview', 'gemini-2.0-flash', 'gemini-1.5-flash']
+        
+        response = None
+        for model_name in models_to_try:
+            try:
+                print(f"🔄 Intentando limpiar títulos con: {model_name}...")
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt # Solo texto
+                )
+                print(f"✅ ¡Limpieza exitosa con {model_name}!")
+                break
+            except Exception as e:
+                print(f"⚠️ {model_name} falló: {e}")
+        
+        if not response:
+            raise Exception("Todos los modelos fallaron en limpieza de títulos")
+
         cleaned_text = response.text.strip()
         
         # Parsear respuesta
@@ -265,7 +285,7 @@ Devuelve SOLO los títulos limpios, uno por línea, numerados igual:
                 movie['title_clean'] = movie['title']  # fallback
                 
     except Exception as e:
-        print(f"⚠️ Error en Gemini AI: {e}")
+        print(f"⚠️ Error en Gemini AI Cleaning: {e}")
         # Fallback: usar títulos originales
         for movie in movies:
             movie['title_clean'] = movie['title']
