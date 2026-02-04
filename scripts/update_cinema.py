@@ -201,10 +201,17 @@ def parse_movies(html):
                  current_movie['synopsis'] = text.strip()
                  print(f"  📖 Sinopsis capturada (Heurística): {text[:30]}...")
         
+        
         # Detectar duración
         dur_match = re.search(r'Duración:\s*(\d+)\s*min', text)
         if dur_match:
             current_movie['duration'] = f"{dur_match.group(1)} min"
+
+        # Detectar Año
+        year_match = re.search(r'Año:\s*(\d{4})', text)
+        if year_match:
+            current_movie['year'] = year_match.group(1)
+            print(f"  📅 Año detectado: {current_movie['year']}")
         
         # Detectar trailer
         if not current_movie['trailer']:
@@ -281,6 +288,12 @@ def enrich_with_tmdb(movies):
             # Buscar película
             search_url = f"https://api.themoviedb.org/3/search/movie"
             params = {"query": title, "language": "es-ES"}
+            
+            # Usar año si lo tenemos (Evita conflictos como Evolution 2001 vs 2026)
+            if movie.get('year'):
+                params['year'] = movie['year']
+                print(f"  🔍 Buscando en TMDB: {title} ({movie['year']})")
+            
             response = requests.get(search_url, headers=headers, params=params, timeout=10)
             
             if response.status_code == 200:
