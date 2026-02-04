@@ -27,7 +27,7 @@ jobs:
       
       - name: Install dependencies
         run: |
-          pip install beautifulsoup4 requests google-generativeai pillow
+          pip install beautifulsoup4 requests google-genai pillow
       
       - name: Run pharmacy scraper
         env:

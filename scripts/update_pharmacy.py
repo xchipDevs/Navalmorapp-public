@@ -2,7 +2,6 @@
 import os
 import requests
 import json
-import google.generativeai as genai
 from bs4 import BeautifulSoup
 from PIL import Image
 from io import BytesIO
