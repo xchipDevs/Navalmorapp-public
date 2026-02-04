@@ -63,7 +63,7 @@ def parse_movies(html):
     current_movie = None
     
     for node in content_div.children:
-        if not hasattr(node, 'name'):
+        if not node.name:
             continue
             
         text = node.get_text(strip=True)
