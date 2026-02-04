@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T14:10:57.173424Z",
-  "expires_at": "2026-02-05T14:10:57.173424Z",
+  "generated_at": "2026-02-04T14:21:24.148337Z",
+  "expires_at": "2026-02-05T14:21:24.148337Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,17 +13,27 @@
       "duration": "110 min",
       "trailerUrl": "https://www.youtube.com/embed/O82ibLC4bmM?feature=oembed",
       "showtimes": {
-        "Horarios": [
+        "Viernes 30 de enero de 2026": [
           "19:00",
-          "07:00",
-          "21:30",
-          "09:30",
-          "21:00",
-          "09:00",
+          "21:30"
+        ],
+        "Sábado 31 de enero de 2026": [
+          "19:00",
+          "21:00"
+        ],
+        "Domingo 1 de febrero de 2026": [
           "18:30",
-          "06:30",
-          "20:30",
-          "08:30"
+          "20:30"
+        ],
+        "Lunes 2 de febrero de 2026": [
+          "20:30"
+        ],
+        "Martes 3 de febrero de 2026": [
+          "18:30"
+        ],
+        "Miércoles 4 defebrerode 2026": [
+          "18:30",
+          "20:30"
         ]
       }
     },
@@ -37,25 +47,24 @@
       "duration": "126 min",
       "trailerUrl": "https://www.youtube.com/embed/15-oOaLlAX0?feature=oembed",
       "showtimes": {
-        "Horarios": [
+        "Viernes 30 de enero de 2026": [
           "19:30",
-          "07:30",
-          "22:00",
-          "10:00",
-          "18:45",
-          "06:45",
+          "22:00"
+        ],
+        "Sábado 31 de enero de 2026": [
+          "18:45"
+        ],
+        "Domingo 1 de febrero de 2026": [
           "18:15",
-          "06:15",
-          "20:45",
-          "08:45",
+          "20:45"
+        ],
+        "Martes 3 de febrero de 2026": [
           "20:30",
-          "08:30",
-          "21:15",
-          "09:15",
+          "21:15"
+        ],
+        "Miércoles 4 defebrerode 2026": [
           "17:30",
-          "05:30",
-          "21:45",
-          "09:45"
+          "21:45"
         ]
       }
     },
@@ -69,13 +78,14 @@
       "duration": "142 min",
       "trailerUrl": "https://www.youtube.com/embed/ndoEo6oBRV0?feature=oembed",
       "showtimes": {
-        "Horarios": [
-          "21:30",
-          "09:30",
-          "19:00",
-          "07:00",
-          "19:30",
-          "07:30"
+        "Miércoles 28 de enero de 2026": [
+          "21:30"
+        ],
+        "Lunes 2 de febrero de 2026": [
+          "19:00"
+        ],
+        "Miércoles 4 de febrero de 2026": [
+          "19:30"
         ]
       }
     },
@@ -89,11 +99,11 @@
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/embed/wiNQcaATJuc?feature=oembed",
       "showtimes": {
-        "Horarios": [
-          "17:15",
-          "05:15",
-          "16:45",
-          "04:45"
+        "Sábado 31 de enero de 2026": [
+          "17:15"
+        ],
+        "Domingo 1 de febrero de 2026": [
+          "16:45"
         ]
       }
     },
@@ -107,9 +117,8 @@
       "duration": "112 min",
       "trailerUrl": "https://www.youtube.com/embed/0GU0DXYcjJk?feature=oembed",
       "showtimes": {
-        "Horarios": [
-          "21:45",
-          "09:45"
+        "Miércoles 28 de enero de 2026": [
+          "21:45"
         ]
       }
     },
@@ -123,9 +132,14 @@
       "duration": null,
       "trailerUrl": "https://www.youtube.com/embed/Hg7odkhWUtc?feature=oembed",
       "showtimes": {
-        "Horarios": [
-          "17:00",
-          "05:00"
+        "Sábado 31 de enero de 2026": [
+          "17:00"
+        ],
+        "Domingo 1 de febrero de 2026": [
+          "17:00"
+        ],
+        "Miércoles 4 de febrero de 2026": [
+          "17:00"
         ]
       }
     },
@@ -139,11 +153,11 @@
       "duration": "131 min",
       "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
       "showtimes": {
-        "Horarios": [
-          "20:45",
-          "08:45",
-          "19:00",
-          "07:00"
+        "Sábado 31 de enero de 2026": [
+          "20:45"
+        ],
+        "Martes 3 de febrero de 2026": [
+          "19:00"
         ]
       }
     }
