@@ -22,6 +22,12 @@ TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 TMDB_READ_TOKEN = os.getenv("TMDB_READ_TOKEN")
 OUTPUT_FILE = "cinema_data.json"
 
+# Meses en español
+MESES = {
+    "enero": 1, "febrero": 2, "marzo": 3, "abril": 4, "mayo": 5, "junio": 6,
+    "julio": 7, "agosto": 8, "septiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12
+}
+
 # Configurar Gemini
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-3-flash')
@@ -61,6 +67,8 @@ def parse_movies(html):
     
     movies = []
     current_movie = None
+    current_day = None  # State Machine: Day Context
+    expecting_synopsis = False # State Machine: Synopsis Context
     
     for node in content_div.children:
         if not node.name:
@@ -86,6 +94,8 @@ def parse_movies(html):
                 'duration': None,
                 'trailer': None
             }
+            current_day = None
+            expecting_synopsis = False
             print(f"🎬 Encontrada: {text}")
             continue
         
@@ -166,9 +176,24 @@ def parse_movies(html):
             current_movie['showtimes'][day_key] = [t for t in times if t not in to_remove]
         
         # Detectar sinopsis
-        if not current_movie['synopsis'] and len(text) > 50 and not any(x in text for x in ['Título original:', 'Dirección:', 'Reparto:']):
-            if any(x in text.upper() for x in ['ARGUMENTO', 'SINOPSIS']):
-                current_movie['synopsis'] = re.sub(r'(ARGUMENTO|SINOPSIS)[\s:]*', '', text, flags=re.IGNORECASE).strip()
+        # Detectar sinopsis (State Machine & Direct)
+        if not current_movie['synopsis']:
+            # Caso 1: Header "ARGUMENTO" detectado previamente
+            if expecting_synopsis and len(text) > 30 and not any(x in text for x in ['Título original:', 'Dirección:', 'Reparto:', 'FICHA']):
+                current_movie['synopsis'] = text.strip()
+                expecting_synopsis = False
+                print(f"  📖 Sinopsis capturada (Next Node): {text[:30]}...")
+            
+            # Caso 2: Texto largo que contiene o sigue a header (Single Node or Trigger)
+            elif len(text) > 10 and any(x in text.upper() for x in ['ARGUMENTO', 'SINOPSIS']):
+                # Si es un header corto ("ARGUMENTO"), activar flag para siguiente nodo
+                if len(text) < 30:
+                    expecting_synopsis = True
+                    print("  👀 Esperando sinopsis en siguiente nodo...")
+                else:
+                    # Si contiene el texto entero: "ARGUMENTO: Bla bla bla"
+                    current_movie['synopsis'] = re.sub(r'(ARGUMENTO|SINOPSIS)[\s:]*', '', text, flags=re.IGNORECASE).strip()
+                    print(f"  📖 Sinopsis capturada (Same Node): {current_movie['synopsis'][:30]}...")
         
         # Detectar duración
         dur_match = re.search(r'Duración:\s*(\d+)\s*min', text)
@@ -294,6 +319,55 @@ def enrich_with_tmdb(movies):
     
     return movies
 
+def parse_spanish_date(date_str):
+    """Convierte fecha string (Viernes 6 de febrero...) a datetime para ordenar"""
+    try:
+        # Extraer día y mes
+        # Ejemplo: "Viernes 6 de febrero de 2026"
+        parts = date_str.lower().split()
+        day = 1
+        month = 1
+        year = datetime.now().year
+        
+        # Buscar número de día (primer dígito encontrado)
+        for part in parts:
+            if part.isdigit():
+                day = int(part)
+                break
+        
+        # Buscar mes
+        for m_name, m_num in MESES.items():
+            if m_name in parts:
+                month = m_num
+                break
+        
+        # Buscar año (4 dígitos)
+        for part in parts:
+            if part.isdigit() and len(part) == 4:
+                year = int(part)
+                break
+                
+        return datetime(year, month, day)
+    except:
+        return datetime.max  # Si falla, al final
+
+def sort_showtimes(movies):
+    """Ordena los horarios de cada película cronológicamente"""
+    print("📅 Ordenando horarios...")
+    for movie in movies:
+        showtimes = movie.get('showtimes', {})
+        if not showtimes:
+            continue
+            
+        # Ordenar claves por fecha parseada
+        sorted_keys = sorted(showtimes.keys(), key=parse_spanish_date)
+        
+        # Crear nuevo diccionario ordenado
+        new_showtimes = {k: showtimes[k] for k in sorted_keys}
+        movie['showtimes'] = new_showtimes
+        
+    return movies
+
 def generate_json(movies):
     """Generate final JSON file"""
     print("💾 Generando JSON...")
@@ -347,7 +421,10 @@ async def main():
         # 4. TMDB Enrichment
         movies = enrich_with_tmdb(movies)
         
-        # 5. Generate JSON
+        # 5. Sort Showtimes (CRITICAL FIX)
+        movies = sort_showtimes(movies)
+        
+        # 6. Generate JSON
         generate_json(movies)
         
         print("🎉 Proceso completado con éxito!")
