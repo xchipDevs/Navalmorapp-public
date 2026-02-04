@@ -272,7 +272,8 @@ def enrich_with_tmdb(movies):
                         if details.get('backdrop_path'):
                             movie['backdrop'] = f"https://image.tmdb.org/t/p/w780{details['backdrop_path']}"
                         
-                        movie['overview'] = details.get('overview')
+                        if details.get('overview'):
+                            movie['overview'] = details.get('overview')
                         movie['rating'] = details.get('vote_average')
                         movie['release_date'] = details.get('release_date')
                         
@@ -312,7 +313,7 @@ def generate_json(movies):
             "title": movie.get('title_clean', movie['title']),
             "posterUrl": movie.get('poster_tmdb') or movie.get('poster'),
             "backdropUrl": movie.get('backdrop'),
-            "overview": movie.get('overview'),
+            "overview": movie.get('overview') or movie.get('synopsis'),
             "rating": movie.get('rating'),
             "releaseDate": movie.get('release_date'),
             "duration": movie.get('duration'),
