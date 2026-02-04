@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-02-04T14:27:10.304945Z",
-  "expires_at": "2026-02-05T14:27:10.304945Z",
+  "generated_at": "2026-02-04T14:36:24.897801Z",
+  "expires_at": "2026-02-05T14:36:24.897801Z",
   "version": "1.0",
   "movies": [
+    {
+      "title": "Hamnet",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hVo0g5M8z1kuhzxQ51eCbF81wUh.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+      "overview": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.",
+      "rating": 7.8,
+      "releaseDate": "2025-11-26",
+      "duration": "125 min",
+      "trailerUrl": "https://www.youtube.com/embed/Ith7z6FzLe0?feature=oembed",
+      "showtimes": {
+        "Viernes 6 de febrero de 2026": [
+          "21:30"
+        ],
+        "Sábado 7 de febrero de 2026": [
+          "18:30",
+          "22:15"
+        ],
+        "Domingo 8 de febrero de 2026": [
+          "20:30"
+        ],
+        "Lunes 9 de febrero de 2026": [
+          "19:00"
+        ],
+        "Martes 10 de febrero de 2026": [
+          "19:00"
+        ],
+        "Miércoles 11 de febrero de 2026": [
+          "18:30",
+          "20:45",
+          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "Marty Supreme",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+      "overview": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
+      "rating": 7.8,
+      "releaseDate": "2025-12-19",
+      "duration": "149 min",
+      "trailerUrl": "https://www.youtube.com/embed/rXqXn3G-40U?feature=oembed",
+      "showtimes": {
+        "Viernes 6 de febrero de 2026": [
+          "18:30"
+        ],
+        "Sábado 7 de febrero de 2026": [
+          "22:00"
+        ],
+        "Domingo 8 de febrero de 2026": [
+          "19:00"
+        ],
+        "Lunes 9 de febrero de 2026": [
+          "21:30"
+        ],
+        "Martes 10 de febrero de 2026": [
+          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "Evolution",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rDqBkd4pXiQEjgC5CdJBDBXdAyJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qnqXk1yjSxamhBel8tOgynMbnkv.jpg",
+      "overview": "Cuenta la historia de Nicolas, un chico que vive en una isla remota habitada solamente por mujeres y niños, en donde estos últimos son objeto de misteriosos y siniestros tratamientos médicos.",
+      "rating": 5.935,
+      "releaseDate": "2016-03-16",
+      "duration": "81 min",
+      "trailerUrl": "https://www.youtube.com/embed/2RBZtbjmFKA?feature=oembed",
+      "showtimes": {
+        "Viernes 6 de febrero de 2026": [
+          "18:30",
+          "06:00"
+        ],
+        "Sábado 7 de febrero de 2026": [
+          "17:00"
+        ],
+        "Domingo 8 de febrero de 2026": [
+          "17:00"
+        ],
+        "Miércoles 11 de febrero de 2026": [
+          "17:00"
+        ]
+      }
+    },
     {
       "title": "Aída y vuelta",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3k4FKVgaxUZo1CITvj2nFDyNNKy.jpg",
@@ -13,27 +98,24 @@
       "duration": "110 min",
       "trailerUrl": "https://www.youtube.com/embed/O82ibLC4bmM?feature=oembed",
       "showtimes": {
-        "Viernes 30 de enero de 2026": [
-          "19:00",
-          "21:30"
-        ],
-        "Sábado 31 de enero de 2026": [
-          "19:00",
-          "21:00"
-        ],
-        "Domingo 1 de febrero de 2026": [
-          "18:30",
-          "20:30"
-        ],
-        "Lunes 2 de febrero de 2026": [
-          "20:30"
-        ],
-        "Martes 3 de febrero de 2026": [
-          "18:30"
-        ],
         "Miércoles 4 de febrero de 2026": [
           "18:30",
           "20:30"
+        ],
+        "Viernes 6 de febrero de 2026": [
+          "19:30"
+        ],
+        "Sábado 7 de febrero de 2026": [
+          "20:30"
+        ],
+        "Domingo 8 de febrero de 2026": [
+          "18:30"
+        ],
+        "Lunes 9 de febrero de 2026": [
+          "21:00"
+        ],
+        "Martes 10 de febrero de 2026": [
+          "18:30"
         ]
       }
     },
@@ -47,24 +129,21 @@
       "duration": "126 min",
       "trailerUrl": "https://www.youtube.com/embed/15-oOaLlAX0?feature=oembed",
       "showtimes": {
-        "Viernes 30 de enero de 2026": [
-          "19:30",
-          "22:00"
-        ],
-        "Sábado 31 de enero de 2026": [
-          "18:45"
-        ],
-        "Domingo 1 de febrero de 2026": [
-          "18:15",
-          "20:45"
-        ],
-        "Martes 3 de febrero de 2026": [
-          "20:30",
-          "21:15"
-        ],
         "Miércoles 4 de febrero de 2026": [
           "17:30",
           "21:45"
+        ],
+        "Viernes 6 de febrero de 2026": [
+          "21:00"
+        ],
+        "Sábado 7 de febrero de 2026": [
+          "19:45"
+        ],
+        "Domingo 8 de febrero de 2026": [
+          "17:00"
+        ],
+        "Miércoles 11 de febrero de 2026": [
+          "19:15"
         ]
       }
     },
@@ -72,74 +151,14 @@
       "title": "El Médico II",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eil0VrgWNePPnPcT6TUMDyWTF5D.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
-      "overview": "",
+      "overview": null,
       "rating": 6.6,
       "releaseDate": "2025-12-25",
       "duration": "142 min",
       "trailerUrl": "https://www.youtube.com/embed/ndoEo6oBRV0?feature=oembed",
       "showtimes": {
-        "Miércoles 28 de enero de 2026": [
-          "21:30"
-        ],
-        "Lunes 2 de febrero de 2026": [
-          "19:00"
-        ],
         "Miércoles 4 de febrero de 2026": [
           "19:30"
-        ]
-      }
-    },
-    {
-      "title": "PolloLiebre y el Secreto de la Marmota",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tTkWVM2kLyBvwvKrZqTrZufaQdI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/8E5UnnGpiYgOQUhCaHkP5FUOHwK.jpg",
-      "overview": "",
-      "rating": 7.5,
-      "releaseDate": "2025-09-19",
-      "duration": "88 min",
-      "trailerUrl": "https://www.youtube.com/embed/wiNQcaATJuc?feature=oembed",
-      "showtimes": {
-        "Sábado 31 de enero de 2026": [
-          "17:15"
-        ],
-        "Domingo 1 de febrero de 2026": [
-          "16:45"
-        ]
-      }
-    },
-    {
-      "title": "Rondallas",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/A7bLtYFI04Qb73Vl0qKrVJDDinO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/uGnlhs7kcSBInWuTfIezpkzYEQ9.jpg",
-      "overview": "Dos años después del trágico naufragio de un barco pesquero que sacudió a un pequeño pueblo marinero gallego, los habitantes del pueblo deciden que ya es hora de recuperar la ilusión y dejar el luto atrás. Por ello vuelven a unirse para poner en marcha la rondalla, una agrupación de música tradicional en la que participan desde niños hasta ancianos, con la intención de competir en un concurso contra los pueblos vecinos, pero sobre todo de empezar a mirar hacia delante de nuevo.",
-      "rating": 7.682,
-      "releaseDate": "2026-01-01",
-      "duration": "112 min",
-      "trailerUrl": "https://www.youtube.com/embed/0GU0DXYcjJk?feature=oembed",
-      "showtimes": {
-        "Miércoles 28 de enero de 2026": [
-          "21:45"
-        ]
-      }
-    },
-    {
-      "title": "Abuela Tremenda",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/egA23OX1s00GyfJiYXv5hZFHgJU.jpg",
-      "backdropUrl": null,
-      "overview": "Nos contará la historia de Toñi, una abuela excéntrica que sobrevive como puede entre negocios ruinosos y una actitud despreocupada ante la vida. Su hija Daniela, ejecutiva estresada y madre soltera, quiere mantenerla lejos. Pero la pequeña Alexia, hija de Daniela, ve en su abuela a su persona favorita en el mundo.",
-      "rating": 8.0,
-      "releaseDate": "2026-01-01",
-      "duration": null,
-      "trailerUrl": "https://www.youtube.com/embed/Hg7odkhWUtc?feature=oembed",
-      "showtimes": {
-        "Sábado 31 de enero de 2026": [
-          "17:00"
-        ],
-        "Domingo 1 de febrero de 2026": [
-          "17:00"
-        ],
-        "Miércoles 4 de febrero de 2026": [
-          "17:00"
         ]
       }
     },
@@ -153,11 +172,14 @@
       "duration": "131 min",
       "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
       "showtimes": {
-        "Sábado 31 de enero de 2026": [
-          "20:45"
+        "Sábado 7 de febrero de 2026": [
+          "17:30"
         ],
-        "Martes 3 de febrero de 2026": [
-          "19:00"
+        "Lunes 9 de febrero de 2026": [
+          "19:15"
+        ],
+        "Miércoles 11 de febrero de 2026": [
+          "17:00"
         ]
       }
     }
