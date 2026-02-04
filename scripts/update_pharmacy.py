@@ -1,7 +1,7 @@
-
 import os
 import requests
 import json
+import google.generativeai as genai
 from bs4 import BeautifulSoup
 from PIL import Image
 from io import BytesIO
@@ -69,8 +69,9 @@ def update_json_with_gemini(image, current_json):
         return None
         
     try:
-        from google import genai
-        client = genai.Client(api_key=GEMINI_API_KEY)
+        # Configuración Legacy (igual que update_cinema.py)
+        genai.configure(api_key=GEMINI_API_KEY)
+        model = genai.GenerativeModel('gemini-3-flash')
         
         prompt = f"""
         Eres un asistente encargado de actualizar los turnos de farmacias de guardia.
@@ -92,17 +93,12 @@ def update_json_with_gemini(image, current_json):
         7. Retorna SOLO el JSON actualizado completo. Sin markdown, sin explicaciones.
         """
         
-        # Usamos Gemini 3 Flash (nombre exacto que funciona en cinema_updater)
-        response = client.models.generate_content(
-            model='gemini-3-flash', 
-            contents=[prompt, image]
-        )
-        
+        response = model.generate_content([prompt, image])
         cleaned_response = response.text.replace('```json', '').replace('```', '').strip()
         return json.loads(cleaned_response)
     
     except Exception as e:
-        print(f"⚠️ Error en Gemini (Google GenAI SDK): {e}")
+        print(f"⚠️ Error en Gemini (Legacy SDK): {e}")
         return None
 
 def main():
