@@ -1,0 +1,305 @@
+#!/usr/bin/env python3
+"""
+Cinema Data Updater for Navalmorapp
+Scrapes cinema website, uses Gemini AI to clean titles, enriches with TMDB, and generates JSON
+"""
+
+import json
+import os
+import sys
+from datetime import datetime
+import asyncio
+from playwright.async_api import async_playwright
+import google.generativeai as genai
+import requests
+from bs4 import BeautifulSoup
+import re
+
+# Configuración
+CINEMA_URL = "https://tietarteve.com/cine-navalmoral/"
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+TMDB_API_KEY = os.getenv("TMDB_API_KEY")
+TMDB_READ_TOKEN = os.getenv("TMDB_READ_TOKEN")
+OUTPUT_FILE = "cinema_data.json"
+
+# Configurar Gemini
+genai.configure(api_key=GEMINI_API_KEY)
+model = genai.GenerativeModel('gemini-3-flash')
+
+async def scrape_cinema():
+    """Scrape cinema website using Playwright"""
+    print("🌐 Iniciando scraping del cine...")
+    
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        page = await browser.new_page()
+        
+        try:
+            await page.goto(CINEMA_URL, wait_until="networkidle", timeout=30000)
+            await asyncio.sleep(1.5)  # Esperar carga de JavaScript
+            
+            html = await page.content()
+            await browser.close()
+            
+            return html
+        except Exception as e:
+            print(f"❌ Error al scrapear: {e}")
+            await browser.close()
+            raise
+
+def parse_movies(html):
+    """Parse HTML and extract raw movie data"""
+    print("📜 Parseando HTML...")
+    soup = BeautifulSoup(html, 'html.parser')
+    
+    # Buscar contenedor principal
+    content_div = soup.select_one('.td-page-content') or soup.select_one('.entry-content') or soup.body
+    
+    if not content_div:
+        print("❌ No se encontró contenedor de contenido")
+        return []
+    
+    movies = []
+    current_movie = None
+    
+    for node in content_div.children:
+        if not hasattr(node, 'name'):
+            continue
+            
+        text = node.get_text(strip=True)
+        
+        # Detectar títulos (H2)
+        if node.name == 'h2' and text and not any(x in text.upper() for x in ['HORARIO', 'FICHA', 'ARGUMENTO', 'TRAILER', 'NAVALMORAL', '€', 'COMPRA']):
+            # Guardar película anterior
+            if current_movie and current_movie.get('poster') and current_movie.get('showtimes'):
+                movies.append(current_movie)
+            
+            # Nueva película
+            current_movie = {
+                'title': text,
+                'poster': None,
+                'showtimes': {},
+                'synopsis': None,
+                'duration': None,
+                'trailer': None
+            }
+            print(f"🎬 Encontrada: {text}")
+            continue
+        
+        if not current_movie:
+            continue
+        
+        # Detectar póster
+        if not current_movie['poster']:
+            img = node.select_one('img')
+            if img:
+                src = img.get('data-src') or img.get('src')
+                if src and 'base64' not in src and 'logo' not in src.lower():
+                    current_movie['poster'] = src
+        
+        # Detectar horarios
+        time_matches = re.findall(r'(\d{1,2}[:\.]\d{2})', text)
+        if time_matches:
+            day_match = re.search(r'(Lunes|Martes|Miércoles|Miercoles|Jueves|Viernes|Sábado|Sabado|Domingo|Diario|Del\s+\d+)', text, re.IGNORECASE)
+            day = day_match.group(0) if day_match else "Horarios"
+            
+            if day not in current_movie['showtimes']:
+                current_movie['showtimes'][day] = []
+            
+            for time in time_matches:
+                clean_time = time.replace('.', ':')
+                if clean_time not in current_movie['showtimes'][day]:
+                    current_movie['showtimes'][day].append(clean_time)
+        
+        # Detectar sinopsis
+        if not current_movie['synopsis'] and len(text) > 50 and not any(x in text for x in ['Título original:', 'Dirección:', 'Reparto:']):
+            if any(x in text.upper() for x in ['ARGUMENTO', 'SINOPSIS']):
+                current_movie['synopsis'] = re.sub(r'(ARGUMENTO|SINOPSIS)[\s:]*', '', text, flags=re.IGNORECASE).strip()
+        
+        # Detectar duración
+        dur_match = re.search(r'Duración:\s*(\d+)\s*min', text)
+        if dur_match:
+            current_movie['duration'] = f"{dur_match.group(1)} min"
+        
+        # Detectar trailer
+        if not current_movie['trailer']:
+            iframe = node.select_one('iframe')
+            if iframe:
+                src = iframe.get('src') or iframe.get('data-src')
+                if src and ('youtube' in src or 'youtu.be' in src):
+                    current_movie['trailer'] = src
+    
+    # Guardar última película
+    if current_movie and current_movie.get('poster') and current_movie.get('showtimes'):
+        movies.append(current_movie)
+    
+    print(f"✅ {len(movies)} películas encontradas")
+    return movies
+
+def clean_titles_with_ai(movies):
+    """Clean movie titles using Gemini AI - BATCH mode"""
+    if not movies:
+        return movies
+    
+    print("🤖 Limpiando títulos con Gemini AI...")
+    
+    # Preparar batch de títulos
+    titles_list = [m['title'] for m in movies]
+    titles_text = "\n".join([f"{i+1}. {t}" for i, t in enumerate(titles_list)])
+    
+    prompt = f"""Limpia estos títulos de películas. Elimina "Cine", "Navalmoral", "Horarios", fechas, horas, idiomas, y extra punctuación.
+Devuelve SOLO los títulos limpios, uno por línea, numerados igual:
+
+{titles_text}"""
+    
+    try:
+        response = model.generate_content(prompt)
+        cleaned_text = response.text.strip()
+        
+        # Parsear respuesta
+        cleaned_titles = []
+        for line in cleaned_text.split('\n'):
+            # Quitar numeración (1., 2., etc)
+            clean = re.sub(r'^\d+[\.\)]\s*', '', line).strip()
+            if clean:
+                cleaned_titles.append(clean)
+        
+        # Asignar títulos limpios
+        for i, movie in enumerate(movies):
+            if i < len(cleaned_titles):
+                movie['title_clean'] = cleaned_titles[i]
+                print(f"  ✓ {movie['title']} → {cleaned_titles[i]}")
+            else:
+                movie['title_clean'] = movie['title']  # fallback
+                
+    except Exception as e:
+        print(f"⚠️ Error en Gemini AI: {e}")
+        # Fallback: usar títulos originales
+        for movie in movies:
+            movie['title_clean'] = movie['title']
+    
+    return movies
+
+def enrich_with_tmdb(movies):
+    """Enrich movies with TMDB metadata"""
+    print("🎥 Enriqueciendo con TMDB...")
+    
+    headers = {
+        "Authorization": f"Bearer {TMDB_READ_TOKEN}",
+        "accept": "application/json"
+    }
+    
+    for movie in movies:
+        title = movie.get('title_clean', movie['title'])
+        
+        try:
+            # Buscar película
+            search_url = f"https://api.themoviedb.org/3/search/movie"
+            params = {"query": title, "language": "es-ES"}
+            response = requests.get(search_url, headers=headers, params=params, timeout=10)
+            
+            if response.status_code == 200:
+                data = response.json()
+                if data['results']:
+                    result = data['results'][0]
+                    movie_id = result['id']
+                    
+                    # Obtener detalles completos
+                    details_url = f"https://api.themoviedb.org/3/movie/{movie_id}"
+                    details_params = {"language": "es-ES", "append_to_response": "videos"}
+                    details_response = requests.get(details_url, headers=headers, params=details_params, timeout=10)
+                    
+                    if details_response.status_code == 200:
+                        details = details_response.json()
+                        
+                        # Añadir metadatos
+                        if details.get('poster_path'):
+                            movie['poster_tmdb'] = f"https://image.tmdb.org/t/p/w500{details['poster_path']}"
+                        if details.get('backdrop_path'):
+                            movie['backdrop'] = f"https://image.tmdb.org/t/p/w780{details['backdrop_path']}"
+                        
+                        movie['overview'] = details.get('overview')
+                        movie['rating'] = details.get('vote_average')
+                        movie['release_date'] = details.get('release_date')
+                        
+                        if not movie.get('duration') and details.get('runtime'):
+                            movie['duration'] = f"{details['runtime']} min"
+                        
+                        # Trailer de TMDB si no hay
+                        if not movie.get('trailer') and details.get('videos'):
+                            for video in details['videos'].get('results', []):
+                                if video['type'] == 'Trailer' and video['site'] == 'YouTube':
+                                    movie['trailer'] = f"https://www.youtube.com/watch?v={video['key']}"
+                                    break
+                        
+                        print(f"  ✓ {title} enriquecida")
+                    
+        except Exception as e:
+            print(f"  ⚠️ Error TMDB para {title}: {e}")
+    
+    return movies
+
+def generate_json(movies):
+    """Generate final JSON file"""
+    print("💾 Generando JSON...")
+    
+    now = datetime.utcnow()
+    expires = datetime.fromtimestamp(now.timestamp() + 24*3600)  # 24h
+    
+    output = {
+        "generated_at": now.isoformat() + "Z",
+        "expires_at": expires.isoformat() + "Z",
+        "version": "1.0",
+        "movies": []
+    }
+    
+    for movie in movies:
+        output['movies'].append({
+            "title": movie.get('title_clean', movie['title']),
+            "posterUrl": movie.get('poster_tmdb') or movie.get('poster'),
+            "backdropUrl": movie.get('backdrop'),
+            "overview": movie.get('overview'),
+            "rating": movie.get('rating'),
+            "releaseDate": movie.get('release_date'),
+            "duration": movie.get('duration'),
+            "trailerUrl": movie.get('trailer'),
+            "showtimes": movie.get('showtimes', {})
+        })
+    
+    # Guardar archivo
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+    
+    print(f"✅ JSON generado: {OUTPUT_FILE}")
+    print(f"📊 {len(movies)} películas procesadas")
+
+async def main():
+    """Main execution"""
+    try:
+        # 1. Scraping
+        html = await scrape_cinema()
+        
+        # 2. Parsing
+        movies = parse_movies(html)
+        
+        if not movies:
+            print("❌ No se encontraron películas")
+            sys.exit(1)
+        
+        # 3. AI Cleaning (BATCH - 1 petición)
+        movies = clean_titles_with_ai(movies)
+        
+        # 4. TMDB Enrichment
+        movies = enrich_with_tmdb(movies)
+        
+        # 5. Generate JSON
+        generate_json(movies)
+        
+        print("🎉 Proceso completado con éxito!")
+        
+    except Exception as e:
+        print(f"💥 Error fatal: {e}")
+        sys.exit(1)
+
+if __name__ == "__main__":
+    asyncio.run(main())

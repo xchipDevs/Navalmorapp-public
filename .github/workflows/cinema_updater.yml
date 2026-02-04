@@ -1,0 +1,42 @@
+name: Update Cinema Data
+
+on:
+  schedule:
+    # Cada 2 horas (12 veces al día)
+    - cron: '0 */2 * * *'
+  workflow_dispatch:  # Permitir ejecución manual
+
+jobs:
+  update-cinema:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+          playwright install chromium
+          playwright install-deps
+      
+      - name: Run cinema scraper
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_ACCESS_TOKEN }}
+        run: python scripts/update_cinema.py
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "Cinema Bot"
+          git config user.email "bot@navalmorapp.com"
+          git add cinema_data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🎬 Update cinema data [$(date +'%Y-%m-%d %H:%M')]" && git push)
