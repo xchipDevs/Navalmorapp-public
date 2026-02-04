@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T14:56:35.959735Z",
-  "expires_at": "2026-02-05T14:56:35.959735Z",
+  "generated_at": "2026-02-04T15:24:55.107036Z",
+  "expires_at": "2026-02-05T15:24:55.107036Z",
   "version": "1.0",
   "movies": [
     {
@@ -151,7 +151,7 @@
       "title": "El Médico II",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eil0VrgWNePPnPcT6TUMDyWTF5D.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
-      "overview": null,
+      "overview": "Ispahán, Irán. Año 1034. El médico Rob Cole y su familia se ven obligados a huir de la Madraza y poner rumbo a occidente junto a sus estudiantes de medicina. Al llegar a Londres, descubren que musulmanes y judíos tienen prohibida la entrada a la ciudad y que no pueden ejercer como médicos dentro de ella. Sin dejarse intimidar, Cole y sus pupilos establecen un hospital improvisado a las puertas de Londres. Cuando Cole es llamado por el Rey para que atienda a su hija enferma, sus excepcionales habilidades como curandero le aseguran un puesto en la corte. A medida que se vea envuelto en luchas de poder e intrigas política de la casa real, el médico deberá guiarse por su instinto para sobrevivir en una Inglaterra al borde del colapso.",
       "rating": 6.6,
       "releaseDate": "2025-12-25",
       "duration": "142 min",
