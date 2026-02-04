@@ -97,19 +97,70 @@ def parse_movies(html):
                 if src and 'base64' not in src and 'logo' not in src.lower():
                     current_movie['poster'] = src
         
-        # Detectar horarios
+        # ---------------------------------------------------------
+        # 1. State Machine: Date Context (Matches ScraperService.dart)
+        # ---------------------------------------------------------
+        # Regex para detectar días (Lunes, Martes... o Del X al Y)
+        day_regex = re.compile(r'(Lunes|Martes|Miércoles|Miercoles|Jueves|Viernes|Sábado|Sabado|Domingo|Diario|Laborables|Festivos|Del\s+\d+|Del\s+\w+)', re.IGNORECASE)
+        day_match = day_regex.search(text)
+        
+        # Si encontramos una fecha válida y el texto no es larguísimo (evitar sinopsis falsas)
+        if day_match and len(text) < 80:
+            candidate = text.strip()
+            
+            # Limpieza: Si es "Lunes 27: 17:00", nos quedamos con "Lunes 27"
+            if ':' in candidate:
+                parts = candidate.split(':')
+                # Si la parte derecha parece un dígito, cortamos
+                if len(parts) > 1 and re.match(r'\s*\d', parts[1]):
+                    candidate = parts[0].strip()
+            
+            # Quitar dos puntos finales
+            candidate = candidate.rstrip(':').strip()
+            
+            if len(candidate) < 50:
+                # Capitalizar
+                candidate = candidate[0].upper() + candidate[1:] if candidate else candidate
+                current_day = candidate
+                print(f"  📅 Contexto fecha: {current_day}")
+        
+        # ---------------------------------------------------------
+        # 2. Detectar horarios (Times)
+        # ---------------------------------------------------------
         time_matches = re.findall(r'(\d{1,2}[:\.]\d{2})', text)
         if time_matches:
-            day_match = re.search(r'(Lunes|Martes|Miércoles|Miercoles|Jueves|Viernes|Sábado|Sabado|Domingo|Diario|Del\s+\d+)', text, re.IGNORECASE)
-            day = day_match.group(0) if day_match else "Horarios"
+            # Usar el día del contexto actual, o 'Horarios' si no hay contexto
+            day_key = current_day if current_day else "Horarios"
             
-            if day not in current_movie['showtimes']:
-                current_movie['showtimes'][day] = []
+            if day_key not in current_movie['showtimes']:
+                current_movie['showtimes'][day_key] = []
             
+            # Collect all found times first
             for time in time_matches:
                 clean_time = time.replace('.', ':')
-                if clean_time not in current_movie['showtimes'][day]:
-                    current_movie['showtimes'][day].append(clean_time)
+                if clean_time not in current_movie['showtimes'][day_key]:
+                    current_movie['showtimes'][day_key].append(clean_time)
+            
+            # Lógica de Deduplicación (Portado de ScraperService.dart)
+            times = current_movie['showtimes'][day_key]
+            to_remove = set()
+            
+            for t in times:
+                try:
+                    parts = t.split(':')
+                    h = int(parts[0])
+                    m = parts[1]
+                    
+                    if 13 <= h <= 23:
+                        h12 = h - 12
+                        # Marcar equivalentes 12h para eliminar
+                        to_remove.add(f"{h12}:{m}")
+                        to_remove.add(f"{h12:02d}:{m}")
+                except:
+                    continue
+            
+            # Filtrar lista final
+            current_movie['showtimes'][day_key] = [t for t in times if t not in to_remove]
         
         # Detectar sinopsis
         if not current_movie['synopsis'] and len(text) > 50 and not any(x in text for x in ['Título original:', 'Dirección:', 'Reparto:']):
