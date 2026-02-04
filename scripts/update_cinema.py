@@ -194,6 +194,12 @@ def parse_movies(html):
                     # Si contiene el texto entero: "ARGUMENTO: Bla bla bla"
                     current_movie['synopsis'] = re.sub(r'(ARGUMENTO|SINOPSIS)[\s:]*', '', text, flags=re.IGNORECASE).strip()
                     print(f"  📖 Sinopsis capturada (Same Node): {current_movie['synopsis'][:30]}...")
+
+            # Caso 3: Heurística (Párrafo largo huérfano después de Ficha/Título)
+            # Si a estas alturas no tenemos sinopsis y el texto es largo y NO es metadata
+            elif len(text) > 60 and not any(x in text for x in ['Título original:', 'Dirección:', 'Reparto:', 'FICHA', 'HORARIO', 'Sábado', 'Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes']):
+                 current_movie['synopsis'] = text.strip()
+                 print(f"  📖 Sinopsis capturada (Heurística): {text[:30]}...")
         
         # Detectar duración
         dur_match = re.search(r'Duración:\s*(\d+)\s*min', text)
