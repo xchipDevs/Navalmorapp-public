@@ -6,6 +6,9 @@ on:
     - cron: '0 */2 * * *'
   workflow_dispatch:  # Permitir ejecución manual
 
+permissions:
+  contents: write
+
 jobs:
   update-cinema:
     runs-on: ubuntu-latest
