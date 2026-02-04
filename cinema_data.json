@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T15:24:55.107036Z",
-  "expires_at": "2026-02-05T15:24:55.107036Z",
+  "generated_at": "2026-02-04T15:42:49.168874Z",
+  "expires_at": "2026-02-05T15:42:49.168874Z",
   "version": "1.0",
   "movies": [
     {
@@ -65,12 +65,12 @@
     },
     {
       "title": "Evolution",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rDqBkd4pXiQEjgC5CdJBDBXdAyJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/qnqXk1yjSxamhBel8tOgynMbnkv.jpg",
-      "overview": "Cuenta la historia de Nicolas, un chico que vive en una isla remota habitada solamente por mujeres y niños, en donde estos últimos son objeto de misteriosos y siniestros tratamientos médicos.",
-      "rating": 5.935,
-      "releaseDate": "2016-03-16",
-      "duration": "81 min",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/maEfP1omZ1Rn2NErpwpp4eDjMOD.jpg",
+      "backdropUrl": null,
+      "overview": "Cuando una sustancia extraterrestre mezcla el ADN de Zoe con el de sus exóticas mascotas, empieza una divertidísima aventura donde los humanos se animalizan, los animales se humanizan y todos tienen que ponerse de acuerdo para salvar el mundo.",
+      "rating": 0.0,
+      "releaseDate": "2026-02-06",
+      "duration": null,
       "trailerUrl": "https://www.youtube.com/embed/2RBZtbjmFKA?feature=oembed",
       "showtimes": {
         "Viernes 6 de febrero de 2026": [
