@@ -3,7 +3,7 @@ name: Update Cinema Data
 on:
   schedule:
     # Cada 2 horas (12 veces al día)
-    - cron: '0 */2 * * *'
+    - cron: '0 */8 * * *'
   workflow_dispatch:  # Permitir ejecución manual
 
 permissions:

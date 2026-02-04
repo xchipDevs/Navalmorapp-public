@@ -4,7 +4,7 @@ name: Update Pharmacy Data
 on:
   schedule:
     # Ejecutar el día 1 de cada mes a las 08:00 UTC
-    - cron: '0 8 1 * *'
+    - cron: '0 0 1 * *'
   workflow_dispatch:  # Permitir ejecución manual
 
 permissions:
