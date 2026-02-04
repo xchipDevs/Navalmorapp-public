@@ -8,8 +8,10 @@ from PIL import Image
 from io import BytesIO
 
 # Configuración
+# Calculamos las rutas absolutas basándonos en la ubicación de este script
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # Sube un nivel desde scripts/ para llegar al root
 URL_FARMACIAS = "https://puntodeencuentronavalmoral.es/farmacias-de-guardia-en-navalmoral-de-la-mata/"
-JSON_PATH = "assets/pharmacy/pharmacies.json"
+JSON_PATH = os.path.join(BASE_DIR, "pharmacies.json") # Archivo en el root
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 def scrape_image_url():
@@ -67,36 +69,41 @@ def update_json_with_gemini(image, current_json):
         print("❌ Error: GEMINI_API_KEY no configurada.")
         return None
         
-    genai.configure(api_key=GEMINI_API_KEY)
-    # Usamos Gemini 3.0 Flash según solicitud del usuario (Modelo de última generación)
-    model = genai.GenerativeModel('gemini-3.0-flash')
-    
-    prompt = f"""
-    Eres un asistente encargado de actualizar los turnos de farmacias de guardia.
-    
-    Tengo este archivo JSON con la lista de farmacias y sus horarios antiguos:
-    ```json
-    {json.dumps(current_json, indent=2, ensure_ascii=False)}
-    ```
-    
-    TU TAREA:
-    1. Analiza la imagen proporcionada, que contiene el nuevo calendario de farmacias de guardia.
-    2. Extrae las nuevas fechas de guardia para cada farmacia.
-    3. Extrae las "notas" si aparecen específicas para alguna farmacia (ej: cambios de horario, turnos compartidos).
-    4. MANTÉN los campos estáticos intactos (id, name, address, phone).
-    5. ACTUALIZA solo:
-       - `schedule`: Lista de objetos {{"startDate": "YYYY-MM-DD", "endDate": "YYYY-MM-DD"}}.
-       - `notes`: String con observaciones si las hay en la imagen para esa farmacia. Si no hay, omite el campo.
-    6. IMPORTANTE: El año de la imagen puede ser {2026}. Asegúrate de usar el año correcto.
-    7. Retorna SOLO el JSON actualizado completo. Sin markdown, sin explicaciones.
-    """
-    
     try:
-        response = model.generate_content([prompt, image])
+        from google import genai
+        client = genai.Client(api_key=GEMINI_API_KEY)
+        
+        prompt = f"""
+        Eres un asistente encargado de actualizar los turnos de farmacias de guardia.
+        
+        Tengo este archivo JSON con la lista de farmacias y sus horarios antiguos:
+        ```json
+        {json.dumps(current_json, indent=2, ensure_ascii=False)}
+        ```
+        
+        TU TAREA:
+        1. Analiza la imagen proporcionada, que contiene el nuevo calendario de farmacias de guardia.
+        2. Extrae las nuevas fechas de guardia para cada farmacia.
+        3. Extrae las "notas" si aparecen específicas para alguna farmacia (ej: cambios de horario, turnos compartidos).
+        4. MANTÉN los campos estáticos intactos (id, name, address, phone).
+        5. ACTUALIZA solo:
+           - `schedule`: Lista de objetos {{"startDate": "YYYY-MM-DD", "endDate": "YYYY-MM-DD"}}.
+           - `notes`: String con observaciones si las hay en la imagen para esa farmacia. Si no hay, omite el campo.
+        6. IMPORTANTE: El año de la imagen puede ser {2026}. Asegúrate de usar el año correcto.
+        7. Retorna SOLO el JSON actualizado completo. Sin markdown, sin explicaciones.
+        """
+        
+        # Usamos Gemini 3.0 Flash explícitamente como solicitado
+        response = client.models.generate_content(
+            model='gemini-3.0-flash', 
+            contents=[prompt, image]
+        )
+        
         cleaned_response = response.text.replace('```json', '').replace('```', '').strip()
         return json.loads(cleaned_response)
+    
     except Exception as e:
-        print(f"⚠️ Error en Gemini: {e}")
+        print(f"⚠️ Error en Gemini (Google GenAI SDK): {e}")
         return None
 
 def main():
@@ -112,6 +119,7 @@ def main():
     # 2. Leer JSON actual
     if not os.path.exists(JSON_PATH):
         print(f"❌ No se encuentra el archivo {JSON_PATH}")
+        print(f"📂 Directorio actual (cwd): {os.getcwd()}")
         return
 
     with open(JSON_PATH, 'r', encoding='utf-8') as f:
