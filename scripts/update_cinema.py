@@ -66,7 +66,10 @@ def parse_movies(html):
         if not node.name:
             continue
             
-        text = node.get_text(strip=True)
+        # Usar separador de espacio para evitar "defebrero" al concatenar spans
+        text = node.get_text(' ', strip=True)
+        # Normalizar espacios múltiples
+        text = re.sub(r'\s+', ' ', text)
         
         # Detectar títulos (H2)
         if node.name == 'h2' and text and not any(x in text.upper() for x in ['HORARIO', 'FICHA', 'ARGUMENTO', 'TRAILER', 'NAVALMORAL', '€', 'COMPRA']):
