@@ -1,16 +1,14 @@
 import os
 import requests
 import json
-import google.generativeai as genai
 from bs4 import BeautifulSoup
 from PIL import Image
 from io import BytesIO
 
 # Configuración
-# Calculamos las rutas absolutas basándonos en la ubicación de este script
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # Sube un nivel desde scripts/ para llegar al root
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) 
 URL_FARMACIAS = "https://puntodeencuentronavalmoral.es/farmacias-de-guardia-en-navalmoral-de-la-mata/"
-JSON_PATH = os.path.join(BASE_DIR, "pharmacies.json") # Archivo en el root
+JSON_PATH = os.path.join(BASE_DIR, "pharmacies.json")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 def scrape_image_url():
@@ -34,7 +32,7 @@ def scrape_image_url():
                 print(f"✅ Imagen encontrada: {src}")
                 return src
         
-        # Estrategia 2: Buscar en la estructura específica (si la web no cambia)
+        # Estrategia 2: Buscar en la estructura específica
         content_div = soup.find('div', class_='entry-content')
         if content_div:
             img = content_div.find('img')
@@ -62,16 +60,15 @@ def download_image(url):
 
 def update_json_with_gemini(image, current_json):
     """Usa Gemini para actualizar el JSON basándose en la imagen."""
-    print("🤖 Procesando imagen con Gemini...")
+    print("🤖 Procesando imagen con Gemini (Nuevo SDK)...")
     
     if not GEMINI_API_KEY:
         print("❌ Error: GEMINI_API_KEY no configurada.")
         return None
         
     try:
-        # Configuración Legacy (igual que update_cinema.py)
-        genai.configure(api_key=GEMINI_API_KEY)
-        model = genai.GenerativeModel('gemini-3-flash')
+        from google import genai
+        client = genai.Client(api_key=GEMINI_API_KEY)
         
         prompt = f"""
         Eres un asistente encargado de actualizar los turnos de farmacias de guardia.
@@ -93,12 +90,32 @@ def update_json_with_gemini(image, current_json):
         7. Retorna SOLO el JSON actualizado completo. Sin markdown, sin explicaciones.
         """
         
-        response = model.generate_content([prompt, image])
+        # Prioridad: Gemini 3 Flash Preview (seguro que es este nombre)
+        # Fallback: 2.0 Flash -> 1.5 Flash
+        models_to_try = ['gemini-3-flash-preview', 'gemini-2.0-flash', 'gemini-1.5-flash']
+        
+        response = None
+        for model_name in models_to_try:
+            try:
+                print(f"🔄 Intentando con modelo: {model_name}...")
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=[prompt, image]
+                )
+                print(f"✅ ¡Éxito con {model_name}!")
+                break
+            except Exception as e:
+                print(f"⚠️ {model_name} falló o no existe: {e}")
+        
+        if not response:
+            print("❌ Todos los modelos fallaron.")
+            return None
+            
         cleaned_response = response.text.replace('```json', '').replace('```', '').strip()
         return json.loads(cleaned_response)
     
     except Exception as e:
-        print(f"⚠️ Error en Gemini (Legacy SDK): {e}")
+        print(f"⚠️ Error fatal en Gemini: {e}")
         return None
 
 def main():
