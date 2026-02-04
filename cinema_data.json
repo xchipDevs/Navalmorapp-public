@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T14:21:24.148337Z",
-  "expires_at": "2026-02-05T14:21:24.148337Z",
+  "generated_at": "2026-02-04T14:27:10.304945Z",
+  "expires_at": "2026-02-05T14:27:10.304945Z",
   "version": "1.0",
   "movies": [
     {
@@ -31,7 +31,7 @@
         "Martes 3 de febrero de 2026": [
           "18:30"
         ],
-        "Miércoles 4 defebrerode 2026": [
+        "Miércoles 4 de febrero de 2026": [
           "18:30",
           "20:30"
         ]
@@ -62,7 +62,7 @@
           "20:30",
           "21:15"
         ],
-        "Miércoles 4 defebrerode 2026": [
+        "Miércoles 4 de febrero de 2026": [
           "17:30",
           "21:45"
         ]
