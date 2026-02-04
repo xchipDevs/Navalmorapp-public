@@ -1,0 +1,151 @@
+{
+  "generated_at": "2026-02-04T14:10:57.173424Z",
+  "expires_at": "2026-02-05T14:10:57.173424Z",
+  "version": "1.0",
+  "movies": [
+    {
+      "title": "Aída y vuelta",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3k4FKVgaxUZo1CITvj2nFDyNNKy.jpg",
+      "backdropUrl": null,
+      "overview": "Una película de metaficción centrada en el rodaje de un capítulo de la mítica serie de televisión \"Aída\".",
+      "rating": 6.0,
+      "releaseDate": "2026-01-30",
+      "duration": "110 min",
+      "trailerUrl": "https://www.youtube.com/embed/O82ibLC4bmM?feature=oembed",
+      "showtimes": {
+        "Horarios": [
+          "19:00",
+          "07:00",
+          "21:30",
+          "09:30",
+          "21:00",
+          "09:00",
+          "18:30",
+          "06:30",
+          "20:30",
+          "08:30"
+        ]
+      }
+    },
+    {
+      "title": "Ídolos",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ugwbVoO67N6nZn5A8LTPsn0pkuN.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/gL6nihQ0c62CgjuKnY5z3tEdIQG.jpg",
+      "overview": "Edu es un joven piloto de motos muy agresivo en quien ningún equipo confía. Eli, jefe del equipo de Aspar Team en Moto2, le ofrece una oportunidad con la condición de que sea su padre, Antonio Belardi, quien le entrene. Edu lleva muchos años sin ver a su padre, un expiloto que se retiró de las pistas tras provocar la muerte de otro piloto durante una carrera. Aunque Edu odia a su padre por haberle abandonado, sabe que solo con él puede llegar a alcanzar su sueño. Edu se someterá al estricto control de preparación que le exige Antonio, el cual incluye dejar a un lado el amor… hasta que conoce a Luna, una joven artista que acaba de abrir un salón de tatuajes justo debajo de su casa.",
+      "rating": 7.0,
+      "releaseDate": "2026-01-23",
+      "duration": "126 min",
+      "trailerUrl": "https://www.youtube.com/embed/15-oOaLlAX0?feature=oembed",
+      "showtimes": {
+        "Horarios": [
+          "19:30",
+          "07:30",
+          "22:00",
+          "10:00",
+          "18:45",
+          "06:45",
+          "18:15",
+          "06:15",
+          "20:45",
+          "08:45",
+          "20:30",
+          "08:30",
+          "21:15",
+          "09:15",
+          "17:30",
+          "05:30",
+          "21:45",
+          "09:45"
+        ]
+      }
+    },
+    {
+      "title": "El Médico II",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eil0VrgWNePPnPcT6TUMDyWTF5D.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
+      "overview": "",
+      "rating": 6.6,
+      "releaseDate": "2025-12-25",
+      "duration": "142 min",
+      "trailerUrl": "https://www.youtube.com/embed/ndoEo6oBRV0?feature=oembed",
+      "showtimes": {
+        "Horarios": [
+          "21:30",
+          "09:30",
+          "19:00",
+          "07:00",
+          "19:30",
+          "07:30"
+        ]
+      }
+    },
+    {
+      "title": "PolloLiebre y el Secreto de la Marmota",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tTkWVM2kLyBvwvKrZqTrZufaQdI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/8E5UnnGpiYgOQUhCaHkP5FUOHwK.jpg",
+      "overview": "",
+      "rating": 7.5,
+      "releaseDate": "2025-09-19",
+      "duration": "88 min",
+      "trailerUrl": "https://www.youtube.com/embed/wiNQcaATJuc?feature=oembed",
+      "showtimes": {
+        "Horarios": [
+          "17:15",
+          "05:15",
+          "16:45",
+          "04:45"
+        ]
+      }
+    },
+    {
+      "title": "Rondallas",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/A7bLtYFI04Qb73Vl0qKrVJDDinO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/uGnlhs7kcSBInWuTfIezpkzYEQ9.jpg",
+      "overview": "Dos años después del trágico naufragio de un barco pesquero que sacudió a un pequeño pueblo marinero gallego, los habitantes del pueblo deciden que ya es hora de recuperar la ilusión y dejar el luto atrás. Por ello vuelven a unirse para poner en marcha la rondalla, una agrupación de música tradicional en la que participan desde niños hasta ancianos, con la intención de competir en un concurso contra los pueblos vecinos, pero sobre todo de empezar a mirar hacia delante de nuevo.",
+      "rating": 7.682,
+      "releaseDate": "2026-01-01",
+      "duration": "112 min",
+      "trailerUrl": "https://www.youtube.com/embed/0GU0DXYcjJk?feature=oembed",
+      "showtimes": {
+        "Horarios": [
+          "21:45",
+          "09:45"
+        ]
+      }
+    },
+    {
+      "title": "Abuela Tremenda",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/egA23OX1s00GyfJiYXv5hZFHgJU.jpg",
+      "backdropUrl": null,
+      "overview": "Nos contará la historia de Toñi, una abuela excéntrica que sobrevive como puede entre negocios ruinosos y una actitud despreocupada ante la vida. Su hija Daniela, ejecutiva estresada y madre soltera, quiere mantenerla lejos. Pero la pequeña Alexia, hija de Daniela, ve en su abuela a su persona favorita en el mundo.",
+      "rating": 8.0,
+      "releaseDate": "2026-01-01",
+      "duration": null,
+      "trailerUrl": "https://www.youtube.com/embed/Hg7odkhWUtc?feature=oembed",
+      "showtimes": {
+        "Horarios": [
+          "17:00",
+          "05:00"
+        ]
+      }
+    },
+    {
+      "title": "La Asistenta",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/A6S15iqfHpoit02leDfDVnpklys.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/tNONILTe9OJz574KZWaLze4v6RC.jpg",
+      "overview": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
+      "rating": 7.075,
+      "releaseDate": "2025-12-18",
+      "duration": "131 min",
+      "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
+      "showtimes": {
+        "Horarios": [
+          "20:45",
+          "08:45",
+          "19:00",
+          "07:00"
+        ]
+      }
+    }
+  ]
+}
