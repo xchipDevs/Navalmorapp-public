@@ -92,9 +92,9 @@ def update_json_with_gemini(image, current_json):
         7. Retorna SOLO el JSON actualizado completo. Sin markdown, sin explicaciones.
         """
         
-        # Usamos Gemini 3.0 Flash explícitamente como solicitado
+        # Usamos Gemini 3 Flash (nombre exacto que funciona en cinema_updater)
         response = client.models.generate_content(
-            model='gemini-3.0-flash', 
+            model='gemini-3-flash', 
             contents=[prompt, image]
         )
         
