@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T05:10:30.937021Z",
-  "expires_at": "2026-02-06T05:10:30.937021Z",
+  "generated_at": "2026-02-05T10:10:28.717892Z",
+  "expires_at": "2026-02-06T10:10:28.717892Z",
   "version": "1.0",
   "movies": [
     {
@@ -39,7 +39,7 @@
     {
       "title": "Marty Supreme",
       "posterUrl": "https://image.tmdb.org/t/p/w500/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/jBOhqsbzEL7Ks3NWy98iI7YDzBh.jpg",
       "overview": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
       "rating": 7.8,
       "releaseDate": "2025-12-19",
@@ -167,7 +167,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/A6S15iqfHpoit02leDfDVnpklys.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/tNONILTe9OJz574KZWaLze4v6RC.jpg",
       "overview": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
-      "rating": 7.089,
+      "rating": 7.088,
       "releaseDate": "2025-12-18",
       "duration": "131 min",
       "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
