@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T10:07:51.686917Z",
-  "expires_at": "2026-02-07T10:07:51.686917Z",
+  "generated_at": "2026-02-06T18:05:26.752760Z",
+  "expires_at": "2026-02-07T18:05:26.752760Z",
   "version": "1.0",
   "movies": [
     {
@@ -41,7 +41,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
       "overview": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
-      "rating": 7.809,
+      "rating": 7.814,
       "releaseDate": "2025-12-19",
       "duration": "149 min",
       "trailerUrl": "https://www.youtube.com/embed/rXqXn3G-40U?feature=oembed",
@@ -167,7 +167,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/A6S15iqfHpoit02leDfDVnpklys.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/tNONILTe9OJz574KZWaLze4v6RC.jpg",
       "overview": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
-      "rating": 7.113,
+      "rating": 7.121,
       "releaseDate": "2025-12-18",
       "duration": "131 min",
       "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
