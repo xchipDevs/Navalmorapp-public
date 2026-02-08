@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T05:19:53.850958Z",
-  "expires_at": "2026-02-09T05:19:53.850958Z",
+  "generated_at": "2026-02-08T09:02:41.382194Z",
+  "expires_at": "2026-02-09T09:02:41.382194Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hVo0g5M8z1kuhzxQ51eCbF81wUh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
       "overview": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.",
-      "rating": 7.715,
+      "rating": 7.769,
       "releaseDate": "2025-11-26",
       "duration": "125 min",
       "trailerUrl": "https://www.youtube.com/embed/Ith7z6FzLe0?feature=oembed",
