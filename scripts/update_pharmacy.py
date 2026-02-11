@@ -86,8 +86,15 @@ def update_json_with_gemini(image, current_json):
         5. ACTUALIZA solo:
            - `schedule`: Lista de objetos {{"startDate": "YYYY-MM-DD", "endDate": "YYYY-MM-DD"}}.
            - `notes`: String con observaciones si las hay en la imagen para esa farmacia. Si no hay, omite el campo.
-        6. IMPORTANTE: El año de la imagen puede ser {2026}. Asegúrate de usar el año correcto.
-        7. Retorna SOLO el JSON actualizado completo. Sin markdown, sin explicaciones.
+        6. IMPORTANTE - REGLA DE FECHAS:
+           - El cambio de turno se produce los MIÉRCOLES al iniciar la jornada laboral.
+           - `startDate` es INCLUSIVO: el primer día de guardia (siempre un miércoles).
+           - `endDate` es EXCLUSIVO: es el miércoles en que EMPIEZA el turno de la siguiente farmacia.
+           - Por ejemplo, si la imagen dice "4 al 11 de febrero", genera: startDate="2026-02-04", endDate="2026-02-11".
+             Esto significa que la farmacia está de guardia los días 4, 5, 6, 7, 8, 9 y 10. El día 11 ya NO es su turno.
+           - El endDate de una farmacia DEBE coincidir exactamente con el startDate de la siguiente farmacia.
+        7. IMPORTANTE: El año de la imagen puede ser {2026}. Asegúrate de usar el año correcto.
+        8. Retorna SOLO el JSON actualizado completo. Sin markdown, sin explicaciones.
         """
         
         # Prioridad: Gemini 3 Flash Preview (seguro que es este nombre)
