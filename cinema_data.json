@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T14:58:50.241798Z",
-  "expires_at": "2026-02-15T14:58:50.241798Z",
+  "generated_at": "2026-02-14T17:02:08.720533Z",
+  "expires_at": "2026-02-15T17:02:08.720533Z",
   "version": "1.0",
   "movies": [
     {
@@ -41,7 +41,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
       "overview": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
-      "rating": 7.6,
+      "rating": 7.616,
       "releaseDate": "2025-12-19",
       "duration": "149 min",
       "trailerUrl": "https://www.youtube.com/embed/rXqXn3G-40U?feature=oembed",
