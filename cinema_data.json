@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T14:38:14.715070Z",
-  "expires_at": "2026-02-19T14:38:14.715070Z",
+  "generated_at": "2026-02-18T18:09:25.957686Z",
+  "expires_at": "2026-02-19T18:09:25.957686Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hVo0g5M8z1kuhzxQ51eCbF81wUh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
       "overview": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.\r La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
-      "rating": 7.736,
+      "rating": 7.715,
       "releaseDate": "2025-11-26",
       "duration": "125 min",
       "trailerUrl": "https://www.youtube.com/embed/Ith7z6FzLe0?feature=oembed",
