@@ -26,6 +26,18 @@
             ]
         },
         {
+            "id": "ana_abad_pallero",
+            "name": "Ana Abad Pallero",
+            "address": "C/ Duque de Peñaranda, 2",
+            "phone": "927 53 02 78",
+            "schedule": [
+                {
+                    "startDate": "2026-02-18",
+                    "endDate": "2026-02-25"
+                }
+            ]
+        },
+        {
             "id": "mateo_hinojal",
             "name": "Mateo Hinojal",
             "address": "C/ Urbano Glez. Serrano, 10",
@@ -35,18 +47,6 @@
                 {
                     "startDate": "2026-02-25",
                     "endDate": "2026-03-04"
-                }
-            ]
-        },
-        {
-            "id": "ana_abad_pallero",
-            "name": "Ana Abad Pallero",
-            "address": "C/ Duque de Peñaranda, 2",
-            "phone": "927 53 02 78",
-            "schedule": [
-                {
-                    "startDate": "2026-02-18",
-                    "endDate": "2026-02-25"
                 }
             ]
         },
