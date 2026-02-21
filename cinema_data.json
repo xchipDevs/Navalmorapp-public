@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T04:54:37.157878Z",
-  "expires_at": "2026-02-22T04:54:37.157878Z",
+  "generated_at": "2026-02-21T07:45:43.854636Z",
+  "expires_at": "2026-02-22T07:45:43.854636Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "overview": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-      "rating": 6.645,
+      "rating": 6.633,
       "releaseDate": "2026-02-11",
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/embed/BXTKKqLHAbM?feature=oembed",
@@ -98,7 +98,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
       "overview": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
-      "rating": 7.588,
+      "rating": 7.6,
       "releaseDate": "2025-12-19",
       "duration": "149 min",
       "trailerUrl": "https://www.youtube.com/embed/rXqXn3G-40U?feature=oembed",
