@@ -1,37 +1,101 @@
 {
-  "generated_at": "2026-02-25T19:37:43.789494Z",
-  "expires_at": "2026-02-26T19:37:43.789494Z",
+  "generated_at": "2026-02-25T22:03:51.920021Z",
+  "expires_at": "2026-02-26T22:03:51.920021Z",
   "version": "1.0",
   "movies": [
+    {
+      "title": "Scream 7",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/yWCZc2TcsCYbMMjvUIsczmQi2TX.jpg",
+      "overview": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
+      "rating": 5.906,
+      "releaseDate": "2026-02-25",
+      "duration": "114 min",
+      "trailerUrl": "https://www.youtube.com/embed/bK-Sam8baFU?feature=oembed",
+      "showtimes": {
+        "Viernes 27 de febrero de 2026": [
+          "19:30",
+          "21:45"
+        ],
+        "Sábado 28 de febrero de 2026": [
+          "18:30",
+          "20:30",
+          "22:30"
+        ],
+        "Domingo 1 de marzo de 2026": [
+          "19:30",
+          "21:30"
+        ],
+        "Lunes 2 de marzo de 2026": [
+          "19:30"
+        ],
+        "Martes 3 de marzo de 2026": [
+          "19:30",
+          "21:30"
+        ],
+        "Miércoles 4 de marzo de 2026": [
+          "19:45",
+          "21:45"
+        ]
+      }
+    },
+    {
+      "title": "Greenland 2",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3yrX2kZ1zXZ1JJeexMobX77VVim.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
+      "overview": "La familia Garrity superviviente debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
+      "rating": 6.508,
+      "releaseDate": "2026-01-07",
+      "duration": "98 min",
+      "trailerUrl": "https://www.youtube.com/embed/ObUUuWCM-aQ?feature=oembed",
+      "showtimes": {
+        "Viernes 27 de febrero de 2026": [
+          "21:30"
+        ],
+        "Sábado 28 de febrero de 2026": [
+          "19:30"
+        ],
+        "Domingo 1 de marzo de 2026": [
+          "21:30"
+        ],
+        "Lunes 2 de marzo de 2026": [
+          "19:00"
+        ],
+        "Martes 3 de marzo de 2026": [
+          "21:30"
+        ],
+        "Miércoles 4 de marzo de 2026": [
+          "19:30"
+        ]
+      }
+    },
     {
       "title": "Cumbres Borrascosas",
       "posterUrl": "https://image.tmdb.org/t/p/w500/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "overview": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-      "rating": 6.5,
+      "rating": 6.544,
       "releaseDate": "2026-02-11",
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/embed/BXTKKqLHAbM?feature=oembed",
       "showtimes": {
-        "Viernes 20 de febrero de 2026": [
-          "19:30"
-        ],
-        "Sábado 21 de febrero de 2026": [
-          "17:00",
-          "21:45"
-        ],
-        "Domingo 22 de febrero de 2026": [
+        "Viernes 27 de febrero de 2026": [
           "19:00"
         ],
-        "Lunes 23 de febrero de 2026": [
-          "18:30",
-          "21:15"
+        "Sábado 28 de febrero de 2026": [
+          "21:30"
         ],
-        "Martes 24 de febrero de 2026": [
-          "18:00"
+        "Domingo 1 de marzo de 2026": [
+          "17:00"
         ],
-        "Miércoles 25 de febrero de 2026": [
+        "Lunes 2 de marzo de 2026": [
+          "21:00"
+        ],
+        "Martes 3 de marzo de 2026": [
           "19:00"
+        ],
+        "Miércoles 4 de marzo de 2026": [
+          "17:00"
         ]
       }
     },
@@ -40,25 +104,19 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2yblKPC6ZKEU6iv9sEZ0jktjiTU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
       "overview": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
-      "rating": 7.418,
+      "rating": 7.5,
       "releaseDate": "2026-02-11",
       "duration": "100 min",
       "trailerUrl": "https://www.youtube.com/embed/BjJCiFm7oIQ?feature=oembed",
       "showtimes": {
-        "Viernes 20 de febrero de 2026": [
+        "Sábado 28 de febrero de 2026": [
+          "17:00"
+        ],
+        "Domingo 1 de marzo de 2026": [
           "17:30"
         ],
-        "Sábado 21 de febrero de 2026": [
+        "Miércoles 4 de marzo de 2026": [
           "17:30"
-        ],
-        "Domingo 22 de febrero de 2026": [
-          "17:00"
-        ],
-        "Lunes 23 de febrero de 2026": [
-          "17:00"
-        ],
-        "Miércoles 25 de febrero de 2026": [
-          "17:00"
         ]
       }
     },
@@ -72,69 +130,23 @@
       "duration": "125 min",
       "trailerUrl": "https://www.youtube.com/embed/Ith7z6FzLe0?feature=oembed",
       "showtimes": {
-        "Viernes 20 de febrero de 2026": [
-          "17:00",
-          "21:45"
-        ],
-        "Sábado 21 de febrero de 2026": [
-          "19:30"
-        ],
-        "Domingo 22 de febrero de 2026": [
-          "21:15"
-        ],
-        "Lunes 23 de febrero de 2026": [
-          "19:00"
-        ],
-        "Martes 24 de febrero de 2026": [
-          "21:00"
-        ],
         "Miércoles 25 de febrero de 2026": [
           "21:15"
-        ]
-      }
-    },
-    {
-      "title": "Marty Supreme",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
-      "overview": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
-      "rating": 7.549,
-      "releaseDate": "2025-12-19",
-      "duration": "149 min",
-      "trailerUrl": "https://www.youtube.com/embed/rXqXn3G-40U?feature=oembed",
-      "showtimes": {
-        "Viernes 20 de febrero de 2026": [
+        ],
+        "Sábado 28 de febrero de 2026": [
+          "17:30"
+        ],
+        "Domingo 1 de marzo de 2026": [
+          "19:30"
+        ],
+        "Lunes 2 de marzo de 2026": [
           "21:30"
         ],
-        "Sábado 21 de febrero de 2026": [
-          "21:15"
-        ],
-        "Domingo 22 de febrero de 2026": [
+        "Martes 3 de marzo de 2026": [
           "17:00"
         ],
-        "Lunes 23 de febrero de 2026": [
-          "21:00"
-        ],
-        "Miércoles 25 de febrero de 2026": [
-          "19:00"
-        ]
-      }
-    },
-    {
-      "title": "Aída y vuelta",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3k4FKVgaxUZo1CITvj2nFDyNNKy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/5Sfl1SdrCWNHuRcPcqJP6Vcx8I8.jpg",
-      "overview": "Una película de metaficción centrada en el rodaje de un capítulo de la mítica serie de televisión \"Aída\".",
-      "rating": 6.536,
-      "releaseDate": "2026-01-30",
-      "duration": "110 min",
-      "trailerUrl": "https://www.youtube.com/embed/O82ibLC4bmM?feature=oembed",
-      "showtimes": {
-        "Viernes 20 de febrero de 2026": [
-          "19:15"
-        ],
-        "Domingo 22 de febrero de 2026": [
-          "19:30"
+        "Miércoles 4 de marzo de 2026": [
+          "21:30"
         ]
       }
     },
@@ -148,32 +160,8 @@
       "duration": "131 min",
       "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
       "showtimes": {
-        "Sábado 21 de febrero de 2026": [
-          "19:00"
-        ],
-        "Domingo 22 de febrero de 2026": [
-          "21:30"
-        ],
-        "Martes 24 de febrero de 2026": [
-          "18:30"
-        ],
         "Miércoles 25 de febrero de 2026": [
           "21:30"
-        ]
-      }
-    },
-    {
-      "title": "Father Mother Sister Brother",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iLwZuafLq8WmM9xJjS2T9YXZvc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xxFH8OgUVw5LyJmqBaXeV97mfri.jpg",
-      "overview": "Tres historias separadas sobre relaciones distantes entre hijos adultos y sus padres. Cada una de las tres partes tiene lugar en la actualidad, y en un país diferente. \"El Padre\" está ambientado en el noreste de EE. UU., \"La Madre\" en Dublín, Irlanda y \"La Hermana Hermano\" en París, Francia. La película es una serie de estudios de personajes, tranquilos, observacionales y sin prejuicios. Una comedia, pero entretejida con hilos de melancolía.",
-      "rating": 6.6,
-      "releaseDate": "2025-12-01",
-      "duration": "110 min",
-      "trailerUrl": "https://www.youtube.com/embed/vS8WyBYH1YA?feature=oembed",
-      "showtimes": {
-        "Martes 24 de febrero de 2026": [
-          "20:30"
         ]
       }
     }
