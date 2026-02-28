@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T14:49:31.325344Z",
-  "expires_at": "2026-03-01T14:49:31.325344Z",
+  "generated_at": "2026-02-28T16:53:01.334527Z",
+  "expires_at": "2026-03-01T16:53:01.334527Z",
   "version": "1.0",
   "movies": [
     {
@@ -125,7 +125,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/z0W5pVSriAZnm5BJ2BKxFKPXlh9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
       "overview": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.\r La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
-      "rating": 7.724,
+      "rating": 7.7,
       "releaseDate": "2025-11-26",
       "duration": "125 min",
       "trailerUrl": "https://www.youtube.com/embed/Ith7z6FzLe0?feature=oembed",
@@ -155,7 +155,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
       "overview": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
-      "rating": 7.243,
+      "rating": 7.247,
       "releaseDate": "2025-12-18",
       "duration": "131 min",
       "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
