@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T16:53:01.334527Z",
-  "expires_at": "2026-03-01T16:53:01.334527Z",
+  "generated_at": "2026-02-28T19:00:02.281913Z",
+  "expires_at": "2026-03-01T19:00:02.281913Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/yWCZc2TcsCYbMMjvUIsczmQi2TX.jpg",
       "overview": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
-      "rating": 5.82,
+      "rating": 5.815,
       "releaseDate": "2026-02-25",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/embed/bK-Sam8baFU?feature=oembed",
