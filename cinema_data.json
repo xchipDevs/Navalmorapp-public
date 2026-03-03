@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T05:07:22.793547Z",
-  "expires_at": "2026-03-04T05:07:22.793547Z",
+  "generated_at": "2026-03-03T07:59:57.069811Z",
+  "expires_at": "2026-03-04T07:59:57.069811Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
       "overview": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
-      "rating": 6.0,
+      "rating": 6.011,
       "releaseDate": "2026-02-25",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/embed/bK-Sam8baFU?feature=oembed",
@@ -155,7 +155,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/5Q71GYwh2mOz5rr8tPTcvbeBWtN.jpg",
       "overview": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
-      "rating": 7.255,
+      "rating": 7.256,
       "releaseDate": "2025-12-18",
       "duration": "131 min",
       "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
