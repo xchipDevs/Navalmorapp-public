@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T07:59:57.069811Z",
-  "expires_at": "2026-03-04T07:59:57.069811Z",
+  "generated_at": "2026-03-03T10:07:43.134016Z",
+  "expires_at": "2026-03-04T10:07:43.134016Z",
   "version": "1.0",
   "movies": [
     {
@@ -44,7 +44,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/3yrX2kZ1zXZ1JJeexMobX77VVim.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
       "overview": "La familia Garrity superviviente debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
-      "rating": 6.51,
+      "rating": 6.507,
       "releaseDate": "2026-01-07",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/embed/ObUUuWCM-aQ?feature=oembed",
@@ -125,7 +125,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/z0W5pVSriAZnm5BJ2BKxFKPXlh9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
       "overview": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.\r La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
-      "rating": 7.741,
+      "rating": 7.743,
       "releaseDate": "2025-11-26",
       "duration": "125 min",
       "trailerUrl": "https://www.youtube.com/embed/Ith7z6FzLe0?feature=oembed",
