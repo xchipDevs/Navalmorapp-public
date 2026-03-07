@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T06:44:03.034262Z",
-  "expires_at": "2026-03-08T06:44:03.034262Z",
+  "generated_at": "2026-03-07T10:26:39.661293Z",
+  "expires_at": "2026-03-08T10:26:39.661293Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "rating": 7.594,
+      "rating": 7.6,
       "releaseDate": "2026-02-28",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/embed/9P_3xFt3HBk?feature=oembed",
@@ -73,7 +73,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
       "overview": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
-      "rating": 5.945,
+      "rating": 6.0,
       "releaseDate": "2026-02-25",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/embed/bK-Sam8baFU?feature=oembed",
