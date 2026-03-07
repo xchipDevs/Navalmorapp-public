@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T02:04:18.139051Z",
-  "expires_at": "2026-03-08T02:04:18.139051Z",
+  "generated_at": "2026-03-07T05:01:20.981387Z",
+  "expires_at": "2026-03-08T05:01:20.981387Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "rating": 7.8,
+      "rating": 7.594,
       "releaseDate": "2026-02-28",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/embed/9P_3xFt3HBk?feature=oembed",
@@ -146,7 +146,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/5Q71GYwh2mOz5rr8tPTcvbeBWtN.jpg",
       "overview": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
-      "rating": 7.3,
+      "rating": 7.253,
       "releaseDate": "2025-12-18",
       "duration": "131 min",
       "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
