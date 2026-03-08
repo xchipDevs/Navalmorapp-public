@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T08:35:00.716636Z",
-  "expires_at": "2026-03-09T08:35:00.716636Z",
+  "generated_at": "2026-03-08T10:28:15.450172Z",
+  "expires_at": "2026-03-09T10:28:15.450172Z",
   "version": "1.0",
   "movies": [
     {
@@ -146,7 +146,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/5Q71GYwh2mOz5rr8tPTcvbeBWtN.jpg",
       "overview": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
-      "rating": 7.256,
+      "rating": 7.259,
       "releaseDate": "2025-12-18",
       "duration": "131 min",
       "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
