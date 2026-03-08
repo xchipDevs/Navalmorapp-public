@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-03-08T10:28:15.450172Z",
-  "expires_at": "2026-03-09T10:28:15.450172Z",
+  "generated_at": "2026-03-08T12:56:31.207388Z",
+  "expires_at": "2026-03-09T12:56:31.207388Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "Hoppers Operación Castor",
+      "title": "Hoppers. Operación Castor",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "rating": 7.572,
+      "rating": 7.6,
       "releaseDate": "2026-03-04",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/embed/9P_3xFt3HBk?feature=oembed",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "title": "Cleaner Rescate Vertical",
+      "title": "Cleaner – Rescate Vertical",
       "posterUrl": "https://image.tmdb.org/t/p/w500/c01Y0dVtHiG8tvIiYRkpX0wcESA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/gsQJOfeW45KLiQeEIsom94QPQwb.jpg",
       "overview": "Después de que un grupo de activistas se apodere de la gala anual de una compañía energética para denunciar su corrupción, su justa causa es secuestrada por un extremista dispuesto a asesinar a las 300 personas presentes en el edificio para transmitir su mensaje anárquico. Una ex soldado convertida en limpiacristales, suspendida 50 pisos en el exterior del rascacielos londinense, es la encargada de intentar salvar a los que están atrapados dentro, incluido su hermano pequeño.",
@@ -115,7 +115,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "overview": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-      "rating": 6.4,
+      "rating": 6.413,
       "releaseDate": "2026-02-11",
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/embed/BXTKKqLHAbM?feature=oembed",
