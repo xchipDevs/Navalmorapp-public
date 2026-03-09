@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T16:58:55.359798Z",
-  "expires_at": "2026-03-10T16:58:55.359798Z",
+  "generated_at": "2026-03-09T18:56:24.915973Z",
+  "expires_at": "2026-03-10T18:56:24.915973Z",
   "version": "1.0",
   "movies": [
     {
@@ -97,7 +97,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/3yrX2kZ1zXZ1JJeexMobX77VVim.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
       "overview": "La familia Garrity superviviente debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
-      "rating": 6.497,
+      "rating": 6.501,
       "releaseDate": "2026-01-07",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/embed/ObUUuWCM-aQ?feature=oembed",
