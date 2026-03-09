@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T22:26:42.031699Z",
-  "expires_at": "2026-03-09T22:26:42.031699Z",
+  "generated_at": "2026-03-09T02:22:44.287515Z",
+  "expires_at": "2026-03-10T02:22:44.287515Z",
   "version": "1.0",
   "movies": [
     {
@@ -115,7 +115,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "overview": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-      "rating": 6.409,
+      "rating": 6.4,
       "releaseDate": "2026-02-11",
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/embed/BXTKKqLHAbM?feature=oembed",
@@ -144,9 +144,9 @@
     {
       "title": "La Asistenta",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/5Q71GYwh2mOz5rr8tPTcvbeBWtN.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "overview": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
-      "rating": 7.256,
+      "rating": 7.3,
       "releaseDate": "2025-12-18",
       "duration": "131 min",
       "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
