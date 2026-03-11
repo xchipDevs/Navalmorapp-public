@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T02:07:21.905397Z",
-  "expires_at": "2026-03-12T02:07:21.905397Z",
+  "generated_at": "2026-03-11T05:13:47.822423Z",
+  "expires_at": "2026-03-12T05:13:47.822423Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "rating": 7.654,
+      "rating": 7.68,
       "releaseDate": "2026-03-04",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/embed/9P_3xFt3HBk?feature=oembed",
@@ -97,7 +97,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/3yrX2kZ1zXZ1JJeexMobX77VVim.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
       "overview": "La familia Garrity superviviente debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
-      "rating": 6.496,
+      "rating": 6.49,
       "releaseDate": "2026-01-07",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/embed/ObUUuWCM-aQ?feature=oembed",
