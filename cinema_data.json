@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-03-12T08:47:03.193987Z",
-  "expires_at": "2026-03-13T08:47:03.193987Z",
+  "generated_at": "2026-03-12T10:41:44.946601Z",
+  "expires_at": "2026-03-13T10:41:44.946601Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "Hoppers. Operación Castor",
+      "title": "Hoppers: Operación Castor",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
@@ -82,7 +82,7 @@
       "overview": "Francia, finales del siglo XIX. Louise Violet es una profesora parisina, enviada a la campiña francesa. En un lugar donde la vida cotidiana está ligada a las estaciones, la tierra y los cultivos, primero deberá convencer a los habitantes para que envíen a sus hijos a la escuela. Con la ayuda del alcalde, los padres y sus hijos acaban por aceptarla. Pero pronto, su pasado la alcanza. A pesar de los obstáculos, la señorita Violet se entregará en cuerpo y alma a su creencia: la educación es la clave de la libertad.",
       "rating": 6.973,
       "releaseDate": "2024-11-06",
-      "duration": "107 min",
+      "duration": "109 min",
       "trailerUrl": "https://www.youtube.com/embed/3rJUIS3Y3aE?feature=oembed",
       "showtimes": {
         "Martes 17 de marzo de 2026": [
