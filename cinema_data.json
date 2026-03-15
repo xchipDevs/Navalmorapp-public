@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-03-15T07:00:08.964625Z",
-  "expires_at": "2026-03-16T07:00:08.964625Z",
+  "generated_at": "2026-03-15T08:39:51.564248Z",
+  "expires_at": "2026-03-16T08:39:51.564248Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "Hoppers Operación Castor",
+      "title": "Hoppers. Operación Castor",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "rating": 7.708,
+      "rating": 7.722,
       "releaseDate": "2026-03-04",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=bv0sKzFvpmo",
