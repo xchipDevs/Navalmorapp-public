@@ -77,8 +77,13 @@ def parse_movies(html):
         # Normalizar espacios múltiples
         text = re.sub(r'\s+', ' ', text)
         
-        # Detectar títulos (H2)
-        if node.name == 'h2' and text and not any(x in text.upper() for x in ['HORARIO', 'FICHA', 'ARGUMENTO', 'TRAILER', 'NAVALMORAL', '€', 'COMPRA']):
+        # Detectar títulos (H1 y H2)
+        is_heading = node.name in ['h1', 'h2']
+        has_text = bool(text)
+        is_not_excluded = not any(x in text.upper() for x in ['HORARIO', 'FICHA', 'ARGUMENTO', 'TRAILER', 'NAVALMORAL', '€', 'COMPRA', 'EURO', 'PROGRAMACIÓN', 'PROGRAMACION', 'CINE', 'KINETIKE', 'ENTRADA'])
+        is_not_date_range = not re.search(r'del\s+.*\s+al\s+.*', text, re.IGNORECASE) and not re.search(r'^del\s+\d+', text, re.IGNORECASE)
+        
+        if is_heading and has_text and is_not_excluded and is_not_date_range:
             # Guardar película anterior
             if current_movie and current_movie.get('poster') and current_movie.get('showtimes'):
                 movies.append(current_movie)
