@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-17T10:54:25.763045Z",
-  "expires_at": "2026-03-18T10:54:25.763045Z",
+  "generated_at": "2026-03-17T11:26:32.348564Z",
+  "expires_at": "2026-03-18T11:26:32.348564Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "Hoppers. Operación Castor",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
-      "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "rating": 7.718,
-      "releaseDate": "2026-03-04",
-      "duration": "105 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=bv0sKzFvpmo",
+      "title": "TORRENTE PRESIDENTE",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8ONx9yAMA2Idx9FTIkyQl4qMbYr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
+      "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
+      "rating": 6.5,
+      "releaseDate": "2026-03-13",
+      "duration": "102 min",
+      "trailerUrl": null,
       "showtimes": {
         "Viernes 13 de marzo de 2026": [
           "18:00",
@@ -52,12 +52,12 @@
       }
     },
     {
-      "title": "La Primera Escuela",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7pvakYCnGTaUyoxfr0XK18Vn8f5.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/zT8LR9MkZuHZxJsaqgNpxUf9lxl.jpg",
-      "overview": "Francia, finales del siglo XIX. Louise Violet es una profesora parisina, enviada a la campiña francesa. En un lugar donde la vida cotidiana está ligada a las estaciones, la tierra y los cultivos, primero deberá convencer a los habitantes para que envíen a sus hijos a la escuela. Con la ayuda del alcalde, los padres y sus hijos acaban por aceptarla. Pero pronto, su pasado la alcanza. A pesar de los obstáculos, la señorita Violet se entregará en cuerpo y alma a su creencia: la educación es la clave de la libertad.",
-      "rating": 6.991,
-      "releaseDate": "2024-11-06",
+      "title": "Hoppers Operación Castor",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
+      "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "rating": 7.718,
+      "releaseDate": "2026-03-04",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/embed/9P_3xFt3HBk?feature=oembed",
       "showtimes": {
