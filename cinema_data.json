@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T20:30:00.409565Z",
-  "expires_at": "2026-03-22T20:30:00.409565Z",
+  "generated_at": "2026-03-21T22:28:13.393631Z",
+  "expires_at": "2026-03-22T22:28:13.393631Z",
   "version": "1.0",
   "movies": [
     {
@@ -45,7 +45,7 @@
       }
     },
     {
-      "title": "Hoppers. Operación Castor",
+      "title": "Hoppers Operación Castor",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
@@ -100,7 +100,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ooJChz3CumTevKFMd6fTETcmIm.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
       "overview": "Marta y Antonio son una pareja que se separa tras lo que parece una discusión trivial. Marta (Alba Rohrwacher) reacciona a la ruptura encerrándose en sí misma. El único síntoma que no puede ignorar es su repentina falta de apetito. Mientras, Antonio (Elio Germano), un chef al alza, no consigue olvidarla a pesar de haber sido él quien terminó la relación.",
-      "rating": 7.085,
+      "rating": 7.1,
       "releaseDate": "2025-10-09",
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/embed/MfiTenc-Uvo?feature=oembed",
