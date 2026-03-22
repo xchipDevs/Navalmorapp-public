@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-03-22T18:40:23.015783Z",
-  "expires_at": "2026-03-23T18:40:23.015783Z",
+  "generated_at": "2026-03-22T20:31:08.998098Z",
+  "expires_at": "2026-03-23T20:31:08.998098Z",
   "version": "1.0",
   "movies": [
     {
       "title": "TORRENTE PRESIDENTE",
       "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/mFO3Y2l0INn1jHHGq8qKmrVJkY9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
       "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "rating": 6.5,
+      "rating": 6.321,
       "releaseDate": "2026-03-13",
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/embed/tnH_xUjTObI?feature=oembed",
@@ -45,7 +45,7 @@
       }
     },
     {
-      "title": "Hoppers. Operación Castor",
+      "title": "Hoppers Operación Castor",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
@@ -100,7 +100,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ooJChz3CumTevKFMd6fTETcmIm.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
       "overview": "Marta y Antonio son una pareja que se separa tras lo que parece una discusión trivial. Marta (Alba Rohrwacher) reacciona a la ruptura encerrándose en sí misma. El único síntoma que no puede ignorar es su repentina falta de apetito. Mientras, Antonio (Elio Germano), un chef al alza, no consigue olvidarla a pesar de haber sido él quien terminó la relación.",
-      "rating": 7.1,
+      "rating": 7.09,
       "releaseDate": "2025-10-09",
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/embed/MfiTenc-Uvo?feature=oembed",
