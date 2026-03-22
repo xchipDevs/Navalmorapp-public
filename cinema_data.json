@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T05:20:12.971244Z",
-  "expires_at": "2026-03-23T05:20:12.971244Z",
+  "generated_at": "2026-03-22T06:55:16.803224Z",
+  "expires_at": "2026-03-23T06:55:16.803224Z",
   "version": "1.0",
   "movies": [
     {
@@ -49,7 +49,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/xBiDlBcocGfb9NDHwQhNN6dvNdA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "rating": 7.632,
+      "rating": 7.631,
       "releaseDate": "2026-03-04",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/embed/9P_3xFt3HBk?feature=oembed",
