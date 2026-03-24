@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T19:05:47.600949Z",
-  "expires_at": "2026-03-25T19:05:47.600949Z",
+  "generated_at": "2026-03-24T20:43:41.045245Z",
+  "expires_at": "2026-03-25T20:43:41.045245Z",
   "version": "1.0",
   "movies": [
     {
@@ -100,7 +100,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ooJChz3CumTevKFMd6fTETcmIm.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
       "overview": "Marta y Antonio son una pareja que se separa tras lo que parece una discusión trivial. Marta (Alba Rohrwacher) reacciona a la ruptura encerrándose en sí misma. El único síntoma que no puede ignorar es su repentina falta de apetito. Mientras, Antonio (Elio Germano), un chef al alza, no consigue olvidarla a pesar de haber sido él quien terminó la relación.",
-      "rating": 7.1,
+      "rating": 7.089,
       "releaseDate": "2025-10-09",
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/embed/MfiTenc-Uvo?feature=oembed",
