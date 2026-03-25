@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T18:58:18.934147Z",
-  "expires_at": "2026-03-26T18:58:18.934147Z",
+  "generated_at": "2026-03-25T20:41:06.677713Z",
+  "expires_at": "2026-03-26T20:41:06.677713Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
       "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "rating": 6.406,
+      "rating": 6.4,
       "releaseDate": "2026-03-13",
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/embed/tnH_xUjTObI?feature=oembed",
@@ -45,7 +45,7 @@
       }
     },
     {
-      "title": "Hoppers. Operación Castor",
+      "title": "Hoppers Operación Castor",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
