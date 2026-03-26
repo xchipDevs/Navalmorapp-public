@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T22:38:59.451088Z",
-  "expires_at": "2026-03-26T22:38:59.451088Z",
+  "generated_at": "2026-03-26T02:31:43.532585Z",
+  "expires_at": "2026-03-27T02:31:43.532585Z",
   "version": "1.0",
   "movies": [
     {
@@ -45,11 +45,11 @@
       }
     },
     {
-      "title": "Hoppers. Operación Castor",
+      "title": "Hoppers Operación Castor",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "rating": 7.627,
+      "rating": 7.619,
       "releaseDate": "2026-03-04",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/embed/9P_3xFt3HBk?feature=oembed",
@@ -76,7 +76,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "overview": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-      "rating": 6.4,
+      "rating": 6.376,
       "releaseDate": "2026-02-11",
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/embed/BXTKKqLHAbM?feature=oembed",
@@ -100,7 +100,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ooJChz3CumTevKFMd6fTETcmIm.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
       "overview": "Marta y Antonio son una pareja que se separa tras lo que parece una discusión trivial. Marta (Alba Rohrwacher) reacciona a la ruptura encerrándose en sí misma. El único síntoma que no puede ignorar es su repentina falta de apetito. Mientras, Antonio (Elio Germano), un chef al alza, no consigue olvidarla a pesar de haber sido él quien terminó la relación.",
-      "rating": 7.089,
+      "rating": 7.1,
       "releaseDate": "2025-10-09",
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/embed/MfiTenc-Uvo?feature=oembed",
