@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-03-26T10:53:47.225879Z",
-  "expires_at": "2026-03-27T10:53:47.225879Z",
+  "generated_at": "2026-03-26T13:20:27.160510Z",
+  "expires_at": "2026-03-27T13:20:27.160510Z",
   "version": "1.0",
   "movies": [
+    {
+      "title": "Amarga Navidad",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tVGFQvPsjymxjPn3lU90XUhIEAW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/fKMBfxVk7wn3vZceAU3vkknUukS.jpg",
+      "overview": "Tras el fallecimiento de su madre en diciembre, Elsa, directora de publicidad, se sumerge en el trabajo para afrontar la situación. Cuando un ataque de pánico la obliga a tomarse un descanso, decide viajar a Lanzarote con su amiga Patricia mientras su pareja, Bonifacio, se queda en Madrid.",
+      "rating": 7.857,
+      "releaseDate": "2026-03-20",
+      "duration": "111 min",
+      "trailerUrl": "https://www.youtube.com/embed/SNbVMk-nLu4?feature=oembed",
+      "showtimes": {
+        "Viernes 27 de marzo de 2026": [
+          "20:00",
+          "22:00"
+        ],
+        "Sábado 28 de marzo de 2026": [
+          "19:00",
+          "21:30"
+        ],
+        "Domingo 29 de marzo de 2026": [
+          "19:15",
+          "21:30"
+        ],
+        "Lunes 30 de marzo de 2026": [
+          "20:30"
+        ],
+        "Martes 31 de marzo de 2026": [
+          "20:00"
+        ],
+        "Miércoles 1 de abril de 2026": [
+          "19:30",
+          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "Tafiti y sus amigos",
+      "posterUrl": "https://tietarteve.com/wp-content/uploads/2026/03/CINE-Tafiti-y-sus-amigos-424x600.jpg",
+      "backdropUrl": null,
+      "overview": "Cuando Tafiti, una joven suricata, conoce a Bristles, el cerdo salvaje, sabe que no pueden ser amigos. Pero cuando Bristles es atacado por un águila, es Tafiti quien corre a rescatarlo. En busca desesperada de un amigo, el divertido cerdo salvaje sigue a Tafiti a su casa, provocando sin querer un desafortunado accidente: el abuelo de Tafiti es mordido por una serpiente venenosa mortal. Sólo una mítica flor del desierto podrá salvarlo. Tafiti emprende un peligroso viaje para encontrar la flor, convencido de que debe hacerlo sola.",
+      "rating": null,
+      "releaseDate": null,
+      "duration": "81 min",
+      "trailerUrl": "https://www.youtube.com/embed/AkujJxLXtpg?feature=oembed",
+      "showtimes": {
+        "Viernes 27 de marzo de 2026": [
+          "18:00"
+        ],
+        "Sábado 28 de marzo de 2026": [
+          "18:00"
+        ],
+        "Domingo 29 de marzo de 2026": [
+          "17:30"
+        ],
+        "Lunes 30 de marzo de 2026": [
+          "18:00"
+        ],
+        "Martes 31 de marzo de 2026": [
+          "18:00"
+        ]
+      }
+    },
     {
       "title": "TORRENTE PRESIDENTE",
       "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
@@ -13,34 +74,44 @@
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/embed/tnH_xUjTObI?feature=oembed",
       "showtimes": {
-        "Viernes 20 de marzo de 2026": [
+        "Viernes 27 de marzo de 2026": [
+          "19:30",
+          "21:45"
+        ],
+        "Sábado 28 de marzo de 2026": [
+          "19:30",
+          "21:45"
+        ],
+        "Domingo 29 de marzo de 2026": [
           "19:00",
+          "21:15"
+        ],
+        "Lunes 30 de marzo de 2026": [
+          "19:30",
           "21:30"
         ],
-        "Sábado 21 de marzo de 2026": [
-          "17:30",
-          "19:45",
+        "Martes 31 de marzo de 2026": [
+          "19:30",
+          "21:30"
+        ],
+        "Miércoles 1 de abril de 2026": [
           "22:00"
-        ],
-        "Domingo 22 de marzo de 2026": [
-          "17:00",
-          "19:15",
-          "21:30"
-        ],
-        "Lunes 23 de marzo de 2026": [
-          "19:00",
-          "06:00",
-          "21:30"
-        ],
-        "Martes 24 de marzo de 2026": [
-          "19:00",
-          "06:00",
-          "21:30"
-        ],
-        "Miércoles 25 de marzo de 2026": [
-          "17:00",
-          "19:15",
-          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "Super Mario Galaxy",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+      "overview": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "rating": 0.0,
+      "releaseDate": "2026-04-01",
+      "duration": "98 min",
+      "trailerUrl": "https://www.youtube.com/embed/Hz57G2KaAp8?feature=oembed",
+      "showtimes": {
+        "Miércoles 1 de abril de 2026": [
+          "18:00",
+          "20:00"
         ]
       }
     },
@@ -54,89 +125,20 @@
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/embed/9P_3xFt3HBk?feature=oembed",
       "showtimes": {
-        "Viernes 20 de marzo de 2026": [
+        "Viernes 27 de marzo de 2026": [
           "18:00"
         ],
-        "Sábado 21 de marzo de 2026": [
+        "Sábado 28 de marzo de 2026": [
           "17:00"
         ],
-        "Domingo 22 de marzo de 2026": [
+        "Domingo 29 de marzo de 2026": [
+          "17:00"
+        ],
+        "Martes 31 de marzo de 2026": [
           "17:30"
         ],
-        "Lunes 23 de marzo de 2026": [
-          "18:30"
-        ],
-        "Miércoles 25 de marzo de 2026": [
-          "18:00"
-        ]
-      }
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "overview": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-      "rating": 6.377,
-      "releaseDate": "2026-02-11",
-      "duration": "136 min",
-      "trailerUrl": "https://www.youtube.com/embed/BXTKKqLHAbM?feature=oembed",
-      "showtimes": {
-        "Viernes 20 de marzo de 2026": [
-          "22:00"
-        ],
-        "Sábado 21 de marzo de 2026": [
-          "19:00"
-        ],
-        "Domingo 22 de marzo de 2026": [
-          "21:30"
-        ],
-        "Miércoles 25 de marzo de 2026": [
-          "22:00"
-        ]
-      }
-    },
-    {
-      "title": "Tres adioses",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ooJChz3CumTevKFMd6fTETcmIm.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
-      "overview": "Marta y Antonio son una pareja que se separa tras lo que parece una discusión trivial. Marta (Alba Rohrwacher) reacciona a la ruptura encerrándose en sí misma. El único síntoma que no puede ignorar es su repentina falta de apetito. Mientras, Antonio (Elio Germano), un chef al alza, no consigue olvidarla a pesar de haber sido él quien terminó la relación.",
-      "rating": 7.1,
-      "releaseDate": "2025-10-09",
-      "duration": "120 min",
-      "trailerUrl": "https://www.youtube.com/embed/MfiTenc-Uvo?feature=oembed",
-      "showtimes": {
-        "Viernes 20 de marzo de 2026": [
-          "20:00"
-        ],
-        "Sábado 21 de marzo de 2026": [
-          "21:30"
-        ],
-        "Domingo 22 de marzo de 2026": [
-          "19:30"
-        ],
-        "Lunes 23 de marzo de 2026": [
-          "20:30"
-        ],
-        "Martes 24 de marzo de 2026": [
-          "18:00"
-        ],
-        "Miércoles 25 de marzo de 2026": [
-          "20:00"
-        ]
-      }
-    },
-    {
-      "title": "Samia",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nt64brzU6yHC7tPQtHd5QqyqSVv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/ov8J2gXTvhOSmAc5zS3b767iG0e.jpg",
-      "overview": "Biopic basado en hechos reales que narra la vida de la atleta somalí Samia Yusuf Omar. La película cuenta su lucha por superar las restricciones sociales y el peligro en Mogadiscio para entrenar y cumplir su sueño de competir en los Juegos Olímpicos de Pekín 2008.",
-      "rating": 7.5,
-      "releaseDate": "2024-09-19",
-      "duration": "102 min",
-      "trailerUrl": "https://www.youtube.com/embed/hnHQBo9HV1k?feature=oembed",
-      "showtimes": {
-        "Martes 24 de marzo de 2026": [
-          "20:30"
+        "Miércoles 1 de abril de 2026": [
+          "17:30"
         ]
       }
     }
