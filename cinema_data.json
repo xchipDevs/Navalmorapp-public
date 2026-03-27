@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T02:33:10.237805Z",
-  "expires_at": "2026-03-28T02:33:10.237805Z",
+  "generated_at": "2026-03-27T05:43:55.497955Z",
+  "expires_at": "2026-03-28T05:43:55.497955Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/tVGFQvPsjymxjPn3lU90XUhIEAW.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fKMBfxVk7wn3vZceAU3vkknUukS.jpg",
       "overview": "Tras el fallecimiento de su madre en diciembre, Elsa, directora de publicidad, se sumerge en el trabajo para afrontar la situación. Cuando un ataque de pánico la obliga a tomarse un descanso, decide viajar a Lanzarote con su amiga Patricia mientras su pareja, Bonifacio, se queda en Madrid.",
-      "rating": 7.857,
+      "rating": 7.6,
       "releaseDate": "2026-03-20",
       "duration": "111 min",
       "trailerUrl": "https://www.youtube.com/embed/SNbVMk-nLu4?feature=oembed",
@@ -120,7 +120,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "rating": 7.624,
+      "rating": 7.621,
       "releaseDate": "2026-03-04",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/embed/9P_3xFt3HBk?feature=oembed",
