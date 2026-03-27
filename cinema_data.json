@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T05:43:55.497955Z",
-  "expires_at": "2026-03-28T05:43:55.497955Z",
+  "generated_at": "2026-03-27T07:11:38.015422Z",
+  "expires_at": "2026-03-28T07:11:38.015422Z",
   "version": "1.0",
   "movies": [
     {
@@ -116,7 +116,7 @@
       }
     },
     {
-      "title": "Hoppers. Operación Castor",
+      "title": "Hoppers Operación Castor",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
