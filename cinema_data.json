@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T10:35:18.162682Z",
-  "expires_at": "2026-03-29T10:35:18.162682Z",
+  "generated_at": "2026-03-28T12:59:21.487245Z",
+  "expires_at": "2026-03-29T12:59:21.487245Z",
   "version": "1.0",
   "movies": [
     {
@@ -69,7 +69,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
       "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "rating": 6.417,
+      "rating": 6.4,
       "releaseDate": "2026-03-13",
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/embed/tnH_xUjTObI?feature=oembed",
@@ -100,12 +100,12 @@
       }
     },
     {
-      "title": "Super Mario Galaxy",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-      "overview": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "rating": 0.0,
-      "releaseDate": "2026-04-01",
+      "title": "ESTRENO – Super Mario Galaxy",
+      "posterUrl": "https://tietarteve.com/wp-content/uploads/2026/03/CINE-Super-Mario-Galaxy-414x600.jpg",
+      "backdropUrl": null,
+      "overview": "Secuela de «Super Mario Bros: La película», basada en la saga «Mario Galaxy». Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
+      "rating": null,
+      "releaseDate": null,
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/embed/Hz57G2KaAp8?feature=oembed",
       "showtimes": {
