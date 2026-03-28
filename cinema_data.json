@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T14:34:10.211670Z",
-  "expires_at": "2026-03-29T14:34:10.211670Z",
+  "generated_at": "2026-03-28T16:37:34.923523Z",
+  "expires_at": "2026-03-29T16:37:34.923523Z",
   "version": "1.0",
   "movies": [
     {
@@ -100,12 +100,12 @@
       }
     },
     {
-      "title": "ESTRENO – Super Mario Galaxy",
-      "posterUrl": "https://tietarteve.com/wp-content/uploads/2026/03/CINE-Super-Mario-Galaxy-414x600.jpg",
-      "backdropUrl": null,
-      "overview": "Secuela de «Super Mario Bros: La película», basada en la saga «Mario Galaxy». Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": null,
-      "releaseDate": null,
+      "title": "Super Mario Galaxy",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+      "overview": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "rating": 2.0,
+      "releaseDate": "2026-04-01",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/embed/Hz57G2KaAp8?feature=oembed",
       "showtimes": {
@@ -120,7 +120,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "rating": 7.623,
+      "rating": 7.605,
       "releaseDate": "2026-03-04",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/embed/9P_3xFt3HBk?feature=oembed",
