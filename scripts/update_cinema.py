@@ -33,10 +33,8 @@ MESES = {
 
 
 async def scrape_cinema():
-    """Fetch movie list from Kinetike"""
-    print("🌐 Iniciando scraping desde Kinetike...")
-    # Base URL for Navalmoral
-    url = "https://kinetike.com:83/views/init.aspx?cine=NAVALMORALDELAMATA"
+    """Fetch movie list from Kinetike for the next 7 days"""
+    print("🌐 Iniciando scraping desde Kinetike (7 días)...")
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
@@ -45,14 +43,26 @@ async def scrape_cinema():
     import urllib3
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     
-    try:
-        response = requests.get(url, headers=headers, verify=False, timeout=30)
-        response.raise_for_status()
-        html = response.text
-        return html
-    except Exception as e:
-        print(f"❌ Error al obtener datos de Kinetike: {e}")
-        raise Exception("No se pudo conectar a Kinetike")
+    combined_html = ""
+    from datetime import timedelta
+    
+    for i in range(7):
+        target_date = datetime.now() + timedelta(days=i)
+        fecha_str = target_date.strftime("%d/%m/%Y")
+        url = f"https://kinetike.com:83/views/init.aspx?cine=NAVALMORALDELAMATA&fecha={fecha_str}"
+        print(f"  📅 Consultando cartelera del: {fecha_str}")
+        
+        try:
+            response = requests.get(url, headers=headers, verify=False, timeout=15)
+            response.raise_for_status()
+            combined_html += response.text + "\n"
+        except Exception as e:
+            print(f"  ⚠️ Error obteniendo datos del {fecha_str}: {e}")
+            
+    if not combined_html.strip():
+        raise Exception("No se pudo conectar a Kinetike en ninguno de los días")
+        
+    return combined_html
 
 
 def parse_movies(html):
@@ -60,7 +70,7 @@ def parse_movies(html):
     print("📜 Parseando HTML de Kinetike...")
     soup = BeautifulSoup(html, 'html.parser')
     
-    movies = []
+    movies_dict = {}  # Agrupar por título
     
     # 1. Encontrar cada película
     panels = soup.select('.panel_peli')
@@ -68,7 +78,7 @@ def parse_movies(html):
         print("❌ No se encontraron contenedores '.panel_peli'")
         return []
         
-    print(f"  📊 {len(panels)} elementos panel_peli encontrados")
+    print(f"  📊 {len(panels)} elementos panel_peli encontrados en la semana")
     
     for panel in panels:
         # Título y póster
@@ -86,43 +96,34 @@ def parse_movies(html):
         if poster_src and not poster_src.startswith('http'):
             poster_src = f"https://kinetike.com:83/views/{poster_src}"
             
-        print(f"🎬 Encontrada: {title}")
+        if title not in movies_dict:
+            print(f"🎬 Encontrada: {title}")
+            movies_dict[title] = {
+                'title': title,
+                'poster': poster_src,
+                'showtimes': {},
+                'synopsis': None,
+                'duration': None,
+                'trailer': None
+            }
+            
+        movie = movies_dict[title]
         
-        movie = {
-            'title': title,
-            'poster': poster_src,
-            'showtimes': {},
-            'synopsis': None,
-            'duration': None,
-            'trailer': None
-        }
-        
-        # 2. Extraer horarios de los botones (javascript:WebForm_DoPostBackWithOptions)
-        # o enlaces que contengan hora y sala
-        # Kinetike guarda hora, fecha y película en el javascript de cada sesión
-        
-        # Buscar en todo el texto y links del panel
-        # Usamos regex para encontrar: fecha=DD/MM/YYYY&hora=HH:MM&sala=Z
-        # En HTML los '&' pueden estar escapados como '&amp;'
+        # 2. Extraer horarios de los botones o enlaces
         html_str = str(panel)
         matches = re.finditer(r'fecha=(\d{2}/\d{2}/\d{4})(?:&|&amp;)hora=(\d{1,2}:\d{2})(?:&|&amp;)sala=([^&"\']+)', html_str)
         
         for match in matches:
             fecha_str, hora, sala = match.groups()
             
-            # Convertir '13/04/2026' a formato legible "Lunes 13" (simulado para no romper compatibilidad)
             try:
-                # Kinetike da fechas exactas, lo cual es excelente
                 dt = datetime.strptime(fecha_str, "%d/%m/%Y")
-                # Mapear día semana
                 dias_semana = {0: "Lunes", 1: "Martes", 2: "Miércoles", 3: "Jueves", 4: "Viernes", 5: "Sábado", 6: "Domingo"}
                 meses = {1: "enero", 2: "febrero", 3: "marzo", 4: "abril", 5: "mayo", 6: "junio", 7: "julio", 8: "agosto", 9: "septiembre", 10: "octubre", 11: "noviembre", 12: "diciembre"}
                 
                 nombre_dia = dias_semana[dt.weekday()]
                 nombre_mes = meses[dt.month]
                 
-                # Formato final tipo "Lunes 13" para que encaje con la UI existente, o completo
-                # Lo hacemos completo para ordenar correctamente
                 day_key = f"{nombre_dia} {dt.day} de {nombre_mes}"
                 
                 if day_key not in movie['showtimes']:
@@ -133,10 +134,12 @@ def parse_movies(html):
             except Exception as e:
                 print(f"  ⚠️ Error parseando fecha {fecha_str}: {e}")
         
+    movies = []
+    for title, movie in movies_dict.items():
         if movie.get('showtimes'):
             movies.append(movie)
             
-    print(f"✅ {len(movies)} películas parseadas desde Kinetike")
+    print(f"✅ {len(movies)} películas únicas parseadas en total")
     return movies
 
 def clean_titles_with_ai(movies):
