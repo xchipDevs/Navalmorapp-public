@@ -218,6 +218,67 @@ def scrape_with_curl_cffi():
         return None
 
 
+def scrape_with_free_proxies():
+    """Fallback: Fetch free proxies and try scraping through them."""
+    print("\n🌍 Método 3: Rotación de Free Proxies...")
+    try:
+        from curl_cffi import requests as curl_requests
+        import random
+        
+        # Obtener lista de proxies gratuitos (HTTP/HTTPS)
+        print("  📥 Descargando lista de proxies gratuitos...")
+        proxy_url = "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
+        resp = requests.get(proxy_url, timeout=10)
+        resp.raise_for_status()
+        proxies = [p.strip() for p in resp.text.split('\n') if p.strip()]
+        
+        if not proxies:
+            print("  ⚠️ No se encontraron proxies")
+            return None
+            
+        print(f"  ✅ {len(proxies)} proxies obtenidos. Probando aleatorios...")
+        
+        # Probar hasta 5 proxies al azar
+        random.shuffle(proxies)
+        
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+        }
+        
+        for i, proxy_ip in enumerate(proxies[:6]):
+            try:
+                print(f"  🔄 Intento {i+1} con proxy: {proxy_ip}")
+                proxies_dict = {
+                    "http": f"http://{proxy_ip}",
+                    "https": f"http://{proxy_ip}",
+                }
+                
+                # Setup session with curl_cffi mapped proxy
+                session = curl_requests.Session(impersonate="chrome131", proxies=proxies_dict)
+                session.headers.update(headers)
+                
+                # Usa timeout corto porque muchos proxy gratis son lentos o fallan
+                proxy_response = session.get(CINEMA_URL, timeout=15)
+                
+                result = _handle_sgcaptcha(session, proxy_response, "https://tietarteve.com", f"free-proxy-{i}")
+                
+                if result and validate_html(result, f"free-proxy-{i}"):
+                    return result
+            except Exception as e:
+                # Ocultamos el stacktrace largo para no ensuciar los logs
+                print(f"  ❌ Proxy falló: Timeout/ConnectionError")
+                
+        return None
+    except ImportError:
+        print("  ⚠️ curl_cffi no instalado, saltando...")
+        return None
+    except Exception as e:
+        print(f"  ❌ Error general en free_proxies: {e}")
+        return None
+
+
 def scrape_with_proxy_api():
     """Tertiary method: use free proxy/cache APIs"""
     print("\n🌐 Método 3: Proxy APIs...")
@@ -360,6 +421,7 @@ async def scrape_cinema():
     methods = [
         ('wp_api', lambda: scrape_with_wp_api()),
         ('curl_cffi', lambda: scrape_with_curl_cffi()),
+        ('free_proxies', lambda: scrape_with_free_proxies()),
         ('proxy_api', lambda: scrape_with_proxy_api()),
         ('google_cache', lambda: scrape_with_google_cache()),
         ('requests', lambda: scrape_with_requests()),
