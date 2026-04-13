@@ -44,20 +44,48 @@ async def scrape_cinema():
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     
     combined_html = ""
-    from datetime import timedelta
+    session = requests.Session()
     
-    for i in range(7):
-        target_date = datetime.now() + timedelta(days=i)
-        fecha_str = target_date.strftime("%d/%m/%Y")
-        url = f"https://kinetike.com:83/views/init.aspx?cine=NAVALMORALDELAMATA&fecha={fecha_str}"
-        print(f"  📅 Consultando cartelera del: {fecha_str}")
+    # URL inicial (redirige y crea sesión)
+    base_url = "https://kinetike.com:83/views/init.aspx?cine=NAVALMORALDELAMATA"
+    
+    try:
+        print("  📅 Consultando cartelera del día 1 (Hoy)...")
+        res = session.get(base_url, headers=headers, verify=False, timeout=15)
+        res.raise_for_status()
+        current_html = res.text
+        current_url = res.url
+        combined_html += current_html + "\n"
         
-        try:
-            response = requests.get(url, headers=headers, verify=False, timeout=15)
-            response.raise_for_status()
-            combined_html += response.text + "\n"
-        except Exception as e:
-            print(f"  ⚠️ Error obteniendo datos del {fecha_str}: {e}")
+        # Bucle para 6 días más simulando clic en la flecha de "Siguiente día"
+        for i in range(2, 8):
+            print(f"  📅 Consultando cartelera del día {i}...")
+            
+            # Extraer ViewState y EventValidation del HTML anterior
+            soup = BeautifulSoup(current_html, 'html.parser')
+            vs_input = soup.select_one('#__VIEWSTATE')
+            ev_input = soup.select_one('#__EVENTVALIDATION')
+            
+            viewstate = vs_input['value'] if vs_input else ''
+            eventval = ev_input['value'] if ev_input else ''
+            
+            data = {
+                '__EVENTTARGET': '',
+                '__EVENTARGUMENT': '',
+                '__VIEWSTATE': viewstate,
+                '__EVENTVALIDATION': eventval,
+                'imgSiguiente.x': '15',
+                'imgSiguiente.y': '15'
+            }
+            
+            # Kinetike espera un POST en la misma URL de la sesión
+            post_res = session.post(current_url, headers=headers, data=data, verify=False, timeout=15)
+            post_res.raise_for_status()
+            current_html = post_res.text
+            combined_html += current_html + "\n"
+            
+    except Exception as e:
+        print(f"  ⚠️ Error durante el volcado de datos: {e}")
             
     if not combined_html.strip():
         raise Exception("No se pudo conectar a Kinetike en ninguno de los días")
