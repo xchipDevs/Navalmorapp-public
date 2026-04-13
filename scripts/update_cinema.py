@@ -103,8 +103,9 @@ def parse_movies(html):
         
         # Buscar en todo el texto y links del panel
         # Usamos regex para encontrar: fecha=DD/MM/YYYY&hora=HH:MM&sala=Z
+        # En HTML los '&' pueden estar escapados como '&amp;'
         html_str = str(panel)
-        matches = re.finditer(r'fecha=(\d{2}/\d{2}/\d{4})&hora=(\d{1,2}:\d{2})&sala=([^&"\']+)', html_str)
+        matches = re.finditer(r'fecha=(\d{2}/\d{2}/\d{4})(?:&|&amp;)hora=(\d{1,2}:\d{2})(?:&|&amp;)sala=([^&"\']+)', html_str)
         
         for match in matches:
             fecha_str, hora, sala = match.groups()
