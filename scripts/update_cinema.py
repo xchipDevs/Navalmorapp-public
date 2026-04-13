@@ -34,7 +34,8 @@ MESES = {
 def validate_html(html, method_name):
     """Validate that HTML contains real cinema content"""
     if not html or len(html) < 2000:
-        print(f"  ⚠️ [{method_name}] HTML demasiado corto ({len(html) if html else 0} chars)")
+        snippet = repr(html[:200]) if html else ""
+        print(f"  ⚠️ [{method_name}] HTML demasiado corto ({len(html) if html else 0} chars): {snippet}")
         return False
     # Check for block/error pages
     if '403' in html[:500] and 'Forbidden' in html[:500]:
@@ -77,6 +78,11 @@ def scrape_with_wp_api():
         return None
     except Exception as e:
         print(f"  ❌ WordPress API falló: {e}")
+        try:
+            if 'response' in locals() and hasattr(response, 'text'):
+                print(f"     Respuesta en bruto: {repr(response.text[:200])}")
+        except:
+            pass
         return None
 
 
@@ -103,6 +109,11 @@ def scrape_with_cloudscraper():
         return None
     except Exception as e:
         print(f"  ❌ cloudscraper falló: {e}")
+        try:
+            if 'response' in locals() and hasattr(response, 'text'):
+                print(f"     Respuesta en bruto: {repr(response.text[:200])}")
+        except:
+            pass
         return None
 
 
@@ -126,6 +137,11 @@ def scrape_with_curl_cffi():
         return None
     except Exception as e:
         print(f"  ❌ curl_cffi falló: {e}")
+        try:
+            if 'response' in locals() and hasattr(response, 'text'):
+                print(f"     Respuesta en bruto: {repr(response.text[:200])}")
+        except:
+            pass
         return None
 
 
