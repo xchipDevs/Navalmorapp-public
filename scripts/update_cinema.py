@@ -31,84 +31,8 @@ MESES = {
 # Configurar Gemini (ahora local en la función)
 
 
-def validate_html(html, method_name):
-    """Validate that HTML contains real cinema content"""
-    if not html or len(html) < 2000:
-        snippet = repr(html[:200]) if html else ""
-        print(f"  ⚠️ [{method_name}] HTML demasiado corto ({len(html) if html else 0} chars): {snippet}")
-        return False
-    # Check for block/error pages
-    if '403' in html[:500] and 'Forbidden' in html[:500]:
-        print(f"  ⚠️ [{method_name}] Página 403 Forbidden detectada")
-        return False
-    # Validate content has movie-related elements (h1/h2 with movie titles, or wp-block-heading)
-    has_content = 'wp-block-heading' in html or 'td-page-content' in html or 'HORARIO' in html
-    if not has_content:
-        print(f"  ⚠️ [{method_name}] No se detectó contenido de cine")
-        return False
-    print(f"  ✅ [{method_name}] HTML válido: {len(html)} caracteres")
-    return True
 
-
-def _handle_sgcaptcha(session, response, base_url, method_name):
-    """Handle SiteGround's sgcaptcha redirect flow. Returns final HTML or None."""
-    html = response.text
-    
-    # Check if it's an sgcaptcha redirect
-    if 'sgcaptcha' not in html and len(html) > 500:
-        return html  # Not a captcha page, return as-is
-    
-    if 'sgcaptcha' not in html:
-        return None  # Short HTML but not sgcaptcha
-    
-    # Parse the redirect URL from meta refresh
-    import re
-    match = re.search(r'content="0;([^"]+)"', html)
-    if not match:
-        print(f"  ⚠️ [{method_name}] sgcaptcha detectado pero no se pudo parsear redirect URL")
-        return None
-    
-    redirect_path = match.group(1)
-    # Build full URL
-    from urllib.parse import urljoin
-    captcha_url = urljoin(base_url, redirect_path)
-    print(f"  🔑 [{method_name}] sgcaptcha detectado, siguiendo redirect: {captcha_url[:80]}...")
-    
-    try:
-        # Follow the captcha redirect - this should set cookies
-        captcha_response = session.get(captcha_url, timeout=30)
-        print(f"  🔑 [{method_name}] sgcaptcha status: {captcha_response.status_code}")
-        
-        # Check if the captcha response itself has another redirect
-        captcha_html = captcha_response.text
-        if 'sgcaptcha' in captcha_html:
-            # There might be a second redirect
-            match2 = re.search(r'content="0;([^"]+)"', captcha_html)
-            if match2:
-                redirect_path2 = match2.group(1)
-                captcha_url2 = urljoin(base_url, redirect_path2)
-                print(f"  🔑 [{method_name}] Segundo redirect: {captcha_url2[:80]}...")
-                captcha_response = session.get(captcha_url2, timeout=30)
-        
-        # Log cookies received
-        cookies = dict(session.cookies) if hasattr(session, 'cookies') else {}
-        print(f"  🍪 [{method_name}] Cookies recibidas: {list(cookies.keys())}")
-        
-        # Now retry the original URL with the session (cookies should be set)
-        print(f"  🔄 [{method_name}] Reintentando URL original con cookies...")
-        final_response = session.get(base_url, timeout=30)
-        final_html = final_response.text
-        
-        if len(final_html) > 500 and 'sgcaptcha' not in final_html:
-            print(f"  ✅ [{method_name}] sgcaptcha bypass exitoso! {len(final_html)} chars")
-            return final_html
-        else:
-            print(f"  ❌ [{method_name}] sgcaptcha bypass falló, HTML: {len(final_html)} chars")
-            if 'sgcaptcha' in final_html:
-                print(f"     Sigue redirigiendo a sgcaptcha")
-            return None
-    except Exception as e:
-        print(f"  ❌ [{method_name}] Error siguienasync def scrape_cinema():
+async def scrape_cinema():
     """Fetch movie list from Kinetike"""
     print("🌐 Iniciando scraping desde Kinetike...")
     # Base URL for Navalmoral
