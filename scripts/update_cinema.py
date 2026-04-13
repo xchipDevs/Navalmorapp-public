@@ -36,16 +36,65 @@ async def scrape_cinema():
     
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page()
+        context = await browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            viewport={"width": 1920, "height": 1080},
+            locale="es-ES"
+        )
+        page = await context.new_page()
         
         try:
-            await page.goto(CINEMA_URL, wait_until="networkidle", timeout=30000)
-            await asyncio.sleep(1.5)  # Esperar carga de JavaScript
+            # Intentar con networkidle primero, luego domcontentloaded como fallback
+            for attempt, wait_strategy in enumerate(["networkidle", "domcontentloaded"], 1):
+                try:
+                    print(f"  🔄 Intento {attempt}: wait_until={wait_strategy}")
+                    await page.goto(CINEMA_URL, wait_until=wait_strategy, timeout=30000)
+                    await asyncio.sleep(3)  # Esperar carga de JavaScript
+                    
+                    html = await page.content()
+                    
+                    # Validar que recibimos contenido real
+                    if 'td-page-content' in html and len(html) > 5000:
+                        print(f"  ✅ HTML recibido: {len(html)} caracteres")
+                        
+                        # Debug: contar elementos clave
+                        from bs4 import BeautifulSoup as BS
+                        quick_soup = BS(html, 'html.parser')
+                        h1_count = len(quick_soup.find_all('h1'))
+                        h2_count = len(quick_soup.find_all('h2'))
+                        h3_count = len(quick_soup.find_all('h3'))
+                        img_count = len(quick_soup.find_all('img'))
+                        print(f"  📊 Elementos: h1={h1_count}, h2={h2_count}, h3={h3_count}, img={img_count}")
+                        
+                        await browser.close()
+                        return html
+                    else:
+                        print(f"  ⚠️ HTML insuficiente ({len(html)} chars), reintentando...")
+                        
+                except Exception as e:
+                    print(f"  ⚠️ Intento {attempt} falló: {e}")
             
+            # Último recurso: esperar más tiempo
+            print("  🔄 Último intento con espera extendida...")
+            await page.goto(CINEMA_URL, timeout=60000)
+            await asyncio.sleep(8)
             html = await page.content()
-            await browser.close()
+            print(f"  📊 HTML final: {len(html)} caracteres")
             
+            # Debug: imprimir primeros 500 chars del body si falla
+            if 'td-page-content' not in html:
+                print(f"  ❌ WARNING: 'td-page-content' NO encontrado en HTML")
+                # Imprimir título de la página para debug
+                from bs4 import BeautifulSoup as BS
+                quick_soup = BS(html, 'html.parser')
+                title = quick_soup.title.string if quick_soup.title else 'Sin título'
+                print(f"  📄 Título de página: {title}")
+                body_text = quick_soup.body.get_text()[:300] if quick_soup.body else 'Sin body'
+                print(f"  📄 Body preview: {body_text}")
+            
+            await browser.close()
             return html
+            
         except Exception as e:
             print(f"❌ Error al scrapear: {e}")
             await browser.close()
@@ -63,12 +112,34 @@ def parse_movies(html):
         print("❌ No se encontró contenedor de contenido")
         return []
     
+    print(f"  📦 Contenedor encontrado: <{content_div.name} class='{' '.join(content_div.get('class', []))}'>")
+    
+    # Recopilar todos los nodos relevantes (directos e hijos de wrappers)
+    # Esto maneja tanto estructura plana como envuelta en divs
+    nodes = []
+    for child in content_div.children:
+        if not child.name:
+            continue
+        # Si es un div wrapper (wp-block-group, wp-block-image, etc.), incluir sus hijos
+        if child.name == 'div' and not child.find(['h1', 'h2'], recursive=False):
+            # Es un div que NO tiene h1/h2 directos - incluir el div mismo (para imágenes, etc.)
+            nodes.append(child)
+        elif child.name == 'div':
+            # Div con h1/h2 dentro - desempaquetar sus hijos
+            for sub in child.descendants:
+                if sub.name:
+                    nodes.append(sub)
+        else:
+            nodes.append(child)
+    
+    print(f"  📊 Total nodos a procesar: {len(nodes)}")
+    
     movies = []
     current_movie = None
     current_day = None  # State Machine: Day Context
     expecting_synopsis = False # State Machine: Synopsis Context
     
-    for node in content_div.children:
+    for node in nodes:
         if not node.name:
             continue
             
@@ -446,6 +517,30 @@ def generate_json(movies):
     print(f"✅ JSON generado: {OUTPUT_FILE}")
     print(f"📊 {len(movies)} películas procesadas")
 
+def scrape_cinema_fallback():
+    """Fallback scraping using requests with browser-like headers"""
+    print("🔄 Intentando scraping con requests (fallback)...")
+    
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Cache-Control': 'max-age=0',
+    }
+    
+    try:
+        response = requests.get(CINEMA_URL, headers=headers, timeout=30)
+        response.raise_for_status()
+        html = response.text
+        print(f"  ✅ HTML recibido via requests: {len(html)} caracteres")
+        return html
+    except Exception as e:
+        print(f"  ❌ Fallback requests también falló: {e}")
+        return None
+
 async def main():
     """Main execution"""
     try:
@@ -455,8 +550,25 @@ async def main():
         # 2. Parsing
         movies = parse_movies(html)
         
+        # 2b. Si no hay películas, intentar fallback con requests
         if not movies:
-            print("❌ No se encontraron películas")
+            print("⚠️ Playwright no encontró películas, intentando fallback...")
+            
+            # Debug: guardar HTML para análisis
+            try:
+                debug_file = "debug_cinema_html.txt"
+                with open(debug_file, 'w', encoding='utf-8') as f:
+                    f.write(html)
+                print(f"  📄 HTML de Playwright guardado en {debug_file} ({len(html)} chars)")
+            except:
+                pass
+            
+            html_fallback = scrape_cinema_fallback()
+            if html_fallback:
+                movies = parse_movies(html_fallback)
+        
+        if not movies:
+            print("❌ No se encontraron películas con ningún método")
             sys.exit(1)
         
         # 3. AI Cleaning (BATCH - 1 petición)
