@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T17:04:48.555455Z",
-  "expires_at": "2026-04-14T17:04:48.555455Z",
+  "generated_at": "2026-04-13T19:16:00.136885Z",
+  "expires_at": "2026-04-14T19:16:00.136885Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": null,
       "trailerUrl": "https://www.youtube.com/watch?v=rZ6xn57p4J0",
       "showtimes": {
-        "Lunes 13 de abril": [
-          "19:30"
-        ],
         "Martes 14 de abril": [
           "18:30"
         ],
@@ -30,7 +27,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "rating": 8.233,
+      "rating": 8.2,
       "releaseDate": "2026-03-15",
       "duration": "157 min",
       "trailerUrl": "https://www.youtube.com/watch?v=in-lUuKi0eE",
@@ -45,7 +42,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": 6.822,
+      "rating": 6.826,
       "releaseDate": "2026-04-01",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
