@@ -2,4 +2,5 @@ playwright==1.49.0
 google-genai>=1.51.0
 requests==2.32.3
 beautifulsoup4==4.12.3
+cloudscraper>=1.2.71
 pillow
