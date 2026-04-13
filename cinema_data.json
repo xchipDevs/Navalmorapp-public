@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T16:44:42.527504Z",
-  "expires_at": "2026-04-14T16:44:42.527504Z",
+  "generated_at": "2026-04-13T17:04:48.555455Z",
+  "expires_at": "2026-04-14T17:04:48.555455Z",
   "version": "1.0",
   "movies": [
     {
@@ -35,9 +35,6 @@
       "duration": "157 min",
       "trailerUrl": "https://www.youtube.com/watch?v=in-lUuKi0eE",
       "showtimes": {
-        "Lunes 13 de abril": [
-          "18:30"
-        ],
         "Miércoles 15 de abril": [
           "20:45"
         ]
