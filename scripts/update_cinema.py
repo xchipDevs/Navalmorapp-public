@@ -9,13 +9,14 @@ import os
 import sys
 from datetime import datetime
 import asyncio
-from playwright.async_api import async_playwright
 import requests
 from bs4 import BeautifulSoup
 import re
+import urllib.parse
 
 # Configuración
 CINEMA_URL = "https://tietarteve.com/cine-navalmoral/"
+CINEMA_WP_API_URL = "https://tietarteve.com/wp-json/wp/v2/pages/58931"
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 TMDB_READ_TOKEN = os.getenv("TMDB_READ_TOKEN")
@@ -30,75 +31,241 @@ MESES = {
 # Configurar Gemini (ahora local en la función)
 
 
-async def scrape_cinema():
-    """Scrape cinema website using Playwright"""
-    print("🌐 Iniciando scraping del cine...")
+def validate_html(html, method_name):
+    """Validate that HTML contains real cinema content"""
+    if not html or len(html) < 2000:
+        print(f"  ⚠️ [{method_name}] HTML demasiado corto ({len(html) if html else 0} chars)")
+        return False
+    # Check for block/error pages
+    if '403' in html[:500] and 'Forbidden' in html[:500]:
+        print(f"  ⚠️ [{method_name}] Página 403 Forbidden detectada")
+        return False
+    # Validate content has movie-related elements (h1/h2 with movie titles, or wp-block-heading)
+    has_content = 'wp-block-heading' in html or 'td-page-content' in html or 'HORARIO' in html
+    if not has_content:
+        print(f"  ⚠️ [{method_name}] No se detectó contenido de cine")
+        return False
+    print(f"  ✅ [{method_name}] HTML válido: {len(html)} caracteres")
+    return True
+
+
+def scrape_with_wp_api():
+    """Primary method: WordPress REST API bypasses firewall completely"""
+    print("\n📡 Método 0: WordPress REST API...")
     
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-            viewport={"width": 1920, "height": 1080},
-            locale="es-ES"
-        )
-        page = await context.new_page()
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept': 'application/json',
+    }
+    
+    try:
+        response = requests.get(CINEMA_WP_API_URL, headers=headers, timeout=30)
+        response.raise_for_status()
+        data = response.json()
         
-        try:
-            # Intentar con networkidle primero, luego domcontentloaded como fallback
-            for attempt, wait_strategy in enumerate(["networkidle", "domcontentloaded"], 1):
-                try:
-                    print(f"  🔄 Intento {attempt}: wait_until={wait_strategy}")
-                    await page.goto(CINEMA_URL, wait_until=wait_strategy, timeout=30000)
-                    await asyncio.sleep(3)  # Esperar carga de JavaScript
-                    
-                    html = await page.content()
-                    
-                    # Validar que recibimos contenido real
-                    if 'td-page-content' in html and len(html) > 5000:
-                        print(f"  ✅ HTML recibido: {len(html)} caracteres")
-                        
-                        # Debug: contar elementos clave
-                        from bs4 import BeautifulSoup as BS
-                        quick_soup = BS(html, 'html.parser')
-                        h1_count = len(quick_soup.find_all('h1'))
-                        h2_count = len(quick_soup.find_all('h2'))
-                        h3_count = len(quick_soup.find_all('h3'))
-                        img_count = len(quick_soup.find_all('img'))
-                        print(f"  📊 Elementos: h1={h1_count}, h2={h2_count}, h3={h3_count}, img={img_count}")
-                        
-                        await browser.close()
-                        return html
-                    else:
-                        print(f"  ⚠️ HTML insuficiente ({len(html)} chars), reintentando...")
-                        
-                except Exception as e:
-                    print(f"  ⚠️ Intento {attempt} falló: {e}")
-            
-            # Último recurso: esperar más tiempo
-            print("  🔄 Último intento con espera extendida...")
-            await page.goto(CINEMA_URL, timeout=60000)
-            await asyncio.sleep(8)
-            html = await page.content()
-            print(f"  📊 HTML final: {len(html)} caracteres")
-            
-            # Debug: imprimir primeros 500 chars del body si falla
-            if 'td-page-content' not in html:
-                print(f"  ❌ WARNING: 'td-page-content' NO encontrado en HTML")
-                # Imprimir título de la página para debug
-                from bs4 import BeautifulSoup as BS
-                quick_soup = BS(html, 'html.parser')
-                title = quick_soup.title.string if quick_soup.title else 'Sin título'
-                print(f"  📄 Título de página: {title}")
-                body_text = quick_soup.body.get_text()[:300] if quick_soup.body else 'Sin body'
-                print(f"  📄 Body preview: {body_text}")
-            
-            await browser.close()
+        # The rendered content is in data['content']['rendered']
+        html_content = data.get('content', {}).get('rendered', '')
+        if not html_content:
+            print("  ⚠️ API respondió pero sin contenido renderizado")
+            return None
+        
+        # Wrap in a div with the expected class so parse_movies finds it
+        html = f'<html><body><div class="td-page-content">{html_content}</div></body></html>'
+        
+        if validate_html(html, 'wp-api'):
             return html
-            
+        return None
+    except Exception as e:
+        print(f"  ❌ WordPress API falló: {e}")
+        return None
+
+
+def scrape_with_cloudscraper():
+    """Secondary method: cloudscraper bypasses Cloudflare/anti-bot"""
+    print("\n🛡️ Método 1: cloudscraper...")
+    try:
+        import cloudscraper
+        scraper = cloudscraper.create_scraper(
+            browser={
+                'browser': 'chrome',
+                'platform': 'windows',
+                'desktop': True
+            }
+        )
+        response = scraper.get(CINEMA_URL, timeout=30)
+        response.raise_for_status()
+        html = response.text
+        if validate_html(html, 'cloudscraper'):
+            return html
+        return None
+    except ImportError:
+        print("  ⚠️ cloudscraper no instalado, saltando...")
+        return None
+    except Exception as e:
+        print(f"  ❌ cloudscraper falló: {e}")
+        return None
+
+
+def scrape_with_curl_cffi():
+    """Secondary method: curl_cffi mimics Chrome TLS fingerprint"""
+    print("\n🔧 Método 2: curl_cffi...")
+    try:
+        from curl_cffi import requests as curl_requests
+        response = curl_requests.get(
+            CINEMA_URL,
+            impersonate="chrome131",
+            timeout=30
+        )
+        response.raise_for_status()
+        html = response.text
+        if validate_html(html, 'curl_cffi'):
+            return html
+        return None
+    except ImportError:
+        print("  ⚠️ curl_cffi no instalado, saltando...")
+        return None
+    except Exception as e:
+        print(f"  ❌ curl_cffi falló: {e}")
+        return None
+
+
+def scrape_with_proxy_api():
+    """Tertiary method: use free proxy/cache APIs"""
+    print("\n🌐 Método 3: Proxy APIs...")
+    
+    encoded_url = urllib.parse.quote(CINEMA_URL, safe='')
+    
+    proxy_apis = [
+        {
+            'name': 'allorigins',
+            'url': f'https://api.allorigins.win/raw?url={encoded_url}',
+            'extract': lambda r: r.text
+        },
+        {
+            'name': 'corsproxy.io',
+            'url': f'https://corsproxy.io/?{encoded_url}',
+            'extract': lambda r: r.text
+        },
+    ]
+    
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    }
+    
+    for api in proxy_apis:
+        try:
+            print(f"  🔄 Intentando {api['name']}...")
+            response = requests.get(api['url'], headers=headers, timeout=30)
+            response.raise_for_status()
+            html = api['extract'](response)
+            if validate_html(html, api['name']):
+                return html
         except Exception as e:
-            print(f"❌ Error al scrapear: {e}")
-            await browser.close()
-            raise
+            print(f"  ❌ {api['name']} falló: {e}")
+    
+    return None
+
+
+def scrape_with_requests():
+    """Fallback: direct requests with browser headers"""
+    print("\n📡 Método 4: requests directo...")
+    
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Cache-Control': 'max-age=0',
+    }
+    
+    try:
+        response = requests.get(CINEMA_URL, headers=headers, timeout=30)
+        response.raise_for_status()
+        html = response.text
+        if validate_html(html, 'requests'):
+            return html
+        return None
+    except Exception as e:
+        print(f"  ❌ requests falló: {e}")
+        return None
+
+
+async def scrape_with_playwright():
+    """Last resort: Playwright with stealth"""
+    print("\n🎭 Método 5: Playwright con stealth...")
+    try:
+        from playwright.async_api import async_playwright
+    except ImportError:
+        print("  ⚠️ playwright no instalado, saltando...")
+        return None
+    
+    try:
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=True)
+            context = await browser.new_context(
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+                viewport={"width": 1920, "height": 1080},
+                locale="es-ES"
+            )
+            page = await context.new_page()
+            
+            # Stealth: override navigator properties
+            await page.add_init_script("""
+                Object.defineProperty(navigator, 'webdriver', { get: () => false });
+                Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3] });
+                Object.defineProperty(navigator, 'languages', { get: () => ['es-ES', 'es', 'en'] });
+                window.chrome = { runtime: {} };
+            """)
+            
+            try:
+                await page.goto(CINEMA_URL, wait_until="domcontentloaded", timeout=30000)
+                await asyncio.sleep(5)
+                html = await page.content()
+                await browser.close()
+                
+                if validate_html(html, 'playwright'):
+                    return html
+                return None
+            except Exception as e:
+                print(f"  ❌ Playwright navegación falló: {e}")
+                await browser.close()
+                return None
+    except Exception as e:
+        print(f"  ❌ Playwright falló: {e}")
+        return None
+
+
+async def scrape_cinema():
+    """Try multiple scraping methods until one works"""
+    print("🌐 Iniciando scraping del cine...")
+    print(f"  🎯 URL: {CINEMA_URL}")
+    
+    # Try each method in order of reliability
+    # wp_api is the most reliable: uses WordPress REST API, bypasses firewall
+    methods = [
+        ('wp_api', lambda: scrape_with_wp_api()),
+        ('cloudscraper', lambda: scrape_with_cloudscraper()),
+        ('curl_cffi', lambda: scrape_with_curl_cffi()),
+        ('proxy_api', lambda: scrape_with_proxy_api()),
+        ('requests', lambda: scrape_with_requests()),
+    ]
+    
+    for name, method in methods:
+        html = method()
+        if html:
+            print(f"\n✅ Scraping exitoso con: {name}")
+            return html
+    
+    # Playwright is async, try separately
+    html = await scrape_with_playwright()
+    if html:
+        print(f"\n✅ Scraping exitoso con: playwright")
+        return html
+    
+    print("\n❌ Todos los métodos de scraping fallaron")
+    raise Exception("No se pudo obtener el HTML de la página del cine")
 
 def parse_movies(html):
     """Parse HTML and extract raw movie data"""
@@ -517,58 +684,25 @@ def generate_json(movies):
     print(f"✅ JSON generado: {OUTPUT_FILE}")
     print(f"📊 {len(movies)} películas procesadas")
 
-def scrape_cinema_fallback():
-    """Fallback scraping using requests with browser-like headers"""
-    print("🔄 Intentando scraping con requests (fallback)...")
-    
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Connection': 'keep-alive',
-        'Upgrade-Insecure-Requests': '1',
-        'Cache-Control': 'max-age=0',
-    }
-    
-    try:
-        response = requests.get(CINEMA_URL, headers=headers, timeout=30)
-        response.raise_for_status()
-        html = response.text
-        print(f"  ✅ HTML recibido via requests: {len(html)} caracteres")
-        return html
-    except Exception as e:
-        print(f"  ❌ Fallback requests también falló: {e}")
-        return None
-
 async def main():
     """Main execution"""
     try:
-        # 1. Scraping
+        # 1. Scraping (tries multiple methods)
         html = await scrape_cinema()
         
         # 2. Parsing
         movies = parse_movies(html)
         
-        # 2b. Si no hay películas, intentar fallback con requests
         if not movies:
-            print("⚠️ Playwright no encontró películas, intentando fallback...")
-            
             # Debug: guardar HTML para análisis
             try:
                 debug_file = "debug_cinema_html.txt"
                 with open(debug_file, 'w', encoding='utf-8') as f:
                     f.write(html)
-                print(f"  📄 HTML de Playwright guardado en {debug_file} ({len(html)} chars)")
+                print(f"  📄 HTML guardado en {debug_file} ({len(html)} chars)")
             except:
                 pass
-            
-            html_fallback = scrape_cinema_fallback()
-            if html_fallback:
-                movies = parse_movies(html_fallback)
-        
-        if not movies:
-            print("❌ No se encontraron películas con ningún método")
+            print("❌ No se encontraron películas")
             sys.exit(1)
         
         # 3. AI Cleaning (BATCH - 1 petición)
