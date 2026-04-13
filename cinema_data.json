@@ -1,66 +1,35 @@
 {
-  "generated_at": "2026-03-29T10:36:33.334689Z",
-  "expires_at": "2026-03-30T10:36:33.334689Z",
+  "generated_at": "2026-04-13T16:31:38.403467Z",
+  "expires_at": "2026-04-14T16:31:38.403467Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "Amarga Navidad",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tVGFQvPsjymxjPn3lU90XUhIEAW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/fKMBfxVk7wn3vZceAU3vkknUukS.jpg",
-      "overview": "Tras el fallecimiento de su madre en diciembre, Elsa, directora de publicidad, se sumerge en el trabajo para afrontar la situación. Cuando un ataque de pánico la obliga a tomarse un descanso, decide viajar a Lanzarote con su amiga Patricia mientras su pareja, Bonifacio, se queda en Madrid.",
-      "rating": 7.6,
-      "releaseDate": "2026-03-20",
-      "duration": "111 min",
-      "trailerUrl": "https://www.youtube.com/embed/SNbVMk-nLu4?feature=oembed",
+      "title": "BOULEVARD",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6Vh5LgcDh1eKJboeNdzkx4nxWsZ.jpg",
+      "backdropUrl": null,
+      "overview": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
+      "rating": 3.0,
+      "releaseDate": "2026-04-10",
+      "duration": null,
+      "trailerUrl": "https://www.youtube.com/watch?v=rZ6xn57p4J0",
       "showtimes": {
-        "Viernes 27 de marzo de 2026": [
-          "20:00",
-          "22:00"
-        ],
-        "Sábado 28 de marzo de 2026": [
-          "19:00",
-          "21:30"
-        ],
-        "Domingo 29 de marzo de 2026": [
-          "19:15",
-          "21:30"
-        ],
-        "Lunes 30 de marzo de 2026": [
-          "20:30"
-        ],
-        "Martes 31 de marzo de 2026": [
-          "20:00"
-        ],
-        "Miércoles 1 de abril de 2026": [
-          "19:30",
-          "21:30"
+        "Lunes 13 de abril": [
+          "19:30"
         ]
       }
     },
     {
-      "title": "Tafiti y sus amigos",
-      "posterUrl": "https://tietarteve.com/wp-content/uploads/2026/03/CINE-Tafiti-y-sus-amigos-424x600.jpg",
-      "backdropUrl": null,
-      "overview": "Cuando Tafiti, una joven suricata, conoce a Bristles, el cerdo salvaje, sabe que no pueden ser amigos. Pero cuando Bristles es atacado por un águila, es Tafiti quien corre a rescatarlo. En busca desesperada de un amigo, el divertido cerdo salvaje sigue a Tafiti a su casa, provocando sin querer un desafortunado accidente: el abuelo de Tafiti es mordido por una serpiente venenosa mortal. Sólo una mítica flor del desierto podrá salvarlo. Tafiti emprende un peligroso viaje para encontrar la flor, convencido de que debe hacerlo sola.",
-      "rating": null,
-      "releaseDate": null,
-      "duration": "81 min",
-      "trailerUrl": "https://www.youtube.com/embed/AkujJxLXtpg?feature=oembed",
+      "title": "PROYECTO SALVACIÓN",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "rating": 8.233,
+      "releaseDate": "2026-03-15",
+      "duration": "157 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=in-lUuKi0eE",
       "showtimes": {
-        "Viernes 27 de marzo de 2026": [
-          "18:00"
-        ],
-        "Sábado 28 de marzo de 2026": [
-          "18:00"
-        ],
-        "Domingo 29 de marzo de 2026": [
-          "17:30"
-        ],
-        "Lunes 30 de marzo de 2026": [
-          "18:00"
-        ],
-        "Martes 31 de marzo de 2026": [
-          "18:00"
+        "Lunes 13 de abril": [
+          "18:30"
         ]
       }
     },
@@ -69,76 +38,28 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
       "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "rating": 6.4,
+      "rating": 6.536,
       "releaseDate": "2026-03-13",
       "duration": "102 min",
-      "trailerUrl": "https://www.youtube.com/embed/tnH_xUjTObI?feature=oembed",
+      "trailerUrl": "https://www.youtube.com/watch?v=tnH_xUjTObI",
       "showtimes": {
-        "Viernes 27 de marzo de 2026": [
-          "19:30",
-          "21:45"
-        ],
-        "Sábado 28 de marzo de 2026": [
-          "19:30",
-          "21:45"
-        ],
-        "Domingo 29 de marzo de 2026": [
-          "19:00",
+        "Lunes 13 de abril": [
+          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "TRES ADIOSES",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ooJChz3CumTevKFMd6fTETcmIm.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
+      "overview": "Marta y Antonio son una pareja que se separa tras lo que parece una discusión trivial. Marta (Alba Rohrwacher) reacciona a la ruptura encerrándose en sí misma. El único síntoma que no puede ignorar es su repentina falta de apetito. Mientras, Antonio (Elio Germano), un chef al alza, no consigue olvidarla a pesar de haber sido él quien terminó la relación.",
+      "rating": 7.2,
+      "releaseDate": "2025-10-09",
+      "duration": "122 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=xOkvUm3dz5s",
+      "showtimes": {
+        "Lunes 13 de abril": [
           "21:15"
-        ],
-        "Lunes 30 de marzo de 2026": [
-          "19:30",
-          "21:30"
-        ],
-        "Martes 31 de marzo de 2026": [
-          "19:30",
-          "21:30"
-        ],
-        "Miércoles 1 de abril de 2026": [
-          "22:00"
-        ]
-      }
-    },
-    {
-      "title": "ESTRENO – Super Mario Galaxy",
-      "posterUrl": "https://tietarteve.com/wp-content/uploads/2026/03/CINE-Super-Mario-Galaxy-414x600.jpg",
-      "backdropUrl": null,
-      "overview": "Secuela de «Super Mario Bros: La película», basada en la saga «Mario Galaxy». Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": null,
-      "releaseDate": null,
-      "duration": "98 min",
-      "trailerUrl": "https://www.youtube.com/embed/Hz57G2KaAp8?feature=oembed",
-      "showtimes": {
-        "Miércoles 1 de abril de 2026": [
-          "18:00",
-          "20:00"
-        ]
-      }
-    },
-    {
-      "title": "Hoppers. Operación Castor",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "rating": 7.6,
-      "releaseDate": "2026-03-04",
-      "duration": "105 min",
-      "trailerUrl": "https://www.youtube.com/embed/9P_3xFt3HBk?feature=oembed",
-      "showtimes": {
-        "Viernes 27 de marzo de 2026": [
-          "18:00"
-        ],
-        "Sábado 28 de marzo de 2026": [
-          "17:00"
-        ],
-        "Domingo 29 de marzo de 2026": [
-          "17:00"
-        ],
-        "Martes 31 de marzo de 2026": [
-          "17:30"
-        ],
-        "Miércoles 1 de abril de 2026": [
-          "17:30"
         ]
       }
     }
