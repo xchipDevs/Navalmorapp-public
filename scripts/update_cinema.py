@@ -50,112 +50,171 @@ def validate_html(html, method_name):
     return True
 
 
+def _handle_sgcaptcha(session, response, base_url, method_name):
+    """Handle SiteGround's sgcaptcha redirect flow. Returns final HTML or None."""
+    html = response.text
+    
+    # Check if it's an sgcaptcha redirect
+    if 'sgcaptcha' not in html and len(html) > 500:
+        return html  # Not a captcha page, return as-is
+    
+    if 'sgcaptcha' not in html:
+        return None  # Short HTML but not sgcaptcha
+    
+    # Parse the redirect URL from meta refresh
+    import re
+    match = re.search(r'content="0;([^"]+)"', html)
+    if not match:
+        print(f"  ⚠️ [{method_name}] sgcaptcha detectado pero no se pudo parsear redirect URL")
+        return None
+    
+    redirect_path = match.group(1)
+    # Build full URL
+    from urllib.parse import urljoin
+    captcha_url = urljoin(base_url, redirect_path)
+    print(f"  🔑 [{method_name}] sgcaptcha detectado, siguiendo redirect: {captcha_url[:80]}...")
+    
+    try:
+        # Follow the captcha redirect - this should set cookies
+        captcha_response = session.get(captcha_url, timeout=30)
+        print(f"  🔑 [{method_name}] sgcaptcha status: {captcha_response.status_code}")
+        
+        # Check if the captcha response itself has another redirect
+        captcha_html = captcha_response.text
+        if 'sgcaptcha' in captcha_html:
+            # There might be a second redirect
+            match2 = re.search(r'content="0;([^"]+)"', captcha_html)
+            if match2:
+                redirect_path2 = match2.group(1)
+                captcha_url2 = urljoin(base_url, redirect_path2)
+                print(f"  🔑 [{method_name}] Segundo redirect: {captcha_url2[:80]}...")
+                captcha_response = session.get(captcha_url2, timeout=30)
+        
+        # Log cookies received
+        cookies = dict(session.cookies) if hasattr(session, 'cookies') else {}
+        print(f"  🍪 [{method_name}] Cookies recibidas: {list(cookies.keys())}")
+        
+        # Now retry the original URL with the session (cookies should be set)
+        print(f"  🔄 [{method_name}] Reintentando URL original con cookies...")
+        final_response = session.get(base_url, timeout=30)
+        final_html = final_response.text
+        
+        if len(final_html) > 500 and 'sgcaptcha' not in final_html:
+            print(f"  ✅ [{method_name}] sgcaptcha bypass exitoso! {len(final_html)} chars")
+            return final_html
+        else:
+            print(f"  ❌ [{method_name}] sgcaptcha bypass falló, HTML: {len(final_html)} chars")
+            if 'sgcaptcha' in final_html:
+                print(f"     Sigue redirigiendo a sgcaptcha")
+            return None
+    except Exception as e:
+        print(f"  ❌ [{method_name}] Error siguiendo sgcaptcha: {e}")
+        return None
+
+
 def scrape_with_wp_api():
-    """Primary method: WordPress REST API bypasses firewall completely"""
+    """Primary method: WordPress REST API with sgcaptcha handling"""
     print("\n📡 Método 0: WordPress REST API...")
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
-        'Accept': 'application/json',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
     }
     
-    # Try with curl_cffi first (best TLS fingerprint)
+    # Try with curl_cffi session (best TLS fingerprint + cookie handling)
     try:
         from curl_cffi import requests as curl_requests
-        print("  🔧 Intentando WP API con curl_cffi...")
-        response = curl_requests.get(CINEMA_WP_API_URL, headers=headers, impersonate="chrome131", timeout=30)
-        response.raise_for_status()
-        data = response.json()
-        html_content = data.get('content', {}).get('rendered', '')
-        if html_content:
-            html = f'<html><body><div class="td-page-content">{html_content}</div></body></html>'
-            if validate_html(html, 'wp-api-curl'):
-                return html
+        print("  🔧 Intentando WP API con curl_cffi session...")
+        session = curl_requests.Session(impersonate="chrome131")
+        session.headers.update(headers)
+        
+        # First hit the main page to get/solve sgcaptcha cookies
+        response = session.get(CINEMA_URL, timeout=30)
+        result = _handle_sgcaptcha(session, response, "https://tietarteve.com", 'wp-api-curl')
+        
+        if result and 'sgcaptcha' not in result:
+            # Cookies are set, now try the WP API
+            print("  🔧 Cookies obtenidas, accediendo WP API...")
+            api_response = session.get(CINEMA_WP_API_URL, timeout=30)
+            try:
+                data = api_response.json()
+                html_content = data.get('content', {}).get('rendered', '')
+                if html_content:
+                    html = f'<html><body><div class="td-page-content">{html_content}</div></body></html>'
+                    if validate_html(html, 'wp-api-curl'):
+                        return html
+            except:
+                print(f"  ⚠️ WP API no devolvió JSON válido tras sgcaptcha")
+            
+            # If API didn't work, but the main page did, use that
+            if validate_html(result, 'wp-page-curl'):
+                return result
+                
     except ImportError:
         print("  ⚠️ curl_cffi no disponible para WP API")
     except Exception as e:
         print(f"  ⚠️ WP API con curl_cffi falló: {e}")
     
-    # Fallback to plain requests
+    # Fallback to plain requests with session
     try:
-        print("  🔧 Intentando WP API con requests...")
-        response = requests.get(CINEMA_WP_API_URL, headers=headers, timeout=30)
-        response.raise_for_status()
-        data = response.json()
-        html_content = data.get('content', {}).get('rendered', '')
-        if not html_content:
-            print("  ⚠️ API respondió pero sin contenido renderizado")
-            return None
-        html = f'<html><body><div class="td-page-content">{html_content}</div></body></html>'
-        if validate_html(html, 'wp-api'):
-            return html
+        print("  🔧 Intentando WP API con requests session...")
+        session = requests.Session()
+        session.headers.update(headers)
+        
+        response = session.get(CINEMA_URL, timeout=30)
+        result = _handle_sgcaptcha(session, response, "https://tietarteve.com", 'wp-api-requests')
+        
+        if result and 'sgcaptcha' not in result:
+            api_response = session.get(CINEMA_WP_API_URL, timeout=30)
+            try:
+                data = api_response.json()
+                html_content = data.get('content', {}).get('rendered', '')
+                if html_content:
+                    html = f'<html><body><div class="td-page-content">{html_content}</div></body></html>'
+                    if validate_html(html, 'wp-api'):
+                        return html
+            except:
+                pass
+            if validate_html(result, 'wp-page'):
+                return result
         return None
     except Exception as e:
         print(f"  ❌ WordPress API falló: {e}")
-        try:
-            if 'response' in locals() and hasattr(response, 'text'):
-                print(f"     Respuesta en bruto: {repr(response.text[:200])}")
-        except:
-            pass
-        return None
-
-
-def scrape_with_cloudscraper():
-    """Secondary method: cloudscraper bypasses Cloudflare/anti-bot"""
-    print("\n🛡️ Método 1: cloudscraper...")
-    try:
-        import cloudscraper
-        scraper = cloudscraper.create_scraper(
-            browser={
-                'browser': 'chrome',
-                'platform': 'windows',
-                'desktop': True
-            }
-        )
-        response = scraper.get(CINEMA_URL, timeout=30)
-        response.raise_for_status()
-        html = response.text
-        if validate_html(html, 'cloudscraper'):
-            return html
-        return None
-    except ImportError:
-        print("  ⚠️ cloudscraper no instalado, saltando...")
-        return None
-    except Exception as e:
-        print(f"  ❌ cloudscraper falló: {e}")
-        try:
-            if 'response' in locals() and hasattr(response, 'text'):
-                print(f"     Respuesta en bruto: {repr(response.text[:200])}")
-        except:
-            pass
         return None
 
 
 def scrape_with_curl_cffi():
-    """Secondary method: curl_cffi mimics Chrome TLS fingerprint"""
-    print("\n🔧 Método 2: curl_cffi...")
+    """Secondary method: curl_cffi with sgcaptcha handling"""
+    print("\n🔧 Método 2: curl_cffi con sgcaptcha...")
     try:
         from curl_cffi import requests as curl_requests
-        response = curl_requests.get(
-            CINEMA_URL,
-            impersonate="chrome131",
-            timeout=30
-        )
-        response.raise_for_status()
-        html = response.text
-        if validate_html(html, 'curl_cffi'):
-            return html
+        
+        session = curl_requests.Session(impersonate="chrome131")
+        session.headers.update({
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+        })
+        
+        response = session.get(CINEMA_URL, timeout=30)
+        
+        # Handle sgcaptcha if present
+        result = _handle_sgcaptcha(session, response, "https://tietarteve.com", 'curl_cffi')
+        if result and validate_html(result, 'curl_cffi'):
+            return result
         return None
     except ImportError:
         print("  ⚠️ curl_cffi no instalado, saltando...")
         return None
     except Exception as e:
         print(f"  ❌ curl_cffi falló: {e}")
-        try:
-            if 'response' in locals() and hasattr(response, 'text'):
-                print(f"     Respuesta en bruto: {repr(response.text[:200])}")
-        except:
-            pass
         return None
 
 
@@ -297,11 +356,10 @@ async def scrape_cinema():
     print(f"  🎯 URL: {CINEMA_URL}")
     
     # Try each method in order of reliability
-    # wp_api uses curl_cffi internally if available for TLS bypass
+    # wp_api and curl_cffi use sessions to handle sgcaptcha cookies
     methods = [
         ('wp_api', lambda: scrape_with_wp_api()),
         ('curl_cffi', lambda: scrape_with_curl_cffi()),
-        ('cloudscraper', lambda: scrape_with_cloudscraper()),
         ('proxy_api', lambda: scrape_with_proxy_api()),
         ('google_cache', lambda: scrape_with_google_cache()),
         ('requests', lambda: scrape_with_requests()),
