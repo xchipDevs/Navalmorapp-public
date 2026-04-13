@@ -55,24 +55,38 @@ def scrape_with_wp_api():
     print("\n📡 Método 0: WordPress REST API...")
     
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
         'Accept': 'application/json',
     }
     
+    # Try with curl_cffi first (best TLS fingerprint)
     try:
+        from curl_cffi import requests as curl_requests
+        print("  🔧 Intentando WP API con curl_cffi...")
+        response = curl_requests.get(CINEMA_WP_API_URL, headers=headers, impersonate="chrome131", timeout=30)
+        response.raise_for_status()
+        data = response.json()
+        html_content = data.get('content', {}).get('rendered', '')
+        if html_content:
+            html = f'<html><body><div class="td-page-content">{html_content}</div></body></html>'
+            if validate_html(html, 'wp-api-curl'):
+                return html
+    except ImportError:
+        print("  ⚠️ curl_cffi no disponible para WP API")
+    except Exception as e:
+        print(f"  ⚠️ WP API con curl_cffi falló: {e}")
+    
+    # Fallback to plain requests
+    try:
+        print("  🔧 Intentando WP API con requests...")
         response = requests.get(CINEMA_WP_API_URL, headers=headers, timeout=30)
         response.raise_for_status()
         data = response.json()
-        
-        # The rendered content is in data['content']['rendered']
         html_content = data.get('content', {}).get('rendered', '')
         if not html_content:
             print("  ⚠️ API respondió pero sin contenido renderizado")
             return None
-        
-        # Wrap in a div with the expected class so parse_movies finds it
         html = f'<html><body><div class="td-page-content">{html_content}</div></body></html>'
-        
         if validate_html(html, 'wp-api'):
             return html
         return None
@@ -183,9 +197,33 @@ def scrape_with_proxy_api():
     return None
 
 
+def scrape_with_google_cache():
+    """Fallback: try Google's cached version of the page"""
+    print("\n🗄️ Método 4: Google Webcache...")
+    
+    google_cache_url = f"https://webcache.googleusercontent.com/search?q=cache:{CINEMA_URL}"
+    
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+    }
+    
+    try:
+        response = requests.get(google_cache_url, headers=headers, timeout=30)
+        response.raise_for_status()
+        html = response.text
+        if validate_html(html, 'google-cache'):
+            return html
+        return None
+    except Exception as e:
+        print(f"  ❌ Google Cache falló: {e}")
+        return None
+
+
 def scrape_with_requests():
     """Fallback: direct requests with browser headers"""
-    print("\n📡 Método 4: requests directo...")
+    print("\n📡 Método 5: requests directo...")
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
@@ -210,7 +248,7 @@ def scrape_with_requests():
 
 async def scrape_with_playwright():
     """Last resort: Playwright with stealth"""
-    print("\n🎭 Método 5: Playwright con stealth...")
+    print("\n🎭 Método 6: Playwright con stealth...")
     try:
         from playwright.async_api import async_playwright
     except ImportError:
@@ -259,12 +297,13 @@ async def scrape_cinema():
     print(f"  🎯 URL: {CINEMA_URL}")
     
     # Try each method in order of reliability
-    # wp_api is the most reliable: uses WordPress REST API, bypasses firewall
+    # wp_api uses curl_cffi internally if available for TLS bypass
     methods = [
         ('wp_api', lambda: scrape_with_wp_api()),
-        ('cloudscraper', lambda: scrape_with_cloudscraper()),
         ('curl_cffi', lambda: scrape_with_curl_cffi()),
+        ('cloudscraper', lambda: scrape_with_cloudscraper()),
         ('proxy_api', lambda: scrape_with_proxy_api()),
+        ('google_cache', lambda: scrape_with_google_cache()),
         ('requests', lambda: scrape_with_requests()),
     ]
     
