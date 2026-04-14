@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T15:14:41.576727Z",
-  "expires_at": "2026-04-15T15:14:41.576727Z",
+  "generated_at": "2026-04-14T17:10:38.481210Z",
+  "expires_at": "2026-04-15T17:10:38.481210Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": null,
       "trailerUrl": "https://www.youtube.com/watch?v=rZ6xn57p4J0",
       "showtimes": {
-        "Martes 14 de abril": [
-          "18:30"
-        ],
         "Miércoles 15 de abril": [
           "19:30",
           "21:30"
@@ -32,9 +29,6 @@
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
       "showtimes": {
-        "Martes 14 de abril": [
-          "18:00"
-        ],
         "Miércoles 15 de abril": [
           "17:30"
         ]
