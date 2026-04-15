@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T17:05:30.798588Z",
-  "expires_at": "2026-04-16T17:05:30.798588Z",
+  "generated_at": "2026-04-15T19:20:01.876695Z",
+  "expires_at": "2026-04-16T19:20:01.876695Z",
   "version": "1.0",
   "movies": [
     {
@@ -14,38 +14,7 @@
       "trailerUrl": "https://www.youtube.com/watch?v=rZ6xn57p4J0",
       "showtimes": {
         "Miércoles 15 de abril": [
-          "19:30",
           "21:30"
-        ]
-      }
-    },
-    {
-      "title": "PROYECTO SALVACIÓN",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "rating": 8.225,
-      "releaseDate": "2026-03-15",
-      "duration": "157 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=in-lUuKi0eE",
-      "showtimes": {
-        "Miércoles 15 de abril": [
-          "20:45"
-        ]
-      }
-    },
-    {
-      "title": "TORRENTE PRESIDENTE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
-      "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "rating": 6.345,
-      "releaseDate": "2026-03-13",
-      "duration": "102 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=tnH_xUjTObI",
-      "showtimes": {
-        "Miércoles 15 de abril": [
-          "19:00"
         ]
       }
     }
