@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T15:06:08.632228Z",
-  "expires_at": "2026-04-16T15:06:08.632228Z",
+  "generated_at": "2026-04-15T17:05:30.798588Z",
+  "expires_at": "2026-04-16T17:05:30.798588Z",
   "version": "1.0",
   "movies": [
     {
@@ -35,21 +35,6 @@
       }
     },
     {
-      "title": "SUPER MARIO GALAXY",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": 6.824,
-      "releaseDate": "2026-04-01",
-      "duration": "98 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
-      "showtimes": {
-        "Miércoles 15 de abril": [
-          "17:30"
-        ]
-      }
-    },
-    {
       "title": "TORRENTE PRESIDENTE",
       "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
@@ -61,21 +46,6 @@
       "showtimes": {
         "Miércoles 15 de abril": [
           "19:00"
-        ]
-      }
-    },
-    {
-      "title": "TRES ADIOSES",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ooJChz3CumTevKFMd6fTETcmIm.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/AjnySWm7IlujGTwnjfOa9vwuki3.jpg",
-      "overview": "Marta y Antonio son una pareja que se separa tras lo que parece una discusión trivial. Marta (Alba Rohrwacher) reacciona a la ruptura encerrándose en sí misma. El único síntoma que no puede ignorar es su repentina falta de apetito. Mientras, Antonio (Elio Germano), un chef al alza, no consigue olvidarla a pesar de haber sido él quien terminó la relación.",
-      "rating": 7.2,
-      "releaseDate": "2025-10-09",
-      "duration": "122 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=xOkvUm3dz5s",
-      "showtimes": {
-        "Miércoles 15 de abril": [
-          "17:00"
         ]
       }
     }
