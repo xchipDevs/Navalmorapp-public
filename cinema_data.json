@@ -1,86 +1,17 @@
 {
-  "generated_at": "2026-04-16T02:46:51.248925Z",
-  "expires_at": "2026-04-17T02:46:51.248925Z",
+  "generated_at": "2026-04-16T06:02:21.480146Z",
+  "expires_at": "2026-04-17T06:02:21.480146Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "PROYECTO SALVACIÓN",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "rating": 8.2,
-      "releaseDate": "2026-03-15",
-      "duration": "157 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=in-lUuKi0eE",
-      "showtimes": {
-        "Viernes 17 de abril": [
-          "19:30"
-        ],
-        "Martes 21 de abril": [
-          "19:55"
-        ]
-      }
-    },
-    {
-      "title": "SUPER MARIO GALAXY LA PELÍCULA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": 6.822,
-      "releaseDate": "2026-04-01",
-      "duration": "98 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
-      "showtimes": {
-        "Viernes 17 de abril": [
-          "18:00"
-        ],
-        "Sábado 18 de abril": [
-          "17:30"
-        ],
-        "Domingo 19 de abril": [
-          "17:00"
-        ],
-        "Lunes 20 de abril": [
-          "17:30"
-        ],
-        "Martes 21 de abril": [
-          "18:00"
-        ]
-      }
-    },
-    {
-      "title": "TORRENTE PRESIDENTE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
-      "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "rating": 6.345,
-      "releaseDate": "2026-03-13",
-      "duration": "102 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=tnH_xUjTObI",
-      "showtimes": {
-        "Sábado 18 de abril": [
-          "19:45"
-        ],
-        "Domingo 19 de abril": [
-          "19:00"
-        ],
-        "Lunes 20 de abril": [
-          "20:30"
-        ],
-        "Martes 21 de abril": [
-          "19:30"
-        ]
-      }
-    },
-    {
-      "title": "LA FAMILIA BENETÓN",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5VISxbDN4YSFZao3MAkElC4WE6O.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/oobxTUUtUZSqnLJyHIZwfBrMIMe.jpg",
-      "overview": "Toni, un hombre cascarrabias, soltero y sin hijos, huye de los niños a toda costa. Su vida da un giro inesperado cuando su hermana fallece y de la noche a la mañana se convierte en tutor temporal de sus cinco hijos adoptados: cada uno de un país y procedencia diferente. Toni tendrá que enfrentarse a las diferencias culturales y a los retos de paternidad en el mundo moderno y descubrirá que la verdadera familia, es la que uno elige.",
-      "rating": 5.476,
-      "releaseDate": "2024-03-22",
-      "duration": "93 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=F0k6T_fuZcw",
+      "title": "LA FAMILIA BENETÓN + 2",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/1jSW5NoWWEFeC84PTQ5VKChm4is.jpg",
+      "overview": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "rating": 0.0,
+      "releaseDate": "2026-04-17",
+      "duration": "87 min",
+      "trailerUrl": null,
       "showtimes": {
         "Viernes 17 de abril": [
           "18:00",
@@ -100,6 +31,10 @@
         "Martes 21 de abril": [
           "18:00",
           "22:30"
+        ],
+        "Miércoles 22 de abril": [
+          "17:00",
+          "21:45"
         ]
       }
     },
@@ -131,6 +66,85 @@
         ],
         "Martes 21 de abril": [
           "21:30"
+        ],
+        "Miércoles 22 de abril": [
+          "21:00",
+          "19:30"
+        ]
+      }
+    },
+    {
+      "title": "PROYECTO SALVACIÓN",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "rating": 8.2,
+      "releaseDate": "2026-03-15",
+      "duration": "157 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=in-lUuKi0eE",
+      "showtimes": {
+        "Viernes 17 de abril": [
+          "19:30"
+        ],
+        "Martes 21 de abril": [
+          "19:55"
+        ]
+      }
+    },
+    {
+      "title": "SUPER MARIO GALAXY LA PELÍCULA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
+      "rating": 6.799,
+      "releaseDate": "2026-04-01",
+      "duration": "98 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
+      "showtimes": {
+        "Viernes 17 de abril": [
+          "18:00"
+        ],
+        "Sábado 18 de abril": [
+          "17:30"
+        ],
+        "Domingo 19 de abril": [
+          "17:00"
+        ],
+        "Lunes 20 de abril": [
+          "17:30"
+        ],
+        "Martes 21 de abril": [
+          "18:00"
+        ],
+        "Miércoles 22 de abril": [
+          "17:30"
+        ]
+      }
+    },
+    {
+      "title": "TORRENTE PRESIDENTE",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
+      "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
+      "rating": 6.345,
+      "releaseDate": "2026-03-13",
+      "duration": "102 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=tnH_xUjTObI",
+      "showtimes": {
+        "Sábado 18 de abril": [
+          "19:45"
+        ],
+        "Domingo 19 de abril": [
+          "19:00"
+        ],
+        "Lunes 20 de abril": [
+          "20:30"
+        ],
+        "Martes 21 de abril": [
+          "19:30"
+        ],
+        "Miércoles 22 de abril": [
+          "19:00"
         ]
       }
     }
