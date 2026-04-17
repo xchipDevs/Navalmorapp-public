@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T19:03:00.651089Z",
-  "expires_at": "2026-04-18T19:03:00.651089Z",
+  "generated_at": "2026-04-17T20:47:20.407897Z",
+  "expires_at": "2026-04-18T20:47:20.407897Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=F0k6T_fuZcw",
       "showtimes": {
-        "Viernes 17 de abril": [
-          "22:15"
-        ],
         "Sábado 18 de abril": [
           "18:00",
           "21:30"
@@ -118,7 +115,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
       "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "rating": 6.345,
+      "rating": 6.3,
       "releaseDate": "2026-03-13",
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=tnH_xUjTObI",
