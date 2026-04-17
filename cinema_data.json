@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T20:47:20.407897Z",
-  "expires_at": "2026-04-18T20:47:20.407897Z",
+  "generated_at": "2026-04-17T22:40:36.528283Z",
+  "expires_at": "2026-04-18T22:40:36.528283Z",
   "version": "1.0",
   "movies": [
     {
@@ -44,9 +44,6 @@
       "duration": "133 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
       "showtimes": {
-        "Viernes 17 de abril": [
-          "22:30"
-        ],
         "Sábado 18 de abril": [
           "21:30",
           "19:30"
@@ -88,7 +85,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": 6.813,
+      "rating": 6.818,
       "releaseDate": "2026-04-01",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
