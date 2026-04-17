@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T02:41:47.779042Z",
-  "expires_at": "2026-04-18T02:41:47.779042Z",
+  "generated_at": "2026-04-17T06:04:03.756949Z",
+  "expires_at": "2026-04-18T06:04:03.756949Z",
   "version": "1.0",
   "movies": [
     {
@@ -78,7 +78,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "rating": 8.217,
+      "rating": 8.218,
       "releaseDate": "2026-03-15",
       "duration": "157 min",
       "trailerUrl": "https://www.youtube.com/watch?v=in-lUuKi0eE",
