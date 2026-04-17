@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T16:55:50.164244Z",
-  "expires_at": "2026-04-18T16:55:50.164244Z",
+  "generated_at": "2026-04-17T19:03:00.651089Z",
+  "expires_at": "2026-04-18T19:03:00.651089Z",
   "version": "1.0",
   "movies": [
     {
@@ -42,13 +42,12 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/glZi1TnYHf3y0SthGg941XwcBNA.jpg",
       "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "rating": 7.461,
+      "rating": 7.451,
       "releaseDate": "2026-04-07",
       "duration": "133 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
       "showtimes": {
         "Viernes 17 de abril": [
-          "20:00",
           "22:30"
         ],
         "Sábado 18 de abril": [
@@ -77,14 +76,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "rating": 8.215,
+      "rating": 8.214,
       "releaseDate": "2026-03-15",
       "duration": "157 min",
       "trailerUrl": "https://www.youtube.com/watch?v=in-lUuKi0eE",
       "showtimes": {
-        "Viernes 17 de abril": [
-          "19:30"
-        ],
         "Martes 21 de abril": [
           "19:55"
         ]
