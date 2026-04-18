@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T16:42:24.433611Z",
-  "expires_at": "2026-04-19T16:42:24.433611Z",
+  "generated_at": "2026-04-18T18:54:15.955301Z",
+  "expires_at": "2026-04-19T18:54:15.955301Z",
   "version": "1.0",
   "movies": [
     {
@@ -44,8 +44,7 @@
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
       "showtimes": {
         "Sábado 18 de abril": [
-          "21:30",
-          "19:30"
+          "21:30"
         ],
         "Domingo 19 de abril": [
           "19:00",
@@ -98,9 +97,6 @@
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=tnH_xUjTObI",
       "showtimes": {
-        "Sábado 18 de abril": [
-          "19:45"
-        ],
         "Domingo 19 de abril": [
           "19:00"
         ],
