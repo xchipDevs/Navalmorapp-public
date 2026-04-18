@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T14:40:44.400896Z",
-  "expires_at": "2026-04-19T14:40:44.400896Z",
+  "generated_at": "2026-04-18T16:42:24.433611Z",
+  "expires_at": "2026-04-19T16:42:24.433611Z",
   "version": "1.0",
   "movies": [
     {
@@ -14,8 +14,7 @@
       "trailerUrl": "https://www.youtube.com/watch?v=F0k6T_fuZcw",
       "showtimes": {
         "Sábado 18 de abril": [
-          "18:00",
-          "21:30"
+          "22:00"
         ],
         "Domingo 19 de abril": [
           "17:30",
@@ -39,7 +38,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
       "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "rating": 6.958,
+      "rating": 6.969,
       "releaseDate": "2026-04-15",
       "duration": "133 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
@@ -66,7 +65,7 @@
       }
     },
     {
-      "title": "SUPER MARIO GALAXY",
+      "title": "SUPER MARIO GALAXY LA PELÍCULA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
@@ -75,9 +74,6 @@
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
       "showtimes": {
-        "Sábado 18 de abril": [
-          "17:30"
-        ],
         "Domingo 19 de abril": [
           "17:00"
         ],
@@ -124,7 +120,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "rating": 8.212,
+      "rating": 8.211,
       "releaseDate": "2026-03-15",
       "duration": "157 min",
       "trailerUrl": "https://www.youtube.com/watch?v=in-lUuKi0eE",
