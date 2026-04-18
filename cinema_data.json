@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T05:42:00.220745Z",
-  "expires_at": "2026-04-19T05:42:00.220745Z",
+  "generated_at": "2026-04-18T07:11:10.297015Z",
+  "expires_at": "2026-04-19T07:11:10.297015Z",
   "version": "1.0",
   "movies": [
     {
@@ -66,7 +66,7 @@
       }
     },
     {
-      "title": "SUPER MARIO GALAXY LA PELÍCULA",
+      "title": "SUPER MARIO GALAXY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
