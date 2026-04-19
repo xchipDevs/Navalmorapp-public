@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T22:37:06.781882Z",
-  "expires_at": "2026-04-19T22:37:06.781882Z",
+  "generated_at": "2026-04-19T02:48:55.917295Z",
+  "expires_at": "2026-04-20T02:48:55.917295Z",
   "version": "1.0",
   "movies": [
     {
@@ -31,7 +31,7 @@
       }
     },
     {
-      "title": "LA MOMIA DE LEE CRONIN",
+      "title": "LA MOMIA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
       "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "title": "SUPER MARIO GALAXY LA PELÍCULA",
+      "title": "SUPER MARIO GALAXY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
