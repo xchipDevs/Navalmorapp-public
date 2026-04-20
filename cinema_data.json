@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-20T13:46:04.463793Z",
-  "expires_at": "2026-04-21T13:46:04.463793Z",
+  "generated_at": "2026-04-20T15:16:45.113064Z",
+  "expires_at": "2026-04-21T15:16:45.113064Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "LA FAMILIA BENETÓN",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5VISxbDN4YSFZao3MAkElC4WE6O.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/oobxTUUtUZSqnLJyHIZwfBrMIMe.jpg",
-      "overview": "Toni, un hombre cascarrabias, soltero y sin hijos, huye de los niños a toda costa. Su vida da un giro inesperado cuando su hermana fallece y de la noche a la mañana se convierte en tutor temporal de sus cinco hijos adoptados: cada uno de un país y procedencia diferente. Toni tendrá que enfrentarse a las diferencias culturales y a los retos de paternidad en el mundo moderno y descubrirá que la verdadera familia, es la que uno elige.",
-      "rating": 5.476,
-      "releaseDate": "2024-03-22",
-      "duration": "93 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=F0k6T_fuZcw",
+      "title": "LA FAMILIA BENETÓN + 2",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/1jSW5NoWWEFeC84PTQ5VKChm4is.jpg",
+      "overview": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "rating": 7.0,
+      "releaseDate": "2026-04-17",
+      "duration": "87 min",
+      "trailerUrl": null,
       "showtimes": {
         "Lunes 20 de abril": [
           "19:30"
@@ -96,7 +96,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "rating": 8.217,
+      "rating": 8.218,
       "releaseDate": "2026-03-15",
       "duration": "157 min",
       "trailerUrl": "https://www.youtube.com/watch?v=in-lUuKi0eE",
