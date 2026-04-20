@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-20T15:16:45.113064Z",
-  "expires_at": "2026-04-21T15:16:45.113064Z",
+  "generated_at": "2026-04-20T17:05:18.977312Z",
+  "expires_at": "2026-04-21T17:05:18.977312Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "LA FAMILIA BENETÓN + 2",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/1jSW5NoWWEFeC84PTQ5VKChm4is.jpg",
-      "overview": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
-      "rating": 7.0,
-      "releaseDate": "2026-04-17",
-      "duration": "87 min",
-      "trailerUrl": null,
+      "title": "LA FAMILIA BENETÓN",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5VISxbDN4YSFZao3MAkElC4WE6O.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/oobxTUUtUZSqnLJyHIZwfBrMIMe.jpg",
+      "overview": "Toni, un hombre cascarrabias, soltero y sin hijos, huye de los niños a toda costa. Su vida da un giro inesperado cuando su hermana fallece y de la noche a la mañana se convierte en tutor temporal de sus cinco hijos adoptados: cada uno de un país y procedencia diferente. Toni tendrá que enfrentarse a las diferencias culturales y a los retos de paternidad en el mundo moderno y descubrirá que la verdadera familia, es la que uno elige.",
+      "rating": 5.476,
+      "releaseDate": "2024-03-22",
+      "duration": "93 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=F0k6T_fuZcw",
       "showtimes": {
         "Lunes 20 de abril": [
           "19:30"
@@ -37,7 +37,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
       "showtimes": {
         "Lunes 20 de abril": [
-          "18:00",
           "21:30"
         ],
         "Martes 21 de abril": [
@@ -59,9 +58,6 @@
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
       "showtimes": {
-        "Lunes 20 de abril": [
-          "17:30"
-        ],
         "Martes 21 de abril": [
           "18:00"
         ],
