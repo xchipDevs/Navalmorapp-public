@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T11:08:27.882787Z",
-  "expires_at": "2026-04-22T11:08:27.882787Z",
+  "generated_at": "2026-04-21T13:43:39.343418Z",
+  "expires_at": "2026-04-22T13:43:39.343418Z",
   "version": "1.0",
   "movies": [
     {
@@ -28,7 +28,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hGgSpTX2f3ShFD41Ul0vcY3DSHb.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
       "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "rating": 6.861,
+      "rating": 6.853,
       "releaseDate": "2026-04-15",
       "duration": "133 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
