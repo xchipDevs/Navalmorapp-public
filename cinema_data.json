@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T17:03:06.389453Z",
-  "expires_at": "2026-04-23T17:03:06.389453Z",
+  "generated_at": "2026-04-22T19:16:14.011925Z",
+  "expires_at": "2026-04-23T19:16:14.011925Z",
   "version": "1.0",
   "movies": [
     {
@@ -19,7 +19,7 @@
       }
     },
     {
-      "title": "LA MOMIA",
+      "title": "LA MOMIA DE LEE CRONIN",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hGgSpTX2f3ShFD41Ul0vcY3DSHb.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
       "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -29,23 +29,7 @@
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
       "showtimes": {
         "Miércoles 22 de abril": [
-          "21:00",
-          "19:30"
-        ]
-      }
-    },
-    {
-      "title": "TORRENTE PRESIDENTE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
-      "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "rating": 6.452,
-      "releaseDate": "2026-03-13",
-      "duration": "102 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=tnH_xUjTObI",
-      "showtimes": {
-        "Miércoles 22 de abril": [
-          "19:00"
+          "21:00"
         ]
       }
     }
