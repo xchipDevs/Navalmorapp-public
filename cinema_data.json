@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T15:11:00.529108Z",
-  "expires_at": "2026-04-25T15:11:00.529108Z",
+  "generated_at": "2026-04-24T17:00:06.869920Z",
+  "expires_at": "2026-04-25T17:00:06.869920Z",
   "version": "1.0",
   "movies": [
     {
@@ -31,7 +31,7 @@
       }
     },
     {
-      "title": "LA MOMIA DE LEE CRONIN",
+      "title": "LA MOMIA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hGgSpTX2f3ShFD41Ul0vcY3DSHb.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
       "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -103,14 +103,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pLQQMO77ohibggTKV6wmFs5LHYf.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": 6.7,
+      "rating": 6.755,
       "releaseDate": "2026-04-01",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
       "showtimes": {
-        "Viernes 24 de abril": [
-          "18:00"
-        ],
         "Sábado 25 de abril": [
           "17:30"
         ],
@@ -130,7 +127,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
       "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "rating": 6.452,
+      "rating": 6.375,
       "releaseDate": "2026-03-13",
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=tnH_xUjTObI",
