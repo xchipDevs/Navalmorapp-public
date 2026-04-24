@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T09:46:01.294202Z",
-  "expires_at": "2026-04-25T09:46:01.294202Z",
+  "generated_at": "2026-04-24T11:07:18.104651Z",
+  "expires_at": "2026-04-25T11:07:18.104651Z",
   "version": "1.0",
   "movies": [
     {
@@ -103,7 +103,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pLQQMO77ohibggTKV6wmFs5LHYf.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": 6.741,
+      "rating": 6.7,
       "releaseDate": "2026-04-01",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
