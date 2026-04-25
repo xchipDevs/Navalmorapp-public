@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T07:19:45.622367Z",
-  "expires_at": "2026-04-26T07:19:45.622367Z",
+  "generated_at": "2026-04-25T08:54:59.255924Z",
+  "expires_at": "2026-04-26T08:54:59.255924Z",
   "version": "1.0",
   "movies": [
     {
@@ -32,7 +32,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hGgSpTX2f3ShFD41Ul0vcY3DSHb.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
       "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "rating": 6.9,
+      "rating": 6.903,
       "releaseDate": "2026-04-15",
       "duration": "133 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
@@ -60,7 +60,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.4,
+      "rating": 7.278,
       "releaseDate": "2026-04-22",
       "duration": "127 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
