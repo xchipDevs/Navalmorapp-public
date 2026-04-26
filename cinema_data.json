@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T02:51:42.370585Z",
-  "expires_at": "2026-04-27T02:51:42.370585Z",
+  "generated_at": "2026-04-26T06:07:46.067920Z",
+  "expires_at": "2026-04-27T06:07:46.067920Z",
   "version": "1.0",
   "movies": [
     {
@@ -25,11 +25,11 @@
       }
     },
     {
-      "title": "LA MOMIA",
+      "title": "LA MOMIA DE LEE CRONIN",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hGgSpTX2f3ShFD41Ul0vcY3DSHb.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
       "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "rating": 6.858,
+      "rating": 6.8,
       "releaseDate": "2026-04-15",
       "duration": "133 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
@@ -54,9 +54,9 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.405,
+      "rating": 7.5,
       "releaseDate": "2026-04-22",
-      "duration": "127 min",
+      "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
         "Domingo 26 de abril": [
@@ -82,7 +82,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pLQQMO77ohibggTKV6wmFs5LHYf.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": 6.766,
+      "rating": 6.768,
       "releaseDate": "2026-04-01",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
