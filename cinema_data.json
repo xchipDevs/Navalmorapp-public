@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T22:38:55.541902Z",
-  "expires_at": "2026-04-26T22:38:55.541902Z",
+  "generated_at": "2026-04-26T02:51:42.370585Z",
+  "expires_at": "2026-04-27T02:51:42.370585Z",
   "version": "1.0",
   "movies": [
     {
@@ -25,11 +25,11 @@
       }
     },
     {
-      "title": "LA MOMIA DE LEE CRONIN",
+      "title": "LA MOMIA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hGgSpTX2f3ShFD41Ul0vcY3DSHb.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
       "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "rating": 6.903,
+      "rating": 6.858,
       "releaseDate": "2026-04-15",
       "duration": "133 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
