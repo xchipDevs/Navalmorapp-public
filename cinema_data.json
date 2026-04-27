@@ -1,26 +1,8 @@
 {
-  "generated_at": "2026-04-27T02:54:08.536631Z",
-  "expires_at": "2026-04-28T02:54:08.536631Z",
+  "generated_at": "2026-04-27T06:28:18.788761Z",
+  "expires_at": "2026-04-28T06:28:18.788761Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "LA FAMILIA BENETÓN",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5VISxbDN4YSFZao3MAkElC4WE6O.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/oobxTUUtUZSqnLJyHIZwfBrMIMe.jpg",
-      "overview": "Toni, un hombre cascarrabias, soltero y sin hijos, huye de los niños a toda costa. Su vida da un giro inesperado cuando su hermana fallece y de la noche a la mañana se convierte en tutor temporal de sus cinco hijos adoptados: cada uno de un país y procedencia diferente. Toni tendrá que enfrentarse a las diferencias culturales y a los retos de paternidad en el mundo moderno y descubrirá que la verdadera familia, es la que uno elige.",
-      "rating": 5.476,
-      "releaseDate": "2024-03-22",
-      "duration": "93 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=F0k6T_fuZcw",
-      "showtimes": {
-        "Martes 28 de abril": [
-          "17:30"
-        ],
-        "Miércoles 29 de abril": [
-          "17:00"
-        ]
-      }
-    },
     {
       "title": "LA MOMIA DE LEE CRONIN",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hGgSpTX2f3ShFD41Ul0vcY3DSHb.jpg",
@@ -99,6 +81,24 @@
         ],
         "Miércoles 29 de abril": [
           "19:30"
+        ]
+      }
+    },
+    {
+      "title": "LA FAMILIA BENETÓN + 2",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/1jSW5NoWWEFeC84PTQ5VKChm4is.jpg",
+      "overview": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "rating": 7.0,
+      "releaseDate": "2026-04-17",
+      "duration": "87 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Martes 28 de abril": [
+          "17:30"
+        ],
+        "Miércoles 29 de abril": [
+          "17:00"
         ]
       }
     }
