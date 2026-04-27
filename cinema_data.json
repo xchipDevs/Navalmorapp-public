@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T21:04:02.052829Z",
-  "expires_at": "2026-04-28T21:04:02.052829Z",
+  "generated_at": "2026-04-27T22:54:08.108701Z",
+  "expires_at": "2026-04-28T22:54:08.108701Z",
   "version": "1.0",
   "movies": [
     {
@@ -26,7 +26,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.5,
+      "rating": 7.585,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -46,7 +46,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pLQQMO77ohibggTKV6wmFs5LHYf.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": 6.768,
+      "rating": 6.774,
       "releaseDate": "2026-04-01",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
