@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T17:23:35.982888Z",
-  "expires_at": "2026-04-28T17:23:35.982888Z",
+  "generated_at": "2026-04-27T19:24:44.207740Z",
+  "expires_at": "2026-04-28T19:24:44.207740Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "133 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
       "showtimes": {
-        "Lunes 27 de abril": [
-          "19:30"
-        ],
         "Martes 28 de abril": [
           "18:00"
         ],
@@ -34,9 +31,6 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Lunes 27 de abril": [
-          "20:30"
-        ],
         "Martes 28 de abril": [
           "19:00",
           "21:30"
