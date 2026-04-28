@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T21:07:47.677352Z",
-  "expires_at": "2026-04-29T21:07:47.677352Z",
+  "generated_at": "2026-04-28T22:57:28.340269Z",
+  "expires_at": "2026-04-29T22:57:28.340269Z",
   "version": "1.0",
   "movies": [
     {
@@ -19,14 +19,14 @@
       }
     },
     {
-      "title": "LA MOMIA DE LEE CRONIN",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hGgSpTX2f3ShFD41Ul0vcY3DSHb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
-      "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "rating": 6.8,
-      "releaseDate": "2026-04-15",
-      "duration": "133 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
+      "title": "LA MOMIA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+      "overview": "El legionario Rick O'Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada.",
+      "rating": 6.966,
+      "releaseDate": "1999-04-16",
+      "duration": "125 min",
+      "trailerUrl": null,
       "showtimes": {
         "Miércoles 29 de abril": [
           "21:30"
@@ -50,7 +50,7 @@
       }
     },
     {
-      "title": "SUPER MARIO GALAXY LA PELÍCULA",
+      "title": "SUPER MARIO GALAXY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pLQQMO77ohibggTKV6wmFs5LHYf.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
