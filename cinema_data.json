@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-29T21:07:21.294545Z",
-  "expires_at": "2026-04-30T21:07:21.294545Z",
+  "generated_at": "2026-04-29T22:58:27.631212Z",
+  "expires_at": "2026-04-30T22:58:27.631212Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "LA MOMIA DE LEE CRONIN",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hGgSpTX2f3ShFD41Ul0vcY3DSHb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
-      "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "rating": 6.767,
-      "releaseDate": "2026-04-15",
-      "duration": "133 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
+      "title": "LA MOMIA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+      "overview": "El legionario Rick O'Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada.",
+      "rating": 7.0,
+      "releaseDate": "1999-04-16",
+      "duration": "125 min",
+      "trailerUrl": null,
       "showtimes": {
         "Viernes 1 de mayo": [
           "19:30"
@@ -20,6 +20,12 @@
           "22:15"
         ],
         "Domingo 3 de mayo": [
+          "19:30"
+        ],
+        "Lunes 4 de mayo": [
+          "22:15"
+        ],
+        "Martes 5 de mayo": [
           "19:30"
         ]
       }
@@ -42,15 +48,21 @@
         ],
         "Domingo 3 de mayo": [
           "21:30"
+        ],
+        "Lunes 4 de mayo": [
+          "20:00"
+        ],
+        "Martes 5 de mayo": [
+          "21:30"
         ]
       }
     },
     {
-      "title": "SUPER MARIO GALAXY LA PELÍCULA",
+      "title": "SUPER MARIO GALAXY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pLQQMO77ohibggTKV6wmFs5LHYf.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": 6.729,
+      "rating": 6.728,
       "releaseDate": "2026-04-01",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
@@ -63,11 +75,14 @@
         ],
         "Domingo 3 de mayo": [
           "17:00"
+        ],
+        "Martes 5 de mayo": [
+          "18:00"
         ]
       }
     },
     {
-      "title": "DAVID: UNA AVENTURA GIGANTE",
+      "title": "DAVID UNA AVENTURA GIGANTE",
       "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
       "backdropUrl": null,
       "overview": null,
@@ -84,6 +99,12 @@
         ],
         "Domingo 3 de mayo": [
           "17:30"
+        ],
+        "Lunes 4 de mayo": [
+          "18:00"
+        ],
+        "Martes 5 de mayo": [
+          "17:30"
         ]
       }
     },
@@ -92,7 +113,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "overview": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
-      "rating": 8.0,
+      "rating": 7.417,
       "releaseDate": "2026-04-29",
       "duration": "119 min",
       "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
@@ -109,6 +130,13 @@
         "Domingo 3 de mayo": [
           "19:00",
           "21:15"
+        ],
+        "Lunes 4 de mayo": [
+          "18:30",
+          "20:30"
+        ],
+        "Martes 5 de mayo": [
+          "20:00"
         ]
       }
     }
