@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T16:00:48.793418Z",
-  "expires_at": "2026-04-30T16:00:48.793418Z",
+  "generated_at": "2026-04-29T19:27:48.711351Z",
+  "expires_at": "2026-04-30T19:27:48.711351Z",
   "version": "1.0",
   "movies": [
     {
@@ -15,37 +15,6 @@
       "showtimes": {
         "Miércoles 29 de abril": [
           "21:30"
-        ]
-      }
-    },
-    {
-      "title": "MICHAEL",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.6,
-      "releaseDate": "2026-04-22",
-      "duration": "128 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
-      "showtimes": {
-        "Miércoles 29 de abril": [
-          "18:30",
-          "21:00"
-        ]
-      }
-    },
-    {
-      "title": "TORRENTE PRESIDENTE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/y1Vj3R6puWZebFH8OQirt6hMtwj.jpg",
-      "overview": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "rating": 6.375,
-      "releaseDate": "2026-03-13",
-      "duration": "102 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=tnH_xUjTObI",
-      "showtimes": {
-        "Miércoles 29 de abril": [
-          "19:30"
         ]
       }
     }
