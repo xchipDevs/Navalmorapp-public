@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-29T22:58:27.631212Z",
-  "expires_at": "2026-04-30T22:58:27.631212Z",
+  "generated_at": "2026-04-30T03:22:08.636349Z",
+  "expires_at": "2026-05-01T03:22:08.636349Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "LA MOMIA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
-      "overview": "El legionario Rick O'Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada.",
-      "rating": 7.0,
-      "releaseDate": "1999-04-16",
-      "duration": "125 min",
-      "trailerUrl": null,
+      "title": "LA MOMIA DE LEE CRONIN",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
+      "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
+      "rating": 6.8,
+      "releaseDate": "2026-04-15",
+      "duration": "133 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
       "showtimes": {
         "Viernes 1 de mayo": [
           "19:30"
@@ -35,7 +35,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.6,
+      "rating": 7.623,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "title": "SUPER MARIO GALAXY",
+      "title": "SUPER MARIO GALAXY LA PELÍCULA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pLQQMO77ohibggTKV6wmFs5LHYf.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
