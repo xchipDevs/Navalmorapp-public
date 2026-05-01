@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-01T14:57:08.300477Z",
-  "expires_at": "2026-05-02T14:57:08.300477Z",
+  "generated_at": "2026-05-01T16:58:20.523512Z",
+  "expires_at": "2026-05-02T16:58:20.523512Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "DAVID: UNA AVENTURA GIGANTE",
+      "title": "DAVID UNA AVENTURA GIGANTE",
       "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
       "backdropUrl": null,
       "overview": null,
@@ -13,9 +13,6 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 1 de mayo": [
-          "17:30"
-        ],
         "Sábado 2 de mayo": [
           "18:00"
         ],
@@ -104,7 +101,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.55,
+      "rating": 7.533,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -139,9 +136,6 @@
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
       "showtimes": {
-        "Viernes 1 de mayo": [
-          "17:00"
-        ],
         "Sábado 2 de mayo": [
           "17:00"
         ],
