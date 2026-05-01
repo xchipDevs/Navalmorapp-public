@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-01T20:54:24.629042Z",
-  "expires_at": "2026-05-02T20:54:24.629042Z",
+  "generated_at": "2026-05-01T22:52:02.988806Z",
+  "expires_at": "2026-05-02T22:52:02.988806Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "DAVID UNA AVENTURA GIGANTE",
+      "title": "DAVID: UNA AVENTURA GIGANTE",
       "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
       "backdropUrl": null,
       "overview": null,
@@ -67,7 +67,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
       "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "rating": 6.8,
+      "rating": 6.768,
       "releaseDate": "2026-04-15",
       "duration": "133 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
