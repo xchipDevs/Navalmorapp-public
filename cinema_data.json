@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-02T16:50:56.985891Z",
-  "expires_at": "2026-05-03T16:50:56.985891Z",
+  "generated_at": "2026-05-02T19:01:28.092832Z",
+  "expires_at": "2026-05-03T19:01:28.092832Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "DAVID: UNA AVENTURA GIGANTE",
+      "title": "DAVID UNA AVENTURA GIGANTE",
       "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
       "backdropUrl": null,
       "overview": null,
@@ -38,7 +38,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
       "showtimes": {
         "Sábado 2 de mayo": [
-          "19:00",
           "21:00",
           "23:00"
         ],
@@ -96,9 +95,6 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Sábado 2 de mayo": [
-          "20:00"
-        ],
         "Domingo 3 de mayo": [
           "21:30"
         ],
@@ -118,7 +114,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xTd74mchq96pqfdlgmKDMQx12gv.jpg",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": 6.744,
+      "rating": 6.747,
       "releaseDate": "2026-04-01",
       "duration": "98 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
