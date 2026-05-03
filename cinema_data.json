@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-03T19:01:36.556248Z",
-  "expires_at": "2026-05-04T19:01:36.556248Z",
+  "generated_at": "2026-05-03T20:43:54.759416Z",
+  "expires_at": "2026-05-04T20:43:54.759416Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "DAVID UNA AVENTURA GIGANTE",
+      "title": "DAVID: UNA AVENTURA GIGANTE",
       "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
       "backdropUrl": null,
       "overview": null,
@@ -34,9 +34,6 @@
       "duration": "119 min",
       "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
       "showtimes": {
-        "Domingo 3 de mayo": [
-          "21:00"
-        ],
         "Lunes 4 de mayo": [
           "18:30",
           "20:30"
@@ -81,9 +78,6 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Domingo 3 de mayo": [
-          "21:30"
-        ],
         "Lunes 4 de mayo": [
           "20:00"
         ],
