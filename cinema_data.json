@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T19:22:14.964715Z",
-  "expires_at": "2026-05-06T19:22:14.964715Z",
+  "generated_at": "2026-05-05T21:04:29.523426Z",
+  "expires_at": "2026-05-06T21:04:29.523426Z",
   "version": "1.0",
   "movies": [
     {
@@ -59,9 +59,6 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Martes 5 de mayo": [
-          "21:30"
-        ],
         "Miércoles 6 de mayo": [
           "19:30"
         ]
