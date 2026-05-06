@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-05-06T19:47:55.568632Z",
-  "expires_at": "2026-05-07T19:47:55.568632Z",
+  "generated_at": "2026-05-06T21:12:18.228103Z",
+  "expires_at": "2026-05-07T21:12:18.228103Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "LA MOMIA DE LEE CRONIN",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
-      "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "rating": 6.763,
-      "releaseDate": "2026-04-15",
-      "duration": "133 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=K2tRcUFuGjk",
+      "title": "DAVID: UNA AVENTURA GIGANTE",
+      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
+      "backdropUrl": null,
+      "overview": null,
+      "rating": null,
+      "releaseDate": null,
+      "duration": null,
+      "trailerUrl": null,
       "showtimes": {
-        "Miércoles 6 de mayo": [
-          "21:45"
+        "Viernes 8 de mayo": [
+          "18:00"
+        ],
+        "Sábado 9 de mayo": [
+          "17:00"
+        ],
+        "Domingo 10 de mayo": [
+          "17:00"
+        ]
+      }
+    },
+    {
+      "title": "EL DIABLO VISTE DE PRADA 2",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+      "overview": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "rating": 6.733,
+      "releaseDate": "2026-04-29",
+      "duration": "119 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
+      "showtimes": {
+        "Viernes 8 de mayo": [
+          "21:00"
+        ],
+        "Sábado 9 de mayo": [
+          "19:30",
+          "21:30"
+        ],
+        "Domingo 10 de mayo": [
+          "19:30"
+        ],
+        "Lunes 11 de mayo": [
+          "20:30"
+        ],
+        "Martes 12 de mayo": [
+          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "MICHAEL",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "rating": 7.524,
+      "releaseDate": "2026-04-22",
+      "duration": "128 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
+      "showtimes": {
+        "Viernes 8 de mayo": [
+          "22:00"
+        ],
+        "Sábado 9 de mayo": [
+          "19:00",
+          "23:00"
+        ],
+        "Domingo 10 de mayo": [
+          "21:00"
+        ],
+        "Lunes 11 de mayo": [
+          "19:00"
+        ],
+        "Martes 12 de mayo": [
+          "18:00"
+        ]
+      }
+    },
+    {
+      "title": "CALLE MÁLAGA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
+      "overview": "María Ángeles, una mujer de 79 años, vive sola en Tánger disfrutando de su rutina y la ciudad que la vio crecer. Cuando su hija llega desde Madrid para vender el apartamento familiar, ella se resiste a perder su hogar y lucha por recuperar sus pertenencias y recuerdos.",
+      "rating": 7.3,
+      "releaseDate": "2025-10-31",
+      "duration": "116 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=S4us7BqwcF4",
+      "showtimes": {
+        "Viernes 8 de mayo": [
+          "20:00"
+        ],
+        "Sábado 9 de mayo": [
+          "21:00"
+        ],
+        "Domingo 10 de mayo": [
+          "19:00",
+          "21:30"
+        ],
+        "Lunes 11 de mayo": [
+          "21:15"
+        ],
+        "Martes 12 de mayo": [
+          "19:30"
+        ]
+      }
+    },
+    {
+      "title": "LAS OVEJAS DETECTIVES",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "rating": 8.2,
+      "releaseDate": "2026-04-30",
+      "duration": "109 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 8 de mayo": [
+          "19:00"
+        ],
+        "Sábado 9 de mayo": [
+          "17:30"
+        ],
+        "Domingo 10 de mayo": [
+          "17:30"
+        ],
+        "Lunes 11 de mayo": [
+          "18:30"
+        ],
+        "Martes 12 de mayo": [
+          "17:30"
         ]
       }
     }
