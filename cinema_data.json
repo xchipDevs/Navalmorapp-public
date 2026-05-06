@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-05-06T14:15:15.800221Z",
-  "expires_at": "2026-05-07T14:15:15.800221Z",
+  "generated_at": "2026-05-06T17:41:51.514376Z",
+  "expires_at": "2026-05-07T17:41:51.514376Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "DAVID: UNA AVENTURA GIGANTE",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 6 de mayo": [
-          "17:30"
-        ]
-      }
-    },
     {
       "title": "EL DIABLO VISTE DE PRADA 2",
       "posterUrl": "https://image.tmdb.org/t/p/w500/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
@@ -29,7 +14,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
       "showtimes": {
         "Miércoles 6 de mayo": [
-          "19:00",
           "21:00"
         ]
       }
@@ -61,21 +45,6 @@
       "showtimes": {
         "Miércoles 6 de mayo": [
           "19:30"
-        ]
-      }
-    },
-    {
-      "title": "SUPER MARIO GALAXY LA PELÍCULA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-      "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "rating": 6.7,
-      "releaseDate": "2026-04-01",
-      "duration": "98 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=Hz57G2KaAp8",
-      "showtimes": {
-        "Miércoles 6 de mayo": [
-          "17:00"
         ]
       }
     }
