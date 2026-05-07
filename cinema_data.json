@@ -1,10 +1,41 @@
 {
-  "generated_at": "2026-05-07T02:57:12.011955Z",
-  "expires_at": "2026-05-08T02:57:12.011955Z",
+  "generated_at": "2026-05-07T06:35:34.267923Z",
+  "expires_at": "2026-05-08T06:35:34.267923Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "DAVID UNA AVENTURA GIGANTE",
+      "title": "CALLE MÁLAGA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
+      "overview": "María Ángeles, una mujer de 79 años, vive sola en Tánger disfrutando de su rutina y la ciudad que la vio crecer. Cuando su hija llega desde Madrid para vender el apartamento familiar, ella se resiste a perder su hogar y lucha por recuperar sus pertenencias y recuerdos.",
+      "rating": 7.3,
+      "releaseDate": "2025-10-31",
+      "duration": "116 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=S4us7BqwcF4",
+      "showtimes": {
+        "Viernes 8 de mayo": [
+          "20:00"
+        ],
+        "Sábado 9 de mayo": [
+          "21:00"
+        ],
+        "Domingo 10 de mayo": [
+          "19:00",
+          "21:30"
+        ],
+        "Lunes 11 de mayo": [
+          "21:15"
+        ],
+        "Martes 12 de mayo": [
+          "19:30"
+        ],
+        "Miércoles 13 de mayo": [
+          "19:30"
+        ]
+      }
+    },
+    {
+      "title": "DAVID: UNA AVENTURA GIGANTE",
       "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
       "backdropUrl": null,
       "overview": null,
@@ -21,6 +52,9 @@
         ],
         "Domingo 10 de mayo": [
           "17:00"
+        ],
+        "Miércoles 13 de mayo": [
+          "17:30"
         ]
       }
     },
@@ -49,62 +83,10 @@
         ],
         "Martes 12 de mayo": [
           "21:30"
-        ]
-      }
-    },
-    {
-      "title": "MICHAEL",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.524,
-      "releaseDate": "2026-04-22",
-      "duration": "128 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
-      "showtimes": {
-        "Viernes 8 de mayo": [
+        ],
+        "Miércoles 13 de mayo": [
+          "20:00",
           "22:00"
-        ],
-        "Sábado 9 de mayo": [
-          "19:00",
-          "23:00"
-        ],
-        "Domingo 10 de mayo": [
-          "21:00"
-        ],
-        "Lunes 11 de mayo": [
-          "19:00"
-        ],
-        "Martes 12 de mayo": [
-          "18:00"
-        ]
-      }
-    },
-    {
-      "title": "CALLE MÁLAGA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
-      "overview": "María Ángeles, una mujer de 79 años, vive sola en Tánger disfrutando de su rutina y la ciudad que la vio crecer. Cuando su hija llega desde Madrid para vender el apartamento familiar, ella se resiste a perder su hogar y lucha por recuperar sus pertenencias y recuerdos.",
-      "rating": 7.3,
-      "releaseDate": "2025-10-31",
-      "duration": "116 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=S4us7BqwcF4",
-      "showtimes": {
-        "Viernes 8 de mayo": [
-          "20:00"
-        ],
-        "Sábado 9 de mayo": [
-          "21:00"
-        ],
-        "Domingo 10 de mayo": [
-          "19:00",
-          "21:30"
-        ],
-        "Lunes 11 de mayo": [
-          "21:15"
-        ],
-        "Martes 12 de mayo": [
-          "19:30"
         ]
       }
     },
@@ -132,6 +114,40 @@
         ],
         "Martes 12 de mayo": [
           "17:30"
+        ],
+        "Miércoles 13 de mayo": [
+          "17:30"
+        ]
+      }
+    },
+    {
+      "title": "MICHAEL",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "rating": 7.531,
+      "releaseDate": "2026-04-22",
+      "duration": "128 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
+      "showtimes": {
+        "Viernes 8 de mayo": [
+          "22:00"
+        ],
+        "Sábado 9 de mayo": [
+          "19:00",
+          "23:00"
+        ],
+        "Domingo 10 de mayo": [
+          "21:00"
+        ],
+        "Lunes 11 de mayo": [
+          "19:00"
+        ],
+        "Martes 12 de mayo": [
+          "18:00"
+        ],
+        "Miércoles 13 de mayo": [
+          "21:30"
         ]
       }
     }
