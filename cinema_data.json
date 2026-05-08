@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T17:19:14.593080Z",
-  "expires_at": "2026-05-09T17:19:14.593080Z",
+  "generated_at": "2026-05-08T19:20:18.562466Z",
+  "expires_at": "2026-05-09T19:20:18.562466Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "116 min",
       "trailerUrl": "https://www.youtube.com/watch?v=S4us7BqwcF4",
       "showtimes": {
-        "Viernes 8 de mayo": [
-          "20:00"
-        ],
         "Sábado 9 de mayo": [
           "21:00"
         ],
@@ -65,9 +62,6 @@
       "duration": "119 min",
       "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
       "showtimes": {
-        "Viernes 8 de mayo": [
-          "21:00"
-        ],
         "Sábado 9 de mayo": [
           "19:30",
           "21:30"
@@ -97,9 +91,6 @@
       "duration": "109 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 8 de mayo": [
-          "19:00"
-        ],
         "Sábado 9 de mayo": [
           "17:30"
         ],
