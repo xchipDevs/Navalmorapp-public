@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T15:23:49.672746Z",
-  "expires_at": "2026-05-09T15:23:49.672746Z",
+  "generated_at": "2026-05-08T17:19:14.593080Z",
+  "expires_at": "2026-05-09T17:19:14.593080Z",
   "version": "1.0",
   "movies": [
     {
@@ -44,9 +44,6 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 8 de mayo": [
-          "18:00"
-        ],
         "Sábado 9 de mayo": [
           "17:00"
         ],
