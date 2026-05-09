@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T16:56:52.860574Z",
-  "expires_at": "2026-05-10T16:56:52.860574Z",
+  "generated_at": "2026-05-09T19:04:10.895937Z",
+  "expires_at": "2026-05-10T19:04:10.895937Z",
   "version": "1.0",
   "movies": [
     {
@@ -60,7 +60,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
       "showtimes": {
         "Sábado 9 de mayo": [
-          "19:30",
           "21:30"
         ],
         "Domingo 10 de mayo": [
@@ -113,7 +112,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
         "Sábado 9 de mayo": [
-          "19:00",
           "23:00"
         ],
         "Domingo 10 de mayo": [
