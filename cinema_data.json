@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T14:54:13.299965Z",
-  "expires_at": "2026-05-11T14:54:13.299965Z",
+  "generated_at": "2026-05-10T16:57:51.041801Z",
+  "expires_at": "2026-05-11T16:57:51.041801Z",
   "version": "1.0",
   "movies": [
     {
@@ -38,9 +38,6 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 10 de mayo": [
-          "17:00"
-        ],
         "Miércoles 13 de mayo": [
           "17:30"
         ]
@@ -81,9 +78,6 @@
       "duration": "109 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 10 de mayo": [
-          "17:30"
-        ],
         "Lunes 11 de mayo": [
           "18:30"
         ],
