@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T03:26:42.611532Z",
-  "expires_at": "2026-05-11T03:26:42.611532Z",
+  "generated_at": "2026-05-10T06:33:24.674759Z",
+  "expires_at": "2026-05-11T06:33:24.674759Z",
   "version": "1.0",
   "movies": [
     {
@@ -51,7 +51,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "overview": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
-      "rating": 6.759,
+      "rating": 6.765,
       "releaseDate": "2026-04-29",
       "duration": "119 min",
       "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
@@ -76,7 +76,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
       "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "rating": 7.861,
+      "rating": 7.868,
       "releaseDate": "2026-04-30",
       "duration": "109 min",
       "trailerUrl": null,
