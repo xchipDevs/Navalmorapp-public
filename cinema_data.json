@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T03:38:19.350826Z",
-  "expires_at": "2026-05-12T03:38:19.350826Z",
+  "generated_at": "2026-05-11T07:42:23.487790Z",
+  "expires_at": "2026-05-12T07:42:23.487790Z",
   "version": "1.0",
   "movies": [
     {
@@ -21,21 +21,6 @@
         ],
         "Miércoles 13 de mayo": [
           "19:30"
-        ]
-      }
-    },
-    {
-      "title": "DAVID: UNA AVENTURA GIGANTE",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 13 de mayo": [
-          "17:30"
         ]
       }
     },
@@ -87,7 +72,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.577,
+      "rating": 7.6,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -100,6 +85,21 @@
         ],
         "Miércoles 13 de mayo": [
           "21:30"
+        ]
+      }
+    },
+    {
+      "title": "DAVID: UNA AVENTURA GIGANTE",
+      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
+      "backdropUrl": null,
+      "overview": null,
+      "rating": null,
+      "releaseDate": null,
+      "duration": null,
+      "trailerUrl": null,
+      "showtimes": {
+        "Miércoles 13 de mayo": [
+          "17:30"
         ]
       }
     }
