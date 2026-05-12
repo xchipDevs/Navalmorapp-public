@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T14:28:12.982393Z",
-  "expires_at": "2026-05-13T14:28:12.982393Z",
+  "generated_at": "2026-05-12T17:59:48.857110Z",
+  "expires_at": "2026-05-13T17:59:48.857110Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "116 min",
       "trailerUrl": "https://www.youtube.com/watch?v=S4us7BqwcF4",
       "showtimes": {
-        "Martes 12 de mayo": [
-          "19:30"
-        ],
         "Miércoles 13 de mayo": [
           "19:30"
         ]
@@ -50,9 +47,6 @@
       "duration": "109 min",
       "trailerUrl": null,
       "showtimes": {
-        "Martes 12 de mayo": [
-          "17:30"
-        ],
         "Miércoles 13 de mayo": [
           "17:30"
         ]
@@ -68,9 +62,6 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Martes 12 de mayo": [
-          "18:00"
-        ],
         "Miércoles 13 de mayo": [
           "21:30"
         ]
