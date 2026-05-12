@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T17:59:48.857110Z",
-  "expires_at": "2026-05-13T17:59:48.857110Z",
+  "generated_at": "2026-05-12T20:04:32.541728Z",
+  "expires_at": "2026-05-13T20:04:32.541728Z",
   "version": "1.0",
   "movies": [
     {
@@ -28,9 +28,6 @@
       "duration": "119 min",
       "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
       "showtimes": {
-        "Martes 12 de mayo": [
-          "21:30"
-        ],
         "Miércoles 13 de mayo": [
           "20:00",
           "22:00"
@@ -42,7 +39,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rGmHJzGyvHgKisPWhagGrqlJmYg.jpg",
       "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "rating": 7.717,
+      "rating": 7.661,
       "releaseDate": "2026-04-30",
       "duration": "109 min",
       "trailerUrl": null,
