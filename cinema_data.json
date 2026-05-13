@@ -1,38 +1,8 @@
 {
-  "generated_at": "2026-05-13T14:37:08.153635Z",
-  "expires_at": "2026-05-14T14:37:08.153635Z",
+  "generated_at": "2026-05-13T18:01:58.652030Z",
+  "expires_at": "2026-05-14T18:01:58.652030Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "CALLE MÁLAGA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
-      "overview": "María Ángeles, una mujer de 79 años, vive sola en Tánger disfrutando de su rutina y la ciudad que la vio crecer. Cuando su hija llega desde Madrid para vender el apartamento familiar, ella se resiste a perder su hogar y lucha por recuperar sus pertenencias y recuerdos.",
-      "rating": 7.3,
-      "releaseDate": "2025-10-31",
-      "duration": "116 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=S4us7BqwcF4",
-      "showtimes": {
-        "Miércoles 13 de mayo": [
-          "19:30"
-        ]
-      }
-    },
-    {
-      "title": "DAVID: UNA AVENTURA GIGANTE",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 13 de mayo": [
-          "17:30"
-        ]
-      }
-    },
     {
       "title": "EL DIABLO VISTE DE PRADA 2",
       "posterUrl": "https://image.tmdb.org/t/p/w500/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
@@ -46,21 +16,6 @@
         "Miércoles 13 de mayo": [
           "20:00",
           "22:00"
-        ]
-      }
-    },
-    {
-      "title": "LAS OVEJAS DETECTIVES",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/rGmHJzGyvHgKisPWhagGrqlJmYg.jpg",
-      "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "rating": 7.6,
-      "releaseDate": "2026-04-30",
-      "duration": "109 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 13 de mayo": [
-          "17:30"
         ]
       }
     },
