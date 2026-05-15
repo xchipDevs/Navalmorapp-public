@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T17:28:33.085737Z",
-  "expires_at": "2026-05-16T17:28:33.085737Z",
+  "generated_at": "2026-05-15T19:40:21.600962Z",
+  "expires_at": "2026-05-16T19:40:21.600962Z",
   "version": "1.0",
   "movies": [
     {
@@ -96,9 +96,6 @@
       "duration": "109 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 15 de mayo": [
-          "20:30"
-        ],
         "Sábado 16 de mayo": [
           "17:30"
         ],
@@ -123,9 +120,6 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Viernes 15 de mayo": [
-          "20:00"
-        ],
         "Sábado 16 de mayo": [
           "21:00"
         ],
@@ -144,7 +138,7 @@
       }
     },
     {
-      "title": "DAVID UNA AVENTURA GIGANTE",
+      "title": "DAVID: UNA AVENTURA GIGANTE",
       "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
       "backdropUrl": null,
       "overview": null,
