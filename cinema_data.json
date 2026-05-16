@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T22:55:22.523723Z",
-  "expires_at": "2026-05-16T22:55:22.523723Z",
+  "generated_at": "2026-05-16T03:20:33.030132Z",
+  "expires_at": "2026-05-17T03:20:33.030132Z",
   "version": "1.0",
   "movies": [
     {
@@ -85,7 +85,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
       "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "rating": 7.589,
+      "rating": 7.65,
       "releaseDate": "2026-04-30",
       "duration": "109 min",
       "trailerUrl": null,
@@ -132,7 +132,7 @@
       }
     },
     {
-      "title": "DAVID UNA AVENTURA GIGANTE",
+      "title": "DAVID: UNA AVENTURA GIGANTE",
       "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277525.jpg",
       "backdropUrl": null,
       "overview": null,
