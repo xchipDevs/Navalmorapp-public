@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T20:50:40.363255Z",
-  "expires_at": "2026-05-17T20:50:40.363255Z",
+  "generated_at": "2026-05-16T22:47:32.790465Z",
+  "expires_at": "2026-05-17T22:47:32.790465Z",
   "version": "1.0",
   "movies": [
     {
@@ -70,9 +70,6 @@
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=6cHc23cGDIc",
       "showtimes": {
-        "Sábado 16 de mayo": [
-          "23:15"
-        ],
         "Domingo 17 de mayo": [
           "19:00"
         ],
