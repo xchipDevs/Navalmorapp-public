@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T16:58:33.983306Z",
-  "expires_at": "2026-05-18T16:58:33.983306Z",
+  "generated_at": "2026-05-17T19:11:51.224471Z",
+  "expires_at": "2026-05-18T19:11:51.224471Z",
   "version": "1.0",
   "movies": [
     {
@@ -47,14 +47,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
       "overview": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
-      "rating": 6.846,
+      "rating": 6.8,
       "releaseDate": "2026-04-29",
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=6cHc23cGDIc",
       "showtimes": {
-        "Domingo 17 de mayo": [
-          "19:00"
-        ],
         "Lunes 18 de mayo": [
           "21:00"
         ],
@@ -72,14 +69,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
       "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "rating": 7.6,
+      "rating": 7.603,
       "releaseDate": "2026-04-30",
       "duration": "109 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 17 de mayo": [
-          "19:30"
-        ],
         "Lunes 18 de mayo": [
           "19:30"
         ],
@@ -93,7 +87,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.574,
+      "rating": 7.573,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
