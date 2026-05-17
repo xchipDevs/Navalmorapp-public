@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T03:34:07.230002Z",
-  "expires_at": "2026-05-18T03:34:07.230002Z",
+  "generated_at": "2026-05-17T06:45:38.635475Z",
+  "expires_at": "2026-05-18T06:45:38.635475Z",
   "version": "1.0",
   "movies": [
     {
@@ -65,7 +65,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
       "overview": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
-      "rating": 6.816,
+      "rating": 6.846,
       "releaseDate": "2026-04-29",
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=6cHc23cGDIc",
