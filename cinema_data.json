@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T07:47:07.136347Z",
-  "expires_at": "2026-05-20T07:47:07.136347Z",
+  "generated_at": "2026-05-19T11:19:18.806065Z",
+  "expires_at": "2026-05-20T11:19:18.806065Z",
   "version": "1.0",
   "movies": [
     {
@@ -78,7 +78,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
       "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "rating": 7.641,
+      "rating": 7.653,
       "releaseDate": "2026-04-30",
       "duration": "109 min",
       "trailerUrl": null,
