@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-05-20T03:40:55.121453Z",
-  "expires_at": "2026-05-21T03:40:55.121453Z",
+  "generated_at": "2026-05-20T07:44:30.200550Z",
+  "expires_at": "2026-05-21T07:44:30.200550Z",
   "version": "1.0",
   "movies": [
+    {
+      "title": "CALLE MÁLAGA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
+      "overview": "María Ángeles, una mujer de 79 años, vive sola en Tánger disfrutando de su rutina y la ciudad que la vio crecer. Cuando su hija llega desde Madrid para vender el apartamento familiar, ella se resiste a perder su hogar y lucha por recuperar sus pertenencias y recuerdos.",
+      "rating": 7.221,
+      "releaseDate": "2025-10-31",
+      "duration": "116 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=S4us7BqwcF4",
+      "showtimes": {
+        "Miércoles 20 de mayo": [
+          "19:30"
+        ]
+      }
+    },
     {
       "title": "EL DIABLO VISTE DE PRADA 2",
       "posterUrl": "https://image.tmdb.org/t/p/w500/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
@@ -35,36 +50,6 @@
       }
     },
     {
-      "title": "MICHAEL",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.582,
-      "releaseDate": "2026-04-22",
-      "duration": "128 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
-      "showtimes": {
-        "Miércoles 20 de mayo": [
-          "17:55"
-        ]
-      }
-    },
-    {
-      "title": "CALLE MÁLAGA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
-      "overview": "María Ángeles, una mujer de 79 años, vive sola en Tánger disfrutando de su rutina y la ciudad que la vio crecer. Cuando su hija llega desde Madrid para vender el apartamento familiar, ella se resiste a perder su hogar y lucha por recuperar sus pertenencias y recuerdos.",
-      "rating": 7.221,
-      "releaseDate": "2025-10-31",
-      "duration": "116 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=S4us7BqwcF4",
-      "showtimes": {
-        "Miércoles 20 de mayo": [
-          "19:30"
-        ]
-      }
-    },
-    {
       "title": "LAS OVEJAS DETECTIVES",
       "posterUrl": "https://image.tmdb.org/t/p/w500/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
@@ -76,6 +61,21 @@
       "showtimes": {
         "Miércoles 20 de mayo": [
           "17:30"
+        ]
+      }
+    },
+    {
+      "title": "MICHAEL",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "rating": 7.582,
+      "releaseDate": "2026-04-22",
+      "duration": "128 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
+      "showtimes": {
+        "Miércoles 20 de mayo": [
+          "17:55"
         ]
       }
     }
