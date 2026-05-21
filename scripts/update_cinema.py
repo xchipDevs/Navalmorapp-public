@@ -14,12 +14,28 @@ from bs4 import BeautifulSoup
 import re
 import urllib.parse
 
+# Asegurar que la salida estándar use codificación UTF-8 para evitar errores de impresión con emojis
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+    sys.stderr.reconfigure(encoding='utf-8')
+except AttributeError:
+    pass
+
+# Cargar variables de entorno locales si existe .env
+dotenv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")
+if os.path.exists(dotenv_path):
+    with open(dotenv_path, "r", encoding="utf-8") as f:
+        for line in f:
+            if "=" in line and not line.strip().startswith("#"):
+                key, val = line.strip().split("=", 1)
+                os.environ[key.strip()] = val.strip()
+
 # Configuración
 CINEMA_URL = "https://tietarteve.com/cine-navalmoral/"
 CINEMA_WP_API_URL = "https://tietarteve.com/wp-json/wp/v2/pages/58931"
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-TMDB_READ_TOKEN = os.getenv("TMDB_READ_TOKEN")
+TMDB_READ_TOKEN = os.getenv("TMDB_READ_ACCESS_TOKEN") or os.getenv("TMDB_READ_TOKEN")
 OUTPUT_FILE = "cinema_data.json"
 
 # Meses en español
@@ -170,6 +186,104 @@ def parse_movies(html):
     print(f"✅ {len(movies)} películas únicas parseadas en total")
     return movies
 
+
+async def scrape_tietarteve_fallback():
+    """Fetch movie list from TiétarTeVe using Gemini to parse the unstructured text"""
+    print("🌐 Iniciando fallback desde TiétarTeVe...")
+    
+    url = "https://tietarteve.com/cine-navalmoral/"
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+    }
+    
+    try:
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        
+        res = requests.get(url, headers=headers, verify=False, timeout=15)
+        res.raise_for_status()
+        soup = BeautifulSoup(res.text, 'html.parser')
+        
+        content_div = soup.select_one('.td-page-content, .entry-content')
+        if content_div:
+            text = content_div.get_text()
+            # Limpiar líneas vacías
+            lines = [line.strip() for line in text.split('\n') if line.strip()]
+            clean_text = "\n".join(lines)
+        else:
+            clean_text = soup.body.get_text()
+            
+        if not clean_text or len(clean_text.strip()) < 100:
+            raise Exception("El contenido de TiétarTeVe está vacío o es demasiado corto")
+            
+        print("🤖 Extrayendo películas estructuradas del texto usando Gemini...")
+        
+        prompt = f"""
+        Analiza el siguiente texto de la programación del Cine Navalmoral (obtenido de TiétarTeVe) y extrae las películas con sus horarios en un formato estructurado JSON.
+        
+        Texto de entrada:
+        \"\"\"{clean_text}\"\"\"
+        
+        REGLAS DE EXTRACCIÓN:
+        1. Identifica cada película en cartelera.
+        2. Para cada película, extrae:
+           - "title": El título de la película en español (ej. "Mortal Kombat II").
+           - "showtimes": Un diccionario donde la clave es el día (ej. "Viernes 22 de mayo") y el valor es una lista con las horas de las sesiones (ej. ["18:00", "20:15"]).
+           - "synopsis": El argumento o sinopsis de la película (campo "ARGUMENTO").
+           - "duration": La duración de la película (ej. "105 min").
+           - "trailer": URL del trailer de youtube si aparece en la ficha (campo "TRAILER").
+        3. Formatea los días como: "Día_Semana Número de Nombre_Mes" (ej. "Viernes 22 de mayo").
+        4. Omitir películas antiguas o de semanas pasadas (solo quédate con el rango actual que se indica al inicio de la programación, ej. "Del viernes 22 al miércoles 27 de mayo de 2026").
+        5. Retorna únicamente una lista JSON válida. No incluyes explicaciones ni bloques de código markdown.
+        """
+        
+        from google import genai
+        client = genai.Client(api_key=GEMINI_API_KEY)
+        
+        models_to_try = ['gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-2.0-flash']
+        response = None
+        for model_name in models_to_try:
+            try:
+                print(f"  🔄 Intentando extraer con: {model_name}...")
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt
+                )
+                print(f"  ✅ Extracción exitosa con {model_name}!")
+                break
+            except Exception as e:
+                print(f"  ⚠️ {model_name} falló: {e}")
+                
+        if not response:
+            raise Exception("Todos los modelos de Gemini fallaron en la extracción")
+            
+        cleaned_response = response.text.replace('```json', '').replace('```', '').strip()
+        movies = json.loads(cleaned_response)
+        
+        # Formatear adecuadamente para el resto del pipeline
+        formatted_movies = []
+        for m in movies:
+            formatted_movies.append({
+                'title': m.get('title'),
+                'poster': None,
+                'showtimes': m.get('showtimes', {}),
+                'synopsis': m.get('synopsis'),
+                'duration': m.get('duration'),
+                'trailer': m.get('trailer')
+            })
+            
+        print(f"✅ {len(formatted_movies)} películas extraídas exitosamente desde TiétarTeVe")
+        return formatted_movies
+        
+    except Exception as e:
+        print(f"⚠️ Error durante el fallback de TiétarTeVe: {e}")
+        return []
+
+
 def clean_titles_with_ai(movies):
     """Clean movie titles using Gemini AI - BATCH mode"""
     if not movies:
@@ -181,18 +295,24 @@ def clean_titles_with_ai(movies):
     titles_list = [m['title'] for m in movies]
     titles_text = "\n".join([f"{i+1}. {t}" for i, t in enumerate(titles_list)])
     
-    prompt = f"""Limpia estos títulos de películas. Elimina "Cine", "Navalmoral", "Horarios", fechas, horas, idiomas, y extra punctuación.
-Devuelve SOLO los títulos limpios, uno por línea, numerados igual:
+    prompt = f"""Eres un asistente automatizado de limpieza de datos.
+Tu única tarea es limpiar una lista de títulos de películas que te proporciona el usuario.
+No debes incluir ningún saludo, introducción, explicación, disculpa, ni texto conversacional.
+Debes devolver exactamente el mismo número de líneas que la lista de entrada.
+Si un título ya está limpio o si consideras que no hay nada que limpiar, devuélvelo exactamente igual.
 
+Instrucciones de limpieza:
+- Elimina palabras como "Cine", "Navalmoral", "Horarios", "ESP", "DIG", "DIGITAL", "3D", fechas, horas, idiomas (ej. "V.O.S.E.") y puntuación innecesaria.
+- Mantén solo el nombre propio de la película (ej. "Mortal Kombat II").
+
+Lista de títulos a limpiar (devuelve una línea por cada uno, en el mismo orden, numerados igual):
 {titles_text}"""
     
     try:
         from google import genai
         client = genai.Client(api_key=GEMINI_API_KEY)
         
-        # Prioridad: Gemini 3 Flash Preview
-        # Fallback: 2.0 Flash -> 1.5 Flash
-        models_to_try = ['gemini-3-flash-preview', 'gemini-2.0-flash', 'gemini-1.5-flash']
+        models_to_try = ['gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-2.0-flash']
         
         response = None
         for model_name in models_to_try:
@@ -200,7 +320,7 @@ Devuelve SOLO los títulos limpios, uno por línea, numerados igual:
                 print(f"🔄 Intentando limpiar títulos con: {model_name}...")
                 response = client.models.generate_content(
                     model=model_name,
-                    contents=prompt # Solo texto
+                    contents=prompt
                 )
                 print(f"✅ ¡Limpieza exitosa con {model_name}!")
                 break
@@ -220,13 +340,19 @@ Devuelve SOLO los títulos limpios, uno por línea, numerados igual:
             if clean:
                 cleaned_titles.append(clean)
         
-        # Asignar títulos limpios
-        for i, movie in enumerate(movies):
-            if i < len(cleaned_titles):
+        # Validación de robustez
+        conversational_patterns = ["lo siento", "por favor", "no he", "no se", "parece que", "proporciona", "mensaje", "escribe la lista"]
+        is_conversational = any(any(pat in title.lower() for pat in conversational_patterns) for title in cleaned_titles)
+        
+        if len(cleaned_titles) != len(movies) or is_conversational:
+            print("⚠️ La respuesta de la IA parece conversacional, incompleta o inválida. Usando títulos originales.")
+            for movie in movies:
+                movie['title_clean'] = movie['title']
+        else:
+            # Asignar títulos limpios
+            for i, movie in enumerate(movies):
                 movie['title_clean'] = cleaned_titles[i]
                 print(f"  ✓ {movie['title']} → {cleaned_titles[i]}")
-            else:
-                movie['title_clean'] = movie['title']  # fallback
                 
     except Exception as e:
         print(f"⚠️ Error en Gemini AI Cleaning: {e}")
@@ -235,6 +361,7 @@ Devuelve SOLO los títulos limpios, uno por línea, numerados igual:
             movie['title_clean'] = movie['title']
     
     return movies
+
 
 def enrich_with_tmdb(movies):
     """Enrich movies with TMDB metadata"""
@@ -388,23 +515,30 @@ def generate_json(movies):
 async def main():
     """Main execution"""
     try:
-        # 1. Scraping (tries multiple methods)
-        html = await scrape_cinema()
+        movies = []
         
-        # 2. Parsing
-        movies = parse_movies(html)
+        # 1. Intentar scraping desde Kinetike
+        try:
+            html = await scrape_cinema()
+            movies = parse_movies(html)
+        except Exception as e:
+            print(f"⚠️ Error al raspar Kinetike: {e}")
+            movies = []
+            
+        # 2. Fallback a TiétarTeVe si Kinetike no tiene películas
+        if not movies:
+            print("⚠️ No se encontraron películas en Kinetike (o el cine está en transición). Intentando fallback con TiétarTeVe...")
+            try:
+                movies = await scrape_tietarteve_fallback()
+            except Exception as e:
+                print(f"💥 Error fatal en el fallback de TiétarTeVe: {e}")
+                movies = []
         
         if not movies:
-            # Debug: guardar HTML para análisis
-            try:
-                debug_file = "debug_cinema_html.txt"
-                with open(debug_file, 'w', encoding='utf-8') as f:
-                    f.write(html)
-                print(f"  📄 HTML guardado en {debug_file} ({len(html)} chars)")
-            except:
-                pass
-            print("❌ No se encontraron películas")
-            sys.exit(1)
+            print("⚠️ No se encontraron películas en ninguna fuente.")
+            # Salir con código 0 para no romper la GitHub Action cuando el cine está en transición y no hay cartelera
+            print("ℹ️ Saliendo con éxito para evitar fallos de ejecución en días sin cartelera.")
+            sys.exit(0)
         
         # 3. AI Cleaning (BATCH - 1 petición)
         movies = clean_titles_with_ai(movies)
