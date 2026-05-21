@@ -2,12 +2,15 @@ name: Update Cinema Data
 
 on:
   schedule:
-    # Cada 2 horas (12 veces al día)
-    - cron: '0 */8 * * *'
+    # Cada 2 horas (12 veces al día a medianoche)
+    - cron: '0 */2 * * *'
   workflow_dispatch:  # Permitir ejecución manual
 
 permissions:
   contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
 jobs:
   update-cinema:
@@ -28,9 +31,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install --no-cache-dir -r scripts/requirements.txt
-          pip list
-          playwright install chromium
-          playwright install-deps
       
       - name: Run cinema scraper
         env:

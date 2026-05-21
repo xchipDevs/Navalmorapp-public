@@ -1,200 +1,147 @@
 {
-  "generated_at": "2026-02-04T17:04:33.392257Z",
-  "expires_at": "2026-02-05T17:04:33.392257Z",
+  "generated_at": "2026-05-21T13:40:18.252851Z",
+  "expires_at": "2026-05-22T13:40:18.252851Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "Hamnet",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hVo0g5M8z1kuhzxQ51eCbF81wUh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
-      "overview": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.",
-      "rating": 7.8,
-      "releaseDate": "2025-11-26",
-      "duration": "125 min",
-      "trailerUrl": "https://www.youtube.com/embed/Ith7z6FzLe0?feature=oembed",
+      "title": "Jugada Maestra",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xMZkXK0j2HqUplyTXotXOr2SHGx.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/vgGcmZWWjxYanOrPxxIoijZqCtQ.jpg",
+      "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
+      "rating": 7.1,
+      "releaseDate": "2026-02-19",
+      "duration": "105 min",
+      "trailerUrl": null,
       "showtimes": {
-        "Viernes 6 de febrero de 2026": [
-          "21:30"
+        "Viernes 22 de mayo": [
+          "20:00"
         ],
-        "Sábado 7 de febrero de 2026": [
-          "18:30",
-          "22:15"
-        ],
-        "Domingo 8 de febrero de 2026": [
-          "20:30"
-        ],
-        "Lunes 9 de febrero de 2026": [
-          "19:00"
-        ],
-        "Martes 10 de febrero de 2026": [
-          "19:00"
-        ],
-        "Miércoles 11 de febrero de 2026": [
-          "18:30",
-          "20:45",
-          "21:30"
-        ]
-      }
-    },
-    {
-      "title": "Marty Supreme",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
-      "overview": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
-      "rating": 7.8,
-      "releaseDate": "2025-12-19",
-      "duration": "149 min",
-      "trailerUrl": "https://www.youtube.com/embed/rXqXn3G-40U?feature=oembed",
-      "showtimes": {
-        "Viernes 6 de febrero de 2026": [
-          "18:30"
-        ],
-        "Sábado 7 de febrero de 2026": [
+        "Sábado 23 de mayo": [
+          "17:30",
           "22:00"
         ],
-        "Domingo 8 de febrero de 2026": [
+        "Domingo 24 de mayo": [
+          "17:30",
+          "19:30"
+        ],
+        "Lunes 25 de mayo": [
+          "21:15"
+        ],
+        "Martes 26 de mayo": [
           "19:00"
         ],
-        "Lunes 9 de febrero de 2026": [
-          "21:30"
-        ],
-        "Martes 10 de febrero de 2026": [
-          "21:30"
-        ]
-      }
-    },
-    {
-      "title": "Evolution",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/maEfP1omZ1Rn2NErpwpp4eDjMOD.jpg",
-      "backdropUrl": null,
-      "overview": "Cuando una sustancia extraterrestre mezcla el ADN de Zoe con el de sus exóticas mascotas, empieza una divertidísima aventura donde los humanos se animalizan, los animales se humanizan y todos tienen que ponerse de acuerdo para salvar el mundo.",
-      "rating": 0.0,
-      "releaseDate": "2026-02-06",
-      "duration": null,
-      "trailerUrl": "https://www.youtube.com/embed/2RBZtbjmFKA?feature=oembed",
-      "showtimes": {
-        "Viernes 6 de febrero de 2026": [
-          "18:30",
-          "06:00"
-        ],
-        "Sábado 7 de febrero de 2026": [
-          "17:00"
-        ],
-        "Domingo 8 de febrero de 2026": [
-          "17:00"
-        ],
-        "Miércoles 11 de febrero de 2026": [
-          "17:00"
-        ]
-      }
-    },
-    {
-      "title": "Aída y vuelta",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3k4FKVgaxUZo1CITvj2nFDyNNKy.jpg",
-      "backdropUrl": null,
-      "overview": "Una película de metaficción centrada en el rodaje de un capítulo de la mítica serie de televisión \"Aída\".",
-      "rating": 6.0,
-      "releaseDate": "2026-01-30",
-      "duration": "110 min",
-      "trailerUrl": "https://www.youtube.com/embed/O82ibLC4bmM?feature=oembed",
-      "showtimes": {
-        "Miércoles 4 de febrero de 2026": [
-          "18:30",
-          "20:30"
-        ],
-        "Viernes 6 de febrero de 2026": [
-          "19:30"
-        ],
-        "Sábado 7 de febrero de 2026": [
-          "20:30"
-        ],
-        "Domingo 8 de febrero de 2026": [
-          "18:30"
-        ],
-        "Lunes 9 de febrero de 2026": [
-          "21:00"
-        ],
-        "Martes 10 de febrero de 2026": [
-          "18:30"
-        ]
-      }
-    },
-    {
-      "title": "Ídolos",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ugwbVoO67N6nZn5A8LTPsn0pkuN.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/gL6nihQ0c62CgjuKnY5z3tEdIQG.jpg",
-      "overview": "Edu es un joven piloto de motos muy agresivo en quien ningún equipo confía. Eli, jefe del equipo de Aspar Team en Moto2, le ofrece una oportunidad con la condición de que sea su padre, Antonio Belardi, quien le entrene. Edu lleva muchos años sin ver a su padre, un expiloto que se retiró de las pistas tras provocar la muerte de otro piloto durante una carrera. Aunque Edu odia a su padre por haberle abandonado, sabe que solo con él puede llegar a alcanzar su sueño. Edu se someterá al estricto control de preparación que le exige Antonio, el cual incluye dejar a un lado el amor… hasta que conoce a Luna, una joven artista que acaba de abrir un salón de tatuajes justo debajo de su casa.",
-      "rating": 7.0,
-      "releaseDate": "2026-01-23",
-      "duration": "126 min",
-      "trailerUrl": "https://www.youtube.com/embed/15-oOaLlAX0?feature=oembed",
-      "showtimes": {
-        "Miércoles 4 de febrero de 2026": [
+        "Miércoles 27 de mayo": [
           "17:30",
           "21:45"
+        ]
+      }
+    },
+    {
+      "title": "Las ovejas detectives",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "rating": 7.671,
+      "releaseDate": "2026-04-30",
+      "duration": "109 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 23 de mayo": [
+          "17:00"
         ],
-        "Viernes 6 de febrero de 2026": [
+        "Domingo 24 de mayo": [
+          "17:00"
+        ]
+      }
+    },
+    {
+      "title": "Mortal Kombat II",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "overview": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
+      "rating": 6.918,
+      "releaseDate": "2026-05-06",
+      "duration": "116 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=nUfwLpIiWCU",
+      "showtimes": {
+        "Viernes 22 de mayo": [
+          "22:15"
+        ],
+        "Sábado 23 de mayo": [
+          "19:00"
+        ],
+        "Domingo 24 de mayo": [
           "21:00"
         ],
-        "Sábado 7 de febrero de 2026": [
-          "19:45"
-        ],
-        "Domingo 8 de febrero de 2026": [
-          "17:00"
-        ],
-        "Miércoles 11 de febrero de 2026": [
-          "19:15"
-        ]
-      }
-    },
-    {
-      "title": "El Médico II",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eil0VrgWNePPnPcT6TUMDyWTF5D.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
-      "overview": "Ispahán, Irán. Año 1034. El médico Rob Cole y su familia se ven obligados a huir de la Madraza y poner rumbo a occidente junto a sus estudiantes de medicina. Al llegar a Londres, descubren que musulmanes y judíos tienen prohibida la entrada a la ciudad y que no pueden ejercer como médicos dentro de ella. Sin dejarse intimidar, Cole y sus pupilos establecen un hospital improvisado a las puertas de Londres. Cuando Cole es llamado por el Rey para que atienda a su hija enferma, sus excepcionales habilidades como curandero le aseguran un puesto en la corte. A medida que se vea envuelto en luchas de poder e intrigas política de la casa real, el médico deberá guiarse por su instinto para sobrevivir en una Inglaterra al borde del colapso.",
-      "rating": 6.6,
-      "releaseDate": "2025-12-25",
-      "duration": "142 min",
-      "trailerUrl": "https://www.youtube.com/embed/ndoEo6oBRV0?feature=oembed",
-      "showtimes": {
-        "Miércoles 4 de febrero de 2026": [
+        "Lunes 25 de mayo": [
           "19:30"
+        ],
+        "Martes 26 de mayo": [
+          "21:30"
+        ],
+        "Miércoles 27 de mayo": [
+          "18:00",
+          "22:00"
         ]
       }
     },
     {
-      "title": "La Asistenta",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/A6S15iqfHpoit02leDfDVnpklys.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/tNONILTe9OJz574KZWaLze4v6RC.jpg",
-      "overview": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
-      "rating": 7.075,
-      "releaseDate": "2025-12-18",
-      "duration": "131 min",
-      "trailerUrl": "https://www.youtube.com/embed/9K3P1H9p6tM?feature=oembed",
+      "title": "El Diablo viste de Prada 2",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+      "overview": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "rating": 6.646,
+      "releaseDate": "2026-04-29",
+      "duration": "119 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
       "showtimes": {
-        "Sábado 7 de febrero de 2026": [
-          "17:30"
+        "Viernes 22 de mayo": [
+          "20:15"
         ],
-        "Lunes 9 de febrero de 2026": [
-          "19:15"
+        "Sábado 23 de mayo": [
+          "21:00"
         ],
-        "Miércoles 11 de febrero de 2026": [
-          "17:00"
+        "Domingo 24 de mayo": [
+          "19:00"
+        ],
+        "Lunes 25 de mayo": [
+          "21:30"
+        ],
+        "Martes 26 de mayo": [
+          "19:30"
+        ],
+        "Miércoles 27 de mayo": [
+          "20:00"
         ]
       }
     },
     {
-      "title": "Father Mother Sister Brother",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iLwZuafLq8WmM9xJjS2T9YXZvc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xxFH8OgUVw5LyJmqBaXeV97mfri.jpg",
-      "overview": "Tres historias separadas sobre relaciones distantes entre hijos adultos y sus padres. Cada una de las tres partes tiene lugar en la actualidad, y en un país diferente. \"El Padre\" está ambientado en el noreste de EE. UU., \"La Madre\" en Dublín, Irlanda y \"La Hermana Hermano\" en París, Francia. La película es una serie de estudios de personajes, tranquilos, observacionales y sin prejuicios. Una comedia, pero entretejida con hilos de melancolía.",
-      "rating": 6.6,
-      "releaseDate": "2025-12-01",
-      "duration": "110 min",
-      "trailerUrl": "https://www.youtube.com/embed/vS8WyBYH1YA?feature=oembed",
+      "title": "Michael",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "rating": 7.573,
+      "releaseDate": "2026-04-22",
+      "duration": "127 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Martes 10 de febrero de 2026": [
-          "20:30"
+        "Viernes 22 de mayo": [
+          "22:00"
+        ],
+        "Sábado 23 de mayo": [
+          "19:30"
+        ],
+        "Domingo 24 de mayo": [
+          "21:30"
+        ],
+        "Lunes 25 de mayo": [
+          "19:00"
+        ],
+        "Martes 26 de mayo": [
+          "21:00"
+        ],
+        "Miércoles 27 de mayo": [
+          "19:30"
         ]
       }
     }

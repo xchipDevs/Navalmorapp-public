@@ -9,16 +9,33 @@ import os
 import sys
 from datetime import datetime
 import asyncio
-from playwright.async_api import async_playwright
 import requests
 from bs4 import BeautifulSoup
 import re
+import urllib.parse
+
+# Asegurar que la salida estándar use codificación UTF-8 para evitar errores de impresión con emojis
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+    sys.stderr.reconfigure(encoding='utf-8')
+except AttributeError:
+    pass
+
+# Cargar variables de entorno locales si existe .env
+dotenv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")
+if os.path.exists(dotenv_path):
+    with open(dotenv_path, "r", encoding="utf-8") as f:
+        for line in f:
+            if "=" in line and not line.strip().startswith("#"):
+                key, val = line.strip().split("=", 1)
+                os.environ[key.strip()] = val.strip()
 
 # Configuración
 CINEMA_URL = "https://tietarteve.com/cine-navalmoral/"
+CINEMA_WP_API_URL = "https://tietarteve.com/wp-json/wp/v2/pages/58931"
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-TMDB_READ_TOKEN = os.getenv("TMDB_READ_TOKEN")
+TMDB_READ_TOKEN = os.getenv("TMDB_READ_ACCESS_TOKEN") or os.getenv("TMDB_READ_TOKEN")
 OUTPUT_FILE = "cinema_data.json"
 
 # Meses en español
@@ -30,201 +47,242 @@ MESES = {
 # Configurar Gemini (ahora local en la función)
 
 
+
 async def scrape_cinema():
-    """Scrape cinema website using Playwright"""
-    print("🌐 Iniciando scraping del cine...")
+    """Fetch movie list from Kinetike for the next 7 days"""
+    print("🌐 Iniciando scraping desde Kinetike (7 días)...")
     
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page()
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+    }
+    
+    import urllib3
+    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+    
+    combined_html = ""
+    session = requests.Session()
+    
+    # URL inicial (redirige y crea sesión)
+    base_url = "https://kinetike.com:83/views/init.aspx?cine=NAVALMORALDELAMATA"
+    
+    try:
+        print("  📅 Consultando cartelera del día 1 (Hoy)...")
+        res = session.get(base_url, headers=headers, verify=False, timeout=15)
+        res.raise_for_status()
+        current_html = res.text
+        current_url = res.url
+        combined_html += current_html + "\n"
         
-        try:
-            await page.goto(CINEMA_URL, wait_until="networkidle", timeout=30000)
-            await asyncio.sleep(1.5)  # Esperar carga de JavaScript
+        # Bucle para 6 días más simulando clic en la flecha de "Siguiente día"
+        for i in range(2, 8):
+            print(f"  📅 Consultando cartelera del día {i}...")
             
-            html = await page.content()
-            await browser.close()
+            # Extraer ViewState y EventValidation del HTML anterior
+            soup = BeautifulSoup(current_html, 'html.parser')
+            vs_input = soup.select_one('#__VIEWSTATE')
+            ev_input = soup.select_one('#__EVENTVALIDATION')
             
-            return html
-        except Exception as e:
-            print(f"❌ Error al scrapear: {e}")
-            await browser.close()
-            raise
+            viewstate = vs_input['value'] if vs_input else ''
+            eventval = ev_input['value'] if ev_input else ''
+            
+            data = {
+                '__EVENTTARGET': '',
+                '__EVENTARGUMENT': '',
+                '__VIEWSTATE': viewstate,
+                '__EVENTVALIDATION': eventval,
+                'imgSiguiente.x': '15',
+                'imgSiguiente.y': '15'
+            }
+            
+            # Kinetike espera un POST en la misma URL de la sesión
+            post_res = session.post(current_url, headers=headers, data=data, verify=False, timeout=15)
+            post_res.raise_for_status()
+            current_html = post_res.text
+            combined_html += current_html + "\n"
+            
+    except Exception as e:
+        print(f"  ⚠️ Error durante el volcado de datos: {e}")
+            
+    if not combined_html.strip():
+        raise Exception("No se pudo conectar a Kinetike en ninguno de los días")
+        
+    return combined_html
+
 
 def parse_movies(html):
-    """Parse HTML and extract raw movie data"""
-    print("📜 Parseando HTML...")
+    """Parse HTML from Kinetike and extract movies and showtimes"""
+    print("📜 Parseando HTML de Kinetike...")
     soup = BeautifulSoup(html, 'html.parser')
     
-    # Buscar contenedor principal
-    content_div = soup.select_one('.td-page-content') or soup.select_one('.entry-content') or soup.body
+    movies_dict = {}  # Agrupar por título
     
-    if not content_div:
-        print("❌ No se encontró contenedor de contenido")
+    # 1. Encontrar cada película
+    panels = soup.select('.panel_peli')
+    if not panels:
+        print("❌ No se encontraron contenedores '.panel_peli'")
         return []
+        
+    print(f"  📊 {len(panels)} elementos panel_peli encontrados en la semana")
     
-    movies = []
-    current_movie = None
-    current_day = None  # State Machine: Day Context
-    expecting_synopsis = False # State Machine: Synopsis Context
-    
-    for node in content_div.children:
-        if not node.name:
+    for panel in panels:
+        # Título y póster
+        poster_input = panel.select_one('input[type="image"], img')
+        if not poster_input:
             continue
             
-        # Usar separador de espacio para evitar "defebrero" al concatenar spans
-        text = node.get_text(' ', strip=True)
-        # Normalizar espacios múltiples
-        text = re.sub(r'\s+', ' ', text)
+        title = poster_input.get('alt', '').strip()
+        poster_src = poster_input.get('src', '')
         
-        # Detectar títulos (H2)
-        if node.name == 'h2' and text and not any(x in text.upper() for x in ['HORARIO', 'FICHA', 'ARGUMENTO', 'TRAILER', 'NAVALMORAL', '€', 'COMPRA']):
-            # Guardar película anterior
-            if current_movie and current_movie.get('poster') and current_movie.get('showtimes'):
-                movies.append(current_movie)
+        # Omitir si es un logo u otro elemento
+        if not title or 'logo' in title.lower():
+            continue
             
-            # Nueva película
-            current_movie = {
-                'title': text,
-                'poster': None,
+        if poster_src and not poster_src.startswith('http'):
+            poster_src = f"https://kinetike.com:83/views/{poster_src}"
+            
+        if title not in movies_dict:
+            print(f"🎬 Encontrada: {title}")
+            movies_dict[title] = {
+                'title': title,
+                'poster': poster_src,
                 'showtimes': {},
                 'synopsis': None,
                 'duration': None,
                 'trailer': None
             }
-            current_day = None
-            expecting_synopsis = False
-            print(f"🎬 Encontrada: {text}")
-            continue
+            
+        movie = movies_dict[title]
         
-        if not current_movie:
-            continue
+        # 2. Extraer horarios de los botones o enlaces
+        html_str = str(panel)
+        matches = re.finditer(r'fecha=(\d{2}/\d{2}/\d{4})(?:&|&amp;)hora=(\d{1,2}:\d{2})(?:&|&amp;)sala=([^&"\']+)', html_str)
         
-        # Detectar póster
-        if not current_movie['poster']:
-            img = node.select_one('img')
-            if img:
-                src = img.get('data-src') or img.get('src')
-                if src and 'base64' not in src and 'logo' not in src.lower():
-                    current_movie['poster'] = src
-        
-        # ---------------------------------------------------------
-        # 1. State Machine: Date Context (Matches ScraperService.dart)
-        # ---------------------------------------------------------
-        # Regex para detectar días (Lunes, Martes... o Del X al Y)
-        day_regex = re.compile(r'(Lunes|Martes|Miércoles|Miercoles|Jueves|Viernes|Sábado|Sabado|Domingo|Diario|Laborables|Festivos|Del\s+\d+|Del\s+\w+)', re.IGNORECASE)
-        day_match = day_regex.search(text)
-        
-        # Si encontramos una fecha válida y el texto no es larguísimo (evitar sinopsis falsas)
-        if day_match and len(text) < 80:
-            candidate = text.strip()
+        for match in matches:
+            fecha_str, hora, sala = match.groups()
             
-            # Limpieza: Si es "Lunes 27: 17:00", nos quedamos con "Lunes 27"
-            if ':' in candidate:
-                parts = candidate.split(':')
-                # Si la parte derecha parece un dígito, cortamos
-                if len(parts) > 1 and re.match(r'\s*\d', parts[1]):
-                    candidate = parts[0].strip()
-            
-            # Quitar dos puntos finales
-            candidate = candidate.rstrip(':').strip()
-            
-            if len(candidate) < 50:
-                # Capitalizar
-                candidate = candidate[0].upper() + candidate[1:] if candidate else candidate
-                current_day = candidate
-                print(f"  📅 Contexto fecha: {current_day}")
-        
-        # ---------------------------------------------------------
-        # 2. Detectar horarios (Times)
-        # ---------------------------------------------------------
-        time_matches = re.findall(r'(\d{1,2}[:\.]\d{2})', text)
-        if time_matches:
-            # Usar el día del contexto actual, o 'Horarios' si no hay contexto
-            day_key = current_day if current_day else "Horarios"
-            
-            if day_key not in current_movie['showtimes']:
-                current_movie['showtimes'][day_key] = []
-            
-            # Collect all found times first
-            for time in time_matches:
-                clean_time = time.replace('.', ':')
-                if clean_time not in current_movie['showtimes'][day_key]:
-                    current_movie['showtimes'][day_key].append(clean_time)
-            
-            # Lógica de Deduplicación (Portado de ScraperService.dart)
-            times = current_movie['showtimes'][day_key]
-            to_remove = set()
-            
-            for t in times:
-                try:
-                    parts = t.split(':')
-                    h = int(parts[0])
-                    m = parts[1]
+            try:
+                dt = datetime.strptime(fecha_str, "%d/%m/%Y")
+                dias_semana = {0: "Lunes", 1: "Martes", 2: "Miércoles", 3: "Jueves", 4: "Viernes", 5: "Sábado", 6: "Domingo"}
+                meses = {1: "enero", 2: "febrero", 3: "marzo", 4: "abril", 5: "mayo", 6: "junio", 7: "julio", 8: "agosto", 9: "septiembre", 10: "octubre", 11: "noviembre", 12: "diciembre"}
+                
+                nombre_dia = dias_semana[dt.weekday()]
+                nombre_mes = meses[dt.month]
+                
+                day_key = f"{nombre_dia} {dt.day} de {nombre_mes}"
+                
+                if day_key not in movie['showtimes']:
+                    movie['showtimes'][day_key] = []
                     
-                    if 13 <= h <= 23:
-                        h12 = h - 12
-                        # Marcar equivalentes 12h para eliminar
-                        to_remove.add(f"{h12}:{m}")
-                        to_remove.add(f"{h12:02d}:{m}")
-                except:
-                    continue
+                if hora not in movie['showtimes'][day_key]:
+                    movie['showtimes'][day_key].append(hora)
+            except Exception as e:
+                print(f"  ⚠️ Error parseando fecha {fecha_str}: {e}")
+        
+    movies = []
+    for title, movie in movies_dict.items():
+        if movie.get('showtimes'):
+            movies.append(movie)
             
-            # Filtrar lista final
-            current_movie['showtimes'][day_key] = [t for t in times if t not in to_remove]
-        
-        # Detectar sinopsis
-        # Detectar sinopsis (State Machine & Direct)
-        if not current_movie['synopsis']:
-            # Caso 1: Header "ARGUMENTO" detectado previamente
-            if expecting_synopsis and len(text) > 30 and not any(x in text for x in ['Título original:', 'Dirección:', 'Reparto:', 'FICHA']):
-                current_movie['synopsis'] = text.strip()
-                expecting_synopsis = False
-                print(f"  📖 Sinopsis capturada (Next Node): {text[:30]}...")
-            
-            # Caso 2: Texto largo que contiene o sigue a header (Single Node or Trigger)
-            elif len(text) > 10 and any(x in text.upper() for x in ['ARGUMENTO', 'SINOPSIS']):
-                # Si es un header corto ("ARGUMENTO"), activar flag para siguiente nodo
-                if len(text) < 30:
-                    expecting_synopsis = True
-                    print("  👀 Esperando sinopsis en siguiente nodo...")
-                else:
-                    # Si contiene el texto entero: "ARGUMENTO: Bla bla bla"
-                    current_movie['synopsis'] = re.sub(r'(ARGUMENTO|SINOPSIS)[\s:]*', '', text, flags=re.IGNORECASE).strip()
-                    print(f"  📖 Sinopsis capturada (Same Node): {current_movie['synopsis'][:30]}...")
-
-            # Caso 3: Heurística (Párrafo largo huérfano después de Ficha/Título)
-            # Si a estas alturas no tenemos sinopsis y el texto es largo y NO es metadata
-            elif len(text) > 60 and not any(x in text for x in ['Título original:', 'Dirección:', 'Reparto:', 'FICHA', 'HORARIO', 'Sábado', 'Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes']):
-                 current_movie['synopsis'] = text.strip()
-                 print(f"  📖 Sinopsis capturada (Heurística): {text[:30]}...")
-        
-        
-        # Detectar duración
-        dur_match = re.search(r'Duración:\s*(\d+)\s*min', text)
-        if dur_match:
-            current_movie['duration'] = f"{dur_match.group(1)} min"
-
-        # Detectar Año
-        year_match = re.search(r'Año:\s*(\d{4})', text)
-        if year_match:
-            current_movie['year'] = year_match.group(1)
-            print(f"  📅 Año detectado: {current_movie['year']}")
-        
-        # Detectar trailer
-        if not current_movie['trailer']:
-            iframe = node.select_one('iframe')
-            if iframe:
-                src = iframe.get('src') or iframe.get('data-src')
-                if src and ('youtube' in src or 'youtu.be' in src):
-                    current_movie['trailer'] = src
-    
-    # Guardar última película
-    if current_movie and current_movie.get('poster') and current_movie.get('showtimes'):
-        movies.append(current_movie)
-    
-    print(f"✅ {len(movies)} películas encontradas")
+    print(f"✅ {len(movies)} películas únicas parseadas en total")
     return movies
+
+
+async def scrape_tietarteve_fallback():
+    """Fetch movie list from TiétarTeVe using Gemini to parse the unstructured text"""
+    print("🌐 Iniciando fallback desde TiétarTeVe...")
+    
+    url = "https://tietarteve.com/cine-navalmoral/"
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+    }
+    
+    try:
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        
+        res = requests.get(url, headers=headers, verify=False, timeout=15)
+        res.raise_for_status()
+        soup = BeautifulSoup(res.text, 'html.parser')
+        
+        content_div = soup.select_one('.td-page-content, .entry-content')
+        if content_div:
+            text = content_div.get_text()
+            # Limpiar líneas vacías
+            lines = [line.strip() for line in text.split('\n') if line.strip()]
+            clean_text = "\n".join(lines)
+        else:
+            clean_text = soup.body.get_text()
+            
+        if not clean_text or len(clean_text.strip()) < 100:
+            raise Exception("El contenido de TiétarTeVe está vacío o es demasiado corto")
+            
+        print("🤖 Extrayendo películas estructuradas del texto usando Gemini...")
+        
+        prompt = f"""
+        Analiza el siguiente texto de la programación del Cine Navalmoral (obtenido de TiétarTeVe) y extrae las películas con sus horarios en un formato estructurado JSON.
+        
+        Texto de entrada:
+        \"\"\"{clean_text}\"\"\"
+        
+        REGLAS DE EXTRACCIÓN:
+        1. Identifica cada película en cartelera.
+        2. Para cada película, extrae:
+           - "title": El título de la película en español (ej. "Mortal Kombat II").
+           - "showtimes": Un diccionario donde la clave es el día (ej. "Viernes 22 de mayo") y el valor es una lista con las horas de las sesiones (ej. ["18:00", "20:15"]).
+           - "synopsis": El argumento o sinopsis de la película (campo "ARGUMENTO").
+           - "duration": La duración de la película (ej. "105 min").
+           - "trailer": URL del trailer de youtube si aparece en la ficha (campo "TRAILER").
+        3. Formatea los días como: "Día_Semana Número de Nombre_Mes" (ej. "Viernes 22 de mayo").
+        4. Omitir películas antiguas o de semanas pasadas (solo quédate con el rango actual que se indica al inicio de la programación, ej. "Del viernes 22 al miércoles 27 de mayo de 2026").
+        5. Retorna únicamente una lista JSON válida. No incluyes explicaciones ni bloques de código markdown.
+        """
+        
+        from google import genai
+        client = genai.Client(api_key=GEMINI_API_KEY)
+        
+        models_to_try = ['gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-2.0-flash']
+        response = None
+        for model_name in models_to_try:
+            try:
+                print(f"  🔄 Intentando extraer con: {model_name}...")
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt
+                )
+                print(f"  ✅ Extracción exitosa con {model_name}!")
+                break
+            except Exception as e:
+                print(f"  ⚠️ {model_name} falló: {e}")
+                
+        if not response:
+            raise Exception("Todos los modelos de Gemini fallaron en la extracción")
+            
+        cleaned_response = response.text.replace('```json', '').replace('```', '').strip()
+        movies = json.loads(cleaned_response)
+        
+        # Formatear adecuadamente para el resto del pipeline
+        formatted_movies = []
+        for m in movies:
+            formatted_movies.append({
+                'title': m.get('title'),
+                'poster': None,
+                'showtimes': m.get('showtimes', {}),
+                'synopsis': m.get('synopsis'),
+                'duration': m.get('duration'),
+                'trailer': m.get('trailer')
+            })
+            
+        print(f"✅ {len(formatted_movies)} películas extraídas exitosamente desde TiétarTeVe")
+        return formatted_movies
+        
+    except Exception as e:
+        print(f"⚠️ Error durante el fallback de TiétarTeVe: {e}")
+        return []
+
 
 def clean_titles_with_ai(movies):
     """Clean movie titles using Gemini AI - BATCH mode"""
@@ -237,18 +295,24 @@ def clean_titles_with_ai(movies):
     titles_list = [m['title'] for m in movies]
     titles_text = "\n".join([f"{i+1}. {t}" for i, t in enumerate(titles_list)])
     
-    prompt = f"""Limpia estos títulos de películas. Elimina "Cine", "Navalmoral", "Horarios", fechas, horas, idiomas, y extra punctuación.
-Devuelve SOLO los títulos limpios, uno por línea, numerados igual:
+    prompt = f"""Eres un asistente automatizado de limpieza de datos.
+Tu única tarea es limpiar una lista de títulos de películas que te proporciona el usuario.
+No debes incluir ningún saludo, introducción, explicación, disculpa, ni texto conversacional.
+Debes devolver exactamente el mismo número de líneas que la lista de entrada.
+Si un título ya está limpio o si consideras que no hay nada que limpiar, devuélvelo exactamente igual.
 
+Instrucciones de limpieza:
+- Elimina palabras como "Cine", "Navalmoral", "Horarios", "ESP", "DIG", "DIGITAL", "3D", fechas, horas, idiomas (ej. "V.O.S.E.") y puntuación innecesaria.
+- Mantén solo el nombre propio de la película (ej. "Mortal Kombat II").
+
+Lista de títulos a limpiar (devuelve una línea por cada uno, en el mismo orden, numerados igual):
 {titles_text}"""
     
     try:
         from google import genai
         client = genai.Client(api_key=GEMINI_API_KEY)
         
-        # Prioridad: Gemini 3 Flash Preview
-        # Fallback: 2.0 Flash -> 1.5 Flash
-        models_to_try = ['gemini-3-flash-preview', 'gemini-2.0-flash', 'gemini-1.5-flash']
+        models_to_try = ['gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-2.0-flash']
         
         response = None
         for model_name in models_to_try:
@@ -256,7 +320,7 @@ Devuelve SOLO los títulos limpios, uno por línea, numerados igual:
                 print(f"🔄 Intentando limpiar títulos con: {model_name}...")
                 response = client.models.generate_content(
                     model=model_name,
-                    contents=prompt # Solo texto
+                    contents=prompt
                 )
                 print(f"✅ ¡Limpieza exitosa con {model_name}!")
                 break
@@ -276,13 +340,19 @@ Devuelve SOLO los títulos limpios, uno por línea, numerados igual:
             if clean:
                 cleaned_titles.append(clean)
         
-        # Asignar títulos limpios
-        for i, movie in enumerate(movies):
-            if i < len(cleaned_titles):
+        # Validación de robustez
+        conversational_patterns = ["lo siento", "por favor", "no he", "no se", "parece que", "proporciona", "mensaje", "escribe la lista"]
+        is_conversational = any(any(pat in title.lower() for pat in conversational_patterns) for title in cleaned_titles)
+        
+        if len(cleaned_titles) != len(movies) or is_conversational:
+            print("⚠️ La respuesta de la IA parece conversacional, incompleta o inválida. Usando títulos originales.")
+            for movie in movies:
+                movie['title_clean'] = movie['title']
+        else:
+            # Asignar títulos limpios
+            for i, movie in enumerate(movies):
                 movie['title_clean'] = cleaned_titles[i]
                 print(f"  ✓ {movie['title']} → {cleaned_titles[i]}")
-            else:
-                movie['title_clean'] = movie['title']  # fallback
                 
     except Exception as e:
         print(f"⚠️ Error en Gemini AI Cleaning: {e}")
@@ -291,6 +361,7 @@ Devuelve SOLO los títulos limpios, uno por línea, numerados igual:
             movie['title_clean'] = movie['title']
     
     return movies
+
 
 def enrich_with_tmdb(movies):
     """Enrich movies with TMDB metadata"""
@@ -444,15 +515,30 @@ def generate_json(movies):
 async def main():
     """Main execution"""
     try:
-        # 1. Scraping
-        html = await scrape_cinema()
+        movies = []
         
-        # 2. Parsing
-        movies = parse_movies(html)
+        # 1. Intentar scraping desde Kinetike
+        try:
+            html = await scrape_cinema()
+            movies = parse_movies(html)
+        except Exception as e:
+            print(f"⚠️ Error al raspar Kinetike: {e}")
+            movies = []
+            
+        # 2. Fallback a TiétarTeVe si Kinetike no tiene películas
+        if not movies:
+            print("⚠️ No se encontraron películas en Kinetike (o el cine está en transición). Intentando fallback con TiétarTeVe...")
+            try:
+                movies = await scrape_tietarteve_fallback()
+            except Exception as e:
+                print(f"💥 Error fatal en el fallback de TiétarTeVe: {e}")
+                movies = []
         
         if not movies:
-            print("❌ No se encontraron películas")
-            sys.exit(1)
+            print("⚠️ No se encontraron películas en ninguna fuente.")
+            # Salir con código 0 para no romper la GitHub Action cuando el cine está en transición y no hay cartelera
+            print("ℹ️ Saliendo con éxito para evitar fallos de ejecución en días sin cartelera.")
+            sys.exit(0)
         
         # 3. AI Cleaning (BATCH - 1 petición)
         movies = clean_titles_with_ai(movies)
