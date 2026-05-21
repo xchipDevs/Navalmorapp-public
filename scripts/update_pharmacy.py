@@ -1,9 +1,26 @@
 import os
+import sys
 import requests
 import json
 from bs4 import BeautifulSoup
 from PIL import Image
 from io import BytesIO
+
+# Asegurar que la salida estándar use codificación UTF-8 para evitar errores de impresión con emojis
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+    sys.stderr.reconfigure(encoding='utf-8')
+except AttributeError:
+    pass
+
+# Cargar variables de entorno locales si existe .env
+dotenv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")
+if os.path.exists(dotenv_path):
+    with open(dotenv_path, "r", encoding="utf-8") as f:
+        for line in f:
+            if "=" in line and not line.strip().startswith("#"):
+                key, val = line.strip().split("=", 1)
+                os.environ[key.strip()] = val.strip()
 
 # Configuración
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) 
@@ -97,9 +114,7 @@ def update_json_with_gemini(image, current_json):
         8. Retorna SOLO el JSON actualizado completo. Sin markdown, sin explicaciones.
         """
         
-        # Prioridad: Gemini 3 Flash Preview (seguro que es este nombre)
-        # Fallback: 2.0 Flash -> 1.5 Flash
-        models_to_try = ['gemini-3-flash-preview', 'gemini-2.0-flash', 'gemini-1.5-flash']
+        models_to_try = ['gemini-3.1-flash-lite', 'gemini-2.5-flash', 'gemini-2.0-flash']
         
         response = None
         for model_name in models_to_try:
