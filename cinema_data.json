@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T07:46:39.626994Z",
-  "expires_at": "2026-05-23T07:46:39.626994Z",
+  "generated_at": "2026-05-22T10:52:18.677476Z",
+  "expires_at": "2026-05-23T10:52:18.677476Z",
   "version": "1.0",
   "movies": [
     {
@@ -71,7 +71,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.575,
+      "rating": 7.6,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
