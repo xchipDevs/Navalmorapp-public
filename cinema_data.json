@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T17:53:01.449837Z",
-  "expires_at": "2026-05-23T17:53:01.449837Z",
+  "generated_at": "2026-05-22T19:47:33.814397Z",
+  "expires_at": "2026-05-23T19:47:33.814397Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "119 min",
       "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
       "showtimes": {
-        "Viernes 22 de mayo": [
-          "20:15"
-        ],
         "Sábado 23 de mayo": [
           "19:00"
         ],
@@ -43,9 +40,6 @@
       "duration": "105 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 22 de mayo": [
-          "20:00"
-        ],
         "Sábado 23 de mayo": [
           "17:30",
           "22:00"
