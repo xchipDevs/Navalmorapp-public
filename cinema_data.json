@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T23:04:22.202077Z",
-  "expires_at": "2026-05-22T23:04:22.202077Z",
+  "generated_at": "2026-05-22T03:47:06.217945Z",
+  "expires_at": "2026-05-23T03:47:06.217945Z",
   "version": "1.0",
   "movies": [
     {
@@ -38,7 +38,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/xMZkXK0j2HqUplyTXotXOr2SHGx.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vgGcmZWWjxYanOrPxxIoijZqCtQ.jpg",
       "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
-      "rating": 7.128,
+      "rating": 7.118,
       "releaseDate": "2026-02-19",
       "duration": "105 min",
       "trailerUrl": null,
@@ -132,7 +132,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
       "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "rating": 7.7,
+      "rating": 7.726,
       "releaseDate": "2026-04-30",
       "duration": "109 min",
       "trailerUrl": null,
