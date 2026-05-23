@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T15:01:32.578740Z",
-  "expires_at": "2026-05-24T15:01:32.578740Z",
+  "generated_at": "2026-05-23T17:00:24.666868Z",
+  "expires_at": "2026-05-24T17:00:24.666868Z",
   "version": "1.0",
   "movies": [
     {
@@ -41,7 +41,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Sábado 23 de mayo": [
-          "17:30",
           "22:00"
         ],
         "Domingo 24 de mayo": [
@@ -70,9 +69,6 @@
       "duration": "109 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 23 de mayo": [
-          "17:00"
-        ],
         "Domingo 24 de mayo": [
           "17:00"
         ]
