@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T19:18:59.393710Z",
-  "expires_at": "2026-05-25T19:18:59.393710Z",
+  "generated_at": "2026-05-24T20:57:11.108125Z",
+  "expires_at": "2026-05-25T20:57:11.108125Z",
   "version": "1.0",
   "movies": [
     {
@@ -56,9 +56,6 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Domingo 24 de mayo": [
-          "21:30"
-        ],
         "Lunes 25 de mayo": [
           "19:00"
         ],
@@ -80,9 +77,6 @@
       "duration": "116 min",
       "trailerUrl": "https://www.youtube.com/watch?v=nUfwLpIiWCU",
       "showtimes": {
-        "Domingo 24 de mayo": [
-          "21:00"
-        ],
         "Lunes 25 de mayo": [
           "19:30"
         ],
