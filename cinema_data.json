@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T15:06:05.832428Z",
-  "expires_at": "2026-05-25T15:06:05.832428Z",
+  "generated_at": "2026-05-24T17:03:04.499258Z",
+  "expires_at": "2026-05-25T17:03:04.499258Z",
   "version": "1.0",
   "movies": [
     {
@@ -38,7 +38,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Domingo 24 de mayo": [
-          "17:30",
           "19:30"
         ],
         "Lunes 25 de mayo": [
@@ -50,21 +49,6 @@
         "Miércoles 27 de mayo": [
           "17:30",
           "21:45"
-        ]
-      }
-    },
-    {
-      "title": "LAS OVEJAS DETECTIVES",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
-      "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "rating": 7.7,
-      "releaseDate": "2026-04-30",
-      "duration": "109 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Domingo 24 de mayo": [
-          "17:00"
         ]
       }
     },
