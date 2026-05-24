@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T17:03:04.499258Z",
-  "expires_at": "2026-05-25T17:03:04.499258Z",
+  "generated_at": "2026-05-24T19:18:59.393710Z",
+  "expires_at": "2026-05-25T19:18:59.393710Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "119 min",
       "trailerUrl": "https://www.youtube.com/watch?v=IQD3qh7te2o",
       "showtimes": {
-        "Domingo 24 de mayo": [
-          "19:00"
-        ],
         "Lunes 25 de mayo": [
           "21:30"
         ],
@@ -32,14 +29,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/xMZkXK0j2HqUplyTXotXOr2SHGx.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vgGcmZWWjxYanOrPxxIoijZqCtQ.jpg",
       "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
-      "rating": 7.08,
+      "rating": 7.072,
       "releaseDate": "2026-02-19",
       "duration": "105 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 24 de mayo": [
-          "19:30"
-        ],
         "Lunes 25 de mayo": [
           "21:15"
         ],
@@ -57,7 +51,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.573,
+      "rating": 7.582,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
