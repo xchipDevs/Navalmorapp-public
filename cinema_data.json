@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T21:46:00.923047Z",
-  "expires_at": "2026-05-27T21:46:00.923047Z",
+  "generated_at": "2026-05-26T23:11:01.955328Z",
+  "expires_at": "2026-05-27T23:11:01.955328Z",
   "version": "1.0",
   "movies": [
     {
@@ -23,7 +23,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/xMZkXK0j2HqUplyTXotXOr2SHGx.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vgGcmZWWjxYanOrPxxIoijZqCtQ.jpg",
       "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
-      "rating": 7.083,
+      "rating": 7.1,
       "releaseDate": "2026-02-16",
       "duration": "105 min",
       "trailerUrl": null,
