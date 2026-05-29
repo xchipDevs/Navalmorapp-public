@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T15:36:04.229539Z",
-  "expires_at": "2026-05-30T15:36:04.229539Z",
+  "generated_at": "2026-05-29T18:34:36.747482Z",
+  "expires_at": "2026-05-30T18:34:36.747482Z",
   "version": "1.0",
   "movies": [
     {
@@ -35,12 +35,12 @@
     },
     {
       "title": "MALLORCA CONFIDENCIAL",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sXdXKjfNFcovvE9D6VRN04kBTDc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/om1b4d0ucRHGKdR3SxK4aI68gNC.jpg",
-      "overview": null,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/r8EK0Z5or4XIsCOzAruN6hutq78.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/3oLQ7vyfhvqANR51bnukJZG80TD.jpg",
+      "overview": "Mallorca, año 2007. La Chusa, matriarca de un poblado chabolista, maneja el mercado de la droga con el apoyo de vecinos, traficantes y policías. Pero cuando sufre un sustancioso robo, ve cómo se tambalea su poder y su familia.",
       "rating": 0.0,
       "releaseDate": "2026-05-29",
-      "duration": "100 min",
+      "duration": null,
       "trailerUrl": null,
       "showtimes": {
         "Viernes 29 de mayo": [
@@ -99,9 +99,6 @@
       "duration": "116 min",
       "trailerUrl": "https://www.youtube.com/watch?v=nUfwLpIiWCU",
       "showtimes": {
-        "Viernes 29 de mayo": [
-          "19:30"
-        ],
         "Sábado 30 de mayo": [
           "22:00"
         ],
@@ -126,9 +123,6 @@
       "duration": "92 min",
       "trailerUrl": "https://www.youtube.com/watch?v=B88JfTyJ1Fw",
       "showtimes": {
-        "Viernes 29 de mayo": [
-          "19:00"
-        ],
         "Sábado 30 de mayo": [
           "18:30"
         ],
