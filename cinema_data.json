@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T18:34:36.747482Z",
-  "expires_at": "2026-05-30T18:34:36.747482Z",
+  "generated_at": "2026-05-29T21:52:17.549103Z",
+  "expires_at": "2026-05-30T21:52:17.549103Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
       "showtimes": {
-        "Viernes 29 de mayo": [
-          "21:30"
-        ],
         "Sábado 30 de mayo": [
           "19:55"
         ],
@@ -43,9 +40,6 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 29 de mayo": [
-          "20:30"
-        ],
         "Sábado 30 de mayo": [
           "22:30",
           "18:00"
@@ -75,9 +69,6 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Viernes 29 de mayo": [
-          "22:30"
-        ],
         "Sábado 30 de mayo": [
           "20:15"
         ],
@@ -94,7 +85,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "overview": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
-      "rating": 6.765,
+      "rating": 6.8,
       "releaseDate": "2026-05-06",
       "duration": "116 min",
       "trailerUrl": "https://www.youtube.com/watch?v=nUfwLpIiWCU",
