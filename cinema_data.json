@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T15:08:06.959841Z",
-  "expires_at": "2026-05-31T15:08:06.959841Z",
+  "generated_at": "2026-05-30T17:06:40.391590Z",
+  "expires_at": "2026-05-31T17:06:40.391590Z",
   "version": "1.0",
   "movies": [
     {
@@ -41,8 +41,7 @@
       "trailerUrl": null,
       "showtimes": {
         "Sábado 30 de mayo": [
-          "22:30",
-          "18:00"
+          "22:30"
         ],
         "Domingo 31 de mayo": [
           "21:15"
@@ -64,7 +63,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.588,
+      "rating": 7.583,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -85,7 +84,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "overview": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
-      "rating": 6.768,
+      "rating": 6.776,
       "releaseDate": "2026-05-06",
       "duration": "116 min",
       "trailerUrl": "https://www.youtube.com/watch?v=nUfwLpIiWCU",
@@ -109,14 +108,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
       "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "rating": 7.762,
+      "rating": 7.8,
       "releaseDate": "2001-05-18",
       "duration": "92 min",
       "trailerUrl": "https://www.youtube.com/watch?v=B88JfTyJ1Fw",
       "showtimes": {
-        "Sábado 30 de mayo": [
-          "18:30"
-        ],
         "Lunes 1 de junio": [
           "19:00"
         ],
