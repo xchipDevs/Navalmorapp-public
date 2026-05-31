@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T03:58:24.562127Z",
-  "expires_at": "2026-06-01T03:58:24.562127Z",
+  "generated_at": "2026-05-31T07:50:04.618740Z",
+  "expires_at": "2026-06-01T07:50:04.618740Z",
   "version": "1.0",
   "movies": [
     {
@@ -53,29 +53,11 @@
       }
     },
     {
-      "title": "MICHAEL",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.578,
-      "releaseDate": "2026-04-22",
-      "duration": "128 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
-      "showtimes": {
-        "Martes 2 de junio": [
-          "21:30"
-        ],
-        "Miércoles 3 de junio": [
-          "19:30"
-        ]
-      }
-    },
-    {
       "title": "MORTAL KOMBAT II",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "overview": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
-      "rating": 6.8,
+      "rating": 6.783,
       "releaseDate": "2026-05-06",
       "duration": "116 min",
       "trailerUrl": "https://www.youtube.com/watch?v=nUfwLpIiWCU",
@@ -109,6 +91,24 @@
         ],
         "Miércoles 3 de junio": [
           "18:00"
+        ]
+      }
+    },
+    {
+      "title": "MICHAEL",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "rating": 7.578,
+      "releaseDate": "2026-04-22",
+      "duration": "128 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
+      "showtimes": {
+        "Martes 2 de junio": [
+          "21:30"
+        ],
+        "Miércoles 3 de junio": [
+          "19:30"
         ]
       }
     }
