@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T19:18:41.794230Z",
-  "expires_at": "2026-06-01T19:18:41.794230Z",
+  "generated_at": "2026-05-31T21:00:41.957728Z",
+  "expires_at": "2026-06-01T21:00:41.957728Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
       "showtimes": {
-        "Domingo 31 de mayo": [
-          "21:00"
-        ],
         "Lunes 1 de junio": [
           "21:30"
         ],
@@ -37,9 +34,6 @@
       "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 31 de mayo": [
-          "21:15"
-        ],
         "Lunes 1 de junio": [
           "20:45"
         ],
