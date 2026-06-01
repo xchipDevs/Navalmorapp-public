@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T11:36:45.027961Z",
-  "expires_at": "2026-06-02T11:36:45.027961Z",
+  "generated_at": "2026-06-01T17:42:05.317925Z",
+  "expires_at": "2026-06-02T17:42:05.317925Z",
   "version": "1.0",
   "movies": [
     {
@@ -51,7 +51,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "overview": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
-      "rating": 6.762,
+      "rating": 6.8,
       "releaseDate": "2026-05-06",
       "duration": "116 min",
       "trailerUrl": "https://www.youtube.com/watch?v=nUfwLpIiWCU",
@@ -77,9 +77,6 @@
       "duration": "92 min",
       "trailerUrl": "https://www.youtube.com/watch?v=B88JfTyJ1Fw",
       "showtimes": {
-        "Lunes 1 de junio": [
-          "19:00"
-        ],
         "Martes 2 de junio": [
           "18:00"
         ],
