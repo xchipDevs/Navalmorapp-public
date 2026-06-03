@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T16:51:02.789737Z",
-  "expires_at": "2026-06-04T16:51:02.789737Z",
+  "generated_at": "2026-06-03T20:56:45.680357Z",
+  "expires_at": "2026-06-04T20:56:45.680357Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,14 +8,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
       "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "rating": 8.255,
+      "rating": 8.252,
       "releaseDate": "2025-09-22",
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
       "showtimes": {
-        "Miércoles 3 de junio": [
-          "20:15"
-        ],
         "Viernes 5 de junio": [
           "22:15"
         ],
@@ -40,9 +37,6 @@
       "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
-        "Miércoles 3 de junio": [
-          "21:45"
-        ],
         "Sábado 6 de junio": [
           "18:15"
         ],
@@ -61,29 +55,11 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Miércoles 3 de junio": [
-          "19:30"
-        ],
         "Sábado 6 de junio": [
           "20:25"
         ],
         "Lunes 8 de junio": [
           "21:30"
-        ]
-      }
-    },
-    {
-      "title": "MORTAL KOMBAT II",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-      "overview": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
-      "rating": 6.74,
-      "releaseDate": "2026-05-06",
-      "duration": "116 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=nUfwLpIiWCU",
-      "showtimes": {
-        "Miércoles 3 de junio": [
-          "22:30"
         ]
       }
     },
@@ -107,7 +83,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
       "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 7.0,
+      "rating": 6.944,
       "releaseDate": "2026-03-26",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
