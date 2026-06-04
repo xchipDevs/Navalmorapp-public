@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T04:08:47.477824Z",
-  "expires_at": "2026-06-05T04:08:47.477824Z",
+  "generated_at": "2026-06-04T09:57:08.406136Z",
+  "expires_at": "2026-06-05T09:57:08.406136Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
       "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 6.955,
+      "rating": 7.0,
       "releaseDate": "2026-03-26",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
@@ -120,7 +120,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.573,
+      "rating": 7.581,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
