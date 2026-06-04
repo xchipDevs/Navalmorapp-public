@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T09:57:08.406136Z",
-  "expires_at": "2026-06-05T09:57:08.406136Z",
+  "generated_at": "2026-06-04T12:47:00.429661Z",
+  "expires_at": "2026-06-05T12:47:00.429661Z",
   "version": "1.0",
   "movies": [
     {
@@ -65,7 +65,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "rating": 7.575,
+      "rating": 7.568,
       "releaseDate": "2026-06-03",
       "duration": "141 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
