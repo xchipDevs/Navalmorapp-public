@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T08:07:55.530313Z",
-  "expires_at": "2026-06-06T08:07:55.530313Z",
+  "generated_at": "2026-06-05T12:38:47.294863Z",
+  "expires_at": "2026-06-06T12:38:47.294863Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
       "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 6.955,
+      "rating": 6.949,
       "releaseDate": "2026-03-26",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
@@ -65,7 +65,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "rating": 7.667,
+      "rating": 7.619,
       "releaseDate": "2026-06-03",
       "duration": "141 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
@@ -141,7 +141,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
       "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "rating": 7.8,
+      "rating": 7.763,
       "releaseDate": "2001-05-18",
       "duration": "92 min",
       "trailerUrl": "https://www.youtube.com/watch?v=B88JfTyJ1Fw",
