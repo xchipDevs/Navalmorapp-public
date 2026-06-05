@@ -1,21 +1,18 @@
 {
-  "generated_at": "2026-06-05T16:29:57.312798Z",
-  "expires_at": "2026-06-06T16:29:57.312798Z",
+  "generated_at": "2026-06-05T19:56:28.975886Z",
+  "expires_at": "2026-06-06T19:56:28.975886Z",
   "version": "1.0",
   "movies": [
     {
       "title": "EL DRAMA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
       "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 6.949,
+      "rating": 7.0,
       "releaseDate": "2026-03-26",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
       "showtimes": {
-        "Viernes 5 de junio": [
-          "20:00"
-        ],
         "Sábado 6 de junio": [
           "22:15"
         ],
@@ -71,7 +68,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
       "showtimes": {
         "Viernes 5 de junio": [
-          "19:30",
           "22:00"
         ],
         "Sábado 6 de junio": [
@@ -120,7 +116,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.585,
+      "rating": 7.6,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
