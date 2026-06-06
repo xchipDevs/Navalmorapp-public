@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T21:06:14.599893Z",
-  "expires_at": "2026-06-07T21:06:14.599893Z",
+  "generated_at": "2026-06-06T23:05:17.994429Z",
+  "expires_at": "2026-06-07T23:05:17.994429Z",
   "version": "1.0",
   "movies": [
     {
@@ -32,7 +32,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
       "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "rating": 8.258,
+      "rating": 8.264,
       "releaseDate": "2025-09-22",
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
