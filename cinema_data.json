@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T03:36:28.336199Z",
-  "expires_at": "2026-06-07T03:36:28.336199Z",
+  "generated_at": "2026-06-06T06:53:45.415141Z",
+  "expires_at": "2026-06-07T06:53:45.415141Z",
   "version": "1.0",
   "movies": [
     {
@@ -55,11 +55,32 @@
       }
     },
     {
+      "title": "MALLORCA CONFIDENCIAL",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/r8EK0Z5or4XIsCOzAruN6hutq78.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/3oLQ7vyfhvqANR51bnukJZG80TD.jpg",
+      "overview": "Mallorca, año 2007. La Chusa, matriarca de un poblado chabolista, maneja el mercado de la droga con el apoyo de vecinos, traficantes y policías. Pero cuando sufre un sustancioso robo, ve cómo se tambalea su poder y su familia.",
+      "rating": 8.0,
+      "releaseDate": "2026-05-29",
+      "duration": "90 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 6 de junio": [
+          "18:15"
+        ],
+        "Lunes 8 de junio": [
+          "19:30"
+        ],
+        "Miércoles 10 de junio": [
+          "22:30"
+        ]
+      }
+    },
+    {
       "title": "MASTERS DEL UNIVERSO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "rating": 7.7,
+      "rating": 7.642,
       "releaseDate": "2026-06-03",
       "duration": "141 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
@@ -80,27 +101,6 @@
         ],
         "Miércoles 10 de junio": [
           "18:00",
-          "22:30"
-        ]
-      }
-    },
-    {
-      "title": "MALLORCA CONFIDENCIAL",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/r8EK0Z5or4XIsCOzAruN6hutq78.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/3oLQ7vyfhvqANR51bnukJZG80TD.jpg",
-      "overview": "Mallorca, año 2007. La Chusa, matriarca de un poblado chabolista, maneja el mercado de la droga con el apoyo de vecinos, traficantes y policías. Pero cuando sufre un sustancioso robo, ve cómo se tambalea su poder y su familia.",
-      "rating": 8.0,
-      "releaseDate": "2026-05-29",
-      "duration": "90 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Sábado 6 de junio": [
-          "18:15"
-        ],
-        "Lunes 8 de junio": [
-          "19:30"
-        ],
-        "Miércoles 10 de junio": [
           "22:30"
         ]
       }
