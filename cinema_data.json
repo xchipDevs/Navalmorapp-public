@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T19:25:18.285966Z",
-  "expires_at": "2026-06-07T19:25:18.285966Z",
+  "generated_at": "2026-06-06T21:06:14.599893Z",
+  "expires_at": "2026-06-07T21:06:14.599893Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
       "showtimes": {
-        "Sábado 6 de junio": [
-          "22:15"
-        ],
         "Domingo 7 de junio": [
           "19:30"
         ],
@@ -79,9 +76,6 @@
       "duration": "106 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 6 de junio": [
-          "22:30"
-        ],
         "Domingo 7 de junio": [
           "19:00",
           "21:30"
@@ -103,7 +97,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 7.599,
+      "rating": 7.597,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
