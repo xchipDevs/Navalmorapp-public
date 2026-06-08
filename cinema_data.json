@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T18:30:06.057739Z",
-  "expires_at": "2026-06-09T18:30:06.057739Z",
+  "generated_at": "2026-06-08T21:50:16.823449Z",
+  "expires_at": "2026-06-09T21:50:16.823449Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "106 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
       "showtimes": {
-        "Lunes 8 de junio": [
-          "21:30"
-        ],
         "Martes 9 de junio": [
           "19:00"
         ],
@@ -41,13 +38,13 @@
     },
     {
       "title": "MASTERS DEL UNIVERSO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6UTNuS4WhpIPqRbEmj9QBRPIkCt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/uYWy6sKFQ8ycp7D4g1YrZUmQ5DQ.jpg",
-      "overview": "Basada en la famosa serie animada. He-man y sus amigos deben viajar a la Tierra del siglo XX para rescatar una llave cósmica que les permita derrotar a Skeletor, que se ha apoderado del castillo de Grayskull y que mantiene prisionera a Sorceress. Los inconvenientes son que Skeletor posee otra llave y que la original está en manos de unos jóvenes terrícolas, que creen que es un instrumento musical.",
-      "rating": 5.8,
-      "releaseDate": "1987-08-07",
-      "duration": "106 min",
-      "trailerUrl": null,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+      "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "rating": 7.4,
+      "releaseDate": "2026-06-03",
+      "duration": "140 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
       "showtimes": {
         "Martes 9 de junio": [
           "18:15"
@@ -68,9 +65,6 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Lunes 8 de junio": [
-          "21:30"
-        ],
         "Miércoles 10 de junio": [
           "20:25"
         ]
