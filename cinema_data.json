@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T15:58:21.241435Z",
-  "expires_at": "2026-06-09T15:58:21.241435Z",
+  "generated_at": "2026-06-08T18:30:06.057739Z",
+  "expires_at": "2026-06-09T18:30:06.057739Z",
   "version": "1.0",
   "movies": [
     {
@@ -34,9 +34,6 @@
       "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 8 de junio": [
-          "19:30"
-        ],
         "Miércoles 10 de junio": [
           "22:30"
         ]
@@ -52,9 +49,6 @@
       "duration": "106 min",
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 8 de junio": [
-          "19:00"
-        ],
         "Martes 9 de junio": [
           "18:15"
         ],
