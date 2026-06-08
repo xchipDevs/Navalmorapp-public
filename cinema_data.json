@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T10:58:10.011877Z",
-  "expires_at": "2026-06-09T10:58:10.011877Z",
+  "generated_at": "2026-06-08T15:58:21.241435Z",
+  "expires_at": "2026-06-09T15:58:21.241435Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
       "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 6.947,
+      "rating": 6.95,
       "releaseDate": "2026-03-26",
       "duration": "106 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
