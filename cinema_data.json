@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T03:37:10.226740Z",
-  "expires_at": "2026-06-10T03:37:10.226740Z",
+  "generated_at": "2026-06-09T07:50:48.455095Z",
+  "expires_at": "2026-06-10T07:50:48.455095Z",
   "version": "1.0",
   "movies": [
     {
@@ -22,6 +22,43 @@
       }
     },
     {
+      "title": "INCONTROLABLE",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+      "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+      "rating": 8.261,
+      "releaseDate": "2025-09-22",
+      "duration": "120 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
+      "showtimes": {
+        "Martes 9 de junio": [
+          "21:00"
+        ],
+        "Miércoles 10 de junio": [
+          "18:25"
+        ]
+      }
+    },
+    {
+      "title": "MASTERS DEL UNIVERSO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "rating": 7.394,
+      "releaseDate": "2026-06-03",
+      "duration": "140 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
+      "showtimes": {
+        "Martes 9 de junio": [
+          "18:15"
+        ],
+        "Miércoles 10 de junio": [
+          "18:00",
+          "22:30"
+        ]
+      }
+    },
+    {
       "title": "MALLORCA CONFIDENCIAL",
       "posterUrl": "https://image.tmdb.org/t/p/w500/r8EK0Z5or4XIsCOzAruN6hutq78.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3oLQ7vyfhvqANR51bnukJZG80TD.jpg",
@@ -32,25 +69,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Miércoles 10 de junio": [
-          "22:30"
-        ]
-      }
-    },
-    {
-      "title": "MASTERS DEL UNIVERSO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
-      "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "rating": 7.3,
-      "releaseDate": "2026-06-03",
-      "duration": "140 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
-      "showtimes": {
-        "Martes 9 de junio": [
-          "18:15"
-        ],
-        "Miércoles 10 de junio": [
-          "18:00",
           "22:30"
         ]
       }
@@ -67,24 +85,6 @@
       "showtimes": {
         "Miércoles 10 de junio": [
           "20:25"
-        ]
-      }
-    },
-    {
-      "title": "INCONTROLABLE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
-      "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "rating": 8.261,
-      "releaseDate": "2025-09-22",
-      "duration": "120 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
-      "showtimes": {
-        "Martes 9 de junio": [
-          "21:00"
-        ],
-        "Miércoles 10 de junio": [
-          "18:25"
         ]
       }
     }
