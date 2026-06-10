@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T03:52:10.544946Z",
-  "expires_at": "2026-06-11T03:52:10.544946Z",
+  "generated_at": "2026-06-10T08:08:35.561423Z",
+  "expires_at": "2026-06-11T08:08:35.561423Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
       "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 6.953,
+      "rating": 6.956,
       "releaseDate": "2026-03-26",
       "duration": "106 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
@@ -34,22 +34,6 @@
       }
     },
     {
-      "title": "MASTERS DEL UNIVERSO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-      "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "rating": 7.4,
-      "releaseDate": "2026-06-03",
-      "duration": "140 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
-      "showtimes": {
-        "Miércoles 10 de junio": [
-          "18:00",
-          "22:30"
-        ]
-      }
-    },
-    {
       "title": "MALLORCA CONFIDENCIAL",
       "posterUrl": "https://image.tmdb.org/t/p/w500/r8EK0Z5or4XIsCOzAruN6hutq78.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3oLQ7vyfhvqANR51bnukJZG80TD.jpg",
@@ -65,11 +49,27 @@
       }
     },
     {
+      "title": "MASTERS DEL UNIVERSO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "rating": 7.433,
+      "releaseDate": "2026-06-03",
+      "duration": "140 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
+      "showtimes": {
+        "Miércoles 10 de junio": [
+          "18:00",
+          "22:30"
+        ]
+      }
+    },
+    {
       "title": "MICHAEL",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 8.269,
+      "rating": 8.347,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
