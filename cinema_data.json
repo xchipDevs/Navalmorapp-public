@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T12:57:09.909950Z",
-  "expires_at": "2026-06-11T12:57:09.909950Z",
+  "generated_at": "2026-06-10T17:20:28.599346Z",
+  "expires_at": "2026-06-11T17:20:28.599346Z",
   "version": "1.0",
   "movies": [
     {
@@ -15,21 +15,6 @@
       "showtimes": {
         "Miércoles 10 de junio": [
           "20:30"
-        ]
-      }
-    },
-    {
-      "title": "INCONTROLABLE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
-      "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "rating": 8.269,
-      "releaseDate": "2025-09-22",
-      "duration": "120 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
-      "showtimes": {
-        "Miércoles 10 de junio": [
-          "18:25"
         ]
       }
     },
@@ -53,13 +38,12 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "rating": 7.433,
+      "rating": 7.418,
       "releaseDate": "2026-06-03",
       "duration": "140 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
       "showtimes": {
         "Miércoles 10 de junio": [
-          "18:00",
           "22:30"
         ]
       }
