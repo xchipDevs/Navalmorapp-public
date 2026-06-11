@@ -1,39 +1,101 @@
 {
-  "generated_at": "2026-06-11T04:04:25.777572Z",
-  "expires_at": "2026-06-12T04:04:25.777572Z",
+  "generated_at": "2026-06-11T16:03:54.136082Z",
+  "expires_at": "2026-06-12T16:03:54.136082Z",
   "version": "1.0",
   "movies": [
     {
+      "title": "Backrooms",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+      "rating": 6.802,
+      "releaseDate": "2026-05-27",
+      "duration": "110 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=y_WLmKKMhpQ",
+      "showtimes": {
+        "Viernes 12 de junio": [
+          "22:30"
+        ],
+        "Sábado 13 de junio": [
+          "21:15"
+        ],
+        "Domingo 14 de junio": [
+          "20:30"
+        ],
+        "Lunes 15 de junio": [
+          "19:30"
+        ],
+        "Martes 16 de junio": [
+          "21:30"
+        ],
+        "Miércoles 17 de junio": [
+          "19:30"
+        ]
+      }
+    },
+    {
+      "title": "Scary Movie 6",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "rating": 5.678,
+      "releaseDate": "2026-06-03",
+      "duration": "95 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
+      "showtimes": {
+        "Viernes 12 de junio": [
+          "20:00",
+          "22:00"
+        ],
+        "Sábado 13 de junio": [
+          "21:00"
+        ],
+        "Domingo 14 de junio": [
+          "19:45"
+        ],
+        "Lunes 15 de junio": [
+          "21:15"
+        ],
+        "Martes 16 de junio": [
+          "19:00"
+        ]
+      }
+    },
+    {
+      "title": "Toy Story 5",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
+      "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "rating": 7.0,
+      "releaseDate": "2026-06-17",
+      "duration": "102 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Miércoles 17 de junio": [
+          "19:00",
+          "21:30"
+        ],
+        "Jueves 18 de junio": [
+          "19:00",
+          "21:30"
+        ]
+      }
+    },
+    {
       "title": "Masters del Universo",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "rating": 7.418,
+      "rating": 7.4,
       "releaseDate": "2026-06-03",
       "duration": "132 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
       "showtimes": {
-        "Viernes 5 de junio": [
-          "19:30",
-          "22:00"
+        "Domingo 14 de junio": [
+          "17:30"
         ],
-        "Sábado 6 de junio": [
-          "18:00",
-          "22:30"
-        ],
-        "Domingo 7 de junio": [
-          "19:00",
-          "21:30"
-        ],
-        "Lunes 8 de junio": [
+        "Lunes 15 de junio": [
           "19:00"
-        ],
-        "Martes 9 de junio": [
-          "18:15"
-        ],
-        "Miércoles 10 de junio": [
-          "18:00",
-          "22:30"
         ]
       }
     },
@@ -42,49 +104,19 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
       "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 6.939,
+      "rating": 6.945,
       "releaseDate": "2026-03-26",
       "duration": "106 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
       "showtimes": {
-        "Viernes 5 de junio": [
-          "20:00"
-        ],
-        "Sábado 6 de junio": [
-          "22:00"
-        ],
-        "Domingo 7 de junio": [
-          "19:30"
-        ],
-        "Lunes 8 de junio": [
-          "21:30"
-        ],
-        "Martes 9 de junio": [
-          "19:00"
-        ],
-        "Miércoles 10 de junio": [
+        "Viernes 12 de junio": [
           "20:30"
-        ]
-      }
-    },
-    {
-      "title": "Mallorca Confidencial",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/r8EK0Z5or4XIsCOzAruN6hutq78.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/3oLQ7vyfhvqANR51bnukJZG80TD.jpg",
-      "overview": "Mallorca, año 2007. La Chusa, matriarca de un poblado chabolista, maneja el mercado de la droga con el apoyo de vecinos, traficantes y policías. Pero cuando sufre un sustancioso robo, ve cómo se tambalea su poder y su familia.",
-      "rating": 8.0,
-      "releaseDate": "2026-05-29",
-      "duration": "89 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Sábado 6 de junio": [
-          "18:15"
         ],
-        "Lunes 8 de junio": [
+        "Domingo 14 de junio": [
+          "18:30"
+        ],
+        "Martes 16 de junio": [
           "19:30"
-        ],
-        "Miércoles 10 de junio": [
-          "22:30"
         ]
       }
     },
@@ -93,25 +125,13 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
       "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "rating": 8.268,
+      "rating": 8.3,
       "releaseDate": "2025-09-22",
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
       "showtimes": {
-        "Viernes 5 de junio": [
-          "22:15"
-        ],
-        "Sábado 6 de junio": [
-          "20:00"
-        ],
-        "Domingo 7 de junio": [
-          "21:30"
-        ],
-        "Martes 9 de junio": [
-          "21:00"
-        ],
-        "Miércoles 10 de junio": [
-          "18:30"
+        "Jueves 18 de junio": [
+          "20:30"
         ]
       }
     },
@@ -125,8 +145,8 @@
       "duration": "87 min",
       "trailerUrl": "https://www.youtube.com/watch?v=B88JfTyJ1Fw",
       "showtimes": {
-        "Domingo 7 de junio": [
-          "17:30"
+        "Domingo 14 de junio": [
+          "17:00"
         ]
       }
     },
@@ -135,34 +155,22 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 8.406,
+      "rating": 8.455,
       "releaseDate": "2026-04-22",
       "duration": "127 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Sábado 6 de junio": [
-          "20:30"
-        ],
-        "Lunes 8 de junio": [
+        "Domingo 14 de junio": [
           "21:30"
         ],
-        "Miércoles 10 de junio": [
-          "20:30"
-        ]
-      }
-    },
-    {
-      "title": "Todo lo que fuimos",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/5RV8HvB5CJXsiA9j49gQvCWPkdo.jpg",
-      "overview": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
-      "rating": 7.5,
-      "releaseDate": "2026-06-04",
-      "duration": "145 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=yIFKEesrzIQ",
-      "showtimes": {
-        "Martes 9 de junio": [
-          "20:30"
+        "Lunes 15 de junio": [
+          "21:30"
+        ],
+        "Martes 16 de junio": [
+          "21:00"
+        ],
+        "Jueves 18 de junio": [
+          "22:30"
         ]
       }
     }
