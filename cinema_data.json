@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T23:23:19.367477Z",
-  "expires_at": "2026-06-12T23:23:19.367477Z",
+  "generated_at": "2026-06-12T04:05:12.125412Z",
+  "expires_at": "2026-06-13T04:05:12.125412Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.8,
+      "rating": 6.836,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=y_WLmKKMhpQ",
@@ -38,7 +38,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
       "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 6.9,
+      "rating": 6.944,
       "releaseDate": "2026-03-26",
       "duration": "106 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
@@ -87,7 +87,7 @@
     },
     {
       "title": "MASTERS DEL UNIVERSO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vo76hj9nwlX3qZxUkqUOpAbBYUs.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
       "rating": 7.4,
@@ -108,7 +108,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 8.468,
+      "rating": 8.471,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -121,6 +121,9 @@
         ],
         "Martes 16 de junio": [
           "21:00"
+        ],
+        "Jueves 18 de junio": [
+          "22:30"
         ]
       }
     },
@@ -152,6 +155,25 @@
         "Miércoles 17 de junio": [
           "19:00",
           "21:30"
+        ],
+        "Jueves 18 de junio": [
+          "19:00",
+          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "INCONTROLABLE",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+      "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+      "rating": 8.268,
+      "releaseDate": "2025-09-22",
+      "duration": "120 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
+      "showtimes": {
+        "Jueves 18 de junio": [
+          "20:25"
         ]
       }
     }
