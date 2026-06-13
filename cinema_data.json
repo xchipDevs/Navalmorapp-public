@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T07:49:28.804797Z",
-  "expires_at": "2026-06-14T07:49:28.804797Z",
+  "generated_at": "2026-06-13T10:30:12.722640Z",
+  "expires_at": "2026-06-14T10:30:12.722640Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.851,
+      "rating": 6.865,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=y_WLmKKMhpQ",
@@ -35,7 +35,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
       "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.723,
+      "rating": 5.707,
       "releaseDate": "2026-06-03",
       "duration": "96 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
