@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T03:53:38.634248Z",
-  "expires_at": "2026-06-14T03:53:38.634248Z",
+  "generated_at": "2026-06-13T07:49:28.804797Z",
+  "expires_at": "2026-06-14T07:49:28.804797Z",
   "version": "1.0",
   "movies": [
     {
@@ -26,24 +26,6 @@
           "21:30"
         ],
         "Miércoles 17 de junio": [
-          "19:30"
-        ]
-      }
-    },
-    {
-      "title": "EL DRAMA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 6.949,
-      "releaseDate": "2026-03-26",
-      "duration": "106 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
-      "showtimes": {
-        "Domingo 14 de junio": [
-          "18:30"
-        ],
-        "Martes 16 de junio": [
           "19:30"
         ]
       }
@@ -76,11 +58,29 @@
       }
     },
     {
+      "title": "EL DRAMA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+      "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "rating": 6.949,
+      "releaseDate": "2026-03-26",
+      "duration": "106 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
+      "showtimes": {
+        "Domingo 14 de junio": [
+          "18:30"
+        ],
+        "Martes 16 de junio": [
+          "19:30"
+        ]
+      }
+    },
+    {
       "title": "MASTERS DEL UNIVERSO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vo76hj9nwlX3qZxUkqUOpAbBYUs.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "rating": 7.296,
+      "rating": 7.31,
       "releaseDate": "2026-06-03",
       "duration": "140 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
@@ -98,7 +98,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 8.519,
+      "rating": 8.547,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -137,7 +137,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 8.0,
+      "rating": 5.6,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
