@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T21:13:40.443828Z",
-  "expires_at": "2026-06-15T21:13:40.443828Z",
+  "generated_at": "2026-06-14T23:10:08.850988Z",
+  "expires_at": "2026-06-15T23:10:08.850988Z",
   "version": "1.0",
   "movies": [
     {
@@ -59,7 +59,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 8.577,
+      "rating": 8.589,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -101,7 +101,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 6.444,
+      "rating": 6.4,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
