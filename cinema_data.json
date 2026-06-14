@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T17:21:27.387454Z",
-  "expires_at": "2026-06-15T17:21:27.387454Z",
+  "generated_at": "2026-06-14T19:28:04.965751Z",
+  "expires_at": "2026-06-15T19:28:04.965751Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=y_WLmKKMhpQ",
       "showtimes": {
-        "Domingo 14 de junio": [
-          "20:30"
-        ],
         "Lunes 15 de junio": [
           "19:30"
         ],
@@ -32,7 +29,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
       "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 6.955,
+      "rating": 6.954,
       "releaseDate": "2026-03-26",
       "duration": "106 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
@@ -47,7 +44,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vo76hj9nwlX3qZxUkqUOpAbBYUs.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "rating": 7.365,
+      "rating": 7.4,
       "releaseDate": "2026-06-03",
       "duration": "140 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
@@ -86,14 +83,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
       "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.61,
+      "rating": 5.614,
       "releaseDate": "2026-06-03",
       "duration": "96 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
       "showtimes": {
-        "Domingo 14 de junio": [
-          "19:45"
-        ],
         "Lunes 15 de junio": [
           "21:15"
         ],
