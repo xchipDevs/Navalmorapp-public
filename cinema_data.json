@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T23:05:44.842657Z",
-  "expires_at": "2026-06-14T23:05:44.842657Z",
+  "generated_at": "2026-06-14T04:12:16.307224Z",
+  "expires_at": "2026-06-15T04:12:16.307224Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.9,
+      "rating": 6.885,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=y_WLmKKMhpQ",
@@ -24,30 +24,6 @@
         ],
         "Miércoles 17 de junio": [
           "19:30"
-        ]
-      }
-    },
-    {
-      "title": "SCARY MOVIE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
-      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.7,
-      "releaseDate": "2026-06-03",
-      "duration": "96 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
-      "showtimes": {
-        "Domingo 14 de junio": [
-          "19:45"
-        ],
-        "Lunes 15 de junio": [
-          "21:15"
-        ],
-        "Martes 16 de junio": [
-          "19:00"
-        ],
-        "Miércoles 17 de junio": [
-          "21:30"
         ]
       }
     },
@@ -112,6 +88,30 @@
       }
     },
     {
+      "title": "SCARY MOVIE",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "rating": 5.627,
+      "releaseDate": "2026-06-03",
+      "duration": "96 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
+      "showtimes": {
+        "Domingo 14 de junio": [
+          "19:45"
+        ],
+        "Lunes 15 de junio": [
+          "21:15"
+        ],
+        "Martes 16 de junio": [
+          "19:00"
+        ],
+        "Miércoles 17 de junio": [
+          "21:30"
+        ]
+      }
+    },
+    {
       "title": "SHREK",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
@@ -151,7 +151,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
       "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "rating": 8.265,
+      "rating": 8.27,
       "releaseDate": "2025-09-22",
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
