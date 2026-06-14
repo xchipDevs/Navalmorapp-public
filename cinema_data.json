@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T14:21:32.063878Z",
-  "expires_at": "2026-06-15T14:21:32.063878Z",
+  "generated_at": "2026-06-14T17:21:27.387454Z",
+  "expires_at": "2026-06-15T17:21:27.387454Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.881,
+      "rating": 6.9,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=y_WLmKKMhpQ",
@@ -37,9 +37,6 @@
       "duration": "106 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
       "showtimes": {
-        "Domingo 14 de junio": [
-          "18:30"
-        ],
         "Martes 16 de junio": [
           "19:30"
         ]
@@ -55,9 +52,6 @@
       "duration": "140 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
       "showtimes": {
-        "Domingo 14 de junio": [
-          "17:30"
-        ],
         "Lunes 15 de junio": [
           "19:00"
         ]
@@ -68,7 +62,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 8.572,
+      "rating": 8.577,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -112,26 +106,11 @@
       }
     },
     {
-      "title": "SHREK",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
-      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "rating": 7.765,
-      "releaseDate": "2001-05-18",
-      "duration": "92 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=B88JfTyJ1Fw",
-      "showtimes": {
-        "Domingo 14 de junio": [
-          "17:00"
-        ]
-      }
-    },
-    {
       "title": "TOY STORY 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 5.4,
+      "rating": 6.444,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
@@ -151,7 +130,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
       "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "rating": 8.27,
+      "rating": 8.272,
       "releaseDate": "2025-09-22",
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
