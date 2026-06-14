@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T19:28:04.965751Z",
-  "expires_at": "2026-06-15T19:28:04.965751Z",
+  "generated_at": "2026-06-14T21:13:40.443828Z",
+  "expires_at": "2026-06-15T21:13:40.443828Z",
   "version": "1.0",
   "movies": [
     {
@@ -64,9 +64,6 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Domingo 14 de junio": [
-          "21:45"
-        ],
         "Lunes 15 de junio": [
           "21:30"
         ],
