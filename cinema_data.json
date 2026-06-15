@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T23:10:08.850988Z",
-  "expires_at": "2026-06-15T23:10:08.850988Z",
+  "generated_at": "2026-06-15T04:23:19.883898Z",
+  "expires_at": "2026-06-16T04:23:19.883898Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.9,
+      "rating": 6.895,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=y_WLmKKMhpQ",
@@ -25,26 +25,11 @@
       }
     },
     {
-      "title": "EL DRAMA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 6.954,
-      "releaseDate": "2026-03-26",
-      "duration": "106 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
-      "showtimes": {
-        "Martes 16 de junio": [
-          "19:30"
-        ]
-      }
-    },
-    {
       "title": "MASTERS DEL UNIVERSO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vo76hj9nwlX3qZxUkqUOpAbBYUs.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "overview": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "rating": 7.4,
+      "rating": 7.337,
       "releaseDate": "2026-06-03",
       "duration": "140 min",
       "trailerUrl": "https://www.youtube.com/watch?v=K2p_Xz8i2Uo",
@@ -80,7 +65,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
       "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.614,
+      "rating": 5.585,
       "releaseDate": "2026-06-03",
       "duration": "96 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
@@ -93,6 +78,21 @@
         ],
         "Miércoles 17 de junio": [
           "21:30"
+        ]
+      }
+    },
+    {
+      "title": "EL DRAMA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+      "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "rating": 6.952,
+      "releaseDate": "2026-03-26",
+      "duration": "106 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
+      "showtimes": {
+        "Martes 16 de junio": [
+          "19:30"
         ]
       }
     },
