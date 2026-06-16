@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T04:17:34.376005Z",
-  "expires_at": "2026-06-17T04:17:34.376005Z",
+  "generated_at": "2026-06-16T11:12:04.204565Z",
+  "expires_at": "2026-06-17T11:12:04.204565Z",
   "version": "1.0",
   "movies": [
     {
@@ -26,7 +26,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
       "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 7.0,
+      "rating": 6.954,
       "releaseDate": "2026-03-26",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
@@ -41,7 +41,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 8.633,
+      "rating": 8.64,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -56,13 +56,13 @@
     },
     {
       "title": "SCARY MOVIE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
-      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.57,
-      "releaseDate": "2026-06-03",
-      "duration": "96 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fHWR3YplPQWciYzxEity2kyDoDn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+      "overview": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
+      "rating": 6.414,
+      "releaseDate": "2000-07-07",
+      "duration": "88 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=3iy0pE1FBkc",
       "showtimes": {
         "Martes 16 de junio": [
           "19:00"
