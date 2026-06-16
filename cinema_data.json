@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T22:19:56.125102Z",
-  "expires_at": "2026-06-16T22:19:56.125102Z",
+  "generated_at": "2026-06-16T04:17:34.376005Z",
+  "expires_at": "2026-06-17T04:17:34.376005Z",
   "version": "1.0",
   "movies": [
     {
@@ -22,11 +22,26 @@
       }
     },
     {
+      "title": "EL DRAMA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+      "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "rating": 7.0,
+      "releaseDate": "2026-03-26",
+      "duration": "105 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
+      "showtimes": {
+        "Martes 16 de junio": [
+          "19:30"
+        ]
+      }
+    },
+    {
       "title": "MICHAEL",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 8.63,
+      "rating": 8.633,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -44,7 +59,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
       "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.591,
+      "rating": 5.57,
       "releaseDate": "2026-06-03",
       "duration": "96 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
@@ -58,26 +73,11 @@
       }
     },
     {
-      "title": "EL DRAMA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 7.0,
-      "releaseDate": "2026-03-26",
-      "duration": "105 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
-      "showtimes": {
-        "Martes 16 de junio": [
-          "19:30"
-        ]
-      }
-    },
-    {
       "title": "TOY STORY 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 6.4,
+      "rating": 7.714,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
@@ -103,6 +103,10 @@
           "17:00",
           "19:00",
           "21:00"
+        ],
+        "Lunes 22 de junio": [
+          "18:30",
+          "20:30"
         ]
       }
     },
