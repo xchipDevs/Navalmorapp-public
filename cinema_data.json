@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T16:54:10.038461Z",
-  "expires_at": "2026-06-17T16:54:10.038461Z",
+  "generated_at": "2026-06-16T20:52:11.058840Z",
+  "expires_at": "2026-06-17T20:52:11.058840Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,30 +8,12 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.921,
+      "rating": 6.902,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=y_WLmKKMhpQ",
       "showtimes": {
-        "Martes 16 de junio": [
-          "21:30"
-        ],
         "Miércoles 17 de junio": [
-          "19:30"
-        ]
-      }
-    },
-    {
-      "title": "EL DRAMA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-      "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "rating": 7.0,
-      "releaseDate": "2026-03-26",
-      "duration": "105 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=pn8-dhxHVX8",
-      "showtimes": {
-        "Martes 16 de junio": [
           "19:30"
         ]
       }
@@ -46,9 +28,6 @@
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
       "showtimes": {
-        "Martes 16 de junio": [
-          "21:00"
-        ],
         "Jueves 18 de junio": [
           "22:30"
         ]
@@ -64,9 +43,6 @@
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=3iy0pE1FBkc",
       "showtimes": {
-        "Martes 16 de junio": [
-          "19:00"
-        ],
         "Miércoles 17 de junio": [
           "21:30"
         ]
