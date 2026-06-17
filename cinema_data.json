@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-06-17T15:33:48.878439Z",
-  "expires_at": "2026-06-18T15:33:48.878439Z",
+  "generated_at": "2026-06-17T18:19:14.268446Z",
+  "expires_at": "2026-06-18T18:19:14.268446Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "BACKROOMS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.9,
-      "releaseDate": "2026-05-27",
-      "duration": "105 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
-      "showtimes": {
-        "Miércoles 17 de junio": [
-          "19:30"
-        ]
-      }
-    },
     {
       "title": "SCARY MOVIE",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
@@ -44,7 +29,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Miércoles 17 de junio": [
-          "19:00",
           "21:30"
         ],
         "Jueves 18 de junio": [
