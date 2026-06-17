@@ -1,36 +1,18 @@
 {
-  "generated_at": "2026-06-17T18:19:14.268446Z",
-  "expires_at": "2026-06-18T18:19:14.268446Z",
+  "generated_at": "2026-06-17T22:01:17.802489Z",
+  "expires_at": "2026-06-18T22:01:17.802489Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "SCARY MOVIE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
-      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.539,
-      "releaseDate": "2026-06-03",
-      "duration": "96 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
-      "showtimes": {
-        "Miércoles 17 de junio": [
-          "21:30"
-        ]
-      }
-    },
-    {
       "title": "TOY STORY 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/kwq3lxPrBfyyVRRSDSlojwCPzwH.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.25,
+      "rating": 7.077,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Miércoles 17 de junio": [
-          "21:30"
-        ],
         "Jueves 18 de junio": [
           "19:00",
           "21:30"
@@ -64,7 +46,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
       "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "rating": 8.249,
+      "rating": 8.243,
       "releaseDate": "2025-09-22",
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
@@ -79,7 +61,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 8.648,
+      "rating": 8.644,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
