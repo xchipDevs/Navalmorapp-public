@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T10:21:54.186377Z",
-  "expires_at": "2026-06-19T10:21:54.186377Z",
+  "generated_at": "2026-06-18T15:27:15.253422Z",
+  "expires_at": "2026-06-19T15:27:15.253422Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
       "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "rating": 8.243,
+      "rating": 8.2,
       "releaseDate": "2025-09-22",
       "duration": "120 min",
       "trailerUrl": "https://www.youtube.com/watch?v=0GpFrpgrIvI",
@@ -73,6 +73,84 @@
           "17:30",
           "19:30",
           "21:30"
+        ]
+      }
+    },
+    {
+      "title": "BACKROOMS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+      "rating": 6.889,
+      "releaseDate": "2026-05-27",
+      "duration": "105 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
+      "showtimes": {
+        "Viernes 19 de junio": [
+          "19:30"
+        ],
+        "Sábado 20 de junio": [
+          "23:00"
+        ],
+        "Domingo 21 de junio": [
+          "17:30"
+        ],
+        "Miércoles 24 de junio": [
+          "22:30"
+        ]
+      }
+    },
+    {
+      "title": "EL DÍA DE LA REVELACIÓN",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+      "rating": 6.8,
+      "releaseDate": "2026-06-10",
+      "duration": "145 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
+      "showtimes": {
+        "Viernes 19 de junio": [
+          "21:30"
+        ],
+        "Sábado 20 de junio": [
+          "20:30"
+        ],
+        "Domingo 21 de junio": [
+          "19:30"
+        ],
+        "Lunes 22 de junio": [
+          "21:00"
+        ],
+        "Martes 23 de junio": [
+          "18:00"
+        ],
+        "Miércoles 24 de junio": [
+          "20:00"
+        ]
+      }
+    },
+    {
+      "title": "SCARY MOVIE",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "rating": 5.535,
+      "releaseDate": "2026-06-03",
+      "duration": "96 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
+      "showtimes": {
+        "Sábado 20 de junio": [
+          "18:30"
+        ],
+        "Domingo 21 de junio": [
+          "22:00"
+        ],
+        "Lunes 22 de junio": [
+          "19:00"
+        ],
+        "Miércoles 24 de junio": [
+          "18:00"
         ]
       }
     }
