@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T17:59:17.646591Z",
-  "expires_at": "2026-06-20T17:59:17.646591Z",
+  "generated_at": "2026-06-19T19:59:43.431076Z",
+  "expires_at": "2026-06-20T19:59:43.431076Z",
   "version": "1.0",
   "movies": [
     {
@@ -34,9 +34,6 @@
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
       "showtimes": {
-        "Viernes 19 de junio": [
-          "21:30"
-        ],
         "Sábado 20 de junio": [
           "20:30"
         ],
@@ -59,14 +56,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kwq3lxPrBfyyVRRSDSlojwCPzwH.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.2,
+      "rating": 7.337,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 19 de junio": [
-          "21:30"
-        ],
         "Sábado 20 de junio": [
           "18:00",
           "20:00",
