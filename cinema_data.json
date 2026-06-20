@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T10:32:31.630347Z",
-  "expires_at": "2026-06-21T10:32:31.630347Z",
+  "generated_at": "2026-06-20T14:06:32.997909Z",
+  "expires_at": "2026-06-21T14:06:32.997909Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.9,
+      "rating": 6.888,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
@@ -29,7 +29,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "rating": 6.742,
+      "rating": 6.743,
       "releaseDate": "2026-06-10",
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
