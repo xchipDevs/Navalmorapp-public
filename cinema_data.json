@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T14:06:32.997909Z",
-  "expires_at": "2026-06-21T14:06:32.997909Z",
+  "generated_at": "2026-06-20T17:27:06.747476Z",
+  "expires_at": "2026-06-21T17:27:06.747476Z",
   "version": "1.0",
   "movies": [
     {
@@ -61,9 +61,6 @@
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=3iy0pE1FBkc",
       "showtimes": {
-        "Sábado 20 de junio": [
-          "18:30"
-        ],
         "Domingo 21 de junio": [
           "22:00"
         ],
@@ -86,7 +83,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Sábado 20 de junio": [
-          "18:00",
           "20:00",
           "22:00"
         ],
