@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T23:09:54.524159Z",
-  "expires_at": "2026-06-21T23:09:54.524159Z",
+  "generated_at": "2026-06-21T04:19:37.224337Z",
+  "expires_at": "2026-06-22T04:19:37.224337Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.886,
+      "rating": 6.883,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
@@ -26,7 +26,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "rating": 6.741,
+      "rating": 6.722,
       "releaseDate": "2026-06-10",
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
@@ -71,7 +71,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kwq3lxPrBfyyVRRSDSlojwCPzwH.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.364,
+      "rating": 7.402,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
