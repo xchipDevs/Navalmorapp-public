@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T04:21:33.496219Z",
-  "expires_at": "2026-06-23T04:21:33.496219Z",
+  "generated_at": "2026-06-22T11:56:34.541444Z",
+  "expires_at": "2026-06-23T11:56:34.541444Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "rating": 6.706,
+      "rating": 6.709,
       "releaseDate": "2026-06-10",
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
@@ -29,7 +29,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/fHWR3YplPQWciYzxEity2kyDoDn.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
       "overview": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
-      "rating": 6.414,
+      "rating": 6.4,
       "releaseDate": "2000-07-07",
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=3iy0pE1FBkc",
@@ -45,9 +45,9 @@
     {
       "title": "TOY STORY 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/6CxbXYt9PQyCaAGn7L5efFaEkdY.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.446,
+      "rating": 7.5,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
@@ -70,9 +70,9 @@
     {
       "title": "BACKROOMS",
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.9,
+      "rating": 6.878,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
