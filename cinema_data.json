@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-06-21T23:14:56.176204Z",
-  "expires_at": "2026-06-22T23:14:56.176204Z",
+  "generated_at": "2026-06-22T04:21:33.496219Z",
+  "expires_at": "2026-06-23T04:21:33.496219Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "BACKROOMS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
-      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.9,
-      "releaseDate": "2026-05-27",
-      "duration": "105 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
-      "showtimes": {
-        "Miércoles 24 de junio": [
-          "22:30"
-        ]
-      }
-    },
     {
       "title": "EL DÍA DE LA REVELACIÓN",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
@@ -60,9 +45,9 @@
     {
       "title": "TOY STORY 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/6CxbXYt9PQyCaAGn7L5efFaEkdY.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.4,
+      "rating": 7.446,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
@@ -79,6 +64,21 @@
           "17:30",
           "19:30",
           "21:30"
+        ]
+      }
+    },
+    {
+      "title": "BACKROOMS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
+      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+      "rating": 6.9,
+      "releaseDate": "2026-05-27",
+      "duration": "105 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
+      "showtimes": {
+        "Miércoles 24 de junio": [
+          "22:30"
         ]
       }
     }
