@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T11:17:29.536092Z",
-  "expires_at": "2026-06-24T11:17:29.536092Z",
+  "generated_at": "2026-06-23T14:50:56.971188Z",
+  "expires_at": "2026-06-24T14:50:56.971188Z",
   "version": "1.0",
   "movies": [
     {
@@ -26,7 +26,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.5,
+      "rating": 7.471,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
