@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T10:51:00.098484Z",
-  "expires_at": "2026-06-25T10:51:00.098484Z",
+  "generated_at": "2026-06-24T14:32:35.816786Z",
+  "expires_at": "2026-06-25T14:32:35.816786Z",
   "version": "1.0",
   "movies": [
     {
@@ -14,6 +14,15 @@
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
       "showtimes": {
         "Miércoles 24 de junio": [
+          "22:30"
+        ],
+        "Viernes 26 de junio": [
+          "23:00"
+        ],
+        "Sábado 27 de junio": [
+          "18:00"
+        ],
+        "Domingo 28 de junio": [
           "22:30"
         ]
       }
@@ -30,6 +39,21 @@
       "showtimes": {
         "Miércoles 24 de junio": [
           "20:00"
+        ],
+        "Viernes 26 de junio": [
+          "20:30"
+        ],
+        "Sábado 27 de junio": [
+          "22:00"
+        ],
+        "Domingo 28 de junio": [
+          "20:00"
+        ],
+        "Lunes 29 de junio": [
+          "21:30"
+        ],
+        "Martes 30 de junio": [
+          "19:30"
         ]
       }
     },
@@ -45,6 +69,18 @@
       "showtimes": {
         "Miércoles 24 de junio": [
           "18:00"
+        ],
+        "Viernes 26 de junio": [
+          "18:30"
+        ],
+        "Sábado 27 de junio": [
+          "20:00"
+        ],
+        "Lunes 29 de junio": [
+          "19:30"
+        ],
+        "Martes 30 de junio": [
+          "22:00"
         ]
       }
     },
@@ -62,6 +98,52 @@
           "17:30",
           "19:30",
           "21:30"
+        ],
+        "Viernes 26 de junio": [
+          "19:30"
+        ],
+        "Sábado 27 de junio": [
+          "17:00",
+          "19:00"
+        ],
+        "Domingo 28 de junio": [
+          "17:00",
+          "19:00"
+        ],
+        "Lunes 29 de junio": [
+          "19:00"
+        ],
+        "Martes 30 de junio": [
+          "19:00"
+        ]
+      }
+    },
+    {
+      "title": "OBSESSION",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 7.9,
+      "releaseDate": "2026-05-13",
+      "duration": "108 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
+      "showtimes": {
+        "Viernes 26 de junio": [
+          "21:30"
+        ],
+        "Sábado 27 de junio": [
+          "21:00",
+          "23:00"
+        ],
+        "Domingo 28 de junio": [
+          "21:00",
+          "18:00"
+        ],
+        "Lunes 29 de junio": [
+          "21:00"
+        ],
+        "Martes 30 de junio": [
+          "21:00"
         ]
       }
     }
