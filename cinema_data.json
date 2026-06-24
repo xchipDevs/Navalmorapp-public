@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T17:54:52.100930Z",
-  "expires_at": "2026-06-25T17:54:52.100930Z",
+  "generated_at": "2026-06-24T19:47:27.695847Z",
+  "expires_at": "2026-06-25T19:47:27.695847Z",
   "version": "1.0",
   "movies": [
     {
@@ -37,9 +37,6 @@
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
       "showtimes": {
-        "Miércoles 24 de junio": [
-          "20:00"
-        ],
         "Viernes 26 de junio": [
           "20:30"
         ],
@@ -62,7 +59,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/fHWR3YplPQWciYzxEity2kyDoDn.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
       "overview": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
-      "rating": 6.415,
+      "rating": 6.4,
       "releaseDate": "2000-07-07",
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=3iy0pE1FBkc",
