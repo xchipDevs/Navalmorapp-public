@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T19:47:27.695847Z",
-  "expires_at": "2026-06-25T19:47:27.695847Z",
+  "generated_at": "2026-06-24T21:23:24.517695Z",
+  "expires_at": "2026-06-25T21:23:24.517695Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
       "showtimes": {
-        "Miércoles 24 de junio": [
-          "22:30"
-        ],
         "Viernes 26 de junio": [
           "23:00"
         ],
@@ -88,9 +85,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Miércoles 24 de junio": [
-          "21:30"
-        ],
         "Viernes 26 de junio": [
           "19:30"
         ],
@@ -115,7 +109,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 7.9,
+      "rating": 7.911,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
