@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T03:39:49.852415Z",
-  "expires_at": "2026-06-26T03:39:49.852415Z",
+  "generated_at": "2026-06-25T07:43:10.166209Z",
+  "expires_at": "2026-06-26T07:43:10.166209Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.873,
+      "rating": 6.881,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
@@ -21,6 +21,9 @@
         ],
         "Domingo 28 de junio": [
           "22:30"
+        ],
+        "Miércoles 1 de julio": [
+          "19:45"
         ]
       }
     },
@@ -48,6 +51,42 @@
         ],
         "Martes 30 de junio": [
           "19:30"
+        ],
+        "Miércoles 1 de julio": [
+          "22:15"
+        ]
+      }
+    },
+    {
+      "title": "OBSESSION",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 7.9,
+      "releaseDate": "2026-05-13",
+      "duration": "108 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
+      "showtimes": {
+        "Viernes 26 de junio": [
+          "21:30"
+        ],
+        "Sábado 27 de junio": [
+          "21:00",
+          "23:00"
+        ],
+        "Domingo 28 de junio": [
+          "21:00",
+          "18:00"
+        ],
+        "Lunes 29 de junio": [
+          "21:00"
+        ],
+        "Martes 30 de junio": [
+          "21:00"
+        ],
+        "Miércoles 1 de julio": [
+          "21:00",
+          "18:00"
         ]
       }
     },
@@ -78,9 +117,9 @@
     {
       "title": "TOY STORY 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.41,
+      "rating": 7.418,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
@@ -101,35 +140,10 @@
         ],
         "Martes 30 de junio": [
           "19:00"
-        ]
-      }
-    },
-    {
-      "title": "OBSESSION",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 7.9,
-      "releaseDate": "2026-05-13",
-      "duration": "108 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
-      "showtimes": {
-        "Viernes 26 de junio": [
-          "21:30"
         ],
-        "Sábado 27 de junio": [
-          "21:00",
-          "23:00"
-        ],
-        "Domingo 28 de junio": [
-          "21:00",
-          "18:00"
-        ],
-        "Lunes 29 de junio": [
-          "21:00"
-        ],
-        "Martes 30 de junio": [
-          "21:00"
+        "Miércoles 1 de julio": [
+          "17:00",
+          "19:00"
         ]
       }
     }
