@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T23:04:21.952607Z",
-  "expires_at": "2026-06-25T23:04:21.952607Z",
+  "generated_at": "2026-06-25T03:39:49.852415Z",
+  "expires_at": "2026-06-26T03:39:49.852415Z",
   "version": "1.0",
   "movies": [
     {
@@ -29,7 +29,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "rating": 6.718,
+      "rating": 6.705,
       "releaseDate": "2026-06-10",
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
@@ -53,13 +53,13 @@
     },
     {
       "title": "SCARY MOVIE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fHWR3YplPQWciYzxEity2kyDoDn.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
-      "overview": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
-      "rating": 6.4,
-      "releaseDate": "2000-07-07",
-      "duration": "88 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=3iy0pE1FBkc",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "rating": 5.5,
+      "releaseDate": "2026-06-03",
+      "duration": "96 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
       "showtimes": {
         "Viernes 26 de junio": [
           "18:30"
@@ -109,7 +109,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 7.911,
+      "rating": 7.9,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
