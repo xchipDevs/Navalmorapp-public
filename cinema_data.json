@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T19:49:27.615769Z",
-  "expires_at": "2026-06-27T19:49:27.615769Z",
+  "generated_at": "2026-06-26T21:19:16.241664Z",
+  "expires_at": "2026-06-27T21:19:16.241664Z",
   "version": "1.0",
   "movies": [
     {
@@ -64,9 +64,6 @@
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
       "showtimes": {
-        "Viernes 26 de junio": [
-          "21:30"
-        ],
         "Sábado 27 de junio": [
           "21:00",
           "23:00"
