@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T17:11:33.340722Z",
-  "expires_at": "2026-06-28T17:11:33.340722Z",
+  "generated_at": "2026-06-27T19:21:56.402434Z",
+  "expires_at": "2026-06-28T19:21:56.402434Z",
   "version": "1.0",
   "movies": [
     {
@@ -59,7 +59,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
       "showtimes": {
         "Sábado 27 de junio": [
-          "21:00",
           "23:00"
         ],
         "Domingo 28 de junio": [
@@ -83,14 +82,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
       "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.514,
+      "rating": 5.5,
       "releaseDate": "2026-06-03",
       "duration": "96 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
       "showtimes": {
-        "Sábado 27 de junio": [
-          "20:00"
-        ],
         "Lunes 29 de junio": [
           "19:30"
         ],
@@ -109,9 +105,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 27 de junio": [
-          "19:00"
-        ],
         "Domingo 28 de junio": [
           "17:00",
           "19:00"
