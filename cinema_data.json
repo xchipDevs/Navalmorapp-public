@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T17:13:29.653366Z",
-  "expires_at": "2026-06-29T17:13:29.653366Z",
+  "generated_at": "2026-06-28T19:21:21.235697Z",
+  "expires_at": "2026-06-29T19:21:21.235697Z",
   "version": "1.0",
   "movies": [
     {
@@ -31,9 +31,6 @@
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
       "showtimes": {
-        "Domingo 28 de junio": [
-          "20:00"
-        ],
         "Lunes 29 de junio": [
           "21:30"
         ],
@@ -55,9 +52,6 @@
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
       "showtimes": {
-        "Domingo 28 de junio": [
-          "21:00"
-        ],
         "Lunes 29 de junio": [
           "21:00"
         ],
@@ -80,9 +74,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 28 de junio": [
-          "19:00"
-        ],
         "Lunes 29 de junio": [
           "19:00"
         ],
