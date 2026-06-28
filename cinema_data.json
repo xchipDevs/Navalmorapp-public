@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T23:03:22.706425Z",
-  "expires_at": "2026-06-28T23:03:22.706425Z",
+  "generated_at": "2026-06-28T03:56:26.942879Z",
+  "expires_at": "2026-06-29T03:56:26.942879Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.9,
+      "rating": 6.89,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
@@ -94,7 +94,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.5,
+      "rating": 7.465,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
