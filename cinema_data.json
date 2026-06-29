@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T15:49:04.720796Z",
-  "expires_at": "2026-06-30T15:49:04.720796Z",
+  "generated_at": "2026-06-29T18:08:59.870699Z",
+  "expires_at": "2026-06-30T18:08:59.870699Z",
   "version": "1.0",
   "movies": [
     {
@@ -56,9 +56,6 @@
       "duration": "96 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
       "showtimes": {
-        "Lunes 29 de junio": [
-          "19:30"
-        ],
         "Martes 30 de junio": [
           "22:00"
         ]
@@ -74,9 +71,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 29 de junio": [
-          "19:00"
-        ],
         "Martes 30 de junio": [
           "19:00"
         ],
@@ -91,7 +85,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.9,
+      "rating": 6.875,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
