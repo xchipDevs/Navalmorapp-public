@@ -1,29 +1,14 @@
 {
-  "generated_at": "2026-06-28T23:03:03.744459Z",
-  "expires_at": "2026-06-29T23:03:03.744459Z",
+  "generated_at": "2026-06-29T04:02:07.658288Z",
+  "expires_at": "2026-06-30T04:02:07.658288Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "BACKROOMS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
-      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.897,
-      "releaseDate": "2026-05-27",
-      "duration": "105 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
-      "showtimes": {
-        "Miércoles 1 de julio": [
-          "19:45"
-        ]
-      }
-    },
     {
       "title": "EL DÍA DE LA REVELACIÓN",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "rating": 6.694,
+      "rating": 6.691,
       "releaseDate": "2026-06-10",
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
@@ -44,7 +29,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 7.895,
+      "rating": 7.899,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
@@ -58,6 +43,24 @@
         "Miércoles 1 de julio": [
           "21:00",
           "18:00"
+        ]
+      }
+    },
+    {
+      "title": "SCARY MOVIE",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "rating": 5.5,
+      "releaseDate": "2026-06-03",
+      "duration": "96 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
+      "showtimes": {
+        "Lunes 29 de junio": [
+          "19:30"
+        ],
+        "Martes 30 de junio": [
+          "22:00"
         ]
       }
     },
@@ -84,20 +87,17 @@
       }
     },
     {
-      "title": "SCARY MOVIE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.527,
-      "releaseDate": "2026-06-03",
-      "duration": "96 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
+      "title": "BACKROOMS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+      "rating": 6.884,
+      "releaseDate": "2026-05-27",
+      "duration": "105 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
       "showtimes": {
-        "Lunes 29 de junio": [
-          "19:30"
-        ],
-        "Martes 30 de junio": [
-          "22:00"
+        "Miércoles 1 de julio": [
+          "19:45"
         ]
       }
     }
