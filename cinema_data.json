@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T10:57:17.827349Z",
-  "expires_at": "2026-07-01T10:57:17.827349Z",
+  "generated_at": "2026-06-30T14:20:42.645751Z",
+  "expires_at": "2026-07-01T14:20:42.645751Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "rating": 6.694,
+      "rating": 6.7,
       "releaseDate": "2026-06-10",
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
@@ -45,7 +45,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
       "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.515,
+      "rating": 5.511,
       "releaseDate": "2026-06-03",
       "duration": "96 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
@@ -79,7 +79,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.9,
+      "rating": 6.858,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
