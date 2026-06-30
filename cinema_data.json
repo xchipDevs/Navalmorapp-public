@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T07:54:30.564875Z",
-  "expires_at": "2026-07-01T07:54:30.564875Z",
+  "generated_at": "2026-06-30T10:57:17.827349Z",
+  "expires_at": "2026-07-01T10:57:17.827349Z",
   "version": "1.0",
   "movies": [
     {
@@ -24,7 +24,7 @@
     {
       "title": "OBSESSION",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/u5BkYDM5gfK4wINfoIFMAcEUKhx.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/diOZbaDnB2CIilwd0527AB1qMvW.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
       "rating": 7.9,
       "releaseDate": "2026-05-13",
