@@ -1,14 +1,29 @@
 {
-  "generated_at": "2026-06-30T23:14:22.148105Z",
-  "expires_at": "2026-07-01T23:14:22.148105Z",
+  "generated_at": "2026-07-01T04:00:19.239572Z",
+  "expires_at": "2026-07-02T04:00:19.239572Z",
   "version": "1.0",
   "movies": [
+    {
+      "title": "BACKROOMS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+      "rating": 6.841,
+      "releaseDate": "2026-05-27",
+      "duration": "105 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
+      "showtimes": {
+        "Miércoles 1 de julio": [
+          "19:45"
+        ]
+      }
+    },
     {
       "title": "EL DÍA DE LA REVELACIÓN",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "rating": 6.69,
+      "rating": 6.681,
       "releaseDate": "2026-06-10",
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
@@ -21,9 +36,9 @@
     {
       "title": "OBSESSION",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/diOZbaDnB2CIilwd0527AB1qMvW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 7.922,
+      "rating": 8.047,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
@@ -37,9 +52,9 @@
     {
       "title": "TOY STORY 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.478,
+      "rating": 7.457,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
@@ -47,21 +62,6 @@
         "Miércoles 1 de julio": [
           "17:00",
           "19:00"
-        ]
-      }
-    },
-    {
-      "title": "BACKROOMS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.841,
-      "releaseDate": "2026-05-27",
-      "duration": "105 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
-      "showtimes": {
-        "Miércoles 1 de julio": [
-          "19:45"
         ]
       }
     }
