@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T04:00:19.239572Z",
-  "expires_at": "2026-07-02T04:00:19.239572Z",
+  "generated_at": "2026-07-01T08:19:25.432866Z",
+  "expires_at": "2026-07-02T08:19:25.432866Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.841,
+      "rating": 6.835,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
@@ -52,9 +52,9 @@
     {
       "title": "TOY STORY 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/vpUFcQPDHJvQXDWWgd9sB7rwEOE.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.457,
+      "rating": 7.4,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
