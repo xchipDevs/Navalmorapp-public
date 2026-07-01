@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T21:41:52.862052Z",
-  "expires_at": "2026-07-02T21:41:52.862052Z",
+  "generated_at": "2026-07-01T23:16:41.117987Z",
+  "expires_at": "2026-07-02T23:16:41.117987Z",
   "version": "1.0",
   "movies": [
     {
@@ -150,7 +150,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
       "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.5,
+      "rating": 5.458,
       "releaseDate": "2026-06-03",
       "duration": "96 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
