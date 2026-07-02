@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T23:16:41.117987Z",
-  "expires_at": "2026-07-02T23:16:41.117987Z",
+  "generated_at": "2026-07-02T03:40:29.405189Z",
+  "expires_at": "2026-07-03T03:40:29.405189Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.8,
+      "rating": 6.842,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
