@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T17:49:01.815701Z",
-  "expires_at": "2026-07-03T17:49:01.815701Z",
+  "generated_at": "2026-07-02T19:25:26.939692Z",
+  "expires_at": "2026-07-03T19:25:26.939692Z",
   "version": "1.0",
   "movies": [
     {
@@ -23,10 +23,10 @@
     },
     {
       "title": "MINIONS Y MONSTERS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gKTp55PtWGa6rxwwmNUeJwZ6qDj.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
-      "overview": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.7,
+      "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "rating": 6.602,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
