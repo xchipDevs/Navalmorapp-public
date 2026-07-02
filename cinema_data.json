@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T03:40:29.405189Z",
-  "expires_at": "2026-07-03T03:40:29.405189Z",
+  "generated_at": "2026-07-02T07:33:25.967188Z",
+  "expires_at": "2026-07-03T07:33:25.967188Z",
   "version": "1.0",
   "movies": [
     {
@@ -18,72 +18,6 @@
         ],
         "Lunes 6 de julio": [
           "22:30"
-        ]
-      }
-    },
-    {
-      "title": "EL DÍA DE LA REVELACIÓN",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "rating": 6.7,
-      "releaseDate": "2026-06-10",
-      "duration": "145 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
-      "showtimes": {
-        "Sábado 4 de julio": [
-          "20:30"
-        ],
-        "Lunes 6 de julio": [
-          "20:00"
-        ]
-      }
-    },
-    {
-      "title": "OBSESSION",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
-      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.115,
-      "releaseDate": "2026-05-13",
-      "duration": "108 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
-      "showtimes": {
-        "Sábado 4 de julio": [
-          "22:30"
-        ],
-        "Lunes 6 de julio": [
-          "22:30"
-        ],
-        "Martes 7 de julio": [
-          "22:00"
-        ]
-      }
-    },
-    {
-      "title": "TOY STORY 5",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
-      "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.428,
-      "releaseDate": "2026-06-17",
-      "duration": "102 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Viernes 3 de julio": [
-          "18:30"
-        ],
-        "Sábado 4 de julio": [
-          "18:30"
-        ],
-        "Domingo 5 de julio": [
-          "18:00"
-        ],
-        "Lunes 6 de julio": [
-          "18:00"
-        ],
-        "Martes 7 de julio": [
-          "18:00"
         ]
       }
     },
@@ -118,6 +52,42 @@
         "Martes 7 de julio": [
           "18:30",
           "20:30"
+        ],
+        "Miércoles 8 de julio": [
+          "17:00",
+          "19:00",
+          "21:00",
+          "22:30"
+        ]
+      }
+    },
+    {
+      "title": "TOY STORY 5",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "rating": 7.4,
+      "releaseDate": "2026-06-17",
+      "duration": "102 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 3 de julio": [
+          "18:30"
+        ],
+        "Sábado 4 de julio": [
+          "18:30"
+        ],
+        "Domingo 5 de julio": [
+          "18:00"
+        ],
+        "Lunes 6 de julio": [
+          "18:00"
+        ],
+        "Martes 7 de julio": [
+          "18:00"
+        ],
+        "Miércoles 8 de julio": [
+          "18:00"
         ]
       }
     },
@@ -142,6 +112,51 @@
         ],
         "Martes 7 de julio": [
           "22:00"
+        ],
+        "Miércoles 8 de julio": [
+          "20:00"
+        ]
+      }
+    },
+    {
+      "title": "EL DÍA DE LA REVELACIÓN",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+      "rating": 6.7,
+      "releaseDate": "2026-06-10",
+      "duration": "145 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
+      "showtimes": {
+        "Sábado 4 de julio": [
+          "20:30"
+        ],
+        "Lunes 6 de julio": [
+          "20:00"
+        ],
+        "Miércoles 8 de julio": [
+          "22:00"
+        ]
+      }
+    },
+    {
+      "title": "OBSESSION",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.125,
+      "releaseDate": "2026-05-13",
+      "duration": "108 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
+      "showtimes": {
+        "Sábado 4 de julio": [
+          "22:30"
+        ],
+        "Lunes 6 de julio": [
+          "22:30"
+        ],
+        "Martes 7 de julio": [
+          "22:00"
         ]
       }
     },
@@ -150,7 +165,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
       "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.458,
+      "rating": 5.445,
       "releaseDate": "2026-06-03",
       "duration": "96 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
