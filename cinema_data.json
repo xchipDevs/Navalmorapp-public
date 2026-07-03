@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T03:21:45.114563Z",
-  "expires_at": "2026-07-04T03:21:45.114563Z",
+  "generated_at": "2026-07-03T07:21:13.383795Z",
+  "expires_at": "2026-07-04T07:21:13.383795Z",
   "version": "1.0",
   "movies": [
     {
@@ -26,7 +26,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/gKTp55PtWGa6rxwwmNUeJwZ6qDj.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.7,
+      "rating": 6.721,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
@@ -66,7 +66,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "overview": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "rating": 7.438,
+      "rating": 7.4,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
