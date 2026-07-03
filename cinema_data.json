@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T14:06:34.579077Z",
-  "expires_at": "2026-07-04T14:06:34.579077Z",
+  "generated_at": "2026-07-03T17:26:42.906346Z",
+  "expires_at": "2026-07-04T17:26:42.906346Z",
   "version": "1.0",
   "movies": [
     {
@@ -23,16 +23,15 @@
     },
     {
       "title": "MINIONS Y MONSTERS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gKTp55PtWGa6rxwwmNUeJwZ6qDj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
-      "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.721,
-      "releaseDate": "2026-06-24",
-      "duration": "90 min",
+      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/19026.JPG",
+      "backdropUrl": null,
+      "overview": null,
+      "rating": null,
+      "releaseDate": null,
+      "duration": null,
       "trailerUrl": null,
       "showtimes": {
         "Viernes 3 de julio": [
-          "19:00",
           "21:00"
         ],
         "Sábado 4 de julio": [
@@ -71,9 +70,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 3 de julio": [
-          "18:30"
-        ],
         "Sábado 4 de julio": [
           "18:30"
         ],
@@ -122,8 +118,8 @@
       "title": "EL DÍA DE LA REVELACIÓN",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "rating": 6.672,
+      "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
+      "rating": 6.7,
       "releaseDate": "2026-06-10",
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
@@ -144,7 +140,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.155,
+      "rating": 8.154,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
