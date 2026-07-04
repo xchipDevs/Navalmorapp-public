@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T15:05:53.667682Z",
-  "expires_at": "2026-07-05T15:05:53.667682Z",
+  "generated_at": "2026-07-04T17:06:48.691027Z",
+  "expires_at": "2026-07-05T17:06:48.691027Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.668,
+      "rating": 6.669,
       "releaseDate": "2026-06-10",
       "duration": "146 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
@@ -35,7 +35,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Sábado 4 de julio": [
-          "17:00",
           "19:00",
           "21:00"
         ],
@@ -91,9 +90,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 4 de julio": [
-          "18:30"
-        ],
         "Domingo 5 de julio": [
           "18:00"
         ],
@@ -137,7 +133,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
       "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.434,
+      "rating": 5.42,
       "releaseDate": "2026-06-03",
       "duration": "96 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
