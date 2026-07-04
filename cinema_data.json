@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T19:14:46.538270Z",
-  "expires_at": "2026-07-05T19:14:46.538270Z",
+  "generated_at": "2026-07-04T20:58:38.363745Z",
+  "expires_at": "2026-07-05T20:58:38.363745Z",
   "version": "1.0",
   "movies": [
     {
@@ -31,9 +31,6 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 4 de julio": [
-          "21:00"
-        ],
         "Domingo 5 de julio": [
           "17:00",
           "19:00",
@@ -65,9 +62,6 @@
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
       "showtimes": {
-        "Sábado 4 de julio": [
-          "22:30"
-        ],
         "Lunes 6 de julio": [
           "22:30"
         ],
