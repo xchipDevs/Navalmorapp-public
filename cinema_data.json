@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T15:13:06.640195Z",
-  "expires_at": "2026-07-06T15:13:06.640195Z",
+  "generated_at": "2026-07-05T17:11:59.047532Z",
+  "expires_at": "2026-07-06T17:11:59.047532Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,13 +8,12 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.7,
+      "rating": 6.642,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
         "Domingo 5 de julio": [
-          "17:00",
           "19:00",
           "21:00"
         ],
@@ -62,9 +61,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 5 de julio": [
-          "18:00"
-        ],
         "Lunes 6 de julio": [
           "18:00"
         ],
