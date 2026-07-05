@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T13:41:09.214332Z",
-  "expires_at": "2026-07-06T13:41:09.214332Z",
+  "generated_at": "2026-07-05T15:13:06.640195Z",
+  "expires_at": "2026-07-06T15:13:06.640195Z",
   "version": "1.0",
   "movies": [
     {
@@ -39,7 +39,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
       "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.4,
+      "rating": 5.409,
       "releaseDate": "2026-06-03",
       "duration": "96 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
@@ -135,7 +135,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/diOZbaDnB2CIilwd0527AB1qMvW.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.219,
+      "rating": 8.217,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
