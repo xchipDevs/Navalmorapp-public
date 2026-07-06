@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T16:51:51.762411Z",
-  "expires_at": "2026-07-07T16:51:51.762411Z",
+  "generated_at": "2026-07-06T19:58:27.115979Z",
+  "expires_at": "2026-07-07T19:58:27.115979Z",
   "version": "1.0",
   "movies": [
     {
@@ -28,9 +28,6 @@
       "duration": "146 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
       "showtimes": {
-        "Lunes 6 de julio": [
-          "20:00"
-        ],
         "Miércoles 8 de julio": [
           "22:00"
         ]
@@ -46,9 +43,6 @@
       "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 6 de julio": [
-          "20:30"
-        ],
         "Martes 7 de julio": [
           "18:30",
           "20:30"
@@ -64,9 +58,9 @@
     {
       "title": "OBSESSION",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/diOZbaDnB2CIilwd0527AB1qMvW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.25,
+      "rating": 8.244,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
