@@ -1,94 +1,14 @@
 {
-  "generated_at": "2026-07-06T03:38:22.180913Z",
-  "expires_at": "2026-07-07T03:38:22.180913Z",
+  "generated_at": "2026-07-06T08:20:59.726581Z",
+  "expires_at": "2026-07-07T08:20:59.726581Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "MINIONS Y MONSTERS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
-      "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.4,
-      "releaseDate": "2026-06-24",
-      "duration": "90 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Lunes 6 de julio": [
-          "18:30",
-          "20:30"
-        ],
-        "Martes 7 de julio": [
-          "18:30",
-          "20:30"
-        ],
-        "Miércoles 8 de julio": [
-          "17:00",
-          "19:00",
-          "21:00",
-          "22:30"
-        ]
-      }
-    },
-    {
-      "title": "SCARY MOVIE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.4,
-      "releaseDate": "2026-06-03",
-      "duration": "96 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
-      "showtimes": {
-        "Martes 7 de julio": [
-          "20:00"
-        ]
-      }
-    },
-    {
-      "title": "TOY STORY 5",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
-      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.41,
-      "releaseDate": "2026-06-17",
-      "duration": "102 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Lunes 6 de julio": [
-          "18:00"
-        ],
-        "Martes 7 de julio": [
-          "18:00"
-        ],
-        "Miércoles 8 de julio": [
-          "18:00"
-        ]
-      }
-    },
-    {
-      "title": "VIAJE AL PAÍS DE LOS BLANCOS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/f7RrxbquhqMhIINmnek3lkZdM76.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/exGCmfVVLGkcqUV8gW1EoV9Bdax.jpg",
-      "overview": "Ousman Umar, un joven de Ghana fascinado por el misterioso “país de los blancos”, abandona su aldea y pone rumbo a Europa. Cuando llega a Barcelona, tras una dura travesía de varios años, el sueño que lo impulsó se desvanece entre el rechazo y la soledad. Hasta que conoce a Montse, que le acoge en su familia y le ofrece, además de amor y apoyo, la posibilidad de un futuro. Ousman no solo la aprovecha, sino que la transforma en algo mucho mayor, decidido a que todo su viaje haya tenido un sentido. ‘Viaje al País de los Blancos’ está basada en una extraordinaria historia real de superación y amor en la que la bondad de las personas prevalece en un mundo hostil.",
-      "rating": 0.0,
-      "releaseDate": "2026-06-26",
-      "duration": "110 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=FqEmnFtSAAQ",
-      "showtimes": {
-        "Martes 7 de julio": [
-          "22:00"
-        ],
-        "Miércoles 8 de julio": [
-          "20:00"
-        ]
-      }
-    },
     {
       "title": "BACKROOMS",
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.835,
+      "rating": 6.841,
       "releaseDate": "2026-05-27",
       "duration": "105 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
@@ -117,11 +37,37 @@
       }
     },
     {
+      "title": "MINIONS Y MONSTERS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
+      "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "rating": 6.394,
+      "releaseDate": "2026-06-24",
+      "duration": "90 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Lunes 6 de julio": [
+          "18:30",
+          "20:30"
+        ],
+        "Martes 7 de julio": [
+          "18:30",
+          "20:30"
+        ],
+        "Miércoles 8 de julio": [
+          "17:00",
+          "19:00",
+          "21:00",
+          "22:30"
+        ]
+      }
+    },
+    {
       "title": "OBSESSION",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/diOZbaDnB2CIilwd0527AB1qMvW.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.238,
+      "rating": 8.25,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
@@ -131,6 +77,60 @@
         ],
         "Martes 7 de julio": [
           "22:00"
+        ]
+      }
+    },
+    {
+      "title": "TOY STORY 5",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "rating": 7.42,
+      "releaseDate": "2026-06-17",
+      "duration": "102 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Lunes 6 de julio": [
+          "18:00"
+        ],
+        "Martes 7 de julio": [
+          "18:00"
+        ],
+        "Miércoles 8 de julio": [
+          "18:00"
+        ]
+      }
+    },
+    {
+      "title": "SCARY MOVIE",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "rating": 5.4,
+      "releaseDate": "2026-06-03",
+      "duration": "96 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
+      "showtimes": {
+        "Martes 7 de julio": [
+          "20:00"
+        ]
+      }
+    },
+    {
+      "title": "VIAJE AL PAÍS DE LOS BLANCOS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/f7RrxbquhqMhIINmnek3lkZdM76.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/exGCmfVVLGkcqUV8gW1EoV9Bdax.jpg",
+      "overview": "Ousman Umar, un joven de Ghana fascinado por el misterioso “país de los blancos”, abandona su aldea y pone rumbo a Europa. Cuando llega a Barcelona, tras una dura travesía de varios años, el sueño que lo impulsó se desvanece entre el rechazo y la soledad. Hasta que conoce a Montse, que le acoge en su familia y le ofrece, además de amor y apoyo, la posibilidad de un futuro. Ousman no solo la aprovecha, sino que la transforma en algo mucho mayor, decidido a que todo su viaje haya tenido un sentido. ‘Viaje al País de los Blancos’ está basada en una extraordinaria historia real de superación y amor en la que la bondad de las personas prevalece en un mundo hostil.",
+      "rating": 0.0,
+      "releaseDate": "2026-06-26",
+      "duration": "110 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=FqEmnFtSAAQ",
+      "showtimes": {
+        "Martes 7 de julio": [
+          "22:00"
+        ],
+        "Miércoles 8 de julio": [
+          "20:00"
         ]
       }
     }
