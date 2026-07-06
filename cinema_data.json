@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-07-06T19:58:27.115979Z",
-  "expires_at": "2026-07-07T19:58:27.115979Z",
+  "generated_at": "2026-07-06T21:43:25.132761Z",
+  "expires_at": "2026-07-07T21:43:25.132761Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "BACKROOMS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.835,
-      "releaseDate": "2026-05-27",
-      "duration": "105 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
-      "showtimes": {
-        "Lunes 6 de julio": [
-          "22:30"
-        ]
-      }
-    },
     {
       "title": "EL DÍA DE LA REVELACIÓN",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
@@ -38,7 +23,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.4,
+      "rating": 6.382,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
@@ -65,9 +50,6 @@
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
       "showtimes": {
-        "Lunes 6 de julio": [
-          "22:30"
-        ],
         "Martes 7 de julio": [
           "22:00"
         ]
