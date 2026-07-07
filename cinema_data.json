@@ -1,29 +1,14 @@
 {
-  "generated_at": "2026-07-07T03:29:32.246298Z",
-  "expires_at": "2026-07-08T03:29:32.246298Z",
+  "generated_at": "2026-07-07T07:39:09.676833Z",
+  "expires_at": "2026-07-08T07:39:09.676833Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "EL DÍA DE LA REVELACIÓN",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.669,
-      "releaseDate": "2026-06-10",
-      "duration": "146 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
-      "showtimes": {
-        "Miércoles 8 de julio": [
-          "22:00"
-        ]
-      }
-    },
     {
       "title": "MINIONS Y MONSTERS",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.382,
+      "rating": 6.4,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
@@ -56,24 +41,6 @@
       }
     },
     {
-      "title": "TOY STORY 5",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
-      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.404,
-      "releaseDate": "2026-06-17",
-      "duration": "102 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Martes 7 de julio": [
-          "18:00"
-        ],
-        "Miércoles 8 de julio": [
-          "18:00"
-        ]
-      }
-    },
-    {
       "title": "SCARY MOVIE",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
@@ -85,6 +52,24 @@
       "showtimes": {
         "Martes 7 de julio": [
           "20:00"
+        ]
+      }
+    },
+    {
+      "title": "TOY STORY 5",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "rating": 7.398,
+      "releaseDate": "2026-06-17",
+      "duration": "102 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Martes 7 de julio": [
+          "18:00"
+        ],
+        "Miércoles 8 de julio": [
+          "18:00"
         ]
       }
     },
@@ -103,6 +88,21 @@
         ],
         "Miércoles 8 de julio": [
           "20:00"
+        ]
+      }
+    },
+    {
+      "title": "EL DÍA DE LA REVELACIÓN",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
+      "rating": 6.678,
+      "releaseDate": "2026-06-10",
+      "duration": "146 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
+      "showtimes": {
+        "Miércoles 8 de julio": [
+          "22:00"
         ]
       }
     }
