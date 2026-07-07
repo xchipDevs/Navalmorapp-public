@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T18:00:10.491949Z",
-  "expires_at": "2026-07-08T18:00:10.491949Z",
+  "generated_at": "2026-07-07T20:08:01.445511Z",
+  "expires_at": "2026-07-08T20:08:01.445511Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,14 +8,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.44,
+      "rating": 6.453,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
-        "Martes 7 de julio": [
-          "20:30"
-        ],
         "Miércoles 8 de julio": [
           "17:00",
           "19:00",
@@ -36,21 +33,6 @@
       "showtimes": {
         "Martes 7 de julio": [
           "22:00"
-        ]
-      }
-    },
-    {
-      "title": "SCARY MOVIE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.4,
-      "releaseDate": "2026-06-03",
-      "duration": "96 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
-      "showtimes": {
-        "Martes 7 de julio": [
-          "20:00"
         ]
       }
     },
