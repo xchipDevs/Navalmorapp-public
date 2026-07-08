@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T17:37:16.122008Z",
-  "expires_at": "2026-07-09T17:37:16.122008Z",
+  "generated_at": "2026-07-08T19:26:19.184942Z",
+  "expires_at": "2026-07-09T19:26:19.184942Z",
   "version": "1.0",
   "movies": [
     {
@@ -29,23 +29,7 @@
       "trailerUrl": null,
       "showtimes": {
         "Miércoles 8 de julio": [
-          "21:00",
           "22:30"
-        ]
-      }
-    },
-    {
-      "title": "VIAJE AL PAÍS DE LOS BLANCOS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/f7RrxbquhqMhIINmnek3lkZdM76.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/exGCmfVVLGkcqUV8gW1EoV9Bdax.jpg",
-      "overview": "Ousman Umar, un joven de Ghana fascinado por el misterioso “país de los blancos”, abandona su aldea y pone rumbo a Europa. Cuando llega a Barcelona, tras una dura travesía de varios años, el sueño que lo impulsó se desvanece entre el rechazo y la soledad. Hasta que conoce a Montse, que le acoge en su familia y le ofrece, además de amor y apoyo, la posibilidad de un futuro. Ousman no solo la aprovecha, sino que la transforma en algo mucho mayor, decidido a que todo su viaje haya tenido un sentido. ‘Viaje al País de los Blancos’ está basada en una extraordinaria historia real de superación y amor en la que la bondad de las personas prevalece en un mundo hostil.",
-      "rating": 0.0,
-      "releaseDate": "2026-06-26",
-      "duration": "110 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=FqEmnFtSAAQ",
-      "showtimes": {
-        "Miércoles 8 de julio": [
-          "20:00"
         ]
       }
     }
