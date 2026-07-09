@@ -1,45 +1,106 @@
 {
-  "generated_at": "2026-07-09T03:22:56.389092Z",
-  "expires_at": "2026-07-10T03:22:56.389092Z",
+  "generated_at": "2026-07-09T19:54:37.489858Z",
+  "expires_at": "2026-07-10T19:54:37.489858Z",
   "version": "1.0",
   "movies": [
+    {
+      "title": "Vaiana",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "rating": 4.6,
+      "releaseDate": "2026-07-08",
+      "duration": "115 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 10 de julio": [
+          "19:00",
+          "21:00"
+        ],
+        "Sábado 11 de julio": [
+          "17:00",
+          "19:00",
+          "21:00"
+        ],
+        "Domingo 12 de julio": [
+          "17:00",
+          "19:00",
+          "21:00"
+        ],
+        "Lunes 13 de julio": [
+          "18:30",
+          "20:30"
+        ],
+        "Martes 14 de julio": [
+          "18:30",
+          "20:30"
+        ],
+        "Miércoles 15 de julio": [
+          "18:30",
+          "20:30",
+          "22:30"
+        ]
+      }
+    },
+    {
+      "title": "Haciendo Amigos",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
+      "backdropUrl": null,
+      "overview": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "rating": 0.0,
+      "releaseDate": "2026-07-10",
+      "duration": "110 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
+      "showtimes": {
+        "Viernes 10 de julio": [
+          "20:00",
+          "22:00"
+        ],
+        "Sábado 11 de julio": [
+          "20:30",
+          "22:30"
+        ],
+        "Domingo 12 de julio": [
+          "20:30",
+          "22:30"
+        ],
+        "Lunes 13 de julio": [
+          "20:00",
+          "22:00"
+        ],
+        "Martes 14 de julio": [
+          "22:30"
+        ],
+        "Miércoles 15 de julio": [
+          "20:30",
+          "22:30"
+        ]
+      }
+    },
     {
       "title": "Minions y Monstruos",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.395,
+      "rating": 6.391,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 3 de julio": [
-          "19:00",
-          "21:00"
+        "Viernes 10 de julio": [
+          "18:00"
         ],
-        "Sábado 4 de julio": [
-          "17:00",
-          "19:00",
-          "21:00"
+        "Sábado 11 de julio": [
+          "17:00"
         ],
-        "Domingo 5 de julio": [
-          "17:00",
-          "19:00",
-          "21:00"
+        "Domingo 12 de julio": [
+          "18:30"
         ],
-        "Lunes 6 de julio": [
-          "18:30",
-          "20:30"
+        "Martes 14 de julio": [
+          "18:00"
         ],
-        "Martes 7 de julio": [
-          "18:30",
-          "20:30"
-        ],
-        "Miércoles 8 de julio": [
-          "17:00",
-          "19:00",
-          "21:00",
-          "22:30"
+        "Miércoles 15 de julio": [
+          "17:00"
         ]
       }
     },
@@ -48,19 +109,16 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.259,
+      "rating": 8.269,
       "releaseDate": "2026-05-13",
       "duration": "100 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
       "showtimes": {
-        "Sábado 4 de julio": [
+        "Lunes 13 de julio": [
           "22:30"
         ],
-        "Lunes 6 de julio": [
+        "Martes 14 de julio": [
           "22:30"
-        ],
-        "Martes 7 de julio": [
-          "22:00"
         ]
       }
     },
@@ -69,112 +127,37 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.691,
+      "rating": 6.7,
       "releaseDate": "2026-06-10",
       "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
       "showtimes": {
-        "Sábado 4 de julio": [
-          "20:30"
-        ],
-        "Lunes 6 de julio": [
+        "Martes 14 de julio": [
           "20:00"
-        ],
-        "Miércoles 8 de julio": [
-          "22:00"
         ]
       }
     },
     {
       "title": "Toy Story 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.407,
+      "rating": 7.4,
       "releaseDate": "2026-06-17",
-      "duration": "No especificada",
+      "duration": "N/A",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 3 de julio": [
+        "Sábado 11 de julio": [
           "18:30"
         ],
-        "Sábado 4 de julio": [
+        "Domingo 12 de julio": [
+          "17:00"
+        ],
+        "Lunes 13 de julio": [
+          "18:00"
+        ],
+        "Miércoles 15 de julio": [
           "18:30"
-        ],
-        "Domingo 5 de julio": [
-          "18:00"
-        ],
-        "Lunes 6 de julio": [
-          "18:00"
-        ],
-        "Martes 7 de julio": [
-          "18:00"
-        ],
-        "Miércoles 8 de julio": [
-          "18:00"
-        ]
-      }
-    },
-    {
-      "title": "Backrooms",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.833,
-      "releaseDate": "2026-05-27",
-      "duration": "110 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
-      "showtimes": {
-        "Viernes 3 de julio": [
-          "22:30"
-        ],
-        "Lunes 6 de julio": [
-          "22:30"
-        ]
-      }
-    },
-    {
-      "title": "Viaje al país de los blancos",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/f7RrxbquhqMhIINmnek3lkZdM76.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/exGCmfVVLGkcqUV8gW1EoV9Bdax.jpg",
-      "overview": "Ousman Umar, un joven de Ghana fascinado por el misterioso “país de los blancos”, abandona su aldea y pone rumbo a Europa. Cuando llega a Barcelona, tras una dura travesía de varios años, el sueño que lo impulsó se desvanece entre el rechazo y la soledad. Hasta que conoce a Montse, que le acoge en su familia y le ofrece, además de amor y apoyo, la posibilidad de un futuro. Ousman no solo la aprovecha, sino que la transforma en algo mucho mayor, decidido a que todo su viaje haya tenido un sentido. ‘Viaje al País de los Blancos’ está basada en una extraordinaria historia real de superación y amor en la que la bondad de las personas prevalece en un mundo hostil.",
-      "rating": 0.0,
-      "releaseDate": "2026-06-26",
-      "duration": "110 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=FqEmnFtSAAQ",
-      "showtimes": {
-        "Viernes 3 de julio": [
-          "20:30"
-        ],
-        "Sábado 4 de julio": [
-          "23:00"
-        ],
-        "Domingo 5 de julio": [
-          "20:00"
-        ],
-        "Martes 7 de julio": [
-          "21:30"
-        ],
-        "Miércoles 8 de julio": [
-          "20:00"
-        ]
-      }
-    },
-    {
-      "title": "Scary Movie 6",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.405,
-      "releaseDate": "2026-06-03",
-      "duration": "95 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
-      "showtimes": {
-        "Domingo 5 de julio": [
-          "22:00"
-        ],
-        "Martes 7 de julio": [
-          "20:00"
         ]
       }
     }
