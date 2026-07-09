@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T23:08:28.934676Z",
-  "expires_at": "2026-07-09T23:08:28.934676Z",
+  "generated_at": "2026-07-09T03:22:56.389092Z",
+  "expires_at": "2026-07-10T03:22:56.389092Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.381,
+      "rating": 6.395,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
@@ -90,9 +90,9 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.396,
+      "rating": 7.407,
       "releaseDate": "2026-06-17",
-      "duration": "102 min",
+      "duration": "No especificada",
       "trailerUrl": null,
       "showtimes": {
         "Viernes 3 de julio": [
@@ -120,7 +120,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "rating": 6.8,
+      "rating": 6.833,
       "releaseDate": "2026-05-27",
       "duration": "110 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9EYRSmbsqzY",
@@ -165,7 +165,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
       "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "rating": 5.394,
+      "rating": 5.405,
       "releaseDate": "2026-06-03",
       "duration": "95 min",
       "trailerUrl": "https://www.youtube.com/watch?v=kLZ7PGp7ZL0",
