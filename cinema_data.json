@@ -1,55 +1,16 @@
 {
-  "generated_at": "2026-07-10T14:28:15.590008Z",
-  "expires_at": "2026-07-11T14:28:15.590008Z",
+  "generated_at": "2026-07-10T17:47:52.786349Z",
+  "expires_at": "2026-07-11T17:47:52.786349Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "Vaiana",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.1,
-      "releaseDate": "2026-07-08",
-      "duration": "115 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Viernes 10 de julio": [
-          "19:00",
-          "21:00"
-        ],
-        "Sábado 11 de julio": [
-          "17:00",
-          "19:00",
-          "21:00"
-        ],
-        "Domingo 12 de julio": [
-          "17:00",
-          "19:00",
-          "21:00"
-        ],
-        "Lunes 13 de julio": [
-          "18:30",
-          "20:30"
-        ],
-        "Martes 14 de julio": [
-          "18:30",
-          "20:30"
-        ],
-        "Miércoles 15 de julio": [
-          "18:30",
-          "20:30",
-          "22:30"
-        ]
-      }
-    },
-    {
-      "title": "Haciendo Amigos",
+      "title": "HACIENDO AMIGOS",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
       "backdropUrl": null,
       "overview": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
       "rating": 0.0,
       "releaseDate": "2026-07-10",
-      "duration": "110 min",
+      "duration": null,
       "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
       "showtimes": {
         "Viernes 10 de julio": [
@@ -78,18 +39,15 @@
       }
     },
     {
-      "title": "Minions y Monstruos",
+      "title": "MINIONS Y MONSTERS",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.4,
+      "rating": 6.388,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 10 de julio": [
-          "18:00"
-        ],
         "Sábado 11 de julio": [
           "17:00"
         ],
@@ -105,40 +63,45 @@
       }
     },
     {
-      "title": "Obsesión",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.284,
-      "releaseDate": "2026-05-13",
-      "duration": "100 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
+      "title": "VAIANA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "rating": 5.209,
+      "releaseDate": "2026-07-08",
+      "duration": "115 min",
+      "trailerUrl": null,
       "showtimes": {
+        "Viernes 10 de julio": [
+          "21:00"
+        ],
+        "Sábado 11 de julio": [
+          "17:00",
+          "19:00",
+          "21:00"
+        ],
+        "Domingo 12 de julio": [
+          "17:00",
+          "19:00",
+          "21:00"
+        ],
         "Lunes 13 de julio": [
-          "22:30"
+          "18:30",
+          "20:30"
         ],
         "Martes 14 de julio": [
+          "18:30",
+          "20:30"
+        ],
+        "Miércoles 15 de julio": [
+          "18:30",
+          "20:30",
           "22:30"
         ]
       }
     },
     {
-      "title": "El Día de la Revelación",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.7,
-      "releaseDate": "2026-06-10",
-      "duration": "145 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
-      "showtimes": {
-        "Martes 14 de julio": [
-          "20:00"
-        ]
-      }
-    },
-    {
-      "title": "Toy Story 5",
+      "title": "TOY STORY 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
@@ -151,13 +114,46 @@
           "18:30"
         ],
         "Domingo 12 de julio": [
-          "17:00"
+          "16:45"
         ],
         "Lunes 13 de julio": [
           "18:00"
         ],
         "Miércoles 15 de julio": [
           "18:30"
+        ]
+      }
+    },
+    {
+      "title": "OBSESSION",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.284,
+      "releaseDate": "2026-05-13",
+      "duration": "108 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
+      "showtimes": {
+        "Lunes 13 de julio": [
+          "22:30"
+        ],
+        "Martes 14 de julio": [
+          "22:30"
+        ]
+      }
+    },
+    {
+      "title": "EL DÍA DE LA REVELACIÓN",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
+      "rating": 6.7,
+      "releaseDate": "2026-06-10",
+      "duration": "146 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
+      "showtimes": {
+        "Martes 14 de julio": [
+          "20:00"
         ]
       }
     }
