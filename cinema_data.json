@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T10:55:00.141185Z",
-  "expires_at": "2026-07-11T10:55:00.141185Z",
+  "generated_at": "2026-07-10T14:28:15.590008Z",
+  "expires_at": "2026-07-11T14:28:15.590008Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 4.676,
+      "rating": 5.1,
       "releaseDate": "2026-07-08",
       "duration": "115 min",
       "trailerUrl": null,
@@ -109,7 +109,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.3,
+      "rating": 8.284,
       "releaseDate": "2026-05-13",
       "duration": "100 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
@@ -142,9 +142,9 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.41,
+      "rating": 7.407,
       "releaseDate": "2026-06-17",
-      "duration": "No especificada",
+      "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
         "Sábado 11 de julio": [
