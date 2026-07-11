@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T11:06:09.110188Z",
-  "expires_at": "2026-07-12T11:06:09.110188Z",
+  "generated_at": "2026-07-11T13:20:49.665132Z",
+  "expires_at": "2026-07-12T13:20:49.665132Z",
   "version": "1.0",
   "movies": [
     {
@@ -140,7 +140,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.69,
+      "rating": 6.688,
       "releaseDate": "2026-06-10",
       "duration": "146 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
