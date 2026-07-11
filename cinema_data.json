@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T02:42:36.909465Z",
-  "expires_at": "2026-07-12T02:42:36.909465Z",
+  "generated_at": "2026-07-11T06:13:26.661390Z",
+  "expires_at": "2026-07-12T06:13:26.661390Z",
   "version": "1.0",
   "movies": [
     {
@@ -59,6 +59,30 @@
       }
     },
     {
+      "title": "TOY STORY 5",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "rating": 7.407,
+      "releaseDate": "2026-06-17",
+      "duration": "102 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 11 de julio": [
+          "18:30"
+        ],
+        "Domingo 12 de julio": [
+          "16:45"
+        ],
+        "Lunes 13 de julio": [
+          "18:00"
+        ],
+        "Miércoles 15 de julio": [
+          "18:30"
+        ]
+      }
+    },
+    {
       "title": "VAIANA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/dRqDXLVmPuvGJCegVHayK4WS6Cz.jpg",
@@ -94,30 +118,6 @@
       }
     },
     {
-      "title": "TOY STORY 5",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.407,
-      "releaseDate": "2026-06-17",
-      "duration": "102 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Sábado 11 de julio": [
-          "18:30"
-        ],
-        "Domingo 12 de julio": [
-          "16:45"
-        ],
-        "Lunes 13 de julio": [
-          "18:00"
-        ],
-        "Miércoles 15 de julio": [
-          "18:30"
-        ]
-      }
-    },
-    {
       "title": "OBSESSION",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -140,7 +140,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.688,
+      "rating": 6.69,
       "releaseDate": "2026-06-10",
       "duration": "146 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
