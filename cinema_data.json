@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T19:04:17.504972Z",
-  "expires_at": "2026-07-12T19:04:17.504972Z",
+  "generated_at": "2026-07-11T20:49:08.523955Z",
+  "expires_at": "2026-07-12T20:49:08.523955Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
       "backdropUrl": null,
       "overview": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
-      "rating": 0.0,
+      "rating": 10.0,
       "releaseDate": "2026-07-10",
       "duration": null,
       "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
@@ -85,9 +85,6 @@
       "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 11 de julio": [
-          "21:00"
-        ],
         "Domingo 12 de julio": [
           "17:00",
           "19:00",
