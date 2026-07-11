@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T22:59:18.901677Z",
-  "expires_at": "2026-07-11T22:59:18.901677Z",
+  "generated_at": "2026-07-11T02:42:36.909465Z",
+  "expires_at": "2026-07-12T02:42:36.909465Z",
   "version": "1.0",
   "movies": [
     {
@@ -39,7 +39,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.364,
+      "rating": 6.373,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
@@ -61,9 +61,9 @@
     {
       "title": "VAIANA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/dRqDXLVmPuvGJCegVHayK4WS6Cz.jpg",
       "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.209,
+      "rating": 5.2,
       "releaseDate": "2026-07-08",
       "duration": "115 min",
       "trailerUrl": null,
@@ -98,7 +98,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.403,
+      "rating": 7.407,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
