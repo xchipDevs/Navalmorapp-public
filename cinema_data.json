@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:06:41.979730Z",
-  "expires_at": "2026-07-13T19:06:41.979730Z",
+  "generated_at": "2026-07-12T20:50:15.419042Z",
+  "expires_at": "2026-07-13T20:50:15.419042Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": null,
       "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
       "showtimes": {
-        "Domingo 12 de julio": [
-          "22:30"
-        ],
         "Lunes 13 de julio": [
           "20:00",
           "22:00"
@@ -75,9 +72,6 @@
       "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 12 de julio": [
-          "21:00"
-        ],
         "Lunes 13 de julio": [
           "18:30",
           "20:30"
