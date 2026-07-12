@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T22:49:23.507061Z",
-  "expires_at": "2026-07-12T22:49:23.507061Z",
+  "generated_at": "2026-07-12T02:50:53.185590Z",
+  "expires_at": "2026-07-13T02:50:53.185590Z",
   "version": "1.0",
   "movies": [
     {
@@ -35,7 +35,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.379,
+      "rating": 6.4,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
@@ -56,7 +56,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.409,
+      "rating": 7.411,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
@@ -105,9 +105,9 @@
     {
       "title": "OBSESSION",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.284,
+      "rating": 8.276,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
@@ -125,7 +125,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.688,
+      "rating": 6.689,
       "releaseDate": "2026-06-10",
       "duration": "146 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
