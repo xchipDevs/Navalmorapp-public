@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T16:59:25.799648Z",
-  "expires_at": "2026-07-13T16:59:25.799648Z",
+  "generated_at": "2026-07-12T19:06:41.979730Z",
+  "expires_at": "2026-07-13T19:06:41.979730Z",
   "version": "1.0",
   "movies": [
     {
@@ -14,7 +14,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
       "showtimes": {
         "Domingo 12 de julio": [
-          "20:30",
           "22:30"
         ],
         "Lunes 13 de julio": [
@@ -35,7 +34,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.349,
+      "rating": 6.339,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
@@ -53,7 +52,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.408,
+      "rating": 7.4,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
@@ -77,7 +76,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Domingo 12 de julio": [
-          "19:00",
           "21:00"
         ],
         "Lunes 13 de julio": [
