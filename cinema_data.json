@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T14:35:44.262263Z",
-  "expires_at": "2026-07-14T14:35:44.262263Z",
+  "generated_at": "2026-07-13T17:55:17.428691Z",
+  "expires_at": "2026-07-14T17:55:17.428691Z",
   "version": "1.0",
   "movies": [
     {
@@ -29,9 +29,9 @@
     {
       "title": "OBSESSION",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.264,
+      "rating": 8.261,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
@@ -54,9 +54,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 13 de julio": [
-          "18:00"
-        ],
         "Miércoles 15 de julio": [
           "18:30"
         ]
@@ -73,7 +70,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Lunes 13 de julio": [
-          "18:30",
           "20:30"
         ],
         "Martes 14 de julio": [
@@ -92,9 +88,9 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.689,
+      "rating": 6.69,
       "releaseDate": "2026-06-10",
-      "duration": "146 min",
+      "duration": "145 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
       "showtimes": {
         "Martes 14 de julio": [
