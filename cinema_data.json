@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T13:44:45.653081Z",
-  "expires_at": "2026-07-16T13:44:45.653081Z",
+  "generated_at": "2026-07-15T15:26:25.671328Z",
+  "expires_at": "2026-07-16T15:26:25.671328Z",
   "version": "1.0",
   "movies": [
     {
@@ -16,6 +16,15 @@
         "Miércoles 15 de julio": [
           "20:30",
           "22:30"
+        ],
+        "Viernes 17 de julio": [
+          "22:00"
+        ],
+        "Sábado 18 de julio": [
+          "22:00"
+        ],
+        "Martes 21 de julio": [
+          "20:00"
         ]
       }
     },
@@ -29,7 +38,10 @@
       "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
-        "Miércoles 15 de julio": [
+        "Sábado 18 de julio": [
+          "17:30"
+        ],
+        "Lunes 20 de julio": [
           "17:00"
         ]
       }
@@ -46,6 +58,18 @@
       "showtimes": {
         "Miércoles 15 de julio": [
           "18:30"
+        ],
+        "Viernes 17 de julio": [
+          "20:00"
+        ],
+        "Sábado 18 de julio": [
+          "18:00"
+        ],
+        "Domingo 19 de julio": [
+          "19:00"
+        ],
+        "Lunes 20 de julio": [
+          "17:00"
         ]
       }
     },
@@ -63,6 +87,83 @@
           "18:30",
           "20:30",
           "22:30"
+        ],
+        "Viernes 17 de julio": [
+          "18:00"
+        ],
+        "Sábado 18 de julio": [
+          "20:00"
+        ],
+        "Domingo 19 de julio": [
+          "17:00"
+        ],
+        "Lunes 20 de julio": [
+          "19:00"
+        ],
+        "Martes 21 de julio": [
+          "18:00"
+        ]
+      }
+    },
+    {
+      "title": "LA ODISEA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "overview": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "rating": 5.6,
+      "releaseDate": "2026-07-15",
+      "duration": "173 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 17 de julio": [
+          "18:30",
+          "21:30"
+        ],
+        "Sábado 18 de julio": [
+          "19:00",
+          "22:15"
+        ],
+        "Domingo 19 de julio": [
+          "17:30",
+          "20:45"
+        ],
+        "Lunes 20 de julio": [
+          "18:30",
+          "21:45"
+        ],
+        "Martes 21 de julio": [
+          "18:30",
+          "21:45"
+        ]
+      }
+    },
+    {
+      "title": "EL DÍA DE LA REVELACIÓN",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
+      "rating": 6.692,
+      "releaseDate": "2026-06-10",
+      "duration": "146 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
+      "showtimes": {
+        "Lunes 20 de julio": [
+          "21:00"
+        ]
+      }
+    },
+    {
+      "title": "OBSESSION",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.3,
+      "releaseDate": "2026-05-13",
+      "duration": "108 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
+      "showtimes": {
+        "Martes 21 de julio": [
+          "22:00"
         ]
       }
     }
