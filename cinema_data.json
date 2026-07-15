@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T17:18:20.076464Z",
-  "expires_at": "2026-07-16T17:18:20.076464Z",
+  "generated_at": "2026-07-15T19:12:06.633906Z",
+  "expires_at": "2026-07-16T19:12:06.633906Z",
   "version": "1.0",
   "movies": [
     {
@@ -14,7 +14,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
       "showtimes": {
         "Miércoles 15 de julio": [
-          "20:30",
           "22:30"
         ],
         "Viernes 17 de julio": [
@@ -33,7 +32,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.35,
+      "rating": 6.363,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
@@ -75,13 +74,12 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
       "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.6,
+      "rating": 5.599,
       "releaseDate": "2026-07-08",
       "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
         "Miércoles 15 de julio": [
-          "20:30",
           "22:30"
         ],
         "Viernes 17 de julio": [
