@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T02:31:31.074569Z",
-  "expires_at": "2026-07-16T02:31:31.074569Z",
+  "generated_at": "2026-07-15T06:15:00.663357Z",
+  "expires_at": "2026-07-16T06:15:00.663357Z",
   "version": "1.0",
   "movies": [
     {
@@ -24,13 +24,28 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.344,
+      "rating": 6.3,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
         "Miércoles 15 de julio": [
           "17:00"
+        ]
+      }
+    },
+    {
+      "title": "TOY STORY 5",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "rating": 7.417,
+      "releaseDate": "2026-06-17",
+      "duration": "102 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Miércoles 15 de julio": [
+          "18:30"
         ]
       }
     },
@@ -48,21 +63,6 @@
           "18:30",
           "20:30",
           "22:30"
-        ]
-      }
-    },
-    {
-      "title": "TOY STORY 5",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.417,
-      "releaseDate": "2026-06-17",
-      "duration": "102 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 15 de julio": [
-          "18:30"
         ]
       }
     }
