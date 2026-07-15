@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T15:26:25.671328Z",
-  "expires_at": "2026-07-16T15:26:25.671328Z",
+  "generated_at": "2026-07-15T17:18:20.076464Z",
+  "expires_at": "2026-07-16T17:18:20.076464Z",
   "version": "1.0",
   "movies": [
     {
@@ -51,14 +51,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.422,
+      "rating": 7.428,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Miércoles 15 de julio": [
-          "18:30"
-        ],
         "Viernes 17 de julio": [
           "20:00"
         ],
@@ -84,7 +81,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Miércoles 15 de julio": [
-          "18:30",
           "20:30",
           "22:30"
         ],
@@ -142,7 +138,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.692,
+      "rating": 6.691,
       "releaseDate": "2026-06-10",
       "duration": "146 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
