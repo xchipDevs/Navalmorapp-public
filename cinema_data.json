@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T17:16:44.863821Z",
-  "expires_at": "2026-07-17T17:16:44.863821Z",
+  "generated_at": "2026-07-16T19:12:01.448049Z",
+  "expires_at": "2026-07-17T19:12:01.448049Z",
   "version": "1.0",
   "movies": [
     {
@@ -30,9 +30,9 @@
     {
       "title": "LA ODISEA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
       "overview": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
-      "rating": 6.301,
+      "rating": 6.215,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": null,
