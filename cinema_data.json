@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T02:39:55.865043Z",
-  "expires_at": "2026-07-17T02:39:55.865043Z",
+  "generated_at": "2026-07-16T06:19:02.842658Z",
+  "expires_at": "2026-07-17T06:19:02.842658Z",
   "version": "1.0",
   "movies": [
     {
@@ -21,75 +21,9 @@
         ],
         "Martes 21 de julio": [
           "20:00"
-        ]
-      }
-    },
-    {
-      "title": "MINIONS Y MONSTERS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.4,
-      "releaseDate": "2026-06-24",
-      "duration": "90 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Sábado 18 de julio": [
-          "17:30"
         ],
-        "Lunes 20 de julio": [
-          "17:00"
-        ]
-      }
-    },
-    {
-      "title": "TOY STORY 5",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.4,
-      "releaseDate": "2026-06-17",
-      "duration": "102 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Viernes 17 de julio": [
-          "20:00"
-        ],
-        "Sábado 18 de julio": [
-          "18:00"
-        ],
-        "Domingo 19 de julio": [
-          "19:00"
-        ],
-        "Lunes 20 de julio": [
-          "17:00"
-        ]
-      }
-    },
-    {
-      "title": "VAIANA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
-      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.571,
-      "releaseDate": "2026-07-08",
-      "duration": "115 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Viernes 17 de julio": [
-          "18:00"
-        ],
-        "Sábado 18 de julio": [
-          "20:00"
-        ],
-        "Domingo 19 de julio": [
-          "17:00"
-        ],
-        "Lunes 20 de julio": [
-          "19:00"
-        ],
-        "Martes 21 de julio": [
-          "18:00"
+        "Miércoles 22 de julio": [
+          "21:30"
         ]
       }
     },
@@ -122,15 +56,97 @@
         "Martes 21 de julio": [
           "18:30",
           "21:45"
+        ],
+        "Miércoles 22 de julio": [
+          "19:00",
+          "22:15"
+        ]
+      }
+    },
+    {
+      "title": "TOY STORY 5",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "rating": 7.4,
+      "releaseDate": "2026-06-17",
+      "duration": "102 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 17 de julio": [
+          "20:00"
+        ],
+        "Sábado 18 de julio": [
+          "18:00"
+        ],
+        "Domingo 19 de julio": [
+          "19:00"
+        ],
+        "Lunes 20 de julio": [
+          "17:00"
+        ],
+        "Miércoles 22 de julio": [
+          "17:30"
+        ]
+      }
+    },
+    {
+      "title": "VAIANA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "rating": 5.571,
+      "releaseDate": "2026-07-08",
+      "duration": "115 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 17 de julio": [
+          "18:00"
+        ],
+        "Sábado 18 de julio": [
+          "20:00"
+        ],
+        "Domingo 19 de julio": [
+          "17:00"
+        ],
+        "Lunes 20 de julio": [
+          "19:00"
+        ],
+        "Martes 21 de julio": [
+          "18:00"
+        ],
+        "Miércoles 22 de julio": [
+          "19:30"
+        ]
+      }
+    },
+    {
+      "title": "MINIONS Y MONSTERS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "rating": 6.4,
+      "releaseDate": "2026-06-24",
+      "duration": "90 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 18 de julio": [
+          "17:30"
+        ],
+        "Lunes 20 de julio": [
+          "17:00"
+        ],
+        "Miércoles 22 de julio": [
+          "17:30"
         ]
       }
     },
     {
       "title": "EL DÍA DE LA REVELACIÓN",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.694,
+      "rating": 6.7,
       "releaseDate": "2026-06-10",
       "duration": "146 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
