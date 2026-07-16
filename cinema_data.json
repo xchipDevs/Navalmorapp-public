@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-16T10:09:48.862272Z",
-  "expires_at": "2026-07-17T10:09:48.862272Z",
+  "generated_at": "2026-07-16T13:52:37.691684Z",
+  "expires_at": "2026-07-17T13:52:37.691684Z",
   "version": "1.0",
   "movies": [
     {
       "title": "HACIENDO AMIGOS",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/101225.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
       "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
-      "trailerUrl": null,
+      "overview": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "rating": 10.0,
+      "releaseDate": "2026-07-10",
+      "duration": "110 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
       "showtimes": {
         "Viernes 17 de julio": [
           "22:00"
@@ -29,12 +29,12 @@
     },
     {
       "title": "LA ODISEA",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/118425.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "overview": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "rating": 6.301,
+      "releaseDate": "2026-07-15",
+      "duration": "173 min",
       "trailerUrl": null,
       "showtimes": {
         "Viernes 17 de julio": [
@@ -65,12 +65,12 @@
     },
     {
       "title": "TOY STORY 5",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/264025.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "rating": 7.403,
+      "releaseDate": "2026-06-17",
+      "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
         "Viernes 17 de julio": [
@@ -92,12 +92,12 @@
     },
     {
       "title": "VAIANA",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/277325.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "rating": 5.626,
+      "releaseDate": "2026-07-08",
+      "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
         "Viernes 17 de julio": [
@@ -122,12 +122,12 @@
     },
     {
       "title": "MINIONS Y MONSTERS",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/19026.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "rating": 6.4,
+      "releaseDate": "2026-06-24",
+      "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
         "Sábado 18 de julio": [
