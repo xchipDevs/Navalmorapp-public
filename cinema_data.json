@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T22:56:51.562666Z",
-  "expires_at": "2026-07-17T22:56:51.562666Z",
+  "generated_at": "2026-07-17T02:42:39.008147Z",
+  "expires_at": "2026-07-18T02:42:39.008147Z",
   "version": "1.0",
   "movies": [
     {
@@ -30,9 +30,9 @@
     {
       "title": "LA ODISEA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
       "overview": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
-      "rating": 6.215,
+      "rating": 7.0,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": null,
@@ -68,7 +68,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.403,
+      "rating": 7.413,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
@@ -125,7 +125,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.4,
+      "rating": 6.363,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
@@ -146,7 +146,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.7,
+      "rating": 6.696,
       "releaseDate": "2026-06-10",
       "duration": "146 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
