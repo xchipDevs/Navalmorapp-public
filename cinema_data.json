@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T02:42:39.008147Z",
-  "expires_at": "2026-07-18T02:42:39.008147Z",
+  "generated_at": "2026-07-17T06:17:03.639880Z",
+  "expires_at": "2026-07-18T06:17:03.639880Z",
   "version": "1.0",
   "movies": [
     {
@@ -95,7 +95,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
       "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.683,
+      "rating": 5.755,
       "releaseDate": "2026-07-08",
       "duration": "115 min",
       "trailerUrl": null,
@@ -146,7 +146,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.696,
+      "rating": 6.689,
       "releaseDate": "2026-06-10",
       "duration": "146 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
