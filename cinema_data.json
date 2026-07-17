@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T17:12:52.020983Z",
-  "expires_at": "2026-07-18T17:12:52.020983Z",
+  "generated_at": "2026-07-17T19:10:30.892602Z",
+  "expires_at": "2026-07-18T19:10:30.892602Z",
   "version": "1.0",
   "movies": [
     {
@@ -72,9 +72,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 17 de julio": [
-          "20:00"
-        ],
         "Sábado 18 de julio": [
           "18:00"
         ],
@@ -140,7 +137,7 @@
     {
       "title": "EL DÍA DE LA REVELACIÓN",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/IRdft2HxHy9joDQMxB1tGFI2qP.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
       "rating": 6.7,
       "releaseDate": "2026-06-10",
