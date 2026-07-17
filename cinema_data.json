@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T15:13:55.431448Z",
-  "expires_at": "2026-07-18T15:13:55.431448Z",
+  "generated_at": "2026-07-17T17:12:52.020983Z",
+  "expires_at": "2026-07-18T17:12:52.020983Z",
   "version": "1.0",
   "movies": [
     {
@@ -38,7 +38,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Viernes 17 de julio": [
-          "18:30",
           "21:30"
         ],
         "Sábado 18 de julio": [
@@ -100,9 +99,6 @@
       "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 17 de julio": [
-          "18:00"
-        ],
         "Sábado 18 de julio": [
           "20:00"
         ],
