@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T19:05:06.691175Z",
-  "expires_at": "2026-07-19T19:05:06.691175Z",
+  "generated_at": "2026-07-18T20:49:50.787510Z",
+  "expires_at": "2026-07-19T20:49:50.787510Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "110 min",
       "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
       "showtimes": {
-        "Sábado 18 de julio": [
-          "22:00"
-        ],
         "Martes 21 de julio": [
           "20:00"
         ],
@@ -34,9 +31,6 @@
       "duration": "173 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 18 de julio": [
-          "22:15"
-        ],
         "Domingo 19 de julio": [
           "17:30",
           "20:45"
