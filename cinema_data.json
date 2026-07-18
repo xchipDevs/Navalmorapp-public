@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T14:53:15.294852Z",
-  "expires_at": "2026-07-19T14:53:15.294852Z",
+  "generated_at": "2026-07-18T16:58:13.340592Z",
+  "expires_at": "2026-07-19T16:58:13.340592Z",
   "version": "1.0",
   "movies": [
     {
@@ -66,9 +66,6 @@
       "duration": "90 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 18 de julio": [
-          "17:30"
-        ],
         "Lunes 20 de julio": [
           "17:00"
         ],
@@ -87,9 +84,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 18 de julio": [
-          "18:00"
-        ],
         "Domingo 19 de julio": [
           "19:00"
         ],
@@ -133,7 +127,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/IRdft2HxHy9joDQMxB1tGFI2qP.jpg",
       "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.688,
+      "rating": 6.7,
       "releaseDate": "2026-06-10",
       "duration": "146 min",
       "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
