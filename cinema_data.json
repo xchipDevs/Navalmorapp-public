@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T14:56:11.192908Z",
-  "expires_at": "2026-07-20T14:56:11.192908Z",
+  "generated_at": "2026-07-19T16:58:27.717382Z",
+  "expires_at": "2026-07-20T16:58:27.717382Z",
   "version": "1.0",
   "movies": [
     {
@@ -14,7 +14,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Domingo 19 de julio": [
-          "17:30",
           "20:45"
         ],
         "Lunes 20 de julio": [
@@ -57,14 +56,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
       "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.8,
+      "rating": 5.815,
       "releaseDate": "2026-07-08",
       "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 19 de julio": [
-          "17:00"
-        ],
         "Lunes 20 de julio": [
           "19:00"
         ],
@@ -96,7 +92,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "overview": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": 6.418,
+      "rating": 6.434,
       "releaseDate": "2026-06-24",
       "duration": "90 min",
       "trailerUrl": null,
