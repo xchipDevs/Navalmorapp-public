@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-07-20T18:04:02.335784Z",
-  "expires_at": "2026-07-21T18:04:02.335784Z",
+  "generated_at": "2026-07-20T21:12:31.517028Z",
+  "expires_at": "2026-07-21T21:12:31.517028Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "EL DÍA DE LA REVELACIÓN",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pigU63pWFuXkq2MBc865GpFG4UP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 6.69,
-      "releaseDate": "2026-06-10",
-      "duration": "146 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
-      "showtimes": {
-        "Lunes 20 de julio": [
-          "21:00"
-        ]
-      }
-    },
     {
       "title": "LA ODISEA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
@@ -28,9 +13,6 @@
       "duration": "173 min",
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 20 de julio": [
-          "21:45"
-        ],
         "Martes 21 de julio": [
           "18:30",
           "21:45"
