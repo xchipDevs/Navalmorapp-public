@@ -1,76 +1,10 @@
 {
-  "generated_at": "2026-07-23T10:23:13.818090Z",
-  "expires_at": "2026-07-24T10:23:13.818090Z",
+  "generated_at": "2026-07-23T14:01:44.074077Z",
+  "expires_at": "2026-07-24T14:01:44.074077Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "La Odisea",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
-      "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 7.9,
-      "releaseDate": "2026-07-15",
-      "duration": "172 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Viernes 17 de julio": [
-          "18:30",
-          "21:30"
-        ],
-        "Sábado 18 de julio": [
-          "19:00",
-          "22:15"
-        ],
-        "Domingo 19 de julio": [
-          "17:30",
-          "20:45"
-        ],
-        "Lunes 20 de julio": [
-          "18:30",
-          "21:45"
-        ],
-        "Martes 21 de julio": [
-          "18:30",
-          "21:45"
-        ],
-        "Miércoles 22 de julio": [
-          "18:30",
-          "21:45"
-        ]
-      }
-    },
-    {
-      "title": "Vaiana",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
-      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.778,
-      "releaseDate": "2026-07-08",
-      "duration": "115 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Viernes 17 de julio": [
-          "18:00"
-        ],
-        "Sábado 18 de julio": [
-          "20:00"
-        ],
-        "Domingo 19 de julio": [
-          "17:00"
-        ],
-        "Lunes 20 de julio": [
-          "19:00"
-        ],
-        "Martes 21 de julio": [
-          "18:00"
-        ],
-        "Miércoles 22 de julio": [
-          "19:30"
-        ]
-      }
-    },
-    {
-      "title": "Haciendo Amigos",
+      "title": "HACIENDO AMIGOS",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
       "backdropUrl": null,
       "overview": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
@@ -79,95 +13,174 @@
       "duration": "110 min",
       "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
       "showtimes": {
-        "Viernes 17 de julio": [
-          "22:00"
+        "Viernes 24 de julio": [
+          "21:30"
         ],
-        "Sábado 18 de julio": [
-          "22:00"
+        "Sábado 25 de julio": [
+          "21:00"
         ],
-        "Martes 21 de julio": [
+        "Domingo 26 de julio": [
+          "21:00"
+        ],
+        "Lunes 27 de julio": [
+          "21:45"
+        ],
+        "Martes 28 de julio": [
           "20:00"
         ],
-        "Miércoles 22 de julio": [
-          "21:30"
-        ]
-      }
-    },
-    {
-      "title": "Minions y Monstruos",
-      "posterUrl": null,
-      "backdropUrl": null,
-      "overview": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": null,
-      "releaseDate": null,
-      "duration": "90 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Sábado 18 de julio": [
-          "17:30"
-        ],
-        "Lunes 20 de julio": [
-          "17:00"
-        ],
-        "Miércoles 22 de julio": [
-          "17:00"
-        ]
-      }
-    },
-    {
-      "title": "Obsesión",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zMCeJiRbV7Z5TFA8JpALExAQra.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/iGBbWXmAIgpiWg9Mx2D2gLzbg4n.jpg",
-      "overview": "En el verano de 1969, el coronel Kim Jin-pyeong, atrapado en un matrimonio sin amor con Lee Suk-jin, y Jong Ga-heun, la esposa chino-coreana del capitán Kyung Woo-jin, mantienen un apasionado romance secreto.",
-      "rating": 6.7,
-      "releaseDate": "2014-05-14",
-      "duration": "100 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Martes 21 de julio": [
-          "22:00"
-        ]
-      }
-    },
-    {
-      "title": "El Día de la Revelación",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/w9iop1djT3NuP6ABSdNm05wMApx.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/pW4Ah1A6SgZNQNmf5AgiIYPzFHF.jpg",
-      "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-      "rating": 7.075,
-      "releaseDate": "2026-06-10",
-      "duration": "145 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=-XXZgYygh40",
-      "showtimes": {
-        "Lunes 20 de julio": [
+        "Miércoles 29 de julio": [
           "21:00"
         ]
       }
     },
     {
-      "title": "Toy Story 5",
+      "title": "LA ODISEA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+      "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "rating": 7.927,
+      "releaseDate": "2026-07-15",
+      "duration": "173 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 24 de julio": [
+          "19:00",
+          "22:00"
+        ],
+        "Sábado 25 de julio": [
+          "19:00"
+        ],
+        "Domingo 26 de julio": [
+          "19:00",
+          "22:00"
+        ],
+        "Lunes 27 de julio": [
+          "18:30",
+          "21:30"
+        ],
+        "Martes 28 de julio": [
+          "18:00"
+        ],
+        "Miércoles 29 de julio": [
+          "19:00",
+          "22:00"
+        ]
+      }
+    },
+    {
+      "title": "VAIANA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "rating": 5.8,
+      "releaseDate": "2026-07-08",
+      "duration": "115 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 24 de julio": [
+          "19:30"
+        ],
+        "Sábado 25 de julio": [
+          "19:00"
+        ],
+        "Domingo 26 de julio": [
+          "17:00"
+        ],
+        "Lunes 27 de julio": [
+          "19:30"
+        ],
+        "Martes 28 de julio": [
+          "18:00"
+        ],
+        "Miércoles 29 de julio": [
+          "19:00"
+        ]
+      }
+    },
+    {
+      "title": "MICHAEL",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "rating": 8.699,
+      "releaseDate": "2026-04-22",
+      "duration": "128 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
+      "showtimes": {
+        "Sábado 25 de julio": [
+          "22:00"
+        ],
+        "Martes 28 de julio": [
+          "21:00"
+        ]
+      }
+    },
+    {
+      "title": "MINIONS Y MONSTERS",
+      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/19026.jpg",
+      "backdropUrl": null,
+      "overview": null,
+      "rating": null,
+      "releaseDate": null,
+      "duration": null,
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 25 de julio": [
+          "17:30"
+        ],
+        "Domingo 26 de julio": [
+          "17:30"
+        ],
+        "Lunes 27 de julio": [
+          "17:00"
+        ],
+        "Miércoles 29 de julio": [
+          "17:30"
+        ]
+      }
+    },
+    {
+      "title": "OBSESSION",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wnyUBssII8ZRDjDRlUyXt6tX9rt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.247,
+      "releaseDate": "2026-05-13",
+      "duration": "108 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
+      "showtimes": {
+        "Sábado 25 de julio": [
+          "23:00"
+        ],
+        "Martes 28 de julio": [
+          "22:00"
+        ],
+        "Miércoles 29 de julio": [
+          "23:00"
+        ]
+      }
+    },
+    {
+      "title": "TOY STORY 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
       "rating": 7.417,
       "releaseDate": "2026-06-17",
-      "duration": "No especificada",
+      "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 17 de julio": [
-          "20:00"
-        ],
-        "Sábado 18 de julio": [
-          "18:00"
-        ],
-        "Domingo 19 de julio": [
-          "19:00"
-        ],
-        "Lunes 20 de julio": [
+        "Sábado 25 de julio": [
           "17:00"
         ],
-        "Miércoles 22 de julio": [
+        "Domingo 26 de julio": [
+          "19:00"
+        ],
+        "Lunes 27 de julio": [
           "17:30"
+        ],
+        "Miércoles 29 de julio": [
+          "17:00"
         ]
       }
     }
