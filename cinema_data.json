@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T06:26:17.961362Z",
-  "expires_at": "2026-07-25T06:26:17.961362Z",
+  "generated_at": "2026-07-24T10:18:29.930817Z",
+  "expires_at": "2026-07-25T10:18:29.930817Z",
   "version": "1.0",
   "movies": [
     {
@@ -70,9 +70,9 @@
     {
       "title": "VAIANA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
       "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.847,
+      "rating": 5.9,
       "releaseDate": "2026-07-08",
       "duration": "115 min",
       "trailerUrl": null,
@@ -165,7 +165,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.415,
+      "rating": 7.418,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
