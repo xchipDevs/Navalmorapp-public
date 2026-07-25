@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T16:58:27.539033Z",
-  "expires_at": "2026-07-26T16:58:27.539033Z",
+  "generated_at": "2026-07-25T19:07:55.910776Z",
+  "expires_at": "2026-07-26T19:07:55.910776Z",
   "version": "1.0",
   "movies": [
     {
@@ -40,9 +40,6 @@
       "duration": "173 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 25 de julio": [
-          "19:00"
-        ],
         "Domingo 26 de julio": [
           "19:00",
           "22:00"
@@ -125,7 +122,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.423,
+      "rating": 7.433,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
@@ -151,9 +148,6 @@
       "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 25 de julio": [
-          "19:00"
-        ],
         "Domingo 26 de julio": [
           "17:00"
         ],
