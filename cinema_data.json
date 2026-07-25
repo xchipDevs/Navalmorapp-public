@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T13:27:49.633610Z",
-  "expires_at": "2026-07-26T13:27:49.633610Z",
+  "generated_at": "2026-07-25T15:02:55.971009Z",
+  "expires_at": "2026-07-26T15:02:55.971009Z",
   "version": "1.0",
   "movies": [
     {
@@ -65,7 +65,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "rating": 8.693,
+      "rating": 8.694,
       "releaseDate": "2026-04-22",
       "duration": "128 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o1HQSh6zZ8s",
@@ -107,7 +107,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/wnyUBssII8ZRDjDRlUyXt6tX9rt.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.243,
+      "rating": 8.242,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
@@ -150,9 +150,9 @@
     {
       "title": "VAIANA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.877,
+      "rating": 5.9,
       "releaseDate": "2026-07-08",
       "duration": "115 min",
       "trailerUrl": null,
