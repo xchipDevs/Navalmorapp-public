@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T02:42:30.555232Z",
-  "expires_at": "2026-07-26T02:42:30.555232Z",
+  "generated_at": "2026-07-25T06:18:12.826457Z",
+  "expires_at": "2026-07-26T06:18:12.826457Z",
   "version": "1.0",
   "movies": [
     {
@@ -57,33 +57,6 @@
         "Miércoles 29 de julio": [
           "19:00",
           "22:00"
-        ]
-      }
-    },
-    {
-      "title": "VAIANA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
-      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.9,
-      "releaseDate": "2026-07-08",
-      "duration": "115 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Sábado 25 de julio": [
-          "19:00"
-        ],
-        "Domingo 26 de julio": [
-          "17:00"
-        ],
-        "Lunes 27 de julio": [
-          "19:30"
-        ],
-        "Martes 28 de julio": [
-          "18:00"
-        ],
-        "Miércoles 29 de julio": [
-          "19:00"
         ]
       }
     },
@@ -171,6 +144,33 @@
         ],
         "Miércoles 29 de julio": [
           "17:00"
+        ]
+      }
+    },
+    {
+      "title": "VAIANA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "rating": 5.9,
+      "releaseDate": "2026-07-08",
+      "duration": "115 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 25 de julio": [
+          "19:00"
+        ],
+        "Domingo 26 de julio": [
+          "17:00"
+        ],
+        "Lunes 27 de julio": [
+          "19:30"
+        ],
+        "Martes 28 de julio": [
+          "18:00"
+        ],
+        "Miércoles 29 de julio": [
+          "19:00"
         ]
       }
     }
