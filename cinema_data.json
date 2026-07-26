@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T19:11:54.185638Z",
-  "expires_at": "2026-07-27T19:11:54.185638Z",
+  "generated_at": "2026-07-26T20:58:35.707758Z",
+  "expires_at": "2026-07-27T20:58:35.707758Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "110 min",
       "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
       "showtimes": {
-        "Domingo 26 de julio": [
-          "21:00"
-        ],
         "Lunes 27 de julio": [
           "21:45"
         ],
@@ -37,9 +34,6 @@
       "duration": "173 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 26 de julio": [
-          "22:00"
-        ],
         "Lunes 27 de julio": [
           "18:30",
           "21:30"
@@ -76,7 +70,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.418,
+      "rating": 7.419,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
@@ -128,9 +122,9 @@
     {
       "title": "OBSESSION",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wnyUBssII8ZRDjDRlUyXt6tX9rt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/diOZbaDnB2CIilwd0527AB1qMvW.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.245,
+      "rating": 8.247,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
