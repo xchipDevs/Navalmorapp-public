@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T17:01:49.523156Z",
-  "expires_at": "2026-07-27T17:01:49.523156Z",
+  "generated_at": "2026-07-26T19:11:54.185638Z",
+  "expires_at": "2026-07-27T19:11:54.185638Z",
   "version": "1.0",
   "movies": [
     {
@@ -32,13 +32,12 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
       "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 7.962,
+      "rating": 7.967,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": null,
       "showtimes": {
         "Domingo 26 de julio": [
-          "19:00",
           "22:00"
         ],
         "Lunes 27 de julio": [
@@ -82,9 +81,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 26 de julio": [
-          "19:00"
-        ],
         "Lunes 27 de julio": [
           "17:30"
         ],
