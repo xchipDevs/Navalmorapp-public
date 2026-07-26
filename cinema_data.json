@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T22:55:49.121493Z",
-  "expires_at": "2026-07-26T22:55:49.121493Z",
+  "generated_at": "2026-07-26T02:51:07.708556Z",
+  "expires_at": "2026-07-27T02:51:07.708556Z",
   "version": "1.0",
   "movies": [
     {
@@ -113,7 +113,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.433,
+      "rating": 7.427,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
