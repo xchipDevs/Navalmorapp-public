@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T14:35:50.291331Z",
-  "expires_at": "2026-07-28T14:35:50.291331Z",
+  "generated_at": "2026-07-27T17:42:35.195456Z",
+  "expires_at": "2026-07-28T17:42:35.195456Z",
   "version": "1.0",
   "movies": [
     {
@@ -35,7 +35,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Lunes 27 de julio": [
-          "18:30",
           "21:30"
         ],
         "Martes 28 de julio": [
@@ -57,9 +56,6 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 27 de julio": [
-          "17:00"
-        ],
         "Miércoles 29 de julio": [
           "17:30"
         ]
@@ -68,16 +64,13 @@
     {
       "title": "TOY STORY 5",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.421,
+      "rating": 7.4,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 27 de julio": [
-          "17:30"
-        ],
         "Miércoles 29 de julio": [
           "17:00"
         ]
