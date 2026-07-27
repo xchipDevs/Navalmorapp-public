@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T11:22:49.744860Z",
-  "expires_at": "2026-07-28T11:22:49.744860Z",
+  "generated_at": "2026-07-27T14:35:50.291331Z",
+  "expires_at": "2026-07-28T14:35:50.291331Z",
   "version": "1.0",
   "movies": [
     {
@@ -88,7 +88,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.883,
+      "rating": 5.9,
       "releaseDate": "2026-07-08",
       "duration": "115 min",
       "trailerUrl": null,
