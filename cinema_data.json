@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T10:39:34.569944Z",
-  "expires_at": "2026-07-30T10:39:34.569944Z",
+  "generated_at": "2026-07-29T14:10:56.924663Z",
+  "expires_at": "2026-07-30T14:10:56.924663Z",
   "version": "1.0",
   "movies": [
     {
@@ -54,7 +54,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/wnyUBssII8ZRDjDRlUyXt6tX9rt.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.3,
+      "rating": 8.2,
       "releaseDate": "2026-05-13",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
