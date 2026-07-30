@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T19:26:53.020003Z",
-  "expires_at": "2026-07-31T19:26:53.020003Z",
+  "generated_at": "2026-07-30T21:10:50.393571Z",
+  "expires_at": "2026-07-31T21:10:50.393571Z",
   "version": "1.0",
   "movies": [
     {
@@ -105,7 +105,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.909,
+      "rating": 5.887,
       "releaseDate": "2026-07-08",
       "duration": "115 min",
       "trailerUrl": null,
@@ -152,7 +152,7 @@
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
       "rating": 7.4,
       "releaseDate": "2026-06-17",
-      "duration": "102 min",
+      "duration": "No especificada",
       "trailerUrl": null,
       "showtimes": {
         "Domingo 2 de agosto": [
