@@ -1,20 +1,165 @@
 {
-  "generated_at": "2026-07-29T20:56:27.931645Z",
-  "expires_at": "2026-07-30T20:56:27.931645Z",
+  "generated_at": "2026-07-30T10:25:09.864724Z",
+  "expires_at": "2026-07-31T10:25:09.864724Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "OBSESSION",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wnyUBssII8ZRDjDRlUyXt6tX9rt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.252,
-      "releaseDate": "2026-05-13",
-      "duration": "108 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=5MBu6Xhuj38",
+      "title": "Spider-Man Un nuevo día",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 7.883,
+      "releaseDate": "2026-07-28",
+      "duration": "144 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
-        "Miércoles 29 de julio": [
-          "23:00"
+        "Viernes 31 de julio": [
+          "19:00",
+          "21:45"
+        ],
+        "Sábado 1 de agosto": [
+          "17:00",
+          "19:30",
+          "22:00"
+        ],
+        "Domingo 2 de agosto": [
+          "18:30",
+          "21:30"
+        ],
+        "Lunes 3 de agosto": [
+          "18:30",
+          "21:30"
+        ],
+        "Martes 4 de agosto": [
+          "18:30",
+          "21:30"
+        ],
+        "Miércoles 5 de agosto": [
+          "18:30",
+          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "La Odisea",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+      "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "rating": 7.9,
+      "releaseDate": "2026-07-15",
+      "duration": "172 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 31 de julio": [
+          "22:00"
+        ],
+        "Sábado 1 de agosto": [
+          "19:30"
+        ],
+        "Domingo 2 de agosto": [
+          "21:30"
+        ],
+        "Lunes 3 de agosto": [
+          "19:15"
+        ],
+        "Martes 4 de agosto": [
+          "21:30"
+        ],
+        "Miércoles 5 de agosto": [
+          "19:00"
+        ]
+      }
+    },
+    {
+      "title": "Tres de más",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+      "backdropUrl": null,
+      "overview": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
+      "rating": 10.0,
+      "releaseDate": "2026-07-24",
+      "duration": "98 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=LM8PFICxpME",
+      "showtimes": {
+        "Viernes 31 de julio": [
+          "20:00"
+        ],
+        "Sábado 1 de agosto": [
+          "22:30"
+        ],
+        "Domingo 2 de agosto": [
+          "19:30"
+        ],
+        "Lunes 3 de agosto": [
+          "22:15"
+        ],
+        "Martes 4 de agosto": [
+          "19:30"
+        ],
+        "Miércoles 5 de agosto": [
+          "22:00"
+        ]
+      }
+    },
+    {
+      "title": "Vaiana",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "rating": 5.909,
+      "releaseDate": "2026-07-08",
+      "duration": "115 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 31 de julio": [
+          "18:00"
+        ],
+        "Sábado 1 de agosto": [
+          "17:30"
+        ],
+        "Lunes 3 de agosto": [
+          "17:15"
+        ],
+        "Miércoles 5 de agosto": [
+          "17:00"
+        ]
+      }
+    },
+    {
+      "title": "Minions y Monstruos",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "overview": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "rating": null,
+      "releaseDate": null,
+      "duration": "90 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Domingo 2 de agosto": [
+          "17:00"
+        ],
+        "Lunes 3 de agosto": [
+          "17:00"
+        ],
+        "Martes 4 de agosto": [
+          "17:00"
+        ]
+      }
+    },
+    {
+      "title": "Toy Story 5",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "rating": 7.4,
+      "releaseDate": "2026-06-17",
+      "duration": "No especificada",
+      "trailerUrl": null,
+      "showtimes": {
+        "Domingo 2 de agosto": [
+          "17:30"
+        ],
+        "Martes 4 de agosto": [
+          "17:30"
         ]
       }
     }
