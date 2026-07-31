@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T23:08:03.496623Z",
-  "expires_at": "2026-07-31T23:08:03.496623Z",
+  "generated_at": "2026-07-31T02:52:31.568550Z",
+  "expires_at": "2026-08-01T02:52:31.568550Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.0,
+      "rating": 7.979,
       "releaseDate": "2026-07-28",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
@@ -45,7 +45,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 7.9,
+      "rating": 7.942,
       "releaseDate": "2026-07-15",
       "duration": "172 min",
       "trailerUrl": null,
@@ -150,9 +150,9 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.4,
+      "rating": 7.431,
       "releaseDate": "2026-06-17",
-      "duration": "102 min",
+      "duration": "N/A",
       "trailerUrl": null,
       "showtimes": {
         "Domingo 2 de agosto": [
