@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T19:25:48.525891Z",
-  "expires_at": "2026-08-01T19:25:48.525891Z",
+  "generated_at": "2026-07-31T21:04:34.794290Z",
+  "expires_at": "2026-08-01T21:04:34.794290Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "173 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 31 de julio": [
-          "22:00"
-        ],
         "Sábado 1 de agosto": [
           "19:30"
         ],
@@ -43,9 +40,6 @@
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
-        "Viernes 31 de julio": [
-          "21:45"
-        ],
         "Sábado 1 de agosto": [
           "17:00",
           "19:30",
