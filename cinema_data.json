@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T15:02:22.041558Z",
-  "expires_at": "2026-08-03T15:02:22.041558Z",
+  "generated_at": "2026-08-02T16:59:46.811319Z",
+  "expires_at": "2026-08-03T16:59:46.811319Z",
   "version": "1.0",
   "movies": [
     {
@@ -37,9 +37,6 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 2 de agosto": [
-          "17:00"
-        ],
         "Lunes 3 de agosto": [
           "17:00"
         ],
@@ -59,7 +56,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
         "Domingo 2 de agosto": [
-          "18:30",
           "21:30"
         ],
         "Lunes 3 de agosto": [
@@ -86,9 +82,6 @@
       "duration": "102 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 2 de agosto": [
-          "17:30"
-        ],
         "Martes 4 de agosto": [
           "17:30"
         ]
