@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T07:26:53.581012Z",
-  "expires_at": "2026-08-04T07:26:53.581012Z",
+  "generated_at": "2026-08-03T11:23:24.042095Z",
+  "expires_at": "2026-08-04T11:23:24.042095Z",
   "version": "1.0",
   "movies": [
     {
@@ -43,7 +43,7 @@
       }
     },
     {
-      "title": "SPIDER-MAN: BRAND NEW DAY",
+      "title": "SPIDER-MAN BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -92,7 +92,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.8,
+      "rating": 5.84,
       "releaseDate": "2026-07-08",
       "duration": "115 min",
       "trailerUrl": null,
@@ -110,7 +110,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
       "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.421,
+      "rating": 7.414,
       "releaseDate": "2026-06-17",
       "duration": "102 min",
       "trailerUrl": null,
