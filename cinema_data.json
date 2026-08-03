@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T22:56:52.980750Z",
-  "expires_at": "2026-08-03T22:56:52.980750Z",
+  "generated_at": "2026-08-03T02:51:32.503440Z",
+  "expires_at": "2026-08-04T02:51:32.503440Z",
   "version": "1.0",
   "movies": [
     {
@@ -47,7 +47,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.028,
+      "rating": 8.0,
       "releaseDate": "2026-07-28",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
