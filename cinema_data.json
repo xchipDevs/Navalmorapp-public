@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T14:12:52.379723Z",
-  "expires_at": "2026-08-05T14:12:52.379723Z",
+  "generated_at": "2026-08-04T17:49:02.295106Z",
+  "expires_at": "2026-08-05T17:49:02.295106Z",
   "version": "1.0",
   "movies": [
     {
@@ -22,21 +22,6 @@
       }
     },
     {
-      "title": "MINIONS Y MONSTERS",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/19026.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
-      "trailerUrl": null,
-      "showtimes": {
-        "Martes 4 de agosto": [
-          "17:00"
-        ]
-      }
-    },
-    {
       "title": "SPIDER-MAN: BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eScWAsDd9fOjufXQamMr6AS8Mz8.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
@@ -47,27 +32,11 @@
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
         "Martes 4 de agosto": [
-          "18:30",
           "21:30"
         ],
         "Miércoles 5 de agosto": [
           "18:30",
           "21:30"
-        ]
-      }
-    },
-    {
-      "title": "TOY STORY 5",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 7.417,
-      "releaseDate": "2026-06-17",
-      "duration": "102 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Martes 4 de agosto": [
-          "17:30"
         ]
       }
     },
