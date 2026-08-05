@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T10:35:31.292249Z",
-  "expires_at": "2026-08-06T10:35:31.292249Z",
+  "generated_at": "2026-08-05T14:09:48.960840Z",
+  "expires_at": "2026-08-06T14:09:48.960840Z",
   "version": "1.0",
   "movies": [
     {
@@ -15,21 +15,51 @@
       "showtimes": {
         "Miércoles 5 de agosto": [
           "19:00"
+        ],
+        "Viernes 7 de agosto": [
+          "22:00"
+        ],
+        "Sábado 8 de agosto": [
+          "21:30"
+        ],
+        "Domingo 9 de agosto": [
+          "18:30"
+        ],
+        "Lunes 10 de agosto": [
+          "21:00"
+        ],
+        "Martes 11 de agosto": [
+          "22:15"
         ]
       }
     },
     {
-      "title": "SPIDER-MAN: BRAND NEW DAY",
+      "title": "SPIDER-MAN BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eScWAsDd9fOjufXQamMr6AS8Mz8.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.975,
+      "rating": 8.0,
       "releaseDate": "2026-07-28",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
         "Miércoles 5 de agosto": [
           "18:30",
+          "21:30"
+        ],
+        "Viernes 7 de agosto": [
+          "22:15"
+        ],
+        "Sábado 8 de agosto": [
+          "20:00"
+        ],
+        "Domingo 9 de agosto": [
+          "21:30"
+        ],
+        "Lunes 10 de agosto": [
+          "19:30"
+        ],
+        "Martes 11 de agosto": [
           "21:30"
         ]
       }
@@ -46,6 +76,15 @@
       "showtimes": {
         "Miércoles 5 de agosto": [
           "22:00"
+        ],
+        "Viernes 7 de agosto": [
+          "20:00"
+        ],
+        "Sábado 8 de agosto": [
+          "19:30"
+        ],
+        "Martes 11 de agosto": [
+          "20:15"
         ]
       }
     },
@@ -61,6 +100,107 @@
       "showtimes": {
         "Miércoles 5 de agosto": [
           "17:00"
+        ],
+        "Viernes 7 de agosto": [
+          "18:00"
+        ],
+        "Lunes 10 de agosto": [
+          "17:00"
+        ]
+      }
+    },
+    {
+      "title": "EL ÚLTIMO MONO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
+      "backdropUrl": null,
+      "overview": "Nos contará la historia de un hombre (interpretado por Juan Dávila) que vende cursos para “machos alfa” aconsejándoles para ser mejores hombres. El reto de este protagonista es enamorar a una mujer feminista (interpretada por Susana Gómez Abaitua) que se encuentra de gira presentando su último libro. En tono de comedia y buscando generar una reflexión, El Último Mono cuenta la historia del reto de un “macho alfa” que pretende mostrar en redes sociales que ha conseguido enamorar a una mujer con la que probablemente no tendría ninguna posibilidad.",
+      "rating": 0.0,
+      "releaseDate": "2026-08-07",
+      "duration": null,
+      "trailerUrl": "https://www.youtube.com/watch?v=eKN2NzKZqKc",
+      "showtimes": {
+        "Viernes 7 de agosto": [
+          "20:30"
+        ],
+        "Sábado 8 de agosto": [
+          "18:30",
+          "22:30"
+        ],
+        "Domingo 9 de agosto": [
+          "19:30"
+        ],
+        "Lunes 10 de agosto": [
+          "22:00"
+        ],
+        "Martes 11 de agosto": [
+          "19:30",
+          "18:30"
+        ]
+      }
+    },
+    {
+      "title": "LA PATRULLA CANINA LA DINO PELÍCULA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
+      "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "rating": 7.0,
+      "releaseDate": "2026-07-23",
+      "duration": "88 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
+      "showtimes": {
+        "Viernes 7 de agosto": [
+          "19:00"
+        ],
+        "Sábado 8 de agosto": [
+          "17:00"
+        ],
+        "Domingo 9 de agosto": [
+          "18:00"
+        ],
+        "Lunes 10 de agosto": [
+          "18:00"
+        ],
+        "Martes 11 de agosto": [
+          "18:00"
+        ]
+      }
+    },
+    {
+      "title": "MINIONS Y MONSTERS",
+      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/19026.jpg",
+      "backdropUrl": null,
+      "overview": null,
+      "rating": null,
+      "releaseDate": null,
+      "duration": null,
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 8 de agosto": [
+          "17:30"
+        ],
+        "Domingo 9 de agosto": [
+          "17:00"
+        ],
+        "Martes 11 de agosto": [
+          "17:00"
+        ]
+      }
+    },
+    {
+      "title": "HACIENDO AMIGOS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
+      "backdropUrl": null,
+      "overview": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "rating": 7.5,
+      "releaseDate": "2026-07-10",
+      "duration": "110 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
+      "showtimes": {
+        "Domingo 9 de agosto": [
+          "21:30"
+        ],
+        "Lunes 10 de agosto": [
+          "19:00"
         ]
       }
     }
