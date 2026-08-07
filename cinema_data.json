@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T00:01:05.496956Z",
-  "expires_at": "2026-08-08T00:01:05.496956Z",
+  "generated_at": "2026-08-07T04:26:00.834878Z",
+  "expires_at": "2026-08-08T04:26:00.834878Z",
   "version": "1.0",
   "movies": [
     {
@@ -71,7 +71,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
       "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
-      "rating": 7.0,
+      "rating": 7.308,
       "releaseDate": "2026-07-23",
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
@@ -152,7 +152,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.919,
+      "rating": 5.942,
       "releaseDate": "2026-07-08",
       "duration": "115 min",
       "trailerUrl": null,
