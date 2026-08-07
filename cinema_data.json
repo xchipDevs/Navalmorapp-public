@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-08-07T16:54:37.209955Z",
-  "expires_at": "2026-08-08T16:54:37.209955Z",
+  "generated_at": "2026-08-07T18:57:26.438392Z",
+  "expires_at": "2026-08-08T18:57:26.438392Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "EL ÚLTIMO MONO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
-      "backdropUrl": null,
-      "overview": "Nos contará la historia de un hombre (interpretado por Juan Dávila) que vende cursos para “machos alfa” aconsejándoles para ser mejores hombres. El reto de este protagonista es enamorar a una mujer feminista (interpretada por Susana Gómez Abaitua) que se encuentra de gira presentando su último libro. En tono de comedia y buscando generar una reflexión, El Último Mono cuenta la historia del reto de un “macho alfa” que pretende mostrar en redes sociales que ha conseguido enamorar a una mujer con la que probablemente no tendría ninguna posibilidad.",
-      "rating": 0.0,
-      "releaseDate": "2026-08-07",
-      "duration": null,
-      "trailerUrl": "https://www.youtube.com/watch?v=eKN2NzKZqKc",
-      "showtimes": {
-        "Viernes 7 de agosto": [
-          "20:30"
-        ],
-        "Sábado 8 de agosto": [
-          "18:30",
-          "22:30"
-        ],
-        "Domingo 9 de agosto": [
-          "19:30"
-        ],
-        "Lunes 10 de agosto": [
-          "22:00"
-        ],
-        "Martes 11 de agosto": [
-          "19:30",
-          "18:30"
-        ],
-        "Miércoles 12 de agosto": [
-          "22:00",
-          "19:00"
-        ]
-      }
-    },
     {
       "title": "LA ODISEA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg",
@@ -76,9 +43,6 @@
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
       "showtimes": {
-        "Viernes 7 de agosto": [
-          "19:00"
-        ],
         "Sábado 8 de agosto": [
           "17:00"
         ],
@@ -136,9 +100,6 @@
       "duration": null,
       "trailerUrl": "https://www.youtube.com/watch?v=LM8PFICxpME",
       "showtimes": {
-        "Viernes 7 de agosto": [
-          "20:00"
-        ],
         "Sábado 8 de agosto": [
           "19:30"
         ],
