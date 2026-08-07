@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T04:26:00.834878Z",
-  "expires_at": "2026-08-08T04:26:00.834878Z",
+  "generated_at": "2026-08-07T07:16:15.416553Z",
+  "expires_at": "2026-08-08T07:16:15.416553Z",
   "version": "1.0",
   "movies": [
     {
@@ -41,7 +41,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 7.963,
+      "rating": 7.967,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": null,
@@ -71,7 +71,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
       "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
-      "rating": 7.308,
+      "rating": 7.313,
       "releaseDate": "2026-07-23",
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
@@ -101,7 +101,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/eScWAsDd9fOjufXQamMr6AS8Mz8.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.916,
+      "rating": 7.928,
       "releaseDate": "2026-07-29",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
