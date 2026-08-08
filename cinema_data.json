@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-08T14:32:01.798416Z",
-  "expires_at": "2026-08-09T14:32:01.798416Z",
+  "generated_at": "2026-08-08T16:34:01.218374Z",
+  "expires_at": "2026-08-09T16:34:01.218374Z",
   "version": "1.0",
   "movies": [
     {
       "title": "LA ODISEA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 8.0,
+      "rating": 7.97,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": null,
@@ -40,9 +40,6 @@
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
       "showtimes": {
-        "Sábado 8 de agosto": [
-          "17:00"
-        ],
         "Domingo 9 de agosto": [
           "18:00"
         ],
@@ -67,9 +64,6 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 8 de agosto": [
-          "17:30"
-        ],
         "Domingo 9 de agosto": [
           "17:00"
         ],
