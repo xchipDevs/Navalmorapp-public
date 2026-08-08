@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T03:26:00.910245Z",
-  "expires_at": "2026-08-09T03:26:00.910245Z",
+  "generated_at": "2026-08-08T04:57:23.938255Z",
+  "expires_at": "2026-08-09T04:57:23.938255Z",
   "version": "1.0",
   "movies": [
     {
@@ -58,11 +58,32 @@
       }
     },
     {
+      "title": "MINIONS Y MONSTERS",
+      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/19026.jpg",
+      "backdropUrl": null,
+      "overview": null,
+      "rating": null,
+      "releaseDate": null,
+      "duration": null,
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 8 de agosto": [
+          "17:30"
+        ],
+        "Domingo 9 de agosto": [
+          "17:00"
+        ],
+        "Martes 11 de agosto": [
+          "17:00"
+        ]
+      }
+    },
+    {
       "title": "SPIDER-MAN: BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1bfaqGFi63AaQWlHuEahhCmxPUU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.9,
+      "rating": 7.891,
       "releaseDate": "2026-07-29",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
@@ -103,45 +124,6 @@
       }
     },
     {
-      "title": "VAIANA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "rating": 5.942,
-      "releaseDate": "2026-07-08",
-      "duration": "115 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Lunes 10 de agosto": [
-          "17:00"
-        ],
-        "Miércoles 12 de agosto": [
-          "17:00"
-        ]
-      }
-    },
-    {
-      "title": "MINIONS Y MONSTERS",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/19026.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
-      "trailerUrl": null,
-      "showtimes": {
-        "Sábado 8 de agosto": [
-          "17:30"
-        ],
-        "Domingo 9 de agosto": [
-          "17:00"
-        ],
-        "Martes 11 de agosto": [
-          "17:00"
-        ]
-      }
-    },
-    {
       "title": "HACIENDO AMIGOS",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
       "backdropUrl": null,
@@ -156,6 +138,24 @@
         ],
         "Lunes 10 de agosto": [
           "19:00"
+        ]
+      }
+    },
+    {
+      "title": "VAIANA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "rating": 5.942,
+      "releaseDate": "2026-07-08",
+      "duration": "115 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Lunes 10 de agosto": [
+          "17:00"
+        ],
+        "Miércoles 12 de agosto": [
+          "17:00"
         ]
       }
     }
