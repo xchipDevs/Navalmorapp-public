@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-09T03:43:03.138649Z",
-  "expires_at": "2026-08-10T03:43:03.138649Z",
+  "generated_at": "2026-08-09T05:04:54.749986Z",
+  "expires_at": "2026-08-10T05:04:54.749986Z",
   "version": "1.0",
   "movies": [
+    {
+      "title": "HACIENDO AMIGOS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
+      "backdropUrl": null,
+      "overview": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "rating": 7.5,
+      "releaseDate": "2026-07-10",
+      "duration": "110 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
+      "showtimes": {
+        "Domingo 9 de agosto": [
+          "21:30"
+        ],
+        "Lunes 10 de agosto": [
+          "19:00"
+        ]
+      }
+    },
     {
       "title": "LA ODISEA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg",
@@ -94,39 +112,6 @@
       }
     },
     {
-      "title": "TRES DE MAS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
-      "backdropUrl": null,
-      "overview": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
-      "rating": 10.0,
-      "releaseDate": "2026-07-24",
-      "duration": null,
-      "trailerUrl": "https://www.youtube.com/watch?v=LM8PFICxpME",
-      "showtimes": {
-        "Martes 11 de agosto": [
-          "20:15"
-        ]
-      }
-    },
-    {
-      "title": "HACIENDO AMIGOS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
-      "backdropUrl": null,
-      "overview": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
-      "rating": 7.5,
-      "releaseDate": "2026-07-10",
-      "duration": "110 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
-      "showtimes": {
-        "Domingo 9 de agosto": [
-          "21:30"
-        ],
-        "Lunes 10 de agosto": [
-          "19:00"
-        ]
-      }
-    },
-    {
       "title": "VAIANA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
@@ -141,6 +126,21 @@
         ],
         "Miércoles 12 de agosto": [
           "17:00"
+        ]
+      }
+    },
+    {
+      "title": "TRES DE MAS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+      "backdropUrl": null,
+      "overview": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
+      "rating": 10.0,
+      "releaseDate": "2026-07-24",
+      "duration": null,
+      "trailerUrl": "https://www.youtube.com/watch?v=LM8PFICxpME",
+      "showtimes": {
+        "Martes 11 de agosto": [
+          "20:15"
         ]
       }
     }
