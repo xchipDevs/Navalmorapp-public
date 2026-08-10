@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-08-10T16:53:59.133400Z",
-  "expires_at": "2026-08-11T16:53:59.133400Z",
+  "generated_at": "2026-08-10T18:57:42.728051Z",
+  "expires_at": "2026-08-11T18:57:42.728051Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "HACIENDO AMIGOS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
-      "backdropUrl": null,
-      "overview": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
-      "rating": 7.5,
-      "releaseDate": "2026-07-10",
-      "duration": "110 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=oFwkHXO1MmQ",
-      "showtimes": {
-        "Lunes 10 de agosto": [
-          "19:00"
-        ]
-      }
-    },
     {
       "title": "LA ODISEA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg",
@@ -67,9 +52,6 @@
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
-        "Lunes 10 de agosto": [
-          "19:30"
-        ],
         "Martes 11 de agosto": [
           "21:30"
         ],
