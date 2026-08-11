@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T10:50:23.962519Z",
-  "expires_at": "2026-08-12T10:50:23.962519Z",
+  "generated_at": "2026-08-11T13:06:12.102227Z",
+  "expires_at": "2026-08-12T13:06:12.102227Z",
   "version": "1.0",
   "movies": [
     {
@@ -24,7 +24,7 @@
     {
       "title": "LA PATRULLA CANINA: LA DINO PELÍCULA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
       "rating": 7.5,
       "releaseDate": "2026-07-23",
