@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T16:57:30.930173Z",
-  "expires_at": "2026-08-12T16:57:30.930173Z",
+  "generated_at": "2026-08-11T19:02:17.083421Z",
+  "expires_at": "2026-08-12T19:02:17.083421Z",
   "version": "1.0",
   "movies": [
     {
@@ -41,7 +41,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.879,
+      "rating": 7.874,
       "releaseDate": "2026-07-29",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
@@ -51,21 +51,6 @@
         ],
         "Miércoles 12 de agosto": [
           "19:30"
-        ]
-      }
-    },
-    {
-      "title": "TRES DE MAS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
-      "backdropUrl": null,
-      "overview": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
-      "rating": 10.0,
-      "releaseDate": "2026-07-24",
-      "duration": null,
-      "trailerUrl": "https://www.youtube.com/watch?v=LM8PFICxpME",
-      "showtimes": {
-        "Martes 11 de agosto": [
-          "20:15"
         ]
       }
     },
