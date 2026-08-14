@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T16:53:13.411894Z",
-  "expires_at": "2026-08-15T16:53:13.411894Z",
+  "generated_at": "2026-08-14T18:54:23.564524Z",
+  "expires_at": "2026-08-15T18:54:23.564524Z",
   "version": "1.0",
   "movies": [
     {
@@ -43,9 +43,6 @@
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Yfon8Vwz8dU",
       "showtimes": {
-        "Viernes 14 de agosto": [
-          "20:00"
-        ],
         "Sábado 15 de agosto": [
           "22:00"
         ],
@@ -157,9 +154,6 @@
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
-        "Viernes 14 de agosto": [
-          "19:30"
-        ],
         "Sábado 15 de agosto": [
           "22:00"
         ],
