@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T20:31:15.645915Z",
-  "expires_at": "2026-08-15T20:31:15.645915Z",
+  "generated_at": "2026-08-14T22:22:42.201676Z",
+  "expires_at": "2026-08-15T22:22:42.201676Z",
   "version": "1.0",
   "movies": [
     {
@@ -35,7 +35,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.149,
+      "rating": 7.1,
       "releaseDate": "2026-04-30",
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Yfon8Vwz8dU",
