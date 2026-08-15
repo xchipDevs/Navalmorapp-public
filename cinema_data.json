@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T01:15:32.444888Z",
-  "expires_at": "2026-08-16T01:15:32.444888Z",
+  "generated_at": "2026-08-15T02:51:57.065688Z",
+  "expires_at": "2026-08-16T02:51:57.065688Z",
   "version": "1.0",
   "movies": [
     {
@@ -116,7 +116,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
       "overview": null,
-      "rating": 6.367,
+      "rating": 6.351,
       "releaseDate": "2026-02-04",
       "duration": "99 min",
       "trailerUrl": "https://www.youtube.com/watch?v=XTTvrfMVukc",
