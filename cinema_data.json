@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T18:29:51.587222Z",
-  "expires_at": "2026-08-16T18:29:51.587222Z",
+  "generated_at": "2026-08-15T20:22:52.235850Z",
+  "expires_at": "2026-08-16T20:22:52.235850Z",
   "version": "1.0",
   "movies": [
     {
@@ -37,9 +37,6 @@
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Yfon8Vwz8dU",
       "showtimes": {
-        "Sábado 15 de agosto": [
-          "22:00"
-        ],
         "Domingo 16 de agosto": [
           "20:00"
         ],
@@ -83,7 +80,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
-      "rating": 7.25,
+      "rating": 7.13,
       "releaseDate": "2026-07-23",
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
@@ -157,9 +154,6 @@
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
-        "Sábado 15 de agosto": [
-          "22:00"
-        ],
         "Domingo 16 de agosto": [
           "18:30"
         ],
