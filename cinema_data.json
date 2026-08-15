@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T02:51:57.065688Z",
-  "expires_at": "2026-08-16T02:51:57.065688Z",
+  "generated_at": "2026-08-15T04:31:13.314799Z",
+  "expires_at": "2026-08-16T04:31:13.314799Z",
   "version": "1.0",
   "movies": [
     {
@@ -139,6 +139,30 @@
       }
     },
     {
+      "title": "MINIONS Y MONSTERS",
+      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/19026.jpg",
+      "backdropUrl": null,
+      "overview": null,
+      "rating": null,
+      "releaseDate": null,
+      "duration": null,
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 15 de agosto": [
+          "18:30"
+        ],
+        "Domingo 16 de agosto": [
+          "16:45"
+        ],
+        "Lunes 17 de agosto": [
+          "17:00"
+        ],
+        "Miércoles 19 de agosto": [
+          "18:30"
+        ]
+      }
+    },
+    {
       "title": "SPIDER-MAN: BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
@@ -162,30 +186,6 @@
         ],
         "Miércoles 19 de agosto": [
           "22:00"
-        ]
-      }
-    },
-    {
-      "title": "MINIONS Y MONSTERS",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/19026.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
-      "trailerUrl": null,
-      "showtimes": {
-        "Sábado 15 de agosto": [
-          "18:30"
-        ],
-        "Domingo 16 de agosto": [
-          "16:45"
-        ],
-        "Lunes 17 de agosto": [
-          "17:00"
-        ],
-        "Miércoles 19 de agosto": [
-          "18:30"
         ]
       }
     }
