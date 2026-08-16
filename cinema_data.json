@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T18:29:12.913006Z",
-  "expires_at": "2026-08-17T18:29:12.913006Z",
+  "generated_at": "2026-08-16T20:22:08.687459Z",
+  "expires_at": "2026-08-17T20:22:08.687459Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "85 min",
       "trailerUrl": "https://www.youtube.com/watch?v=eKN2NzKZqKc",
       "showtimes": {
-        "Domingo 16 de agosto": [
-          "21:15"
-        ],
         "Lunes 17 de agosto": [
           "20:15"
         ],
@@ -32,7 +29,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.125,
+      "rating": 7.1,
       "releaseDate": "2026-04-30",
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Yfon8Vwz8dU",
@@ -53,14 +50,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 7.99,
+      "rating": 8.0,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 16 de agosto": [
-          "22:00"
-        ],
         "Lunes 17 de agosto": [
           "17:00"
         ],
