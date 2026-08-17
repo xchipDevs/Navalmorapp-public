@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T04:41:24.484890Z",
-  "expires_at": "2026-08-18T04:41:24.484890Z",
+  "generated_at": "2026-08-17T06:55:32.260903Z",
+  "expires_at": "2026-08-18T06:55:32.260903Z",
   "version": "1.0",
   "movies": [
     {
@@ -71,7 +71,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
-      "rating": 6.983,
+      "rating": 7.0,
       "releaseDate": "2026-07-23",
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
