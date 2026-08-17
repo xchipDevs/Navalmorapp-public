@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T16:27:39.466438Z",
-  "expires_at": "2026-08-18T16:27:39.466438Z",
+  "generated_at": "2026-08-17T18:39:06.852817Z",
+  "expires_at": "2026-08-18T18:39:06.852817Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "85 min",
       "trailerUrl": "https://www.youtube.com/watch?v=eKN2NzKZqKc",
       "showtimes": {
-        "Lunes 17 de agosto": [
-          "20:15"
-        ],
         "Martes 18 de agosto": [
           "22:00"
         ],
@@ -73,9 +70,6 @@
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
       "showtimes": {
-        "Lunes 17 de agosto": [
-          "18:30"
-        ],
         "Martes 18 de agosto": [
           "18:00"
         ],
@@ -94,9 +88,6 @@
       "duration": "99 min",
       "trailerUrl": "https://www.youtube.com/watch?v=XTTvrfMVukc",
       "showtimes": {
-        "Lunes 17 de agosto": [
-          "20:00"
-        ],
         "Martes 18 de agosto": [
           "17:00"
         ],
