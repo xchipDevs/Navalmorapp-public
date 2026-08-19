@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-08-19T16:31:56.705986Z",
-  "expires_at": "2026-08-20T16:31:56.705986Z",
+  "generated_at": "2026-08-19T18:35:37.608529Z",
+  "expires_at": "2026-08-20T18:35:37.608529Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "EL ÚLTIMO MONO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
-      "backdropUrl": null,
-      "overview": "Alejandro, un gurú de la seducción que triunfa en Internet, asume el reto ante sus seguidores de conquistar en tres días a Mariela, comediante feminista y su máxima rival en las redes",
-      "rating": 0.0,
-      "releaseDate": "2026-08-07",
-      "duration": "85 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=eKN2NzKZqKc",
-      "showtimes": {
-        "Miércoles 19 de agosto": [
-          "20:15"
-        ]
-      }
-    },
     {
       "title": "EN MAR ABIERTO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
@@ -49,22 +34,7 @@
       }
     },
     {
-      "title": "MINIONS Y MONSTERS",
-      "posterUrl": "https://kinetike.com:83/views/../Imagenes/peliculas/19026.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": null,
-      "releaseDate": null,
-      "duration": null,
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 19 de agosto": [
-          "18:30"
-        ]
-      }
-    },
-    {
-      "title": "SPIDER-MAN BRAND NEW DAY",
+      "title": "SPIDER-MAN: BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/GUVYjqDLWy61q9hDYiV9M5UEJe.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
