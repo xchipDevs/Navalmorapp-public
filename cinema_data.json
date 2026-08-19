@@ -1,20 +1,209 @@
 {
-  "generated_at": "2026-08-19T20:27:42.785674Z",
-  "expires_at": "2026-08-20T20:27:42.785674Z",
+  "generated_at": "2026-08-19T22:24:40.448959Z",
+  "expires_at": "2026-08-20T22:24:40.448959Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "EN MAR ABIERTO",
+      "title": "Marsupilami",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
+      "overview": "Para salvar su trabajo en el zoo, David acepta una arriesgada misión: recuperar un misterioso paquete en Sudamérica. El encargo lo lleva a un crucero donde viaja con su ex, su hijo y Stéphane, un compañero torpe. Todo se descontrola cuando Stéphane lo abre por accidente y libera a un adorable bebé marsupilami que convertirá el viaje en un caos absoluto. David y su familia tendrán que estar más unidos que nunca para recuperarlo.",
+      "rating": 6.346,
+      "releaseDate": "2026-02-04",
+      "duration": "99 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=XTTvrfMVukc",
+      "showtimes": {
+        "Viernes 14 de agosto": [
+          "18:30"
+        ],
+        "Sábado 15 de agosto": [
+          "17:30"
+        ],
+        "Domingo 16 de agosto": [
+          "18:15"
+        ],
+        "Lunes 17 de agosto": [
+          "20:00"
+        ],
+        "Martes 18 de agosto": [
+          "17:00"
+        ],
+        "Miércoles 19 de agosto": [
+          "20:30"
+        ]
+      }
+    },
+    {
+      "title": "El último mono",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
+      "backdropUrl": null,
+      "overview": "Alejandro, un gurú de la seducción que triunfa en Internet, asume el reto ante sus seguidores de conquistar en tres días a Mariela, comediante feminista y su máxima rival en las redes",
+      "rating": 0.0,
+      "releaseDate": "2026-08-07",
+      "duration": "85 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=eKN2NzKZqKc",
+      "showtimes": {
+        "Viernes 14 de agosto": [
+          "22:00"
+        ],
+        "Sábado 15 de agosto": [
+          "20:00"
+        ],
+        "Domingo 16 de agosto": [
+          "21:15"
+        ],
+        "Lunes 17 de agosto": [
+          "20:15"
+        ],
+        "Martes 18 de agosto": [
+          "22:00"
+        ],
+        "Miércoles 19 de agosto": [
+          "20:15"
+        ]
+      }
+    },
+    {
+      "title": "En Mar Abierto",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
       "rating": 7.135,
       "releaseDate": "2026-04-30",
-      "duration": "107 min",
+      "duration": "110 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Yfon8Vwz8dU",
       "showtimes": {
+        "Viernes 14 de agosto": [
+          "19:45"
+        ],
+        "Sábado 15 de agosto": [
+          "22:00"
+        ],
+        "Domingo 16 de agosto": [
+          "20:00"
+        ],
+        "Lunes 17 de agosto": [
+          "21:45"
+        ],
+        "Martes 18 de agosto": [
+          "19:00"
+        ],
         "Miércoles 19 de agosto": [
           "22:30"
+        ]
+      }
+    },
+    {
+      "title": "Spider-Man Un nuevo día",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/GUVYjqDLWy61q9hDYiV9M5UEJe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 7.9,
+      "releaseDate": "2026-07-29",
+      "duration": "144 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
+      "showtimes": {
+        "Viernes 14 de agosto": [
+          "19:30"
+        ],
+        "Sábado 15 de agosto": [
+          "22:00"
+        ],
+        "Domingo 16 de agosto": [
+          "18:30"
+        ],
+        "Lunes 17 de agosto": [
+          "22:00"
+        ],
+        "Martes 18 de agosto": [
+          "19:30"
+        ],
+        "Miércoles 19 de agosto": [
+          "22:00"
+        ]
+      }
+    },
+    {
+      "title": "La Odisea",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "rating": 7.983,
+      "releaseDate": "2026-07-15",
+      "duration": "172 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 14 de agosto": [
+          "21:45"
+        ],
+        "Sábado 15 de agosto": [
+          "19:00"
+        ],
+        "Domingo 16 de agosto": [
+          "22:00"
+        ],
+        "Lunes 17 de agosto": [
+          "17:00"
+        ],
+        "Martes 18 de agosto": [
+          "21:00"
+        ],
+        "Miércoles 19 de agosto": [
+          "17:30"
+        ]
+      }
+    },
+    {
+      "title": "Minions y Monstruos",
+      "posterUrl": null,
+      "backdropUrl": null,
+      "overview": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "rating": null,
+      "releaseDate": null,
+      "duration": "90 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 15 de agosto": [
+          "18:30"
+        ],
+        "Domingo 16 de agosto": [
+          "16:45"
+        ],
+        "Lunes 17 de agosto": [
+          "17:00"
+        ],
+        "Miércoles 19 de agosto": [
+          "16:30"
+        ]
+      }
+    },
+    {
+      "title": "La Patrulla Canina",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "rating": 7.029,
+      "releaseDate": "2026-07-23",
+      "duration": "88 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
+      "showtimes": {
+        "Viernes 14 de agosto": [
+          "18:00"
+        ],
+        "Sábado 15 de agosto": [
+          "17:00"
+        ],
+        "Domingo 16 de agosto": [
+          "17:00"
+        ],
+        "Lunes 17 de agosto": [
+          "18:30"
+        ],
+        "Martes 18 de agosto": [
+          "18:00"
+        ],
+        "Miércoles 19 de agosto": [
+          "17:00"
         ]
       }
     }
