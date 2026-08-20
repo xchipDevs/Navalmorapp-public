@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T16:35:06.333954Z",
-  "expires_at": "2026-08-21T16:35:06.333954Z",
+  "generated_at": "2026-08-20T18:39:09.239587Z",
+  "expires_at": "2026-08-21T18:39:09.239587Z",
   "version": "1.0",
   "movies": [
     {
@@ -65,7 +65,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "Sexta entrega de la franquicia \"Insidious\".",
-      "rating": 5.6,
+      "rating": 6.3,
       "releaseDate": "2026-08-19",
       "duration": "106 min",
       "trailerUrl": null,
