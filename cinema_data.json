@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-08-20T08:38:44.343642Z",
-  "expires_at": "2026-08-21T08:38:44.343642Z",
+  "generated_at": "2026-08-20T12:50:11.272667Z",
+  "expires_at": "2026-08-21T12:50:11.272667Z",
   "version": "1.0",
   "movies": [
+    {
+      "title": "Insidious Fuera del más allá",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+      "overview": "Sexta entrega de la franquicia \"Insidious\".",
+      "rating": 5.6,
+      "releaseDate": "2026-08-19",
+      "duration": "106 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 21 de agosto": [
+          "21:45"
+        ],
+        "Sábado 22 de agosto": [
+          "22:00"
+        ],
+        "Domingo 23 de agosto": [
+          "18:30",
+          "22:00"
+        ],
+        "Lunes 24 de agosto": [
+          "17:45"
+        ],
+        "Martes 25 de agosto": [
+          "20:00"
+        ],
+        "Miércoles 26 de agosto": [
+          "22:30"
+        ]
+      }
+    },
+    {
+      "title": "El final de Oak Street",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "overview": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "rating": 6.482,
+      "releaseDate": "2026-08-12",
+      "duration": "100 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=pKtm-_iOivI",
+      "showtimes": {
+        "Viernes 21 de agosto": [
+          "20:00"
+        ],
+        "Sábado 22 de agosto": [
+          "22:00"
+        ],
+        "Domingo 23 de agosto": [
+          "19:30"
+        ],
+        "Lunes 24 de agosto": [
+          "22:15"
+        ],
+        "Martes 25 de agosto": [
+          "18:00"
+        ],
+        "Miércoles 26 de agosto": [
+          "20:00"
+        ]
+      }
+    },
     {
       "title": "Marsupilami",
       "posterUrl": "https://image.tmdb.org/t/p/w500/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
@@ -13,23 +74,20 @@
       "duration": "99 min",
       "trailerUrl": "https://www.youtube.com/watch?v=XTTvrfMVukc",
       "showtimes": {
-        "Viernes 14 de agosto": [
-          "18:30"
+        "Viernes 21 de agosto": [
+          "18:00"
         ],
-        "Sábado 15 de agosto": [
+        "Sábado 22 de agosto": [
           "17:30"
         ],
-        "Domingo 16 de agosto": [
-          "18:15"
-        ],
-        "Lunes 17 de agosto": [
-          "20:00"
-        ],
-        "Martes 18 de agosto": [
+        "Domingo 23 de agosto": [
           "17:00"
         ],
-        "Miércoles 19 de agosto": [
-          "20:30"
+        "Martes 25 de agosto": [
+          "18:15"
+        ],
+        "Miércoles 26 de agosto": [
+          "18:15"
         ]
       }
     },
@@ -43,23 +101,11 @@
       "duration": "85 min",
       "trailerUrl": "https://www.youtube.com/watch?v=eKN2NzKZqKc",
       "showtimes": {
-        "Viernes 14 de agosto": [
-          "22:00"
+        "Lunes 24 de agosto": [
+          "20:30"
         ],
-        "Sábado 15 de agosto": [
-          "20:00"
-        ],
-        "Domingo 16 de agosto": [
-          "21:15"
-        ],
-        "Lunes 17 de agosto": [
-          "20:15"
-        ],
-        "Martes 18 de agosto": [
-          "22:00"
-        ],
-        "Miércoles 19 de agosto": [
-          "20:15"
+        "Martes 25 de agosto": [
+          "22:30"
         ]
       }
     },
@@ -68,28 +114,25 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.135,
+      "rating": 7.132,
       "releaseDate": "2026-04-30",
       "duration": "110 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Yfon8Vwz8dU",
       "showtimes": {
-        "Viernes 14 de agosto": [
+        "Viernes 21 de agosto": [
           "19:45"
         ],
-        "Sábado 15 de agosto": [
+        "Domingo 23 de agosto": [
+          "20:30"
+        ],
+        "Lunes 24 de agosto": [
+          "19:30"
+        ],
+        "Martes 25 de agosto": [
           "22:00"
         ],
-        "Domingo 16 de agosto": [
-          "20:00"
-        ],
-        "Lunes 17 de agosto": [
-          "21:45"
-        ],
-        "Martes 18 de agosto": [
-          "19:00"
-        ],
-        "Miércoles 19 de agosto": [
-          "22:30"
+        "Miércoles 26 de agosto": [
+          "20:15"
         ]
       }
     },
@@ -103,22 +146,22 @@
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
-        "Viernes 14 de agosto": [
-          "19:30"
-        ],
-        "Sábado 15 de agosto": [
+        "Viernes 21 de agosto": [
           "22:00"
         ],
-        "Domingo 16 de agosto": [
-          "18:30"
-        ],
-        "Lunes 17 de agosto": [
-          "22:00"
-        ],
-        "Martes 18 de agosto": [
+        "Sábado 22 de agosto": [
           "19:30"
         ],
-        "Miércoles 19 de agosto": [
+        "Domingo 23 de agosto": [
+          "21:30"
+        ],
+        "Lunes 24 de agosto": [
+          "18:00"
+        ],
+        "Martes 25 de agosto": [
+          "20:00"
+        ],
+        "Miércoles 26 de agosto": [
           "22:00"
         ]
       }
@@ -133,47 +176,11 @@
       "duration": "172 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 14 de agosto": [
-          "21:45"
-        ],
-        "Sábado 15 de agosto": [
+        "Sábado 22 de agosto": [
           "19:00"
         ],
-        "Domingo 16 de agosto": [
-          "22:00"
-        ],
-        "Lunes 17 de agosto": [
-          "17:00"
-        ],
-        "Martes 18 de agosto": [
-          "21:00"
-        ],
-        "Miércoles 19 de agosto": [
-          "17:30"
-        ]
-      }
-    },
-    {
-      "title": "Minions y Monstruos",
-      "posterUrl": null,
-      "backdropUrl": null,
-      "overview": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "rating": null,
-      "releaseDate": null,
-      "duration": "90 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Sábado 15 de agosto": [
-          "18:30"
-        ],
-        "Domingo 16 de agosto": [
-          "16:45"
-        ],
-        "Lunes 17 de agosto": [
-          "17:00"
-        ],
-        "Miércoles 19 de agosto": [
-          "16:30"
+        "Lunes 24 de agosto": [
+          "21:30"
         ]
       }
     },
@@ -187,23 +194,17 @@
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=N-jJORZ3TF4",
       "showtimes": {
-        "Viernes 14 de agosto": [
-          "18:00"
-        ],
-        "Sábado 15 de agosto": [
-          "17:00"
-        ],
-        "Domingo 16 de agosto": [
-          "17:00"
-        ],
-        "Lunes 17 de agosto": [
+        "Viernes 21 de agosto": [
           "18:30"
         ],
-        "Martes 18 de agosto": [
+        "Sábado 22 de agosto": [
           "18:00"
         ],
-        "Miércoles 19 de agosto": [
-          "17:00"
+        "Domingo 23 de agosto": [
+          "18:00"
+        ],
+        "Miércoles 26 de agosto": [
+          "18:30"
         ]
       }
     }
