@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T20:25:58.785779Z",
-  "expires_at": "2026-08-22T20:25:58.785779Z",
+  "generated_at": "2026-08-21T22:25:07.230534Z",
+  "expires_at": "2026-08-22T22:25:07.230534Z",
   "version": "1.0",
   "movies": [
     {
@@ -177,7 +177,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
       "backdropUrl": null,
       "overview": "Alejandro, un gurú de la seducción que triunfa en Internet, asume el reto ante sus seguidores de conquistar en tres días a Mariela, comediante feminista y su máxima rival en las redes",
-      "rating": 0.0,
+      "rating": 10.0,
       "releaseDate": "2026-08-07",
       "duration": "85 min",
       "trailerUrl": "https://www.youtube.com/watch?v=eKN2NzKZqKc",
