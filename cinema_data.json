@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T10:30:53.908216Z",
-  "expires_at": "2026-08-22T10:30:53.908216Z",
+  "generated_at": "2026-08-21T12:47:56.678066Z",
+  "expires_at": "2026-08-22T12:47:56.678066Z",
   "version": "1.0",
   "movies": [
     {
@@ -65,7 +65,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "Sexta entrega de la franquicia \"Insidious\".",
-      "rating": 6.536,
+      "rating": 6.219,
       "releaseDate": "2026-08-19",
       "duration": "106 min",
       "trailerUrl": null,
@@ -147,7 +147,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/GUVYjqDLWy61q9hDYiV9M5UEJe.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.9,
+      "rating": 7.888,
       "releaseDate": "2026-07-29",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
