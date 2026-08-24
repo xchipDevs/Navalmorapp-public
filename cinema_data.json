@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T14:41:52.380488Z",
-  "expires_at": "2026-08-25T14:41:52.380488Z",
+  "generated_at": "2026-08-24T16:37:45.966545Z",
+  "expires_at": "2026-08-25T16:37:45.966545Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "overview": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.386,
+      "rating": 6.39,
       "releaseDate": "2026-08-12",
       "duration": "99 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pKtm-_iOivI",
@@ -73,9 +73,6 @@
       "duration": "106 min",
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 24 de agosto": [
-          "17:30"
-        ],
         "Martes 25 de agosto": [
           "20:00"
         ],
@@ -109,9 +106,6 @@
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
-        "Lunes 24 de agosto": [
-          "18:00"
-        ],
         "Martes 25 de agosto": [
           "20:00"
         ],
