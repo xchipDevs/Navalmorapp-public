@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T20:30:25.628013Z",
-  "expires_at": "2026-08-25T20:30:25.628013Z",
+  "generated_at": "2026-08-24T22:26:29.929734Z",
+  "expires_at": "2026-08-25T22:26:29.929734Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,14 +8,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "overview": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.39,
+      "rating": 6.391,
       "releaseDate": "2026-08-12",
       "duration": "99 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pKtm-_iOivI",
       "showtimes": {
-        "Lunes 24 de agosto": [
-          "22:15"
-        ],
         "Martes 25 de agosto": [
           "18:00"
         ],
@@ -116,7 +113,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
-      "rating": 7.2,
+      "rating": 7.113,
       "releaseDate": "2026-07-23",
       "duration": "88 min",
       "trailerUrl": "https://www.youtube.com/watch?v=l08qv9mM4fQ",
