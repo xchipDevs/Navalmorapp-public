@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T03:03:25.407910Z",
-  "expires_at": "2026-08-25T03:03:25.407910Z",
+  "generated_at": "2026-08-24T04:44:32.407754Z",
+  "expires_at": "2026-08-25T04:44:32.407754Z",
   "version": "1.0",
   "movies": [
     {
@@ -21,6 +21,24 @@
         ],
         "Miércoles 26 de agosto": [
           "20:00"
+        ]
+      }
+    },
+    {
+      "title": "EL ÚLTIMO MONO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
+      "backdropUrl": null,
+      "overview": "Alejandro, un gurú de la seducción que triunfa en Internet, asume el reto ante sus seguidores de conquistar en tres días a Mariela, comediante feminista y su máxima rival en las redes",
+      "rating": 10.0,
+      "releaseDate": "2026-08-07",
+      "duration": "85 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=eKN2NzKZqKc",
+      "showtimes": {
+        "Lunes 24 de agosto": [
+          "20:30"
+        ],
+        "Martes 25 de agosto": [
+          "22:30"
         ]
       }
     },
@@ -67,35 +85,17 @@
       }
     },
     {
-      "title": "LA PATRULLA CANINA: LA DINO PELÍCULA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
-      "rating": 7.2,
-      "releaseDate": "2026-07-23",
-      "duration": "88 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=l08qv9mM4fQ",
+      "title": "LA ODISEA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "rating": 7.997,
+      "releaseDate": "2026-07-15",
+      "duration": "173 min",
+      "trailerUrl": null,
       "showtimes": {
-        "Miércoles 26 de agosto": [
-          "18:30"
-        ]
-      }
-    },
-    {
-      "title": "MARSUPILAMI",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
-      "overview": null,
-      "rating": 6.367,
-      "releaseDate": "2026-02-04",
-      "duration": "99 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=XTTvrfMVukc",
-      "showtimes": {
-        "Martes 25 de agosto": [
-          "18:15"
-        ],
-        "Miércoles 26 de agosto": [
-          "18:15"
+        "Lunes 24 de agosto": [
+          "21:30"
         ]
       }
     },
@@ -121,35 +121,35 @@
       }
     },
     {
-      "title": "EL ÚLTIMO MONO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
-      "backdropUrl": null,
-      "overview": "Alejandro, un gurú de la seducción que triunfa en Internet, asume el reto ante sus seguidores de conquistar en tres días a Mariela, comediante feminista y su máxima rival en las redes",
-      "rating": 10.0,
-      "releaseDate": "2026-08-07",
-      "duration": "85 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=eKN2NzKZqKc",
+      "title": "MARSUPILAMI",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
+      "overview": null,
+      "rating": 6.367,
+      "releaseDate": "2026-02-04",
+      "duration": "99 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=XTTvrfMVukc",
       "showtimes": {
-        "Lunes 24 de agosto": [
-          "20:30"
-        ],
         "Martes 25 de agosto": [
-          "22:30"
+          "18:15"
+        ],
+        "Miércoles 26 de agosto": [
+          "18:15"
         ]
       }
     },
     {
-      "title": "LA ODISEA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 7.997,
-      "releaseDate": "2026-07-15",
-      "duration": "173 min",
-      "trailerUrl": null,
+      "title": "LA PATRULLA CANINA: LA DINO PELÍCULA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "rating": 7.2,
+      "releaseDate": "2026-07-23",
+      "duration": "88 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=l08qv9mM4fQ",
       "showtimes": {
-        "Lunes 24 de agosto": [
-          "21:30"
+        "Miércoles 26 de agosto": [
+          "18:30"
         ]
       }
     }
