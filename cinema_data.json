@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T16:37:45.966545Z",
-  "expires_at": "2026-08-25T16:37:45.966545Z",
+  "generated_at": "2026-08-24T18:40:11.344333Z",
+  "expires_at": "2026-08-25T18:40:11.344333Z",
   "version": "1.0",
   "movies": [
     {
@@ -52,9 +52,6 @@
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
       "showtimes": {
-        "Lunes 24 de agosto": [
-          "19:30"
-        ],
         "Martes 25 de agosto": [
           "22:00"
         ],
