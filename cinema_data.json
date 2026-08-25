@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T22:26:29.929734Z",
-  "expires_at": "2026-08-25T22:26:29.929734Z",
+  "generated_at": "2026-08-25T01:16:49.688875Z",
+  "expires_at": "2026-08-26T01:16:49.688875Z",
   "version": "1.0",
   "movies": [
     {
@@ -58,8 +58,8 @@
       "title": "INSIDIOUS: FUERA DEL MÁS ALLÁ",
       "posterUrl": "https://image.tmdb.org/t/p/w500/peE3VhpRbIW9VtW2SRaf893JMzJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-      "overview": "Sexta entrega de la franquicia \"Insidious\".",
-      "rating": 6.7,
+      "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
+      "rating": 6.615,
       "releaseDate": "2026-08-19",
       "duration": "106 min",
       "trailerUrl": null,
