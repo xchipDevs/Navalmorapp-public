@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T20:29:04.459470Z",
-  "expires_at": "2026-08-26T20:29:04.459470Z",
+  "generated_at": "2026-08-25T22:27:19.609497Z",
+  "expires_at": "2026-08-26T22:27:19.609497Z",
   "version": "1.0",
   "movies": [
     {
@@ -19,26 +19,11 @@
       }
     },
     {
-      "title": "EL ÚLTIMO MONO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
-      "backdropUrl": null,
-      "overview": "Alejandro, un gurú de la seducción que triunfa en Internet, asume el reto ante sus seguidores de conquistar en tres días a Mariela, comediante feminista y su máxima rival en las redes",
-      "rating": 10.0,
-      "releaseDate": "2026-08-07",
-      "duration": "85 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=eKN2NzKZqKc",
-      "showtimes": {
-        "Martes 25 de agosto": [
-          "22:30"
-        ]
-      }
-    },
-    {
       "title": "EN MAR ABIERTO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.123,
+      "rating": 7.122,
       "releaseDate": "2026-04-30",
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
@@ -49,7 +34,7 @@
       }
     },
     {
-      "title": "INSIDIOUS: FUERA DEL MÁS ALLÁ",
+      "title": "INSIDIOUS FUERA DEL MÁS ALLÁ",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
@@ -79,7 +64,7 @@
       }
     },
     {
-      "title": "SPIDER-MAN: BRAND NEW DAY",
+      "title": "SPIDER-MAN BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -94,7 +79,7 @@
       }
     },
     {
-      "title": "LA PATRULLA CANINA: LA DINO PELÍCULA",
+      "title": "LA PATRULLA CANINA LA DINO PELÍCULA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
