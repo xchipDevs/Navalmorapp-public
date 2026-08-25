@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T04:38:51.051150Z",
-  "expires_at": "2026-08-26T04:38:51.051150Z",
+  "generated_at": "2026-08-25T06:48:40.782422Z",
+  "expires_at": "2026-08-26T06:48:40.782422Z",
   "version": "1.0",
   "movies": [
     {
@@ -56,10 +56,10 @@
     },
     {
       "title": "INSIDIOUS: FUERA DEL MÁS ALLÁ",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/peE3VhpRbIW9VtW2SRaf893JMzJ.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 6.615,
+      "rating": 6.6,
       "releaseDate": "2026-08-19",
       "duration": "106 min",
       "trailerUrl": null,
