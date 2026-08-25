@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T10:33:16.408672Z",
-  "expires_at": "2026-08-26T10:33:16.408672Z",
+  "generated_at": "2026-08-25T12:47:52.704387Z",
+  "expires_at": "2026-08-26T12:47:52.704387Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "overview": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.385,
+      "rating": 6.389,
       "releaseDate": "2026-08-12",
       "duration": "99 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pKtm-_iOivI",
@@ -59,7 +59,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 6.6,
+      "rating": 6.632,
       "releaseDate": "2026-08-19",
       "duration": "106 min",
       "trailerUrl": null,
