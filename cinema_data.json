@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T02:58:45.933616Z",
-  "expires_at": "2026-08-26T02:58:45.933616Z",
+  "generated_at": "2026-08-25T04:38:51.051150Z",
+  "expires_at": "2026-08-26T04:38:51.051150Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "overview": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.391,
+      "rating": 6.385,
       "releaseDate": "2026-08-12",
       "duration": "99 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pKtm-_iOivI",
@@ -73,24 +73,6 @@
       }
     },
     {
-      "title": "SPIDER-MAN: BRAND NEW DAY",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
-      "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.9,
-      "releaseDate": "2026-07-29",
-      "duration": "144 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
-      "showtimes": {
-        "Martes 25 de agosto": [
-          "20:00"
-        ],
-        "Miércoles 26 de agosto": [
-          "22:00"
-        ]
-      }
-    },
-    {
       "title": "MARSUPILAMI",
       "posterUrl": "https://image.tmdb.org/t/p/w500/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
@@ -105,6 +87,24 @@
         ],
         "Miércoles 26 de agosto": [
           "18:15"
+        ]
+      }
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+      "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 7.9,
+      "releaseDate": "2026-07-29",
+      "duration": "144 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
+      "showtimes": {
+        "Martes 25 de agosto": [
+          "20:00"
+        ],
+        "Miércoles 26 de agosto": [
+          "22:00"
         ]
       }
     },
