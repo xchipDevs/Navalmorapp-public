@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T03:04:58.343739Z",
-  "expires_at": "2026-08-27T03:04:58.343739Z",
+  "generated_at": "2026-08-26T04:39:41.395972Z",
+  "expires_at": "2026-08-27T04:39:41.395972Z",
   "version": "1.0",
   "movies": [
     {
@@ -34,7 +34,7 @@
       }
     },
     {
-      "title": "INSIDIOUS FUERA DEL MÁS ALLÁ",
+      "title": "INSIDIOUS: FUERA DEL MÁS ALLÁ",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
@@ -45,6 +45,21 @@
       "showtimes": {
         "Miércoles 26 de agosto": [
           "22:30"
+        ]
+      }
+    },
+    {
+      "title": "LA PATRULLA CANINA: LA DINO PELÍCULA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "rating": 7.1,
+      "releaseDate": "2026-07-23",
+      "duration": "88 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=l08qv9mM4fQ",
+      "showtimes": {
+        "Miércoles 26 de agosto": [
+          "18:30"
         ]
       }
     },
@@ -64,7 +79,7 @@
       }
     },
     {
-      "title": "SPIDER-MAN BRAND NEW DAY",
+      "title": "SPIDER-MAN: BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -75,21 +90,6 @@
       "showtimes": {
         "Miércoles 26 de agosto": [
           "22:00"
-        ]
-      }
-    },
-    {
-      "title": "LA PATRULLA CANINA LA DINO PELÍCULA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "overview": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
-      "rating": 7.1,
-      "releaseDate": "2026-07-23",
-      "duration": "88 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=l08qv9mM4fQ",
-      "showtimes": {
-        "Miércoles 26 de agosto": [
-          "18:30"
         ]
       }
     }
