@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T18:17:14.941479Z",
-  "expires_at": "2026-08-29T18:17:14.941479Z",
+  "generated_at": "2026-08-29T02:44:27.735089Z",
+  "expires_at": "2026-08-30T02:44:27.735089Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
       "showtimes": {
-        "Viernes 28 de agosto": [
-          "20:00"
-        ],
         "Domingo 30 de agosto": [
           "19:30"
         ],
@@ -35,14 +32,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 6.5,
+      "rating": 6.53,
       "releaseDate": "2026-08-19",
       "duration": "106 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 28 de agosto": [
-          "22:00"
-        ],
         "Sábado 29 de agosto": [
           "19:30"
         ],
@@ -84,16 +78,13 @@
     {
       "title": "SPIDER-MAN: BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.885,
+      "rating": 7.89,
       "releaseDate": "2026-07-29",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
-        "Viernes 28 de agosto": [
-          "22:45"
-        ],
         "Sábado 29 de agosto": [
           "22:45"
         ],
@@ -118,9 +109,6 @@
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 28 de agosto": [
-          "21:00"
-        ],
         "Sábado 29 de agosto": [
           "17:00",
           "19:00",
@@ -150,7 +138,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 8.0,
+      "rating": 7.982,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": "https://www.youtube.com/watch?v=X9nUrOnHlz0",
@@ -168,7 +156,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "overview": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.4,
+      "rating": 6.366,
       "releaseDate": "2026-08-12",
       "duration": "99 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pKtm-_iOivI",
