@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-29T10:52:12.940119Z",
-  "expires_at": "2026-08-30T10:52:12.940119Z",
+  "generated_at": "2026-08-29T16:19:16.819764Z",
+  "expires_at": "2026-08-30T16:19:16.819764Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "INSIDIOUS FUERA DEL MÁS ALLÁ",
+      "title": "INSIDIOUS: FUERA DEL MÁS ALLÁ",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
@@ -32,7 +32,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 7.984,
+      "rating": 7.986,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": "https://www.youtube.com/watch?v=X9nUrOnHlz0",
@@ -55,9 +55,6 @@
       "duration": "99 min",
       "trailerUrl": "https://www.youtube.com/watch?v=XTTvrfMVukc",
       "showtimes": {
-        "Sábado 29 de agosto": [
-          "17:30"
-        ],
         "Lunes 31 de agosto": [
           "17:30"
         ],
@@ -70,7 +67,7 @@
       }
     },
     {
-      "title": "SPIDER-MAN BRAND NEW DAY",
+      "title": "SPIDER-MAN: BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -98,13 +95,12 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
       "overview": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "rating": 2.0,
+      "rating": 4.0,
       "releaseDate": "2026-08-26",
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
         "Sábado 29 de agosto": [
-          "17:00",
           "19:00",
           "21:00"
         ],
@@ -132,7 +128,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "overview": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.368,
+      "rating": 6.372,
       "releaseDate": "2026-08-12",
       "duration": "99 min",
       "trailerUrl": "https://www.youtube.com/watch?v=pKtm-_iOivI",
@@ -150,7 +146,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.125,
+      "rating": 7.12,
       "releaseDate": "2026-04-30",
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
