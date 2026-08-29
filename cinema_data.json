@@ -1,21 +1,39 @@
 {
-  "generated_at": "2026-08-29T16:19:16.819764Z",
-  "expires_at": "2026-08-30T16:19:16.819764Z",
+  "generated_at": "2026-08-29T20:30:46.284361Z",
+  "expires_at": "2026-08-30T20:30:46.284361Z",
   "version": "1.0",
   "movies": [
+    {
+      "title": "EL FINAL DE OAK STREET",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "overview": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "rating": 6.355,
+      "releaseDate": "2026-08-12",
+      "duration": "99 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=pKtm-_iOivI",
+      "showtimes": {
+        "Sábado 29 de agosto": [
+          "22:45"
+        ],
+        "Domingo 30 de agosto": [
+          "22:30"
+        ],
+        "Martes 1 de septiembre": [
+          "21:30"
+        ]
+      }
+    },
     {
       "title": "INSIDIOUS: FUERA DEL MÁS ALLÁ",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 6.53,
+      "rating": 6.524,
       "releaseDate": "2026-08-19",
       "duration": "106 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 29 de agosto": [
-          "19:30"
-        ],
         "Domingo 30 de agosto": [
           "17:30"
         ],
@@ -37,9 +55,6 @@
       "duration": "173 min",
       "trailerUrl": "https://www.youtube.com/watch?v=X9nUrOnHlz0",
       "showtimes": {
-        "Sábado 29 de agosto": [
-          "21:30"
-        ],
         "Martes 1 de septiembre": [
           "21:30"
         ]
@@ -67,30 +82,6 @@
       }
     },
     {
-      "title": "SPIDER-MAN: BRAND NEW DAY",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
-      "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.9,
-      "releaseDate": "2026-07-29",
-      "duration": "144 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
-      "showtimes": {
-        "Sábado 29 de agosto": [
-          "22:45"
-        ],
-        "Domingo 30 de agosto": [
-          "21:30"
-        ],
-        "Lunes 31 de agosto": [
-          "21:30"
-        ],
-        "Miércoles 2 de septiembre": [
-          "21:30"
-        ]
-      }
-    },
-    {
       "title": "TADEO JONES Y LA LÁMPARA MARAVILLOSA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
@@ -100,10 +91,6 @@
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 29 de agosto": [
-          "19:00",
-          "21:00"
-        ],
         "Domingo 30 de agosto": [
           "17:00",
           "19:00",
@@ -120,24 +107,6 @@
         "Miércoles 2 de septiembre": [
           "18:00",
           "19:55"
-        ]
-      }
-    },
-    {
-      "title": "EL FINAL DE OAK STREET",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "overview": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.372,
-      "releaseDate": "2026-08-12",
-      "duration": "99 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=pKtm-_iOivI",
-      "showtimes": {
-        "Domingo 30 de agosto": [
-          "22:30"
-        ],
-        "Martes 1 de septiembre": [
-          "21:30"
         ]
       }
     },
@@ -162,6 +131,27 @@
         ],
         "Miércoles 2 de septiembre": [
           "19:30"
+        ]
+      }
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
+      "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 7.889,
+      "releaseDate": "2026-07-29",
+      "duration": "144 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
+      "showtimes": {
+        "Domingo 30 de agosto": [
+          "21:30"
+        ],
+        "Lunes 31 de agosto": [
+          "21:30"
+        ],
+        "Miércoles 2 de septiembre": [
+          "21:30"
         ]
       }
     }
