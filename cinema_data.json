@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-08-31T00:14:18.112719Z",
-  "expires_at": "2026-09-01T00:14:18.112719Z",
+  "generated_at": "2026-08-31T08:12:06.472238Z",
+  "expires_at": "2026-09-01T08:12:06.472238Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "EL FINAL DE OAK STREET",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hT5qnmx9FXGkuBy5Vo1DkOoYyuS.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "overview": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.348,
-      "releaseDate": "2026-08-12",
-      "duration": "99 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=pKtm-_iOivI",
-      "showtimes": {
-        "Martes 1 de septiembre": [
-          "21:30"
-        ]
-      }
-    },
     {
       "title": "EN MAR ABIERTO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
@@ -58,11 +43,32 @@
       }
     },
     {
+      "title": "MARSUPILAMI",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
+      "overview": "David debe entregar un paquete desde Sudamérica y descubre que transporta un bebé Marsupilami.",
+      "rating": 6.371,
+      "releaseDate": "2026-02-04",
+      "duration": "99 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=XTTvrfMVukc",
+      "showtimes": {
+        "Lunes 31 de agosto": [
+          "17:30"
+        ],
+        "Martes 1 de septiembre": [
+          "19:30"
+        ],
+        "Miércoles 2 de septiembre": [
+          "17:30"
+        ]
+      }
+    },
+    {
       "title": "SPIDER-MAN: BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.9,
+      "rating": 7.88,
       "releaseDate": "2026-07-29",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
@@ -100,23 +106,17 @@
       }
     },
     {
-      "title": "MARSUPILAMI",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
-      "overview": "David debe entregar un paquete desde Sudamérica y descubre que transporta un bebé Marsupilami.",
-      "rating": 6.357,
-      "releaseDate": "2026-02-04",
+      "title": "EL FINAL DE OAK STREET",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hT5qnmx9FXGkuBy5Vo1DkOoYyuS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "overview": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "rating": 6.3,
+      "releaseDate": "2026-08-12",
       "duration": "99 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=XTTvrfMVukc",
+      "trailerUrl": "https://www.youtube.com/watch?v=pKtm-_iOivI",
       "showtimes": {
-        "Lunes 31 de agosto": [
-          "17:30"
-        ],
         "Martes 1 de septiembre": [
-          "19:30"
-        ],
-        "Miércoles 2 de septiembre": [
-          "17:30"
+          "21:30"
         ]
       }
     },
@@ -125,7 +125,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 8.0,
+      "rating": 7.987,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": "https://www.youtube.com/watch?v=X9nUrOnHlz0",
