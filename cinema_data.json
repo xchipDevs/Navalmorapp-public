@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T14:35:01.038956Z",
-  "expires_at": "2026-09-02T14:35:01.038956Z",
+  "generated_at": "2026-09-01T19:14:19.110409Z",
+  "expires_at": "2026-09-02T19:14:19.110409Z",
   "version": "1.0",
   "movies": [
     {
@@ -28,9 +28,6 @@
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
       "showtimes": {
-        "Martes 1 de septiembre": [
-          "17:30"
-        ],
         "Miércoles 2 de septiembre": [
           "19:30"
         ]
@@ -41,7 +38,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 7.99,
+      "rating": 8.0,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": "https://www.youtube.com/watch?v=X9nUrOnHlz0",
@@ -61,9 +58,6 @@
       "duration": "99 min",
       "trailerUrl": "https://www.youtube.com/watch?v=XTTvrfMVukc",
       "showtimes": {
-        "Martes 1 de septiembre": [
-          "19:30"
-        ],
         "Miércoles 2 de septiembre": [
           "17:30"
         ]
@@ -79,10 +73,6 @@
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
-        "Martes 1 de septiembre": [
-          "18:00",
-          "19:55"
-        ],
         "Miércoles 2 de septiembre": [
           "18:00",
           "19:55"
