@@ -7,8 +7,8 @@
             "phone": "927 53 47 17",
             "schedule": [
                 {
-                    "startDate": "2026-07-22",
-                    "endDate": "2026-07-29"
+                    "startDate": "2026-09-02",
+                    "endDate": "2026-09-09"
                 }
             ]
         },
@@ -20,8 +20,8 @@
             "notes": "Abierto todos los días de 9:30 a 22:00 h. Sábados desde las 10:30 h.",
             "schedule": [
                 {
-                    "startDate": "2026-07-29",
-                    "endDate": "2026-08-05"
+                    "startDate": "2026-09-09",
+                    "endDate": "2026-09-16"
                 }
             ]
         },
@@ -32,8 +32,8 @@
             "phone": "927 53 02 78",
             "schedule": [
                 {
-                    "startDate": "2026-08-05",
-                    "endDate": "2026-08-12"
+                    "startDate": "2026-09-16",
+                    "endDate": "2026-09-23"
                 }
             ]
         },
@@ -45,8 +45,8 @@
             "notes": "Guardias de 22:00 a 9:30 h, el resto del horario lo cubre Asunción Jiménez Martín-Neble (C/ Carnaval, 5).",
             "schedule": [
                 {
-                    "startDate": "2026-08-12",
-                    "endDate": "2026-08-19"
+                    "startDate": "2026-09-23",
+                    "endDate": "2026-09-30"
                 }
             ]
         },
@@ -57,8 +57,8 @@
             "phone": "927 53 11 90",
             "schedule": [
                 {
-                    "startDate": "2026-08-19",
-                    "endDate": "2026-08-26"
+                    "startDate": "2026-09-30",
+                    "endDate": "2026-10-07"
                 }
             ]
         },
@@ -69,8 +69,8 @@
             "phone": "927 53 03 77",
             "schedule": [
                 {
-                    "startDate": "2026-08-26",
-                    "endDate": "2026-09-02"
+                    "startDate": "2026-10-07",
+                    "endDate": "2026-10-14"
                 }
             ]
         }
