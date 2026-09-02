@@ -1,25 +1,10 @@
 {
-  "generated_at": "2026-09-02T14:08:23.228896Z",
-  "expires_at": "2026-09-03T14:08:23.228896Z",
+  "generated_at": "2026-09-02T19:14:52.748752Z",
+  "expires_at": "2026-09-03T19:14:52.748752Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "EN MAR ABIERTO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
-      "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.113,
-      "releaseDate": "2026-04-30",
-      "duration": "107 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
-      "showtimes": {
-        "Miércoles 2 de septiembre": [
-          "19:30"
-        ]
-      }
-    },
-    {
-      "title": "INSIDIOUS: FUERA DEL MÁS ALLÁ",
+      "title": "INSIDIOUS FUERA DEL MÁS ALLÁ",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
@@ -34,22 +19,7 @@
       }
     },
     {
-      "title": "MARSUPILAMI",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kMhVs1XqmzXlD0mDQ4rTJh4Kvf1.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
-      "overview": "David debe entregar un paquete desde Sudamérica y descubre que transporta un bebé Marsupilami.",
-      "rating": 6.371,
-      "releaseDate": "2026-02-04",
-      "duration": "99 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=XTTvrfMVukc",
-      "showtimes": {
-        "Miércoles 2 de septiembre": [
-          "17:30"
-        ]
-      }
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY",
+      "title": "SPIDER-MAN BRAND NEW DAY",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -60,22 +30,6 @@
       "showtimes": {
         "Miércoles 2 de septiembre": [
           "21:30"
-        ]
-      }
-    },
-    {
-      "title": "TADEO JONES Y LA LÁMPARA MARAVILLOSA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
-      "overview": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "rating": 6.5,
-      "releaseDate": "2026-08-26",
-      "duration": "94 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 2 de septiembre": [
-          "18:00",
-          "19:55"
         ]
       }
     }
