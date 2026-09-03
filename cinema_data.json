@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T22:24:43.328037Z",
-  "expires_at": "2026-09-03T22:24:43.328037Z",
+  "generated_at": "2026-09-03T03:19:37.996423Z",
+  "expires_at": "2026-09-04T03:19:37.996423Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.097,
+      "rating": 7.105,
       "releaseDate": "2026-04-30",
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
@@ -29,7 +29,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 6.617,
+      "rating": 6.589,
       "releaseDate": "2026-08-19",
       "duration": "106 min",
       "trailerUrl": null,
