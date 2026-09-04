@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T14:02:32.581198Z",
-  "expires_at": "2026-09-05T14:02:32.581198Z",
+  "generated_at": "2026-09-04T18:51:24.713306Z",
+  "expires_at": "2026-09-05T18:51:24.713306Z",
   "version": "1.0",
   "movies": [
     {
@@ -40,7 +40,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
       "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.908,
+      "rating": 6.9,
       "releaseDate": "2026-05-16",
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
@@ -73,9 +73,6 @@
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
       "showtimes": {
-        "Viernes 4 de septiembre": [
-          "20:00"
-        ],
         "Domingo 6 de septiembre": [
           "18:00"
         ],
@@ -94,9 +91,6 @@
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 4 de septiembre": [
-          "19:00"
-        ],
         "Sábado 5 de septiembre": [
           "17:30",
           "19:30"
@@ -142,7 +136,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.878,
+      "rating": 7.874,
       "releaseDate": "2026-07-29",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
