@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T03:21:07.853367Z",
-  "expires_at": "2026-09-06T03:21:07.853367Z",
+  "generated_at": "2026-09-05T08:07:58.174478Z",
+  "expires_at": "2026-09-06T08:07:58.174478Z",
   "version": "1.0",
   "movies": [
     {
@@ -58,20 +58,20 @@
       }
     },
     {
-      "title": "EN MAR ABIERTO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
-      "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.1,
-      "releaseDate": "2026-04-30",
-      "duration": "107 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
+      "title": "INSIDIOUS: FUERA DEL MÁS ALLÁ",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+      "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
+      "rating": 6.534,
+      "releaseDate": "2026-08-19",
+      "duration": "106 min",
+      "trailerUrl": null,
       "showtimes": {
-        "Domingo 6 de septiembre": [
-          "18:00"
+        "Sábado 5 de septiembre": [
+          "20:00"
         ],
         "Lunes 7 de septiembre": [
-          "18:00"
+          "22:00"
         ]
       }
     },
@@ -108,20 +108,20 @@
       }
     },
     {
-      "title": "INSIDIOUS: FUERA DEL MÁS ALLÁ",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-      "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 6.534,
-      "releaseDate": "2026-08-19",
-      "duration": "106 min",
-      "trailerUrl": null,
+      "title": "EN MAR ABIERTO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+      "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+      "rating": 7.119,
+      "releaseDate": "2026-04-30",
+      "duration": "107 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
       "showtimes": {
-        "Sábado 5 de septiembre": [
-          "20:00"
+        "Domingo 6 de septiembre": [
+          "18:00"
         ],
         "Lunes 7 de septiembre": [
-          "22:00"
+          "18:00"
         ]
       }
     },
@@ -130,7 +130,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.869,
+      "rating": 7.9,
       "releaseDate": "2026-07-29",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
