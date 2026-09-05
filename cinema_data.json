@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T08:07:58.174478Z",
-  "expires_at": "2026-09-06T08:07:58.174478Z",
+  "generated_at": "2026-09-05T13:16:34.140043Z",
+  "expires_at": "2026-09-06T13:16:34.140043Z",
   "version": "1.0",
   "movies": [
     {
@@ -37,7 +37,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
       "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.836,
+      "rating": 6.871,
       "releaseDate": "2026-05-16",
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
@@ -146,9 +146,9 @@
     {
       "title": "LA ODISEA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 7.999,
+      "rating": 7.998,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": "https://www.youtube.com/watch?v=X9nUrOnHlz0",
