@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T13:16:34.140043Z",
-  "expires_at": "2026-09-06T13:16:34.140043Z",
+  "generated_at": "2026-09-05T16:34:37.308142Z",
+  "expires_at": "2026-09-06T16:34:37.308142Z",
   "version": "1.0",
   "movies": [
     {
@@ -14,7 +14,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Sábado 5 de septiembre": [
-          "18:00",
           "22:00"
         ],
         "Domingo 6 de septiembre": [
@@ -37,7 +36,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
       "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.871,
+      "rating": 6.9,
       "releaseDate": "2026-05-16",
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
@@ -62,7 +61,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 6.534,
+      "rating": 6.529,
       "releaseDate": "2026-08-19",
       "duration": "106 min",
       "trailerUrl": null,
@@ -86,7 +85,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Sábado 5 de septiembre": [
-          "17:30",
           "19:30"
         ],
         "Domingo 6 de septiembre": [
