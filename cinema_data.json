@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T20:00:53.951608Z",
-  "expires_at": "2026-09-06T20:00:53.951608Z",
+  "generated_at": "2026-09-05T23:35:31.190223Z",
+  "expires_at": "2026-09-06T23:35:31.190223Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 5 de septiembre": [
-          "22:00"
-        ],
         "Domingo 6 de septiembre": [
           "20:00",
           "22:00"
@@ -36,7 +33,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
       "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.9,
+      "rating": 6.873,
       "releaseDate": "2026-05-16",
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
@@ -73,7 +70,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
       "overview": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "rating": 6.5,
+      "rating": 6.556,
       "releaseDate": "2026-08-26",
       "duration": "94 min",
       "trailerUrl": null,
