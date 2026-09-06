@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T13:27:47.990155Z",
-  "expires_at": "2026-09-07T13:27:47.990155Z",
+  "generated_at": "2026-09-06T16:44:05.047449Z",
+  "expires_at": "2026-09-07T16:44:05.047449Z",
   "version": "1.0",
   "movies": [
     {
@@ -33,7 +33,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
       "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.92,
+      "rating": 6.964,
       "releaseDate": "2026-05-16",
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
@@ -55,14 +55,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.119,
+      "rating": 7.114,
       "releaseDate": "2026-04-30",
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
       "showtimes": {
-        "Domingo 6 de septiembre": [
-          "18:00"
-        ],
         "Lunes 7 de septiembre": [
           "18:00"
         ]
@@ -79,7 +76,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Domingo 6 de septiembre": [
-          "17:00",
           "19:00"
         ],
         "Lunes 7 de septiembre": [
@@ -134,7 +130,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 7.999,
+      "rating": 7.998,
       "releaseDate": "2026-07-15",
       "duration": "173 min",
       "trailerUrl": "https://www.youtube.com/watch?v=X9nUrOnHlz0",
