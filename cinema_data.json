@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T23:33:55.512502Z",
-  "expires_at": "2026-09-07T23:33:55.512502Z",
+  "generated_at": "2026-09-07T03:19:36.740954Z",
+  "expires_at": "2026-09-08T03:19:36.740954Z",
   "version": "1.0",
   "movies": [
     {
@@ -87,7 +87,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "overview": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 6.509,
+      "rating": 6.504,
       "releaseDate": "2026-08-19",
       "duration": "106 min",
       "trailerUrl": null,
