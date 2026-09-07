@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T15:32:33.450037Z",
-  "expires_at": "2026-09-08T15:32:33.450037Z",
+  "generated_at": "2026-09-07T19:38:02.654248Z",
+  "expires_at": "2026-09-08T19:38:02.654248Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,29 +13,11 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 7 de septiembre": [
-          "20:00"
-        ],
         "Martes 8 de septiembre": [
           "19:00"
         ],
         "Miércoles 9 de septiembre": [
           "20:15"
-        ]
-      }
-    },
-    {
-      "title": "EN MAR ABIERTO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
-      "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.109,
-      "releaseDate": "2026-04-30",
-      "duration": "107 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
-      "showtimes": {
-        "Lunes 7 de septiembre": [
-          "18:00"
         ]
       }
     },
@@ -82,10 +64,6 @@
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 7 de septiembre": [
-          "17:30",
-          "19:30"
-        ],
         "Martes 8 de septiembre": [
           "17:00",
           "19:00"
