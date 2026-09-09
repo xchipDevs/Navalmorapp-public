@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-09-09T14:12:41.883014Z",
-  "expires_at": "2026-09-10T14:12:41.883014Z",
+  "generated_at": "2026-09-09T19:06:45.631060Z",
+  "expires_at": "2026-09-10T19:06:45.631060Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "CRONOS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/vLdqmucUqbolrjQbwncr4Po25Eq.jpg",
-      "overview": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
-      "rating": 5.0,
-      "releaseDate": "2026-09-04",
-      "duration": null,
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 9 de septiembre": [
-          "20:15"
-        ]
-      }
-    },
     {
       "title": "EL SER QUERIDO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
@@ -29,7 +14,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
       "showtimes": {
         "Miércoles 9 de septiembre": [
-          "17:55",
           "22:15"
         ]
       }
@@ -39,29 +23,13 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.863,
+      "rating": 7.862,
       "releaseDate": "2026-07-29",
       "duration": "144 min",
       "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
       "showtimes": {
         "Miércoles 9 de septiembre": [
           "21:00"
-        ]
-      }
-    },
-    {
-      "title": "TADEO JONES Y LA LÁMPARA MARAVILLOSA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
-      "overview": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "rating": 6.556,
-      "releaseDate": "2026-08-26",
-      "duration": "94 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 9 de septiembre": [
-          "17:00",
-          "19:00"
         ]
       }
     }
