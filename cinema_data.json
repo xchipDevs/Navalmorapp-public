@@ -1,16 +1,104 @@
 {
-  "generated_at": "2026-09-10T03:28:21.550455Z",
-  "expires_at": "2026-09-11T03:28:21.550455Z",
+  "generated_at": "2026-09-10T08:42:15.515639Z",
+  "expires_at": "2026-09-11T08:42:15.515639Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "Un plan perfecto",
+      "title": "CRONOS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/vLdqmucUqbolrjQbwncr4Po25Eq.jpg",
+      "overview": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
+      "rating": 5.5,
+      "releaseDate": "2026-09-04",
+      "duration": null,
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 11 de septiembre": [
+          "22:30"
+        ],
+        "Sábado 12 de septiembre": [
+          "19:45"
+        ],
+        "Domingo 13 de septiembre": [
+          "21:15"
+        ],
+        "Martes 15 de septiembre": [
+          "20:00"
+        ],
+        "Miércoles 16 de septiembre": [
+          "17:30"
+        ]
+      }
+    },
+    {
+      "title": "EL SER QUERIDO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
+      "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
+      "rating": 7.0,
+      "releaseDate": "2026-05-16",
+      "duration": "135 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
+      "showtimes": {
+        "Viernes 11 de septiembre": [
+          "20:00"
+        ],
+        "Sábado 12 de septiembre": [
+          "17:30",
+          "22:15"
+        ],
+        "Domingo 13 de septiembre": [
+          "18:30"
+        ],
+        "Lunes 14 de septiembre": [
+          "19:00"
+        ],
+        "Martes 15 de septiembre": [
+          "22:00"
+        ],
+        "Miércoles 16 de septiembre": [
+          "19:30"
+        ]
+      }
+    },
+    {
+      "title": "TADEO JONES Y LA LÁMPARA MARAVILLOSA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
+      "overview": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "rating": 6.556,
+      "releaseDate": "2026-08-26",
+      "duration": "94 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 11 de septiembre": [
+          "19:00"
+        ],
+        "Sábado 12 de septiembre": [
+          "18:00"
+        ],
+        "Domingo 13 de septiembre": [
+          "17:30"
+        ],
+        "Lunes 14 de septiembre": [
+          "18:30"
+        ],
+        "Martes 15 de septiembre": [
+          "19:00"
+        ],
+        "Miércoles 16 de septiembre": [
+          "18:00"
+        ]
+      }
+    },
+    {
+      "title": "UN PLAN PERFECTO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
       "backdropUrl": null,
       "overview": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
       "rating": 0.0,
       "releaseDate": "2026-09-11",
-      "duration": "93 minutos",
+      "duration": null,
       "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
       "showtimes": {
         "Viernes 11 de septiembre": [
@@ -39,111 +127,13 @@
       }
     },
     {
-      "title": "El Ser Querido",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
-      "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.993,
-      "releaseDate": "2026-05-16",
-      "duration": "135 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
-      "showtimes": {
-        "Miércoles 9 de septiembre": [
-          "18:00"
-        ],
-        "Viernes 11 de septiembre": [
-          "20:00"
-        ],
-        "Sábado 12 de septiembre": [
-          "17:30",
-          "22:15"
-        ],
-        "Domingo 13 de septiembre": [
-          "18:30"
-        ],
-        "Lunes 14 de septiembre": [
-          "19:00"
-        ],
-        "Martes 15 de septiembre": [
-          "22:00"
-        ],
-        "Miércoles 16 de septiembre": [
-          "19:30"
-        ]
-      }
-    },
-    {
-      "title": "Cronos",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/vLdqmucUqbolrjQbwncr4Po25Eq.jpg",
-      "overview": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
-      "rating": 5.0,
-      "releaseDate": "2026-09-04",
-      "duration": "No especificada",
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 9 de septiembre": [
-          "20:15"
-        ],
-        "Viernes 11 de septiembre": [
-          "22:30"
-        ],
-        "Sábado 12 de septiembre": [
-          "19:45"
-        ],
-        "Domingo 13 de septiembre": [
-          "21:15"
-        ],
-        "Martes 15 de septiembre": [
-          "20:00"
-        ],
-        "Miércoles 16 de septiembre": [
-          "17:30"
-        ]
-      }
-    },
-    {
-      "title": "Tadeo Jones y la lámpara maravillosa",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/oG5kozJWLzevTrAPovtdnhCFo21.jpg",
-      "overview": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "rating": 6.556,
-      "releaseDate": "2026-08-26",
-      "duration": "No especificada",
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 9 de septiembre": [
-          "17:00",
-          "19:00"
-        ],
-        "Viernes 11 de septiembre": [
-          "19:00"
-        ],
-        "Sábado 12 de septiembre": [
-          "18:00"
-        ],
-        "Domingo 13 de septiembre": [
-          "17:30"
-        ],
-        "Lunes 14 de septiembre": [
-          "18:30"
-        ],
-        "Martes 15 de septiembre": [
-          "19:00"
-        ],
-        "Miércoles 16 de septiembre": [
-          "18:00"
-        ]
-      }
-    },
-    {
-      "title": "En Mar Abierto",
+      "title": "EN MAR ABIERTO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
       "rating": 7.1,
       "releaseDate": "2026-04-30",
-      "duration": "110 min",
+      "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
       "showtimes": {
         "Lunes 14 de septiembre": [
@@ -154,21 +144,6 @@
         ],
         "Miércoles 16 de septiembre": [
           "22:00"
-        ]
-      }
-    },
-    {
-      "title": "Spider-Man Un nuevo día",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "overview": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.9,
-      "releaseDate": "2026-07-29",
-      "duration": "144 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=o8EccyRIwQQ",
-      "showtimes": {
-        "Miércoles 9 de septiembre": [
-          "21:00"
         ]
       }
     }
