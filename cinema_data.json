@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T14:05:56.152778Z",
-  "expires_at": "2026-09-12T14:05:56.152778Z",
+  "generated_at": "2026-09-11T19:00:32.409044Z",
+  "expires_at": "2026-09-12T19:00:32.409044Z",
   "version": "1.0",
   "movies": [
     {
@@ -10,7 +10,7 @@
       "overview": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
       "rating": 5.5,
       "releaseDate": "2026-09-04",
-      "duration": null,
+      "duration": "118 min",
       "trailerUrl": null,
       "showtimes": {
         "Viernes 11 de septiembre": [
@@ -35,14 +35,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
       "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.903,
+      "rating": 6.9,
       "releaseDate": "2026-05-16",
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
       "showtimes": {
-        "Viernes 11 de septiembre": [
-          "20:00"
-        ],
         "Sábado 12 de septiembre": [
           "17:30",
           "22:15"
@@ -71,9 +68,6 @@
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 11 de septiembre": [
-          "19:00"
-        ],
         "Sábado 12 de septiembre": [
           "18:00"
         ],
@@ -98,11 +92,10 @@
       "overview": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
       "rating": 0.0,
       "releaseDate": "2026-09-11",
-      "duration": null,
+      "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
       "showtimes": {
         "Viernes 11 de septiembre": [
-          "20:30",
           "22:15"
         ],
         "Sábado 12 de septiembre": [
@@ -131,7 +124,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.127,
+      "rating": 7.1,
       "releaseDate": "2026-04-30",
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
