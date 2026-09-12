@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T22:17:52.906977Z",
-  "expires_at": "2026-09-12T22:17:52.906977Z",
+  "generated_at": "2026-09-12T03:31:03.053066Z",
+  "expires_at": "2026-09-13T03:31:03.053066Z",
   "version": "1.0",
   "movies": [
     {
@@ -87,7 +87,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
       "backdropUrl": null,
       "overview": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
-      "rating": 0.0,
+      "rating": 10.0,
       "releaseDate": "2026-09-11",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
