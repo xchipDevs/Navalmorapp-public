@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T20:16:27.022269Z",
-  "expires_at": "2026-09-13T20:16:27.022269Z",
+  "generated_at": "2026-09-12T23:48:21.349019Z",
+  "expires_at": "2026-09-13T23:48:21.349019Z",
   "version": "1.0",
   "movies": [
     {
@@ -34,9 +34,6 @@
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
       "showtimes": {
-        "Sábado 12 de septiembre": [
-          "22:15"
-        ],
         "Domingo 13 de septiembre": [
           "18:30"
         ],
@@ -85,9 +82,6 @@
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
       "showtimes": {
-        "Sábado 12 de septiembre": [
-          "22:00"
-        ],
         "Domingo 13 de septiembre": [
           "19:15",
           "21:00"
