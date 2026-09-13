@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T14:07:02.275754Z",
-  "expires_at": "2026-09-14T14:07:02.275754Z",
+  "generated_at": "2026-09-13T18:34:42.737585Z",
+  "expires_at": "2026-09-14T18:34:42.737585Z",
   "version": "1.0",
   "movies": [
     {
@@ -29,14 +29,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
       "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.865,
+      "rating": 6.9,
       "releaseDate": "2026-05-16",
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
       "showtimes": {
-        "Domingo 13 de septiembre": [
-          "18:30"
-        ],
         "Lunes 14 de septiembre": [
           "19:00"
         ],
@@ -58,9 +55,6 @@
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 13 de septiembre": [
-          "17:30"
-        ],
         "Lunes 14 de septiembre": [
           "18:30"
         ],
@@ -83,7 +77,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
       "showtimes": {
         "Domingo 13 de septiembre": [
-          "19:15",
           "21:00"
         ],
         "Lunes 14 de septiembre": [
