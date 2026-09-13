@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T18:34:42.737585Z",
-  "expires_at": "2026-09-14T18:34:42.737585Z",
+  "generated_at": "2026-09-13T22:10:02.435496Z",
+  "expires_at": "2026-09-14T22:10:02.435496Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,14 +8,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vLdqmucUqbolrjQbwncr4Po25Eq.jpg",
       "overview": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
-      "rating": 5.5,
+      "rating": 5.667,
       "releaseDate": "2026-09-04",
       "duration": "118 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 13 de septiembre": [
-          "21:15"
-        ],
         "Martes 15 de septiembre": [
           "20:00"
         ],
@@ -29,7 +26,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
       "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.9,
+      "rating": 6.856,
       "releaseDate": "2026-05-16",
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
@@ -76,9 +73,6 @@
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
       "showtimes": {
-        "Domingo 13 de septiembre": [
-          "21:00"
-        ],
         "Lunes 14 de septiembre": [
           "20:00",
           "22:00"
