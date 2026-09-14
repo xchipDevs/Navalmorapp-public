@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T16:11:25.460846Z",
-  "expires_at": "2026-09-15T16:11:25.460846Z",
+  "generated_at": "2026-09-14T21:34:42.967589Z",
+  "expires_at": "2026-09-15T21:34:42.967589Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
       "showtimes": {
-        "Lunes 14 de septiembre": [
-          "19:00"
-        ],
         "Martes 15 de septiembre": [
           "22:00"
         ],
@@ -34,9 +31,6 @@
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
       "showtimes": {
-        "Lunes 14 de septiembre": [
-          "21:30"
-        ],
         "Martes 15 de septiembre": [
           "18:00"
         ],
@@ -55,9 +49,6 @@
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 14 de septiembre": [
-          "18:30"
-        ],
         "Martes 15 de septiembre": [
           "19:00"
         ],
@@ -76,10 +67,6 @@
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
       "showtimes": {
-        "Lunes 14 de septiembre": [
-          "20:00",
-          "22:00"
-        ],
         "Martes 15 de septiembre": [
           "21:00"
         ],
