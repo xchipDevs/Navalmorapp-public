@@ -1,26 +1,8 @@
 {
-  "generated_at": "2026-09-14T03:46:35.391505Z",
-  "expires_at": "2026-09-15T03:46:35.391505Z",
+  "generated_at": "2026-09-14T09:38:00.046716Z",
+  "expires_at": "2026-09-15T09:38:00.046716Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "CRONOS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/vLdqmucUqbolrjQbwncr4Po25Eq.jpg",
-      "overview": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
-      "rating": 5.75,
-      "releaseDate": "2026-09-04",
-      "duration": "118 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Martes 15 de septiembre": [
-          "20:00"
-        ],
-        "Miércoles 16 de septiembre": [
-          "17:30"
-        ]
-      }
-    },
     {
       "title": "EL SER QUERIDO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
@@ -39,6 +21,27 @@
         ],
         "Miércoles 16 de septiembre": [
           "19:30"
+        ]
+      }
+    },
+    {
+      "title": "EN MAR ABIERTO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+      "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+      "rating": 7.106,
+      "releaseDate": "2026-04-30",
+      "duration": "107 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
+      "showtimes": {
+        "Lunes 14 de septiembre": [
+          "21:30"
+        ],
+        "Martes 15 de septiembre": [
+          "18:00"
+        ],
+        "Miércoles 16 de septiembre": [
+          "22:00"
         ]
       }
     },
@@ -87,23 +90,20 @@
       }
     },
     {
-      "title": "EN MAR ABIERTO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
-      "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.107,
-      "releaseDate": "2026-04-30",
-      "duration": "107 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
+      "title": "CRONOS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/vLdqmucUqbolrjQbwncr4Po25Eq.jpg",
+      "overview": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
+      "rating": 5.75,
+      "releaseDate": "2026-09-04",
+      "duration": "118 min",
+      "trailerUrl": null,
       "showtimes": {
-        "Lunes 14 de septiembre": [
-          "21:30"
-        ],
         "Martes 15 de septiembre": [
-          "18:00"
+          "20:00"
         ],
         "Miércoles 16 de septiembre": [
-          "22:00"
+          "17:30"
         ]
       }
     }
