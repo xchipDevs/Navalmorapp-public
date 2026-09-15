@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T17:58:14.891653Z",
-  "expires_at": "2026-09-16T17:58:14.891653Z",
+  "generated_at": "2026-09-15T21:11:33.620894Z",
+  "expires_at": "2026-09-16T21:11:33.620894Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "118 min",
       "trailerUrl": null,
       "showtimes": {
-        "Martes 15 de septiembre": [
-          "20:00"
-        ],
         "Miércoles 16 de septiembre": [
           "17:30"
         ]
@@ -31,9 +28,6 @@
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
       "showtimes": {
-        "Martes 15 de septiembre": [
-          "22:00"
-        ],
         "Miércoles 16 de septiembre": [
           "19:30"
         ]
@@ -44,7 +38,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
       "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.132,
+      "rating": 7.141,
       "releaseDate": "2026-04-30",
       "duration": "107 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
@@ -79,9 +73,6 @@
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
       "showtimes": {
-        "Martes 15 de septiembre": [
-          "21:00"
-        ],
         "Miércoles 16 de septiembre": [
           "19:45",
           "21:30"
