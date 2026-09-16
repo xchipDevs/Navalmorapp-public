@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T16:17:48.019810Z",
-  "expires_at": "2026-09-17T16:17:48.019810Z",
+  "generated_at": "2026-09-16T20:57:55.729862Z",
+  "expires_at": "2026-09-17T20:57:55.729862Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,23 +13,14 @@
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
       "showtimes": {
-        "Miércoles 16 de septiembre": [
-          "19:30"
-        ]
-      }
-    },
-    {
-      "title": "EN MAR ABIERTO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/szKv713FcUXx6hcfdY369vtkmzr.jpg",
-      "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-      "rating": 7.173,
-      "releaseDate": "2026-04-30",
-      "duration": "107 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=wtTgTP-liyQ",
-      "showtimes": {
-        "Miércoles 16 de septiembre": [
-          "22:00"
+        "Sábado 19 de septiembre": [
+          "18:00"
+        ],
+        "Domingo 20 de septiembre": [
+          "20:30"
+        ],
+        "Martes 22 de septiembre": [
+          "19:00"
         ]
       }
     },
@@ -43,7 +34,13 @@
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
-        "Miércoles 16 de septiembre": [
+        "Viernes 18 de septiembre": [
+          "18:30"
+        ],
+        "Sábado 19 de septiembre": [
+          "18:30"
+        ],
+        "Domingo 20 de septiembre": [
           "18:00"
         ]
       }
@@ -58,9 +55,72 @@
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
       "showtimes": {
-        "Miércoles 16 de septiembre": [
-          "19:45",
+        "Viernes 18 de septiembre": [
+          "19:30"
+        ],
+        "Sábado 19 de septiembre": [
+          "20:30"
+        ],
+        "Lunes 21 de septiembre": [
           "21:30"
+        ]
+      }
+    },
+    {
+      "title": "COYOTE VS ACME",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "rating": 7.583,
+      "releaseDate": "2026-08-20",
+      "duration": "103 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
+      "showtimes": {
+        "Viernes 18 de septiembre": [
+          "21:30"
+        ],
+        "Sábado 19 de septiembre": [
+          "22:15"
+        ],
+        "Domingo 20 de septiembre": [
+          "18:30"
+        ],
+        "Lunes 21 de septiembre": [
+          "19:30"
+        ],
+        "Martes 22 de septiembre": [
+          "21:00"
+        ]
+      }
+    },
+    {
+      "title": "RESIDENT EVIL",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 8.4,
+      "releaseDate": "2026-09-16",
+      "duration": "93 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
+      "showtimes": {
+        "Viernes 18 de septiembre": [
+          "20:00",
+          "22:00"
+        ],
+        "Sábado 19 de septiembre": [
+          "20:00",
+          "22:00"
+        ],
+        "Domingo 20 de septiembre": [
+          "19:30",
+          "21:30"
+        ],
+        "Lunes 21 de septiembre": [
+          "19:30",
+          "21:30"
+        ],
+        "Martes 22 de septiembre": [
+          "18:30"
         ]
       }
     }
