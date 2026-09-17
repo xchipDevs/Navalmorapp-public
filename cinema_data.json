@@ -1,26 +1,71 @@
 {
-  "generated_at": "2026-09-17T00:10:07.107230Z",
-  "expires_at": "2026-09-18T00:10:07.107230Z",
+  "generated_at": "2026-09-17T07:15:42.453836Z",
+  "expires_at": "2026-09-18T07:15:42.453836Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "EL SER QUERIDO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
-      "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.9,
-      "releaseDate": "2026-05-16",
-      "duration": "135 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
+      "title": "COYOTE VS ACME",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "rating": 7.586,
+      "releaseDate": "2026-08-20",
+      "duration": "103 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
       "showtimes": {
+        "Viernes 18 de septiembre": [
+          "21:30"
+        ],
         "Sábado 19 de septiembre": [
-          "18:00"
+          "22:15"
         ],
         "Domingo 20 de septiembre": [
-          "20:30"
+          "18:30"
+        ],
+        "Lunes 21 de septiembre": [
+          "19:30"
         ],
         "Martes 22 de septiembre": [
-          "19:00"
+          "21:00"
+        ],
+        "Miércoles 23 de septiembre": [
+          "18:00",
+          "22:15"
+        ]
+      }
+    },
+    {
+      "title": "RESIDENT EVIL",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+      "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 8.1,
+      "releaseDate": "2026-09-16",
+      "duration": "93 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
+      "showtimes": {
+        "Viernes 18 de septiembre": [
+          "20:00",
+          "22:00"
+        ],
+        "Sábado 19 de septiembre": [
+          "20:00",
+          "22:00"
+        ],
+        "Domingo 20 de septiembre": [
+          "19:30",
+          "21:30"
+        ],
+        "Lunes 21 de septiembre": [
+          "19:30",
+          "21:30"
+        ],
+        "Martes 22 de septiembre": [
+          "18:30"
+        ],
+        "Miércoles 23 de septiembre": [
+          "19:30",
+          "21:30"
         ]
       }
     },
@@ -41,6 +86,9 @@
           "18:30"
         ],
         "Domingo 20 de septiembre": [
+          "18:00"
+        ],
+        "Miércoles 23 de septiembre": [
           "18:00"
         ]
       }
@@ -67,60 +115,26 @@
       }
     },
     {
-      "title": "COYOTE VS ACME",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-      "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.583,
-      "releaseDate": "2026-08-20",
-      "duration": "103 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
+      "title": "EL SER QUERIDO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
+      "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
+      "rating": 6.9,
+      "releaseDate": "2026-05-16",
+      "duration": "135 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
       "showtimes": {
-        "Viernes 18 de septiembre": [
-          "21:30"
-        ],
         "Sábado 19 de septiembre": [
-          "22:15"
+          "18:00"
         ],
         "Domingo 20 de septiembre": [
-          "18:30"
-        ],
-        "Lunes 21 de septiembre": [
-          "19:30"
+          "20:30"
         ],
         "Martes 22 de septiembre": [
-          "21:00"
-        ]
-      }
-    },
-    {
-      "title": "RESIDENT EVIL",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 8.4,
-      "releaseDate": "2026-09-16",
-      "duration": "93 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
-      "showtimes": {
-        "Viernes 18 de septiembre": [
-          "20:00",
-          "22:00"
+          "19:00"
         ],
-        "Sábado 19 de septiembre": [
-          "20:00",
-          "22:00"
-        ],
-        "Domingo 20 de septiembre": [
-          "19:30",
-          "21:30"
-        ],
-        "Lunes 21 de septiembre": [
-          "19:30",
-          "21:30"
-        ],
-        "Martes 22 de septiembre": [
-          "18:30"
+        "Miércoles 23 de septiembre": [
+          "20:00"
         ]
       }
     }
