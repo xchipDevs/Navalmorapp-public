@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T14:08:36.745943Z",
-  "expires_at": "2026-09-19T14:08:36.745943Z",
+  "generated_at": "2026-09-18T18:55:00.024081Z",
+  "expires_at": "2026-09-19T18:55:00.024081Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
       "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.541,
+      "rating": 7.542,
       "releaseDate": "2026-08-20",
       "duration": "103 min",
       "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
@@ -45,7 +45,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
       "showtimes": {
         "Viernes 18 de septiembre": [
-          "20:00",
           "22:00"
         ],
         "Sábado 19 de septiembre": [
@@ -79,9 +78,6 @@
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 18 de septiembre": [
-          "18:30"
-        ],
         "Sábado 19 de septiembre": [
           "18:30"
         ],
@@ -103,9 +99,6 @@
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
       "showtimes": {
-        "Viernes 18 de septiembre": [
-          "19:30"
-        ],
         "Sábado 19 de septiembre": [
           "20:30"
         ],
