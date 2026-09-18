@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T18:55:00.024081Z",
-  "expires_at": "2026-09-19T18:55:00.024081Z",
+  "generated_at": "2026-09-18T22:21:11.202806Z",
+  "expires_at": "2026-09-19T22:21:11.202806Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "103 min",
       "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
       "showtimes": {
-        "Viernes 18 de septiembre": [
-          "21:30"
-        ],
         "Sábado 19 de septiembre": [
           "22:15"
         ],
@@ -39,14 +36,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
       "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.8,
+      "rating": 7.649,
       "releaseDate": "2026-09-16",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
       "showtimes": {
-        "Viernes 18 de septiembre": [
-          "22:00"
-        ],
         "Sábado 19 de septiembre": [
           "20:00",
           "22:00"
