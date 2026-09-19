@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T20:09:33.535292Z",
-  "expires_at": "2026-09-20T20:09:33.535292Z",
+  "generated_at": "2026-09-19T23:56:44.361925Z",
+  "expires_at": "2026-09-20T23:56:44.361925Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,14 +8,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
       "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.544,
+      "rating": 7.55,
       "releaseDate": "2026-08-20",
       "duration": "103 min",
       "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
       "showtimes": {
-        "Sábado 19 de septiembre": [
-          "22:15"
-        ],
         "Domingo 20 de septiembre": [
           "18:30"
         ],
@@ -36,7 +33,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
       "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.9,
+      "rating": 6.873,
       "releaseDate": "2026-05-16",
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
@@ -62,9 +59,6 @@
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
       "showtimes": {
-        "Sábado 19 de septiembre": [
-          "22:00"
-        ],
         "Domingo 20 de septiembre": [
           "19:30",
           "21:30"
