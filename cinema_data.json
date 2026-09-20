@@ -1,35 +1,31 @@
 {
-  "generated_at": "2026-09-20T15:35:36.949244Z",
-  "expires_at": "2026-09-21T15:35:36.949244Z",
+  "generated_at": "2026-09-20T18:31:37.824450Z",
+  "expires_at": "2026-09-21T18:31:37.824450Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "COYOTE VS ACME",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-      "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.6,
-      "releaseDate": "2026-08-20",
-      "duration": "103 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
+      "title": "Un plan perfecto",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
+      "backdropUrl": null,
+      "overview": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
+      "rating": 10.0,
+      "releaseDate": "2026-09-11",
+      "duration": "93 minutos",
+      "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
       "showtimes": {
-        "Domingo 20 de septiembre": [
-          "18:30"
-        ],
-        "Lunes 21 de septiembre": [
+        "Viernes 18 de septiembre": [
           "19:30"
         ],
-        "Martes 22 de septiembre": [
-          "21:00"
+        "Sábado 19 de septiembre": [
+          "20:30"
         ],
-        "Miércoles 23 de septiembre": [
-          "18:00",
-          "22:15"
+        "Lunes 21 de septiembre": [
+          "21:30"
         ]
       }
     },
     {
-      "title": "EL SER QUERIDO",
+      "title": "El ser querido",
       "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
       "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
@@ -38,6 +34,9 @@
       "duration": "135 min",
       "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
       "showtimes": {
+        "Sábado 19 de septiembre": [
+          "18:00"
+        ],
         "Domingo 20 de septiembre": [
           "20:30"
         ],
@@ -50,15 +49,23 @@
       }
     },
     {
-      "title": "RESIDENT EVIL",
+      "title": "Resident Evil: Noche Cero",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
       "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.345,
+      "rating": 7.3,
       "releaseDate": "2026-09-16",
-      "duration": "93 min",
+      "duration": "93 minutos",
       "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
       "showtimes": {
+        "Viernes 18 de septiembre": [
+          "20:00",
+          "22:00"
+        ],
+        "Sábado 19 de septiembre": [
+          "20:00",
+          "22:00"
+        ],
         "Domingo 20 de septiembre": [
           "19:30",
           "21:30"
@@ -77,7 +84,7 @@
       }
     },
     {
-      "title": "TADEO JONES Y LA LÁMPARA MARAVILLOSA",
+      "title": "Tadeo Jones y la lámpara maravillosa",
       "posterUrl": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
       "overview": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
@@ -86,6 +93,12 @@
       "duration": "94 min",
       "trailerUrl": null,
       "showtimes": {
+        "Viernes 18 de septiembre": [
+          "18:30"
+        ],
+        "Sábado 19 de septiembre": [
+          "18:30"
+        ],
         "Domingo 20 de septiembre": [
           "18:00"
         ],
@@ -95,17 +108,48 @@
       }
     },
     {
-      "title": "UN PLAN PERFECTO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
-      "backdropUrl": null,
-      "overview": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
-      "rating": 10.0,
-      "releaseDate": "2026-09-11",
-      "duration": "93 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=6XW5F3a0wxo",
+      "title": "Hangar rojo",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4yZTw3bQ8jMWrlx5w3JWzkx8wls.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/7dvto6jc3R9w46uphDkupiLvqnv.jpg",
+      "overview": "Mientras el golpe militar de 1973 se despliega en Chile, el Capitán Jorge Silva se debate entre el deber y la conciencia cuando su escuela de aviación se transforma en un centro de detención.",
+      "rating": 7.864,
+      "releaseDate": "2026-05-08",
+      "duration": "82 minutos",
+      "trailerUrl": null,
       "showtimes": {
-        "Lunes 21 de septiembre": [
+        "Martes 22 de septiembre": [
+          "20:30"
+        ]
+      }
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "rating": 7.6,
+      "releaseDate": "2026-08-20",
+      "duration": "103 minutos",
+      "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
+      "showtimes": {
+        "Viernes 18 de septiembre": [
           "21:30"
+        ],
+        "Sábado 19 de septiembre": [
+          "22:15"
+        ],
+        "Domingo 20 de septiembre": [
+          "18:30"
+        ],
+        "Lunes 21 de septiembre": [
+          "19:30"
+        ],
+        "Martes 22 de septiembre": [
+          "21:00"
+        ],
+        "Miércoles 23 de septiembre": [
+          "18:00",
+          "22:15"
         ]
       }
     }
