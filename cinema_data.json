@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T00:04:00.986360Z",
-  "expires_at": "2026-09-24T00:04:00.986360Z",
+  "generated_at": "2026-09-23T07:27:48.025711Z",
+  "expires_at": "2026-09-24T07:27:48.025711Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
       "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.5,
+      "rating": 7.533,
       "releaseDate": "2026-08-20",
       "duration": "103 min",
       "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
@@ -39,7 +39,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.331,
+      "rating": 7.301,
       "releaseDate": "2026-09-16",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
