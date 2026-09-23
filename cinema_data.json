@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T13:24:40.544211Z",
-  "expires_at": "2026-09-24T13:24:40.544211Z",
+  "generated_at": "2026-09-23T18:16:49.985174Z",
+  "expires_at": "2026-09-24T18:16:49.985174Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,13 +8,12 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
       "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.521,
+      "rating": 7.548,
       "releaseDate": "2026-08-20",
       "duration": "103 min",
       "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
       "showtimes": {
         "Miércoles 23 de septiembre": [
-          "18:00",
           "22:15"
         ]
       }
@@ -39,29 +38,13 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.313,
+      "rating": 7.332,
       "releaseDate": "2026-09-16",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
       "showtimes": {
         "Miércoles 23 de septiembre": [
-          "19:30",
           "21:30"
-        ]
-      }
-    },
-    {
-      "title": "TADEO JONES Y LA LÁMPARA MARAVILLOSA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
-      "overview": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "rating": 6.5,
-      "releaseDate": "2026-08-26",
-      "duration": "94 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 23 de septiembre": [
-          "18:00"
         ]
       }
     }
