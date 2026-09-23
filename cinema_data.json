@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T18:16:49.985174Z",
-  "expires_at": "2026-09-24T18:16:49.985174Z",
+  "generated_at": "2026-09-23T22:45:18.389696Z",
+  "expires_at": "2026-09-24T22:45:18.389696Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,23 +13,11 @@
       "duration": "103 min",
       "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
       "showtimes": {
-        "Miércoles 23 de septiembre": [
-          "22:15"
-        ]
-      }
-    },
-    {
-      "title": "EL SER QUERIDO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
-      "overview": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "rating": 6.876,
-      "releaseDate": "2026-05-16",
-      "duration": "135 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=1Mwa_qonGyA",
-      "showtimes": {
-        "Miércoles 23 de septiembre": [
-          "20:00"
+        "Sábado 26 de septiembre": [
+          "17:00"
+        ],
+        "Domingo 27 de septiembre": [
+          "17:00"
         ]
       }
     },
@@ -38,13 +26,97 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.332,
+      "rating": 7.29,
       "releaseDate": "2026-09-16",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
       "showtimes": {
-        "Miércoles 23 de septiembre": [
+        "Viernes 25 de septiembre": [
+          "18:30"
+        ],
+        "Sábado 26 de septiembre": [
+          "22:00"
+        ],
+        "Domingo 27 de septiembre": [
+          "18:45"
+        ]
+      }
+    },
+    {
+      "title": "TADEO JONES Y LA LÁMPARA MARAVILLOSA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+      "overview": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "rating": 6.5,
+      "releaseDate": "2026-08-26",
+      "duration": "94 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 26 de septiembre": [
+          "17:00"
+        ],
+        "Domingo 27 de septiembre": [
+          "17:00"
+        ]
+      }
+    },
+    {
+      "title": "LA BOLA NEGRA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "rating": 0.0,
+      "releaseDate": "2026-09-25",
+      "duration": "155 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
+      "showtimes": {
+        "Viernes 25 de septiembre": [
+          "18:00",
+          "21:00"
+        ],
+        "Sábado 26 de septiembre": [
+          "19:00",
           "21:30"
+        ],
+        "Domingo 27 de septiembre": [
+          "19:00",
+          "21:30"
+        ],
+        "Lunes 28 de septiembre": [
+          "19:00",
+          "21:30"
+        ],
+        "Martes 29 de septiembre": [
+          "19:00",
+          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "VENGADORES: ENDGAME",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "rating": 8.2,
+      "releaseDate": "2019-04-24",
+      "duration": "181 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+      "showtimes": {
+        "Viernes 25 de septiembre": [
+          "20:30"
+        ],
+        "Sábado 26 de septiembre": [
+          "18:45"
+        ],
+        "Domingo 27 de septiembre": [
+          "21:00"
+        ],
+        "Lunes 28 de septiembre": [
+          "20:30"
+        ],
+        "Martes 29 de septiembre": [
+          "18:00",
+          "21:15"
         ]
       }
     }
