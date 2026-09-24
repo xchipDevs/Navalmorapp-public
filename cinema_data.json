@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T22:45:18.389696Z",
-  "expires_at": "2026-09-24T22:45:18.389696Z",
+  "generated_at": "2026-09-24T03:32:56.569466Z",
+  "expires_at": "2026-09-25T03:32:56.569466Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
       "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.548,
+      "rating": 7.556,
       "releaseDate": "2026-08-20",
       "duration": "103 min",
       "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
@@ -93,11 +93,11 @@
       }
     },
     {
-      "title": "VENGADORES: ENDGAME",
+      "title": "VENGADORES ENDGAME",
       "posterUrl": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "rating": 8.2,
+      "rating": 8.244,
       "releaseDate": "2019-04-24",
       "duration": "181 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
