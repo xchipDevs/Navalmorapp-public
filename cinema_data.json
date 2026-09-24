@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T19:50:19.898303Z",
-  "expires_at": "2026-09-25T19:50:19.898303Z",
+  "generated_at": "2026-09-24T23:03:24.787217Z",
+  "expires_at": "2026-09-25T23:03:24.787217Z",
   "version": "1.0",
   "movies": [
     {
@@ -44,7 +44,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.289,
+      "rating": 7.286,
       "releaseDate": "2026-09-16",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
