@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T09:26:19.410431Z",
-  "expires_at": "2026-09-26T09:26:19.410431Z",
+  "generated_at": "2026-09-25T15:01:55.218647Z",
+  "expires_at": "2026-09-26T15:01:55.218647Z",
   "version": "1.0",
   "movies": [
     {
@@ -44,7 +44,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.301,
+      "rating": 7.3,
       "releaseDate": "2026-09-16",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "title": "VENGADORES ENDGAME",
+      "title": "VENGADORES: ENDGAME",
       "posterUrl": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
