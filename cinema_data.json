@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-09-30T12:02:34.768218Z",
-  "expires_at": "2026-10-01T12:02:34.768218Z",
+  "generated_at": "2026-09-30T18:50:54.313934Z",
+  "expires_at": "2026-10-01T18:50:54.313934Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "COYOTE VS ACME",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-      "overview": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.566,
-      "releaseDate": "2026-08-17",
-      "duration": "103 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=WQRoa6l4bwI",
-      "showtimes": {
-        "Miércoles 30 de septiembre": [
-          "17:00"
-        ]
-      }
-    },
     {
       "title": "LA BOLA NEGRA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
@@ -29,38 +14,25 @@
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
         "Miércoles 30 de septiembre": [
+          "21:30"
+        ],
+        "Viernes 2 de octubre": [
+          "21:00"
+        ],
+        "Sábado 3 de octubre": [
+          "19:30",
+          "22:00"
+        ],
+        "Domingo 4 de octubre": [
           "19:00",
           "21:30"
-        ]
-      }
-    },
-    {
-      "title": "RESIDENT EVIL",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.3,
-      "releaseDate": "2026-09-16",
-      "duration": "93 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=d6oszs7f5aI",
-      "showtimes": {
-        "Miércoles 30 de septiembre": [
-          "18:30"
-        ]
-      }
-    },
-    {
-      "title": "TADEO JONES Y LA LÁMPARA MARAVILLOSA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
-      "overview": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "rating": 6.5,
-      "releaseDate": "2026-08-26",
-      "duration": "94 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 30 de septiembre": [
-          "17:00"
+        ],
+        "Lunes 5 de octubre": [
+          "20:00"
+        ],
+        "Martes 6 de octubre": [
+          "19:00",
+          "21:45"
         ]
       }
     },
@@ -69,13 +41,80 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "rating": 8.245,
+      "rating": 8.2,
       "releaseDate": "2019-04-24",
       "duration": "181 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
       "showtimes": {
         "Miércoles 30 de septiembre": [
           "21:00"
+        ],
+        "Sábado 3 de octubre": [
+          "18:55"
+        ],
+        "Domingo 4 de octubre": [
+          "21:30"
+        ],
+        "Martes 6 de octubre": [
+          "17:55"
+        ]
+      }
+    },
+    {
+      "title": "EN EL CORAZÓN DE LA BESTIA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "rating": 7.633,
+      "releaseDate": "2026-09-19",
+      "duration": "101 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
+      "showtimes": {
+        "Viernes 2 de octubre": [
+          "19:30",
+          "21:30"
+        ],
+        "Sábado 3 de octubre": [
+          "17:00",
+          "22:00"
+        ],
+        "Domingo 4 de octubre": [
+          "17:30",
+          "19:30"
+        ],
+        "Lunes 5 de octubre": [
+          "19:00",
+          "21:00"
+        ],
+        "Martes 6 de octubre": [
+          "21:00"
+        ]
+      }
+    },
+    {
+      "title": "LA ISLA OLVIDADA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "overview": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "rating": 8.2,
+      "releaseDate": "2026-09-10",
+      "duration": "109 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=uW2uWXiBpIs",
+      "showtimes": {
+        "Viernes 2 de octubre": [
+          "19:00"
+        ],
+        "Sábado 3 de octubre": [
+          "17:30"
+        ],
+        "Domingo 4 de octubre": [
+          "17:00"
+        ],
+        "Lunes 5 de octubre": [
+          "18:00"
+        ],
+        "Martes 6 de octubre": [
+          "17:00"
         ]
       }
     }
