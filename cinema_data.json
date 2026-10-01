@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-09-30T23:31:32.838794Z",
-  "expires_at": "2026-10-01T23:31:32.838794Z",
+  "generated_at": "2026-10-01T04:35:51.294143Z",
+  "expires_at": "2026-10-02T04:35:51.294143Z",
   "version": "1.0",
   "movies": [
+    {
+      "title": "EN EL CORAZÓN DE LA BESTIA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "rating": 7.602,
+      "releaseDate": "2026-09-19",
+      "duration": "101 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
+      "showtimes": {
+        "Viernes 2 de octubre": [
+          "19:30",
+          "21:30"
+        ],
+        "Sábado 3 de octubre": [
+          "17:00",
+          "22:00"
+        ],
+        "Domingo 4 de octubre": [
+          "17:30",
+          "19:30"
+        ],
+        "Lunes 5 de octubre": [
+          "19:00",
+          "21:00"
+        ],
+        "Martes 6 de octubre": [
+          "21:00"
+        ],
+        "Miércoles 7 de octubre": [
+          "17:30",
+          "19:30",
+          "21:30"
+        ]
+      }
+    },
     {
       "title": "LA BOLA NEGRA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
@@ -30,58 +66,10 @@
         "Martes 6 de octubre": [
           "19:00",
           "21:45"
-        ]
-      }
-    },
-    {
-      "title": "VENGADORES ENDGAME",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "rating": 8.2,
-      "releaseDate": "2019-04-24",
-      "duration": "181 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
-      "showtimes": {
-        "Sábado 3 de octubre": [
-          "18:55"
         ],
-        "Domingo 4 de octubre": [
-          "21:30"
-        ],
-        "Martes 6 de octubre": [
-          "17:55"
-        ]
-      }
-    },
-    {
-      "title": "EN EL CORAZÓN DE LA BESTIA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.633,
-      "releaseDate": "2026-09-19",
-      "duration": "101 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
-      "showtimes": {
-        "Viernes 2 de octubre": [
-          "19:30",
-          "21:30"
-        ],
-        "Sábado 3 de octubre": [
-          "17:00",
-          "22:00"
-        ],
-        "Domingo 4 de octubre": [
-          "17:30",
-          "19:30"
-        ],
-        "Lunes 5 de octubre": [
+        "Miércoles 7 de octubre": [
           "19:00",
-          "21:00"
-        ],
-        "Martes 6 de octubre": [
-          "21:00"
+          "21:45"
         ]
       }
     },
@@ -90,7 +78,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
       "overview": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "rating": 8.2,
+      "rating": 8.189,
       "releaseDate": "2026-09-10",
       "duration": "109 min",
       "trailerUrl": "https://www.youtube.com/watch?v=uW2uWXiBpIs",
@@ -109,6 +97,30 @@
         ],
         "Martes 6 de octubre": [
           "17:00"
+        ],
+        "Miércoles 7 de octubre": [
+          "17:00"
+        ]
+      }
+    },
+    {
+      "title": "VENGADORES ENDGAME",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "rating": 8.245,
+      "releaseDate": "2019-04-24",
+      "duration": "181 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
+      "showtimes": {
+        "Sábado 3 de octubre": [
+          "18:55"
+        ],
+        "Domingo 4 de octubre": [
+          "21:30"
+        ],
+        "Martes 6 de octubre": [
+          "17:55"
         ]
       }
     }
