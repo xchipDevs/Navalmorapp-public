@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T17:49:27.820184Z",
-  "expires_at": "2026-10-04T17:49:27.820184Z",
+  "generated_at": "2026-10-03T20:41:15.216262Z",
+  "expires_at": "2026-10-04T20:41:15.216262Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
       "showtimes": {
-        "Sábado 3 de octubre": [
-          "22:00"
-        ],
         "Domingo 4 de octubre": [
           "17:30",
           "19:30"
@@ -44,10 +41,6 @@
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Sábado 3 de octubre": [
-          "19:30",
-          "22:00"
-        ],
         "Domingo 4 de octubre": [
           "19:00",
           "21:30"
@@ -90,7 +83,7 @@
       }
     },
     {
-      "title": "VENGADORES: ENDGAME",
+      "title": "VENGADORES ENDGAME",
       "posterUrl": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
