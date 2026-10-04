@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T20:41:15.216262Z",
-  "expires_at": "2026-10-04T20:41:15.216262Z",
+  "generated_at": "2026-10-04T00:22:52.857468Z",
+  "expires_at": "2026-10-05T00:22:52.857468Z",
   "version": "1.0",
   "movies": [
     {
@@ -83,11 +83,11 @@
       }
     },
     {
-      "title": "VENGADORES ENDGAME",
+      "title": "VENGADORES: ENDGAME",
       "posterUrl": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "rating": 8.2,
+      "rating": 8.245,
       "releaseDate": "2019-04-24",
       "duration": "181 min",
       "trailerUrl": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
