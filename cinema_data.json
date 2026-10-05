@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T08:30:11.180047Z",
-  "expires_at": "2026-10-06T08:30:11.180047Z",
+  "generated_at": "2026-10-05T19:05:46.095437Z",
+  "expires_at": "2026-10-06T19:05:46.095437Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,13 +8,12 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.548,
+      "rating": 7.532,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
       "showtimes": {
         "Lunes 5 de octubre": [
-          "19:00",
           "21:00"
         ],
         "Martes 6 de octubre": [
@@ -37,9 +36,6 @@
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Lunes 5 de octubre": [
-          "20:00"
-        ],
         "Martes 6 de octubre": [
           "19:00",
           "21:45"
@@ -55,14 +51,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
       "overview": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "rating": 8.256,
+      "rating": 8.2,
       "releaseDate": "2026-09-10",
       "duration": "109 min",
       "trailerUrl": "https://www.youtube.com/watch?v=uW2uWXiBpIs",
       "showtimes": {
-        "Lunes 5 de octubre": [
-          "18:00"
-        ],
         "Martes 6 de octubre": [
           "17:00"
         ],
