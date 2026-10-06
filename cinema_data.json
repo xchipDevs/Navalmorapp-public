@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T19:05:46.095437Z",
-  "expires_at": "2026-10-06T19:05:46.095437Z",
+  "generated_at": "2026-10-06T01:09:45.778419Z",
+  "expires_at": "2026-10-07T01:09:45.778419Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,14 +8,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.532,
+      "rating": 7.516,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
       "showtimes": {
-        "Lunes 5 de octubre": [
-          "21:00"
-        ],
         "Martes 6 de octubre": [
           "21:00"
         ],
@@ -65,7 +62,7 @@
       }
     },
     {
-      "title": "VENGADORES: ENDGAME",
+      "title": "VENGADORES ENDGAME",
       "posterUrl": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
