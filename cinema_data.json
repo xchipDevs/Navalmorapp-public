@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T16:32:05.896455Z",
-  "expires_at": "2026-10-07T16:32:05.896455Z",
+  "generated_at": "2026-10-06T22:25:10.316079Z",
+  "expires_at": "2026-10-07T22:25:10.316079Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,14 +8,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.5,
+      "rating": 7.46,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
       "showtimes": {
-        "Martes 6 de octubre": [
-          "21:00"
-        ],
         "Miércoles 7 de octubre": [
           "17:30",
           "19:30",
@@ -28,15 +25,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/wM4LLukeBIfhjn7LcVP6VIced4p.jpg",
       "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 8.5,
+      "rating": 8.467,
       "releaseDate": "2026-09-25",
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Martes 6 de octubre": [
-          "19:00",
-          "21:45"
-        ],
         "Miércoles 7 de octubre": [
           "19:00",
           "21:45"
