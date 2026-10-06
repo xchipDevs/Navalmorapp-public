@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T08:39:19.079819Z",
-  "expires_at": "2026-10-07T08:39:19.079819Z",
+  "generated_at": "2026-10-06T16:32:05.896455Z",
+  "expires_at": "2026-10-07T16:32:05.896455Z",
   "version": "1.0",
   "movies": [
     {
@@ -53,26 +53,8 @@
       "duration": "109 min",
       "trailerUrl": "https://www.youtube.com/watch?v=uW2uWXiBpIs",
       "showtimes": {
-        "Martes 6 de octubre": [
-          "17:00"
-        ],
         "Miércoles 7 de octubre": [
           "17:00"
-        ]
-      }
-    },
-    {
-      "title": "VENGADORES: ENDGAME",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "rating": 8.2,
-      "releaseDate": "2019-04-24",
-      "duration": "181 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=Ib847Q7C9AU",
-      "showtimes": {
-        "Martes 6 de octubre": [
-          "17:55"
         ]
       }
     }
