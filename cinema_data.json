@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-08T17:14:27.921288Z",
-  "expires_at": "2026-10-09T17:14:27.921288Z",
+  "generated_at": "2026-10-08T23:00:55.062827Z",
+  "expires_at": "2026-10-09T23:00:55.062827Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "En el Corazón de la Bestia",
+      "title": "EN EL CORAZÓN DE LA BESTIA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.448,
+      "rating": 7.4,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
@@ -35,13 +35,13 @@
       }
     },
     {
-      "title": "La Bola Negra",
+      "title": "LA BOLA NEGRA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
       "rating": 8.5,
       "releaseDate": "2026-09-25",
-      "duration": "159 min",
+      "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
         "Viernes 9 de octubre": [
@@ -70,13 +70,13 @@
       }
     },
     {
-      "title": "Verity",
+      "title": "VERITY LA SOMBRA DE UN ENGAÑO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.436,
+      "rating": 6.471,
       "releaseDate": "2026-09-30",
-      "duration": "116 min",
+      "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
       "showtimes": {
         "Viernes 9 de octubre": [
@@ -102,28 +102,13 @@
       }
     },
     {
-      "title": "La Isla de Amrum",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2BwmqUGlbcLuzjoq76SvdrWXj3p.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
-      "overview": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
-      "rating": 7.2,
-      "releaseDate": "2025-10-09",
-      "duration": "93 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=UkVe-bfMSfw",
-      "showtimes": {
-        "Martes 13 de octubre": [
-          "20:30"
-        ]
-      }
-    },
-    {
-      "title": "La Isla Olvidada",
+      "title": "LA ISLA OLVIDADA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
       "overview": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "rating": 8.183,
+      "rating": 8.217,
       "releaseDate": "2026-09-10",
-      "duration": "108 min",
+      "duration": "109 min",
       "trailerUrl": "https://www.youtube.com/watch?v=uW2uWXiBpIs",
       "showtimes": {
         "Sábado 10 de octubre": [
