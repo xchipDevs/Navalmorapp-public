@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T19:17:56.979286Z",
-  "expires_at": "2026-10-10T19:17:56.979286Z",
+  "generated_at": "2026-10-09T23:50:38.611098Z",
+  "expires_at": "2026-10-10T23:50:38.611098Z",
   "version": "1.0",
   "movies": [
     {
@@ -41,9 +41,6 @@
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Viernes 9 de octubre": [
-          "21:45"
-        ],
         "Sábado 10 de octubre": [
           "19:00",
           "21:45"
@@ -70,14 +67,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.447,
+      "rating": 6.4,
       "releaseDate": "2026-09-30",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
       "showtimes": {
-        "Viernes 9 de octubre": [
-          "21:30"
-        ],
         "Sábado 10 de octubre": [
           "18:00",
           "22:00"
