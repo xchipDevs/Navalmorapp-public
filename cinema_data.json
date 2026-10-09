@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T12:42:57.349953Z",
-  "expires_at": "2026-10-10T12:42:57.349953Z",
+  "generated_at": "2026-10-09T19:17:56.979286Z",
+  "expires_at": "2026-10-10T19:17:56.979286Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,14 +8,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.433,
+      "rating": 7.437,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
       "showtimes": {
-        "Viernes 9 de octubre": [
-          "19:30"
-        ],
         "Sábado 10 de octubre": [
           "20:00"
         ],
@@ -45,7 +42,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
         "Viernes 9 de octubre": [
-          "19:00",
           "21:45"
         ],
         "Sábado 10 de octubre": [
@@ -74,7 +70,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.5,
+      "rating": 6.447,
       "releaseDate": "2026-09-30",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
