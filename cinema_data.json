@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T04:43:42.342149Z",
-  "expires_at": "2026-10-11T04:43:42.342149Z",
+  "generated_at": "2026-10-10T12:01:53.515553Z",
+  "expires_at": "2026-10-11T12:01:53.515553Z",
   "version": "1.0",
   "movies": [
     {
@@ -88,7 +88,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.4,
+      "rating": 6.424,
       "releaseDate": "2026-09-30",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
