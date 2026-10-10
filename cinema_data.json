@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T12:01:53.515553Z",
-  "expires_at": "2026-10-11T12:01:53.515553Z",
+  "generated_at": "2026-10-10T18:14:48.877859Z",
+  "expires_at": "2026-10-11T18:14:48.877859Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.44,
+      "rating": 7.436,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
@@ -42,7 +42,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
         "Sábado 10 de octubre": [
-          "19:00",
           "21:45"
         ],
         "Domingo 11 de octubre": [
@@ -72,9 +71,6 @@
       "duration": "109 min",
       "trailerUrl": "https://www.youtube.com/watch?v=uW2uWXiBpIs",
       "showtimes": {
-        "Sábado 10 de octubre": [
-          "17:00"
-        ],
         "Domingo 11 de octubre": [
           "17:00"
         ],
@@ -84,17 +80,16 @@
       }
     },
     {
-      "title": "VERITY. LA SOMBRA DE UN ENGAÑO",
+      "title": "VERITY LA SOMBRA DE UN ENGAÑO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.424,
+      "rating": 6.411,
       "releaseDate": "2026-09-30",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
       "showtimes": {
         "Sábado 10 de octubre": [
-          "18:00",
           "22:00"
         ],
         "Domingo 11 de octubre": [
