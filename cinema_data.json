@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T18:14:48.877859Z",
-  "expires_at": "2026-10-11T18:14:48.877859Z",
+  "generated_at": "2026-10-10T23:18:10.854678Z",
+  "expires_at": "2026-10-11T23:18:10.854678Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
       "showtimes": {
-        "Sábado 10 de octubre": [
-          "20:00"
-        ],
         "Domingo 11 de octubre": [
           "18:00",
           "22:00"
@@ -41,9 +38,6 @@
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Sábado 10 de octubre": [
-          "21:45"
-        ],
         "Domingo 11 de octubre": [
           "19:00",
           "21:45"
@@ -66,7 +60,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
       "overview": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "rating": 8.2,
+      "rating": 8.3,
       "releaseDate": "2026-09-10",
       "duration": "109 min",
       "trailerUrl": "https://www.youtube.com/watch?v=uW2uWXiBpIs",
@@ -80,7 +74,7 @@
       }
     },
     {
-      "title": "VERITY LA SOMBRA DE UN ENGAÑO",
+      "title": "VERITY. LA SOMBRA DE UN ENGAÑO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
@@ -89,9 +83,6 @@
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
       "showtimes": {
-        "Sábado 10 de octubre": [
-          "22:00"
-        ],
         "Domingo 11 de octubre": [
           "20:00"
         ],
