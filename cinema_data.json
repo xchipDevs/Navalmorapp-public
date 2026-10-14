@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T07:11:24.116185Z",
-  "expires_at": "2026-10-15T07:11:24.116185Z",
+  "generated_at": "2026-10-14T13:22:00.939805Z",
+  "expires_at": "2026-10-15T13:22:00.939805Z",
   "version": "1.0",
   "movies": [
     {
@@ -35,11 +35,11 @@
       }
     },
     {
-      "title": "VERITY. LA SOMBRA DE UN ENGAÑO",
+      "title": "VERITY LA SOMBRA DE UN ENGAÑO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.349,
+      "rating": 6.3,
       "releaseDate": "2026-09-30",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
