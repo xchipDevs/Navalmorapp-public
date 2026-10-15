@@ -1,35 +1,37 @@
 {
-  "generated_at": "2026-10-15T08:55:42.040582Z",
-  "expires_at": "2026-10-16T08:55:42.040582Z",
+  "generated_at": "2026-10-15T14:42:14.823173Z",
+  "expires_at": "2026-10-16T14:42:14.823173Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "En el Corazón de la Bestia",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.389,
-      "releaseDate": "2026-09-19",
-      "duration": "101 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
+      "title": "La Otra Madre",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "overview": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+      "rating": 5.982,
+      "releaseDate": "2026-10-07",
+      "duration": "92 minutos",
+      "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
       "showtimes": {
-        "Viernes 9 de octubre": [
-          "19:30"
-        ],
-        "Sábado 10 de octubre": [
-          "20:00"
-        ],
-        "Domingo 11 de octubre": [
-          "18:00",
+        "Viernes 16 de octubre": [
           "22:00"
         ],
-        "Lunes 12 de octubre": [
-          "19:30"
+        "Sábado 17 de octubre": [
+          "17:30",
+          "22:00"
         ],
-        "Martes 13 de octubre": [
-          "19:30"
+        "Domingo 18 de octubre": [
+          "20:30"
         ],
-        "Miércoles 14 de octubre": [
+        "Lunes 19 de octubre": [
+          "18:00",
+          "21:00"
+        ],
+        "Martes 20 de octubre": [
+          "21:00"
+        ],
+        "Miércoles 21 de octubre": [
+          "17:30",
           "21:30"
         ]
       }
@@ -44,28 +46,53 @@
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Viernes 9 de octubre": [
-          "19:00",
-          "21:45"
+        "Viernes 16 de octubre": [
+          "19:30"
         ],
-        "Sábado 10 de octubre": [
-          "19:00",
-          "21:45"
+        "Sábado 17 de octubre": [
+          "19:15"
         ],
-        "Domingo 11 de octubre": [
-          "19:00",
-          "21:45"
+        "Domingo 18 de octubre": [
+          "18:00"
         ],
-        "Lunes 12 de octubre": [
-          "19:00",
-          "21:45"
+        "Lunes 19 de octubre": [
+          "19:30"
         ],
-        "Martes 13 de octubre": [
-          "17:30"
+        "Martes 20 de octubre": [
+          "18:30"
         ],
-        "Miércoles 14 de octubre": [
-          "18:30",
+        "Miércoles 21 de octubre": [
+          "19:00"
+        ]
+      }
+    },
+    {
+      "title": "En el Corazón de la Bestia",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "rating": 7.4,
+      "releaseDate": "2026-09-19",
+      "duration": "101 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
+      "showtimes": {
+        "Viernes 16 de octubre": [
+          "22:00"
+        ],
+        "Sábado 17 de octubre": [
+          "20:00"
+        ],
+        "Domingo 18 de octubre": [
           "21:00"
+        ],
+        "Lunes 19 de octubre": [
+          "19:00"
+        ],
+        "Martes 20 de octubre": [
+          "21:30"
+        ],
+        "Miércoles 21 de octubre": [
+          "19:30"
         ]
       }
     },
@@ -74,66 +101,52 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.404,
+      "rating": 6.393,
       "releaseDate": "2026-09-30",
-      "duration": "116 min",
+      "duration": "116 minutos",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
       "showtimes": {
-        "Viernes 9 de octubre": [
-          "21:30"
-        ],
-        "Sábado 10 de octubre": [
-          "18:00",
-          "22:00"
-        ],
-        "Domingo 11 de octubre": [
+        "Viernes 16 de octubre": [
           "20:00"
         ],
-        "Lunes 12 de octubre": [
-          "17:30",
-          "21:30"
+        "Sábado 17 de octubre": [
+          "22:15"
         ],
-        "Martes 13 de octubre": [
-          "21:30"
+        "Domingo 18 de octubre": [
+          "19:00"
         ],
-        "Miércoles 14 de octubre": [
+        "Martes 20 de octubre": [
           "19:30"
+        ],
+        "Miércoles 21 de octubre": [
+          "21:30"
         ]
       }
     },
     {
-      "title": "La Isla de Amrum",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2BwmqUGlbcLuzjoq76SvdrWXj3p.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
-      "overview": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
-      "rating": 7.2,
-      "releaseDate": "2025-10-09",
-      "duration": "93 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=UkVe-bfMSfw",
+      "title": "Cars",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+      "overview": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+      "rating": 7.1,
+      "releaseDate": "2006-06-08",
+      "duration": "116 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
       "showtimes": {
-        "Martes 13 de octubre": [
-          "20:30"
-        ]
-      }
-    },
-    {
-      "title": "La Isla Olvidada",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-      "overview": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "rating": 8.07,
-      "releaseDate": "2026-09-10",
-      "duration": "108 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=uW2uWXiBpIs",
-      "showtimes": {
-        "Sábado 10 de octubre": [
+        "Viernes 16 de octubre": [
+          "18:00"
+        ],
+        "Sábado 17 de octubre": [
+          "18:00"
+        ],
+        "Domingo 18 de octubre": [
           "17:00"
         ],
-        "Domingo 11 de octubre": [
-          "17:00"
+        "Martes 20 de octubre": [
+          "17:30"
         ],
-        "Lunes 12 de octubre": [
-          "17:00"
+        "Miércoles 21 de octubre": [
+          "17:30"
         ]
       }
     }
