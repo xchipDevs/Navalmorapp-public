@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T23:00:11.685370Z",
-  "expires_at": "2026-10-15T23:00:11.685370Z",
+  "generated_at": "2026-10-15T03:34:05.261388Z",
+  "expires_at": "2026-10-16T03:34:05.261388Z",
   "version": "1.0",
   "movies": [
     {
@@ -74,7 +74,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.335,
+      "rating": 6.404,
       "releaseDate": "2026-09-30",
       "duration": "116 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
@@ -121,7 +121,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
       "overview": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "rating": 8.057,
+      "rating": 8.1,
       "releaseDate": "2026-09-10",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=uW2uWXiBpIs",
