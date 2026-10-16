@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T14:35:32.809244Z",
-  "expires_at": "2026-10-17T14:35:32.809244Z",
+  "generated_at": "2026-10-16T19:22:41.763150Z",
+  "expires_at": "2026-10-17T19:22:41.763150Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "116 min",
       "trailerUrl": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
       "showtimes": {
-        "Viernes 16 de octubre": [
-          "18:00"
-        ],
         "Sábado 17 de octubre": [
           "18:00"
         ],
@@ -35,7 +32,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.41,
+      "rating": 7.412,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
@@ -70,9 +67,6 @@
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Viernes 16 de octubre": [
-          "19:30"
-        ],
         "Sábado 17 de octubre": [
           "19:15"
         ],
@@ -95,7 +89,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "rating": 5.888,
+      "rating": 5.914,
       "releaseDate": "2026-10-07",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
@@ -128,14 +122,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.381,
+      "rating": 6.384,
       "releaseDate": "2026-09-30",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
       "showtimes": {
-        "Viernes 16 de octubre": [
-          "20:00"
-        ],
         "Sábado 17 de octubre": [
           "22:15"
         ],
