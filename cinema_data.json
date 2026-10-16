@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T22:55:12.082789Z",
-  "expires_at": "2026-10-16T22:55:12.082789Z",
+  "generated_at": "2026-10-16T03:30:01.971681Z",
+  "expires_at": "2026-10-17T03:30:01.971681Z",
   "version": "1.0",
   "movies": [
     {
@@ -95,7 +95,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "rating": 5.957,
+      "rating": 5.932,
       "releaseDate": "2026-10-07",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
@@ -128,7 +128,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.4,
+      "rating": 6.373,
       "releaseDate": "2026-09-30",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
