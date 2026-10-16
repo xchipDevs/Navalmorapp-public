@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T03:30:01.971681Z",
-  "expires_at": "2026-10-17T03:30:01.971681Z",
+  "generated_at": "2026-10-16T08:47:44.511109Z",
+  "expires_at": "2026-10-17T08:47:44.511109Z",
   "version": "1.0",
   "movies": [
     {
@@ -35,7 +35,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.409,
+      "rating": 7.414,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
@@ -95,7 +95,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "rating": 5.932,
+      "rating": 5.9,
       "releaseDate": "2026-10-07",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
