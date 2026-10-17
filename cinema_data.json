@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T03:19:47.421823Z",
-  "expires_at": "2026-10-18T03:19:47.421823Z",
+  "generated_at": "2026-10-17T08:18:39.719639Z",
+  "expires_at": "2026-10-18T08:18:39.719639Z",
   "version": "1.0",
   "movies": [
     {
@@ -59,7 +59,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 8.397,
+      "rating": 8.378,
       "releaseDate": "2026-09-25",
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
