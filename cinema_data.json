@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T20:14:20.671346Z",
-  "expires_at": "2026-10-18T20:14:20.671346Z",
+  "generated_at": "2026-10-17T23:48:32.300140Z",
+  "expires_at": "2026-10-18T23:48:32.300140Z",
   "version": "1.0",
   "movies": [
     {
@@ -29,7 +29,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.4,
+      "rating": 7.407,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
@@ -82,9 +82,6 @@
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
       "showtimes": {
-        "Sábado 17 de octubre": [
-          "22:00"
-        ],
         "Domingo 18 de octubre": [
           "20:30"
         ],
@@ -111,9 +108,6 @@
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
       "showtimes": {
-        "Sábado 17 de octubre": [
-          "22:15"
-        ],
         "Domingo 18 de octubre": [
           "21:00"
         ],
