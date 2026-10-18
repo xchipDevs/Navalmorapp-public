@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T17:06:27.302910Z",
-  "expires_at": "2026-10-19T17:06:27.302910Z",
+  "generated_at": "2026-10-18T20:12:35.608887Z",
+  "expires_at": "2026-10-19T20:12:35.608887Z",
   "version": "1.0",
   "movies": [
     {
@@ -31,9 +31,6 @@
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
       "showtimes": {
-        "Domingo 18 de octubre": [
-          "19:00"
-        ],
         "Lunes 19 de octubre": [
           "19:00"
         ],
@@ -71,14 +68,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "rating": 5.923,
+      "rating": 5.977,
       "releaseDate": "2026-10-07",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
       "showtimes": {
-        "Domingo 18 de octubre": [
-          "20:30"
-        ],
         "Lunes 19 de octubre": [
           "17:55",
           "21:00"
@@ -97,14 +91,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.309,
+      "rating": 6.321,
       "releaseDate": "2026-09-30",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
       "showtimes": {
-        "Domingo 18 de octubre": [
-          "21:00"
-        ],
         "Martes 20 de octubre": [
           "19:30"
         ],
