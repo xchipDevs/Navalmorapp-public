@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T23:48:32.300140Z",
-  "expires_at": "2026-10-18T23:48:32.300140Z",
+  "generated_at": "2026-10-18T03:25:03.743139Z",
+  "expires_at": "2026-10-19T03:25:03.743139Z",
   "version": "1.0",
   "movies": [
     {
@@ -53,7 +53,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 8.347,
+      "rating": 8.3,
       "releaseDate": "2026-09-25",
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
@@ -103,7 +103,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.336,
+      "rating": 6.343,
       "releaseDate": "2026-09-30",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
