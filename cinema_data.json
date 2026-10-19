@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T19:40:26.923407Z",
-  "expires_at": "2026-10-20T19:40:26.923407Z",
+  "generated_at": "2026-10-19T23:22:24.011795Z",
+  "expires_at": "2026-10-20T23:22:24.011795Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.405,
+      "rating": 7.4,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
