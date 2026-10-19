@@ -1,26 +1,8 @@
 {
-  "generated_at": "2026-10-18T23:57:05.468557Z",
-  "expires_at": "2026-10-19T23:57:05.468557Z",
+  "generated_at": "2026-10-19T04:07:07.044258Z",
+  "expires_at": "2026-10-20T04:07:07.044258Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "CARS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
-      "overview": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
-      "rating": 7.061,
-      "releaseDate": "2006-06-08",
-      "duration": "116 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
-      "showtimes": {
-        "Martes 20 de octubre": [
-          "17:30"
-        ],
-        "Miércoles 21 de octubre": [
-          "17:30"
-        ]
-      }
-    },
     {
       "title": "EN EL CORAZÓN DE LA BESTIA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
@@ -67,7 +49,7 @@
       "title": "LA OTRA MADRE",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "overview": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+      "overview": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
       "rating": 5.977,
       "releaseDate": "2026-10-07",
       "duration": "93 min",
@@ -87,11 +69,29 @@
       }
     },
     {
+      "title": "CARS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+      "overview": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+      "rating": 7.061,
+      "releaseDate": "2006-06-08",
+      "duration": "116 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
+      "showtimes": {
+        "Martes 20 de octubre": [
+          "17:30"
+        ],
+        "Miércoles 21 de octubre": [
+          "17:30"
+        ]
+      }
+    },
+    {
       "title": "VERITY LA SOMBRA DE UN ENGAÑO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.321,
+      "rating": 6.338,
       "releaseDate": "2026-09-30",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
