@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T09:13:01.397188Z",
-  "expires_at": "2026-10-21T09:13:01.397188Z",
+  "generated_at": "2026-10-20T14:44:52.721980Z",
+  "expires_at": "2026-10-21T14:44:52.721980Z",
   "version": "1.0",
   "movies": [
     {
@@ -26,7 +26,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.39,
+      "rating": 7.388,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
@@ -62,7 +62,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 5.974,
+      "rating": 5.985,
       "releaseDate": "2026-10-07",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
