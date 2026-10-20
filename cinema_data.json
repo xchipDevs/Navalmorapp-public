@@ -1,63 +1,8 @@
 {
-  "generated_at": "2026-10-20T03:47:24.774889Z",
-  "expires_at": "2026-10-21T03:47:24.774889Z",
+  "generated_at": "2026-10-20T09:13:01.397188Z",
+  "expires_at": "2026-10-21T09:13:01.397188Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "EN EL CORAZÓN DE LA BESTIA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.4,
-      "releaseDate": "2026-09-19",
-      "duration": "101 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
-      "showtimes": {
-        "Martes 20 de octubre": [
-          "21:30"
-        ],
-        "Miércoles 21 de octubre": [
-          "19:30"
-        ]
-      }
-    },
-    {
-      "title": "LA BOLA NEGRA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-      "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 8.319,
-      "releaseDate": "2026-09-25",
-      "duration": "155 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
-      "showtimes": {
-        "Martes 20 de octubre": [
-          "18:30"
-        ],
-        "Miércoles 21 de octubre": [
-          "19:00"
-        ]
-      }
-    },
-    {
-      "title": "LA OTRA MADRE",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "overview": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 6.0,
-      "releaseDate": "2026-10-07",
-      "duration": "93 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
-      "showtimes": {
-        "Martes 20 de octubre": [
-          "21:00"
-        ],
-        "Miércoles 21 de octubre": [
-          "17:25",
-          "21:30"
-        ]
-      }
-    },
     {
       "title": "CARS",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
@@ -77,11 +22,66 @@
       }
     },
     {
-      "title": "VERITY. LA SOMBRA DE UN ENGAÑO",
+      "title": "EN EL CORAZÓN DE LA BESTIA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "rating": 7.39,
+      "releaseDate": "2026-09-19",
+      "duration": "101 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
+      "showtimes": {
+        "Martes 20 de octubre": [
+          "21:30"
+        ],
+        "Miércoles 21 de octubre": [
+          "19:30"
+        ]
+      }
+    },
+    {
+      "title": "LA BOLA NEGRA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "rating": 8.327,
+      "releaseDate": "2026-09-25",
+      "duration": "155 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
+      "showtimes": {
+        "Martes 20 de octubre": [
+          "18:30"
+        ],
+        "Miércoles 21 de octubre": [
+          "19:00"
+        ]
+      }
+    },
+    {
+      "title": "LA OTRA MADRE",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "overview": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "rating": 5.974,
+      "releaseDate": "2026-10-07",
+      "duration": "93 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
+      "showtimes": {
+        "Martes 20 de octubre": [
+          "21:00"
+        ],
+        "Miércoles 21 de octubre": [
+          "17:25",
+          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "VERITY LA SOMBRA DE UN ENGAÑO",
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
       "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.372,
+      "rating": 6.397,
       "releaseDate": "2026-09-30",
       "duration": "114 min",
       "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
