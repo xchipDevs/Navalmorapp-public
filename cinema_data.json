@@ -1,152 +1,113 @@
 {
-  "generated_at": "2026-10-21T19:57:12.297428Z",
-  "expires_at": "2026-10-22T19:57:12.297428Z",
+  "generated_at": "2026-10-21T23:06:17.423390Z",
+  "expires_at": "2026-10-22T23:06:17.423390Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "La Otra Madre",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "overview": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 5.895,
-      "releaseDate": "2026-10-07",
-      "duration": "92 minutos",
-      "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
-      "showtimes": {
-        "Viernes 16 de octubre": [
-          "22:00"
-        ],
-        "Sábado 17 de octubre": [
-          "17:30",
-          "22:00"
-        ],
-        "Domingo 18 de octubre": [
-          "20:30"
-        ],
-        "Lunes 19 de octubre": [
-          "18:00",
-          "21:00"
-        ],
-        "Martes 20 de octubre": [
-          "21:00"
-        ],
-        "Miércoles 21 de octubre": [
-          "17:30",
-          "21:30"
-        ]
-      }
-    },
-    {
-      "title": "La Bola Negra",
+      "title": "LA BOLA NEGRA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
       "rating": 8.346,
       "releaseDate": "2026-09-25",
-      "duration": "159 min",
+      "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Viernes 16 de octubre": [
-          "19:30"
-        ],
-        "Sábado 17 de octubre": [
-          "19:15"
-        ],
-        "Domingo 18 de octubre": [
+        "Viernes 23 de octubre": [
           "18:00"
         ],
-        "Lunes 19 de octubre": [
+        "Sábado 24 de octubre": [
           "19:30"
         ],
-        "Martes 20 de octubre": [
-          "18:30"
-        ],
-        "Miércoles 21 de octubre": [
-          "19:00"
-        ]
-      }
-    },
-    {
-      "title": "En el Corazón de la Bestia",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.4,
-      "releaseDate": "2026-09-19",
-      "duration": "101 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
-      "showtimes": {
-        "Viernes 16 de octubre": [
-          "22:00"
-        ],
-        "Sábado 17 de octubre": [
-          "20:00"
-        ],
-        "Domingo 18 de octubre": [
-          "21:00"
-        ],
-        "Lunes 19 de octubre": [
-          "19:00"
-        ],
-        "Martes 20 de octubre": [
-          "21:30"
-        ],
-        "Miércoles 21 de octubre": [
-          "19:30"
-        ]
-      }
-    },
-    {
-      "title": "Verity",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-      "overview": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.395,
-      "releaseDate": "2026-09-30",
-      "duration": "116 minutos",
-      "trailerUrl": "https://www.youtube.com/watch?v=P-QWhkimt50",
-      "showtimes": {
-        "Viernes 16 de octubre": [
-          "20:00"
-        ],
-        "Sábado 17 de octubre": [
-          "22:15"
-        ],
-        "Domingo 18 de octubre": [
-          "19:00"
-        ],
-        "Martes 20 de octubre": [
-          "19:30"
-        ],
-        "Miércoles 21 de octubre": [
-          "21:30"
-        ]
-      }
-    },
-    {
-      "title": "Cars",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
-      "overview": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
-      "rating": 7.061,
-      "releaseDate": "2006-06-08",
-      "duration": "116",
-      "trailerUrl": "https://www.youtube.com/watch?v=8ZMklX5BzTo",
-      "showtimes": {
-        "Viernes 16 de octubre": [
-          "18:00"
-        ],
-        "Sábado 17 de octubre": [
-          "18:00"
-        ],
-        "Domingo 18 de octubre": [
+        "Domingo 25 de octubre": [
           "17:00"
         ],
-        "Martes 20 de octubre": [
-          "17:30"
+        "Lunes 26 de octubre": [
+          "19:00"
         ],
-        "Miércoles 21 de octubre": [
-          "17:30"
+        "Martes 27 de octubre": [
+          "21:00"
+        ]
+      }
+    },
+    {
+      "title": "LA OTRA MADRE",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "overview": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "rating": 5.869,
+      "releaseDate": "2026-10-07",
+      "duration": "93 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
+      "showtimes": {
+        "Sábado 24 de octubre": [
+          "19:00"
+        ],
+        "Domingo 25 de octubre": [
+          "17:15"
+        ],
+        "Lunes 26 de octubre": [
+          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "ARRIBA TUTTO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cO5d1CHpb1ravVNqHQmJr7NLcTN.jpg",
+      "backdropUrl": null,
+      "overview": "1905. La feliz infancia de Michi, un niño de siete años, finaliza bruscamente con la violenta muerte de su padre, un artista ambulante que ha enseñado al pequeño a ver la magia y el humor en cada rincón de la vida. Pasados los años, Michi se ha convertido en un hombre amargado, violento y consumido por el rencor. Una asombrosa aparición y el reencuentro con Conchita, su amor de la niñez, le ayudará a recuperar el paraíso perdido y la transgresora visión del mundo que le inculcó su padre.",
+      "rating": 0.0,
+      "releaseDate": "2026-10-09",
+      "duration": null,
+      "trailerUrl": "https://www.youtube.com/watch?v=nUaNL67g3Go",
+      "showtimes": {
+        "Viernes 23 de octubre": [
+          "20:30",
+          "22:30"
+        ],
+        "Sábado 24 de octubre": [
+          "17:30",
+          "22:00"
+        ],
+        "Domingo 25 de octubre": [
+          "19:30",
+          "21:30"
+        ],
+        "Lunes 26 de octubre": [
+          "21:30"
+        ],
+        "Martes 27 de octubre": [
+          "19:00"
+        ]
+      }
+    },
+    {
+      "title": "LEONES EN INVIERNO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
+      "backdropUrl": null,
+      "overview": null,
+      "rating": 0.0,
+      "releaseDate": "2026-10-23",
+      "duration": null,
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 23 de octubre": [
+          "19:00",
+          "21:30"
+        ],
+        "Sábado 24 de octubre": [
+          "17:00",
+          "21:00"
+        ],
+        "Domingo 25 de octubre": [
+          "19:00",
+          "21:00"
+        ],
+        "Lunes 26 de octubre": [
+          "19:30"
+        ],
+        "Martes 27 de octubre": [
+          "18:00"
         ]
       }
     }
