@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T22:57:37.967252Z",
-  "expires_at": "2026-10-21T22:57:37.967252Z",
+  "generated_at": "2026-10-21T03:38:13.796844Z",
+  "expires_at": "2026-10-22T03:38:13.796844Z",
   "version": "1.0",
   "movies": [
     {
@@ -23,7 +23,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "overview": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.393,
+      "rating": 7.386,
       "releaseDate": "2026-09-19",
       "duration": "101 min",
       "trailerUrl": "https://www.youtube.com/watch?v=HGzLlMvkLnI",
@@ -38,7 +38,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 8.312,
+      "rating": 8.328,
       "releaseDate": "2026-09-25",
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
@@ -53,7 +53,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 5.985,
+      "rating": 5.914,
       "releaseDate": "2026-10-07",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
