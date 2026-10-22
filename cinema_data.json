@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T14:53:49.891157Z",
-  "expires_at": "2026-10-23T14:53:49.891157Z",
+  "generated_at": "2026-10-22T19:47:05.302077Z",
+  "expires_at": "2026-10-23T19:47:05.302077Z",
   "version": "1.0",
   "movies": [
     {
       "title": "ARRIBA TUTTO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cO5d1CHpb1ravVNqHQmJr7NLcTN.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/a8MvsDCP3sv0WXNW3I0ainSuLcd.jpg",
       "backdropUrl": null,
       "overview": "1905. La feliz infancia de Michi, un niño de siete años, finaliza bruscamente con la violenta muerte de su padre, un artista ambulante que ha enseñado al pequeño a ver la magia y el humor en cada rincón de la vida. Pasados los años, Michi se ha convertido en un hombre amargado, violento y consumido por el rencor. Una asombrosa aparición y el reencuentro con Conchita, su amor de la niñez, le ayudará a recuperar el paraíso perdido y la transgresora visión del mundo que le inculcó su padre.",
       "rating": 0.0,
@@ -106,7 +106,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 5.87,
+      "rating": 5.871,
       "releaseDate": "2026-10-07",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
