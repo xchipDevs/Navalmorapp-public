@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T19:49:13.584725Z",
-  "expires_at": "2026-10-24T19:49:13.584725Z",
+  "generated_at": "2026-10-23T22:55:51.185190Z",
+  "expires_at": "2026-10-24T22:55:51.185190Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": null,
       "trailerUrl": "https://www.youtube.com/watch?v=nUaNL67g3Go",
       "showtimes": {
-        "Viernes 23 de octubre": [
-          "22:30"
-        ],
         "Sábado 24 de octubre": [
           "17:30",
           "22:00"
@@ -73,9 +70,6 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 23 de octubre": [
-          "21:30"
-        ],
         "Sábado 24 de octubre": [
           "17:00",
           "21:00"
