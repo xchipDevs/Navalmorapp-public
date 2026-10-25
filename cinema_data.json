@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T13:00:13.750010Z",
-  "expires_at": "2026-10-26T13:00:13.750010Z",
+  "generated_at": "2026-10-25T17:26:56.132156Z",
+  "expires_at": "2026-10-26T17:26:56.132156Z",
   "version": "1.0",
   "movies": [
     {
@@ -39,9 +39,6 @@
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Domingo 25 de octubre": [
-          "17:00"
-        ],
         "Lunes 26 de octubre": [
           "19:00"
         ],
@@ -58,14 +55,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 5.8,
+      "rating": 5.86,
       "releaseDate": "2026-10-07",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
       "showtimes": {
-        "Domingo 25 de octubre": [
-          "17:15"
-        ],
         "Lunes 26 de octubre": [
           "21:30"
         ],
