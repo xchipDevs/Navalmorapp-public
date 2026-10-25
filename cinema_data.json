@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T17:26:56.132156Z",
-  "expires_at": "2026-10-26T17:26:56.132156Z",
+  "generated_at": "2026-10-25T20:28:52.968248Z",
+  "expires_at": "2026-10-26T20:28:52.968248Z",
   "version": "1.0",
   "movies": [
     {
@@ -14,7 +14,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=nUaNL67g3Go",
       "showtimes": {
         "Domingo 25 de octubre": [
-          "19:30",
           "21:30"
         ],
         "Lunes 26 de octubre": [
@@ -78,10 +77,6 @@
       "duration": null,
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 25 de octubre": [
-          "19:00",
-          "21:00"
-        ],
         "Lunes 26 de octubre": [
           "19:30"
         ],
