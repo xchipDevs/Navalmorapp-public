@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T17:37:05.566538Z",
-  "expires_at": "2026-10-28T17:37:05.566538Z",
+  "generated_at": "2026-10-27T21:53:52.654770Z",
+  "expires_at": "2026-10-28T21:53:52.654770Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=nUaNL67g3Go",
       "showtimes": {
-        "Martes 27 de octubre": [
-          "19:00"
-        ],
         "Miércoles 28 de octubre": [
           "19:30",
           "21:30"
@@ -32,9 +29,6 @@
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Martes 27 de octubre": [
-          "21:00"
-        ],
         "Miércoles 28 de octubre": [
           "17:00"
         ]
