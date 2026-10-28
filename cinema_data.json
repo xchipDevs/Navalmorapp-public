@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T07:58:50.843982Z",
-  "expires_at": "2026-10-29T07:58:50.843982Z",
+  "generated_at": "2026-10-28T15:01:28.922033Z",
+  "expires_at": "2026-10-29T15:01:28.922033Z",
   "version": "1.0",
   "movies": [
     {
@@ -39,7 +39,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "overview": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 5.8,
+      "rating": 5.82,
       "releaseDate": "2026-10-07",
       "duration": "93 min",
       "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
