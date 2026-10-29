@@ -1,20 +1,142 @@
 {
-  "generated_at": "2026-10-28T20:49:02.547546Z",
-  "expires_at": "2026-10-29T20:49:02.547546Z",
+  "generated_at": "2026-10-29T01:36:17.356109Z",
+  "expires_at": "2026-10-30T01:36:17.356109Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "ARRIBA TUTTO",
+      "title": "Leones en invierno",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
+      "backdropUrl": null,
+      "overview": "Un policía infiltrado atropella a una joven y se fuga. El padre de la víctima, un antiguo ultrasur, investiga por su cuenta, chocando con el pasado. Las ansías de encontrar la verdad, y de hacer justicia a su manera, le llevarán a una trama de corrupción, poder y crimen organizado. Mientras el responsable de la muerte de su hija lucha por ocultar la verdad, el padre de la víctima irá cruzando líneas rojas, adentrándose en un camino que no tiene retorno. Porque hay algo más peligroso que un padre defendiendo a sus hijos, y es un padre que ya no tiene hijos a los que defender.",
+      "rating": 5.25,
+      "releaseDate": "2026-10-23",
+      "duration": "117 minutos",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 23 de octubre": [
+          "19:00",
+          "21:30"
+        ],
+        "Sábado 24 de octubre": [
+          "17:00",
+          "21:00"
+        ],
+        "Domingo 25 de octubre": [
+          "19:00",
+          "21:00"
+        ],
+        "Lunes 26 de octubre": [
+          "19:30"
+        ],
+        "Martes 27 de octubre": [
+          "18:00"
+        ],
+        "Miércoles 28 de octubre": [
+          "19:15",
+          "21:15"
+        ]
+      }
+    },
+    {
+      "title": "Arriba Tutto",
       "posterUrl": "https://image.tmdb.org/t/p/w500/a8MvsDCP3sv0WXNW3I0ainSuLcd.jpg",
       "backdropUrl": null,
       "overview": "1905. La feliz infancia de Michi, un niño de siete años, finaliza bruscamente con la violenta muerte de su padre, un artista ambulante que ha enseñado al pequeño a ver la magia y el humor en cada rincón de la vida. Pasados los años, Michi se ha convertido en un hombre amargado, violento y consumido por el rencor. Una asombrosa aparición y el reencuentro con Conchita, su amor de la niñez, le ayudará a recuperar el paraíso perdido y la transgresora visión del mundo que le inculcó su padre.",
       "rating": 0.0,
       "releaseDate": "2026-10-09",
-      "duration": "102 min",
+      "duration": "102 minutos",
       "trailerUrl": "https://www.youtube.com/watch?v=nUaNL67g3Go",
       "showtimes": {
-        "Miércoles 28 de octubre": [
+        "Viernes 23 de octubre": [
+          "20:30",
+          "22:30"
+        ],
+        "Sábado 24 de octubre": [
+          "17:30",
+          "22:00"
+        ],
+        "Domingo 25 de octubre": [
+          "19:30",
           "21:30"
+        ],
+        "Lunes 26 de octubre": [
+          "21:30"
+        ],
+        "Martes 27 de octubre": [
+          "19:00"
+        ],
+        "Miércoles 28 de octubre": [
+          "19:30",
+          "21:30"
+        ]
+      }
+    },
+    {
+      "title": "La Otra Madre",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "overview": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "rating": 5.8,
+      "releaseDate": "2026-10-07",
+      "duration": "92 minutos",
+      "trailerUrl": "https://www.youtube.com/watch?v=ocV7K_B67lQ",
+      "showtimes": {
+        "Sábado 24 de octubre": [
+          "19:00"
+        ],
+        "Domingo 25 de octubre": [
+          "17:15"
+        ],
+        "Lunes 26 de octubre": [
+          "21:00"
+        ],
+        "Miércoles 28 de octubre": [
+          "17:30"
+        ]
+      }
+    },
+    {
+      "title": "La Bola Negra",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "rating": 8.1,
+      "releaseDate": "2026-09-25",
+      "duration": "159 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
+      "showtimes": {
+        "Viernes 23 de octubre": [
+          "18:00"
+        ],
+        "Sábado 24 de octubre": [
+          "19:30"
+        ],
+        "Domingo 25 de octubre": [
+          "17:00"
+        ],
+        "Lunes 26 de octubre": [
+          "19:00"
+        ],
+        "Martes 27 de octubre": [
+          "21:00"
+        ],
+        "Miércoles 28 de octubre": [
+          "17:00"
+        ]
+      }
+    },
+    {
+      "title": "Nicky, la aprendiz de bruja",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/psw0tp25DNBkdEAfwjZYcgbpgme.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
+      "overview": "Nicky no es una niña como otra cualquiera porque es aprendiz de bruja. Con solo 13 años y por tradición del oficio que está aprendiendo, la niña tiene que abandonar la casa de sus padres y buscar algún sitio donde sean necesarios sus servicios de bruja. Para emprender el viaje, Nicky se acompaña de su amigo Jiji y también de su gato; juntos, y sobre una escoba voladora, los amigos se instalan en un pueblecito que da al mar, donde la niña empezará a conocerse verdaderamente a sí misma.",
+      "rating": 7.84,
+      "releaseDate": "1989-07-29",
+      "duration": "103 minutos",
+      "trailerUrl": null,
+      "showtimes": {
+        "Martes 27 de octubre": [
+          "20:30"
         ]
       }
     }
