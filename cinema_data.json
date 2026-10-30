@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T12:16:34.485488Z",
-  "expires_at": "2026-10-31T12:16:34.485488Z",
+  "generated_at": "2026-10-30T19:00:07.848437Z",
+  "expires_at": "2026-10-31T19:00:07.848437Z",
   "version": "1.0",
   "movies": [
     {
@@ -43,9 +43,6 @@
       "duration": "155 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Viernes 30 de octubre": [
-          "19:00"
-        ],
         "Sábado 31 de octubre": [
           "19:00"
         ],
@@ -105,9 +102,6 @@
       "duration": "117 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 30 de octubre": [
-          "19:30"
-        ],
         "Sábado 31 de octubre": [
           "21:30"
         ],
