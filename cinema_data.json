@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T16:55:33.799607Z",
-  "expires_at": "2026-11-01T16:55:33.799607Z",
+  "generated_at": "2026-10-31T21:05:40.204542Z",
+  "expires_at": "2026-11-01T21:05:40.204542Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=nUaNL67g3Go",
       "showtimes": {
-        "Sábado 31 de octubre": [
-          "19:30"
-        ],
         "Domingo 1 de noviembre": [
           "21:00"
         ],
@@ -40,9 +37,6 @@
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Sábado 31 de octubre": [
-          "19:00"
-        ],
         "Domingo 1 de noviembre": [
           "18:00"
         ],
@@ -67,9 +61,6 @@
       "duration": null,
       "trailerUrl": "https://www.youtube.com/watch?v=o5L_oG3ANrg",
       "showtimes": {
-        "Sábado 31 de octubre": [
-          "21:45"
-        ],
         "Domingo 1 de noviembre": [
           "20:30"
         ],
@@ -95,9 +86,6 @@
       "duration": "117 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 31 de octubre": [
-          "21:30"
-        ],
         "Domingo 1 de noviembre": [
           "19:00"
         ],
