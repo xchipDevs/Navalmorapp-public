@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T11:48:00.013543Z",
-  "expires_at": "2026-11-01T11:48:00.013543Z",
+  "generated_at": "2026-10-31T16:55:33.799607Z",
+  "expires_at": "2026-11-01T16:55:33.799607Z",
   "version": "1.0",
   "movies": [
     {
@@ -37,7 +37,7 @@
       "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
       "rating": 8.1,
       "releaseDate": "2026-09-25",
-      "duration": "155 min",
+      "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
         "Sábado 31 de octubre": [
@@ -68,7 +68,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=o5L_oG3ANrg",
       "showtimes": {
         "Sábado 31 de octubre": [
-          "17:00",
           "21:45"
         ],
         "Domingo 1 de noviembre": [
@@ -91,7 +90,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
       "backdropUrl": null,
       "overview": null,
-      "rating": 5.25,
+      "rating": 5.2,
       "releaseDate": "2026-10-23",
       "duration": "117 min",
       "trailerUrl": null,
@@ -123,9 +122,6 @@
       "duration": "92 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtfBfSDl8CE",
       "showtimes": {
-        "Sábado 31 de octubre": [
-          "17:30"
-        ],
         "Domingo 1 de noviembre": [
           "17:25"
         ],
