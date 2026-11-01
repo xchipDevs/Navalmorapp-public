@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T16:37:04.636347Z",
-  "expires_at": "2026-11-02T16:37:04.636347Z",
+  "generated_at": "2026-11-01T21:45:56.802232Z",
+  "expires_at": "2026-11-02T21:45:56.802232Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=nUaNL67g3Go",
       "showtimes": {
-        "Domingo 1 de noviembre": [
-          "21:00"
-        ],
         "Lunes 2 de noviembre": [
           "19:00"
         ],
@@ -37,9 +34,6 @@
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Domingo 1 de noviembre": [
-          "18:00"
-        ],
         "Lunes 2 de noviembre": [
           "21:15"
         ],
@@ -61,9 +55,6 @@
       "duration": null,
       "trailerUrl": "https://www.youtube.com/watch?v=o5L_oG3ANrg",
       "showtimes": {
-        "Domingo 1 de noviembre": [
-          "20:30"
-        ],
         "Lunes 2 de noviembre": [
           "19:00"
         ],
@@ -86,9 +77,6 @@
       "duration": "117 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 1 de noviembre": [
-          "19:00"
-        ],
         "Lunes 2 de noviembre": [
           "21:00"
         ],
@@ -110,9 +98,6 @@
       "duration": "92 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtfBfSDl8CE",
       "showtimes": {
-        "Domingo 1 de noviembre": [
-          "17:25"
-        ],
         "Martes 3 de noviembre": [
           "17:25"
         ],
