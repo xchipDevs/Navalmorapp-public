@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T21:05:40.204542Z",
-  "expires_at": "2026-11-01T21:05:40.204542Z",
+  "generated_at": "2026-11-01T00:44:09.214889Z",
+  "expires_at": "2026-11-02T00:44:09.214889Z",
   "version": "1.0",
   "movies": [
     {
@@ -105,7 +105,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
       "backdropUrl": null,
       "overview": null,
-      "rating": 8.0,
+      "rating": 7.667,
       "releaseDate": "2026-10-23",
       "duration": "92 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wtfBfSDl8CE",
