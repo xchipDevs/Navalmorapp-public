@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T08:43:12.095319Z",
-  "expires_at": "2026-11-05T08:43:12.095319Z",
+  "generated_at": "2026-11-04T17:48:20.446316Z",
+  "expires_at": "2026-11-05T17:48:20.446316Z",
   "version": "1.0",
   "movies": [
     {
@@ -30,6 +30,12 @@
       "showtimes": {
         "Miércoles 4 de noviembre": [
           "19:00"
+        ],
+        "Sábado 7 de noviembre": [
+          "18:00"
+        ],
+        "Lunes 9 de noviembre": [
+          "21:30"
         ]
       }
     },
@@ -44,8 +50,19 @@
       "trailerUrl": "https://www.youtube.com/watch?v=o5L_oG3ANrg",
       "showtimes": {
         "Miércoles 4 de noviembre": [
-          "17:00",
           "21:30"
+        ],
+        "Viernes 6 de noviembre": [
+          "19:00"
+        ],
+        "Sábado 7 de noviembre": [
+          "22:45"
+        ],
+        "Domingo 8 de noviembre": [
+          "19:45"
+        ],
+        "Martes 10 de noviembre": [
+          "19:00"
         ]
       }
     },
@@ -65,17 +82,83 @@
       }
     },
     {
-      "title": "SUPERTHINGS: LA PELÍCULA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": 7.7,
-      "releaseDate": "2026-10-23",
-      "duration": "92 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=wtfBfSDl8CE",
+      "title": "RUEGA POR NOSOTRAS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+      "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "rating": 0.0,
+      "releaseDate": "2026-11-06",
+      "duration": "136 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
       "showtimes": {
-        "Miércoles 4 de noviembre": [
-          "17:25"
+        "Viernes 6 de noviembre": [
+          "21:00"
+        ],
+        "Sábado 7 de noviembre": [
+          "20:25"
+        ],
+        "Domingo 8 de noviembre": [
+          "17:25",
+          "21:45"
+        ],
+        "Lunes 9 de noviembre": [
+          "19:10"
+        ],
+        "Martes 10 de noviembre": [
+          "21:00"
+        ]
+      }
+    },
+    {
+      "title": "SACAMANTECAS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7338FnwdzX9oNpODZIJH1OliUGV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/rs4w35BjZU8L2CihVNIyGIrxU2W.jpg",
+      "overview": "Álava, finales del siglo XIX. Mientras la III Guerra Carlista agoniza, varias mujeres aparecen estranguladas en las afueras de Vitoria. Ángela Berrosteguieta, hermana de una de las víctimas, llega en busca de justicia, decidida a demostrar que Juan Díaz de Garayo, un campesino analfabeto, es el responsable de los crímenes. Sin embargo, Pío Pinedo, jefe de los alguaciles, se enfrenta a la falta de recursos en tiempos de guerra y a la presión de las autoridades, que prefieren ocultar la creciente ola de asesinatos.",
+      "rating": 0.0,
+      "releaseDate": "2026-11-06",
+      "duration": "102 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 6 de noviembre": [
+          "19:30",
+          "21:30"
+        ],
+        "Sábado 7 de noviembre": [
+          "18:30",
+          "20:30",
+          "22:30"
+        ],
+        "Domingo 8 de noviembre": [
+          "18:30",
+          "20:30"
+        ],
+        "Lunes 9 de noviembre": [
+          "19:00",
+          "21:00"
+        ],
+        "Martes 10 de noviembre": [
+          "18:30"
+        ]
+      }
+    },
+    {
+      "title": "LA OVEJA SHAUN. MISIÓN CALABAZA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "overview": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
+      "rating": 7.4,
+      "releaseDate": "2026-09-17",
+      "duration": "81 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Sábado 7 de noviembre": [
+          "17:00"
+        ],
+        "Domingo 8 de noviembre": [
+          "17:00"
+        ],
+        "Lunes 9 de noviembre": [
+          "17:00"
         ]
       }
     }
