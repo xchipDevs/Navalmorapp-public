@@ -1,26 +1,8 @@
 {
-  "generated_at": "2026-11-04T23:17:44.358844Z",
-  "expires_at": "2026-11-05T23:17:44.358844Z",
+  "generated_at": "2026-11-05T05:30:55.023304Z",
+  "expires_at": "2026-11-06T05:30:55.023304Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "LA BOLA NEGRA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-      "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 8.055,
-      "releaseDate": "2026-09-25",
-      "duration": "159 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
-      "showtimes": {
-        "Sábado 7 de noviembre": [
-          "18:00"
-        ],
-        "Lunes 9 de noviembre": [
-          "21:30"
-        ]
-      }
-    },
     {
       "title": "LA MALETA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1KkW1vKHs20QYNP32tbmUGS2952.jpg",
@@ -42,6 +24,9 @@
         ],
         "Martes 10 de noviembre": [
           "19:00"
+        ],
+        "Miércoles 11 de noviembre": [
+          "19:30"
         ]
       }
     },
@@ -70,6 +55,10 @@
         ],
         "Martes 10 de noviembre": [
           "21:00"
+        ],
+        "Miércoles 11 de noviembre": [
+          "17:00",
+          "21:30"
         ]
       }
     },
@@ -102,6 +91,28 @@
         ],
         "Martes 10 de noviembre": [
           "18:30"
+        ],
+        "Miércoles 11 de noviembre": [
+          "19:00",
+          "21:00"
+        ]
+      }
+    },
+    {
+      "title": "LA BOLA NEGRA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "rating": 8.0,
+      "releaseDate": "2026-09-25",
+      "duration": "159 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
+      "showtimes": {
+        "Sábado 7 de noviembre": [
+          "18:00"
+        ],
+        "Lunes 9 de noviembre": [
+          "21:30"
         ]
       }
     },
@@ -122,6 +133,9 @@
           "17:00"
         ],
         "Lunes 9 de noviembre": [
+          "17:00"
+        ],
+        "Miércoles 11 de noviembre": [
           "17:00"
         ]
       }
