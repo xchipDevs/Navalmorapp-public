@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T17:13:41.597843Z",
-  "expires_at": "2026-11-07T17:13:41.597843Z",
+  "generated_at": "2026-11-06T22:46:33.170758Z",
+  "expires_at": "2026-11-07T22:46:33.170758Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "20 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 6 de noviembre": [
-          "19:00"
-        ],
         "Sábado 7 de noviembre": [
           "22:45"
         ],
@@ -32,7 +29,7 @@
     },
     {
       "title": "RUEGA POR NOSOTRAS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
       "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
       "rating": 0.0,
@@ -40,9 +37,6 @@
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
       "showtimes": {
-        "Viernes 6 de noviembre": [
-          "21:00"
-        ],
         "Sábado 7 de noviembre": [
           "20:25"
         ],
@@ -70,12 +64,8 @@
       "rating": 0.0,
       "releaseDate": "2026-11-06",
       "duration": "102 min",
-      "trailerUrl": null,
+      "trailerUrl": "https://www.youtube.com/watch?v=w4Af1KDSkgs",
       "showtimes": {
-        "Viernes 6 de noviembre": [
-          "19:30",
-          "21:30"
-        ],
         "Sábado 7 de noviembre": [
           "18:30",
           "20:30",
@@ -103,7 +93,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 8.085,
+      "rating": 8.1,
       "releaseDate": "2026-09-25",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
