@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T22:46:33.170758Z",
-  "expires_at": "2026-11-07T22:46:33.170758Z",
+  "generated_at": "2026-11-07T04:57:45.401553Z",
+  "expires_at": "2026-11-08T04:57:45.401553Z",
   "version": "1.0",
   "movies": [
     {
@@ -107,11 +107,11 @@
       }
     },
     {
-      "title": "LA OVEJA SHAUN MISIÓN CALABAZA",
+      "title": "LA OVEJA SHAUN. MISIÓN CALABAZA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "overview": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
-      "rating": 7.4,
+      "rating": 7.426,
       "releaseDate": "2026-09-17",
       "duration": "81 min",
       "trailerUrl": null,
