@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T12:35:05.576139Z",
-  "expires_at": "2026-11-08T12:35:05.576139Z",
+  "generated_at": "2026-11-07T18:29:28.177654Z",
+  "expires_at": "2026-11-08T18:29:28.177654Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Sábado 7 de noviembre": [
-          "18:00"
-        ],
         "Lunes 9 de noviembre": [
           "21:30"
         ]
@@ -50,14 +47,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "overview": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
-      "rating": 7.426,
+      "rating": 7.357,
       "releaseDate": "2026-09-17",
       "duration": "81 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 7 de noviembre": [
-          "17:00"
-        ],
         "Domingo 8 de noviembre": [
           "17:00"
         ],
@@ -109,7 +103,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=w4Af1KDSkgs",
       "showtimes": {
         "Sábado 7 de noviembre": [
-          "18:30",
           "20:30",
           "22:30"
         ],
