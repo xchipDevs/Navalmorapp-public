@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T18:29:28.177654Z",
-  "expires_at": "2026-11-08T18:29:28.177654Z",
+  "generated_at": "2026-11-07T23:28:23.166219Z",
+  "expires_at": "2026-11-08T23:28:23.166219Z",
   "version": "1.0",
   "movies": [
     {
@@ -28,9 +28,6 @@
       "duration": "20 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 7 de noviembre": [
-          "22:45"
-        ],
         "Domingo 8 de noviembre": [
           "19:45"
         ],
@@ -43,7 +40,7 @@
       }
     },
     {
-      "title": "LA OVEJA SHAUN. MISIÓN CALABAZA",
+      "title": "LA OVEJA SHAUN MISIÓN CALABAZA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "overview": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
@@ -73,9 +70,6 @@
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
       "showtimes": {
-        "Sábado 7 de noviembre": [
-          "20:25"
-        ],
         "Domingo 8 de noviembre": [
           "17:25",
           "21:45"
@@ -102,10 +96,6 @@
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=w4Af1KDSkgs",
       "showtimes": {
-        "Sábado 7 de noviembre": [
-          "20:30",
-          "22:30"
-        ],
         "Domingo 8 de noviembre": [
           "18:30",
           "20:30"
