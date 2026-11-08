@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T12:52:48.971714Z",
-  "expires_at": "2026-11-09T12:52:48.971714Z",
+  "generated_at": "2026-11-08T18:40:45.306333Z",
+  "expires_at": "2026-11-09T18:40:45.306333Z",
   "version": "1.0",
   "movies": [
     {
@@ -25,7 +25,7 @@
       }
     },
     {
-      "title": "LA OVEJA SHAUN. MISIÓN CALABAZA",
+      "title": "LA OVEJA SHAUN MISIÓN CALABAZA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "overview": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
@@ -34,9 +34,6 @@
       "duration": "81 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 8 de noviembre": [
-          "17:00"
-        ],
         "Lunes 9 de noviembre": [
           "17:00"
         ],
@@ -56,7 +53,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
       "showtimes": {
         "Domingo 8 de noviembre": [
-          "17:25",
           "21:45"
         ],
         "Lunes 9 de noviembre": [
@@ -82,7 +78,6 @@
       "trailerUrl": "https://www.youtube.com/watch?v=w4Af1KDSkgs",
       "showtimes": {
         "Domingo 8 de noviembre": [
-          "18:30",
           "20:30"
         ],
         "Lunes 9 de noviembre": [
@@ -103,7 +98,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 8.1,
+      "rating": 8.098,
       "releaseDate": "2026-09-25",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
