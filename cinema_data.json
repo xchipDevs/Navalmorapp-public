@@ -1,36 +1,18 @@
 {
-  "generated_at": "2026-11-09T15:26:08.390071Z",
-  "expires_at": "2026-11-10T15:26:08.390071Z",
+  "generated_at": "2026-11-09T23:58:35.366004Z",
+  "expires_at": "2026-11-10T23:58:35.366004Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "LA BOLA NEGRA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-      "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 8.1,
-      "releaseDate": "2026-09-25",
-      "duration": "159 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
-      "showtimes": {
-        "Lunes 9 de noviembre": [
-          "21:30"
-        ]
-      }
-    },
-    {
-      "title": "LA OVEJA SHAUN MISIÓN CALABAZA",
+      "title": "LA OVEJA SHAUN. MISIÓN CALABAZA",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "overview": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
-      "rating": 7.339,
+      "rating": 7.3,
       "releaseDate": "2026-09-17",
       "duration": "81 min",
       "trailerUrl": null,
       "showtimes": {
-        "Lunes 9 de noviembre": [
-          "17:00"
-        ],
         "Miércoles 11 de noviembre": [
           "17:00"
         ]
@@ -38,7 +20,7 @@
     },
     {
       "title": "RUEGA POR NOSOTRAS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
       "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
       "rating": 0.0,
@@ -46,9 +28,6 @@
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
       "showtimes": {
-        "Lunes 9 de noviembre": [
-          "19:10"
-        ],
         "Martes 10 de noviembre": [
           "21:00"
         ],
@@ -68,10 +47,6 @@
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=w4Af1KDSkgs",
       "showtimes": {
-        "Lunes 9 de noviembre": [
-          "19:00",
-          "21:00"
-        ],
         "Martes 10 de noviembre": [
           "18:30"
         ],
