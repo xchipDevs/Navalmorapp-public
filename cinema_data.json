@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T07:01:41.093724Z",
-  "expires_at": "2026-11-11T07:01:41.093724Z",
+  "generated_at": "2026-11-10T16:09:43.341868Z",
+  "expires_at": "2026-11-11T16:09:43.341868Z",
   "version": "1.0",
   "movies": [
     {
@@ -64,7 +64,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "overview": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
-      "rating": 7.339,
+      "rating": 7.333,
       "releaseDate": "2026-09-17",
       "duration": "81 min",
       "trailerUrl": null,
