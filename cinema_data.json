@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T16:09:43.341868Z",
-  "expires_at": "2026-11-11T16:09:43.341868Z",
+  "generated_at": "2026-11-10T22:54:56.832108Z",
+  "expires_at": "2026-11-11T22:54:56.832108Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "20 min",
       "trailerUrl": null,
       "showtimes": {
-        "Martes 10 de noviembre": [
-          "19:00"
-        ],
         "Miércoles 11 de noviembre": [
           "19:30"
         ]
@@ -31,9 +28,6 @@
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
       "showtimes": {
-        "Martes 10 de noviembre": [
-          "21:00"
-        ],
         "Miércoles 11 de noviembre": [
           "17:00",
           "21:30"
@@ -50,9 +44,6 @@
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=w4Af1KDSkgs",
       "showtimes": {
-        "Martes 10 de noviembre": [
-          "18:30"
-        ],
         "Miércoles 11 de noviembre": [
           "19:00",
           "21:00"
