@@ -1,20 +1,23 @@
 {
-  "generated_at": "2026-11-09T23:58:35.366004Z",
-  "expires_at": "2026-11-10T23:58:35.366004Z",
+  "generated_at": "2026-11-10T07:01:41.093724Z",
+  "expires_at": "2026-11-11T07:01:41.093724Z",
   "version": "1.0",
   "movies": [
     {
-      "title": "LA OVEJA SHAUN. MISIÓN CALABAZA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-      "overview": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
-      "rating": 7.3,
-      "releaseDate": "2026-09-17",
-      "duration": "81 min",
+      "title": "LA MALETA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1KkW1vKHs20QYNP32tbmUGS2952.jpg",
+      "backdropUrl": null,
+      "overview": null,
+      "rating": 5.1,
+      "releaseDate": "2008-10-04",
+      "duration": "20 min",
       "trailerUrl": null,
       "showtimes": {
+        "Martes 10 de noviembre": [
+          "19:00"
+        ],
         "Miércoles 11 de noviembre": [
-          "17:00"
+          "19:30"
         ]
       }
     },
@@ -57,20 +60,17 @@
       }
     },
     {
-      "title": "LA MALETA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1KkW1vKHs20QYNP32tbmUGS2952.jpg",
-      "backdropUrl": null,
-      "overview": null,
-      "rating": 5.1,
-      "releaseDate": "2008-10-04",
-      "duration": "20 min",
+      "title": "LA OVEJA SHAUN MISIÓN CALABAZA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "overview": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
+      "rating": 7.339,
+      "releaseDate": "2026-09-17",
+      "duration": "81 min",
       "trailerUrl": null,
       "showtimes": {
-        "Martes 10 de noviembre": [
-          "19:00"
-        ],
         "Miércoles 11 de noviembre": [
-          "19:30"
+          "17:00"
         ]
       }
     }
