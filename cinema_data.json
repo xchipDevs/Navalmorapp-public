@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T22:54:56.832108Z",
-  "expires_at": "2026-11-11T22:54:56.832108Z",
+  "generated_at": "2026-11-11T05:00:49.373089Z",
+  "expires_at": "2026-11-12T05:00:49.373089Z",
   "version": "1.0",
   "movies": [
     {
@@ -15,6 +15,21 @@
       "showtimes": {
         "Miércoles 11 de noviembre": [
           "19:30"
+        ]
+      }
+    },
+    {
+      "title": "LA OVEJA SHAUN. MISIÓN CALABAZA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "overview": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
+      "rating": 7.328,
+      "releaseDate": "2026-09-17",
+      "duration": "81 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Miércoles 11 de noviembre": [
+          "17:00"
         ]
       }
     },
@@ -47,21 +62,6 @@
         "Miércoles 11 de noviembre": [
           "19:00",
           "21:00"
-        ]
-      }
-    },
-    {
-      "title": "LA OVEJA SHAUN MISIÓN CALABAZA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-      "overview": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
-      "rating": 7.333,
-      "releaseDate": "2026-09-17",
-      "duration": "81 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Miércoles 11 de noviembre": [
-          "17:00"
         ]
       }
     }
