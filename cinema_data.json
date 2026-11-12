@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-11-12T02:43:32.229961Z",
-  "expires_at": "2026-11-13T02:43:32.229961Z",
+  "generated_at": "2026-11-12T12:15:19.858154Z",
+  "expires_at": "2026-11-13T12:15:19.858154Z",
   "version": "1.0",
   "movies": [
+    {
+      "title": "EL GATO CON SOMBRERO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+      "overview": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "rating": 7.205,
+      "releaseDate": "2026-10-31",
+      "duration": "108 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
+      "showtimes": {
+        "Viernes 13 de noviembre": [
+          "18:00"
+        ],
+        "Sábado 14 de noviembre": [
+          "17:00"
+        ],
+        "Domingo 15 de noviembre": [
+          "17:00"
+        ],
+        "Lunes 16 de noviembre": [
+          "17:00"
+        ],
+        "Martes 17 de noviembre": [
+          "17:00"
+        ],
+        "Miércoles 18 de noviembre": [
+          "17:00"
+        ]
+      }
+    },
     {
       "title": "RUEGA POR NOSOTRAS",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
@@ -27,6 +57,9 @@
         ],
         "Martes 17 de noviembre": [
           "18:30"
+        ],
+        "Miércoles 18 de noviembre": [
+          "21:30"
         ]
       }
     },
@@ -51,32 +84,8 @@
         ],
         "Martes 17 de noviembre": [
           "21:00"
-        ]
-      }
-    },
-    {
-      "title": "EL GATO CON SOMBRERO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-      "overview": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "rating": 7.262,
-      "releaseDate": "2026-10-31",
-      "duration": "108 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
-      "showtimes": {
-        "Viernes 13 de noviembre": [
-          "18:00"
         ],
-        "Sábado 14 de noviembre": [
-          "17:00"
-        ],
-        "Domingo 15 de noviembre": [
-          "17:00"
-        ],
-        "Lunes 16 de noviembre": [
-          "17:00"
-        ],
-        "Martes 17 de noviembre": [
+        "Miércoles 18 de noviembre": [
           "17:00"
         ]
       }
@@ -112,6 +121,10 @@
         "Martes 17 de noviembre": [
           "19:00",
           "21:00"
+        ],
+        "Miércoles 18 de noviembre": [
+          "19:00",
+          "21:00"
         ]
       }
     },
@@ -130,6 +143,9 @@
         ],
         "Lunes 16 de noviembre": [
           "18:00"
+        ],
+        "Miércoles 18 de noviembre": [
+          "19:00"
         ]
       }
     }
