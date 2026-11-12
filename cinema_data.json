@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T12:15:19.858154Z",
-  "expires_at": "2026-11-13T12:15:19.858154Z",
+  "generated_at": "2026-11-12T21:19:34.387854Z",
+  "expires_at": "2026-11-13T21:19:34.387854Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "overview": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "rating": 7.205,
+      "rating": 7.2,
       "releaseDate": "2026-10-31",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
@@ -95,7 +95,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
       "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 8.3,
+      "rating": 8.167,
       "releaseDate": "2026-11-11",
       "duration": "115 min",
       "trailerUrl": null,
