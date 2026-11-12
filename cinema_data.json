@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T21:04:54.424035Z",
-  "expires_at": "2026-11-12T21:04:54.424035Z",
+  "generated_at": "2026-11-12T02:43:32.229961Z",
+  "expires_at": "2026-11-13T02:43:32.229961Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
       "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
-      "rating": 0.0,
+      "rating": 6.0,
       "releaseDate": "2026-11-06",
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
@@ -35,7 +35,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/7338FnwdzX9oNpODZIJH1OliUGV.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rs4w35BjZU8L2CihVNIyGIrxU2W.jpg",
       "overview": "Álava, finales del siglo XIX. Mientras la III Guerra Carlista agoniza, varias mujeres aparecen estranguladas en las afueras de Vitoria. Ángela Berrosteguieta, hermana de una de las víctimas, llega en busca de justicia, decidida a demostrar que Juan Díaz de Garayo, un campesino analfabeto, es el responsable de los crímenes. Sin embargo, Pío Pinedo, jefe de los alguaciles, se enfrenta a la falta de recursos en tiempos de guerra y a la presión de las autoridades, que prefieren ocultar la creciente ola de asesinatos.",
-      "rating": 0.0,
+      "rating": 7.0,
       "releaseDate": "2026-11-06",
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=w4Af1KDSkgs",
@@ -84,7 +84,7 @@
     {
       "title": "SCROOGE Y LOS FANTASMAS DE LA NAVIDAD",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
       "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
       "rating": 8.3,
       "releaseDate": "2026-11-11",
