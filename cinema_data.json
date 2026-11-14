@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T16:25:01.208056Z",
-  "expires_at": "2026-11-15T16:25:01.208056Z",
+  "generated_at": "2026-11-14T22:01:51.435877Z",
+  "expires_at": "2026-11-15T22:01:51.435877Z",
   "version": "1.0",
   "movies": [
     {
@@ -37,9 +37,6 @@
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
       "showtimes": {
-        "Sábado 14 de noviembre": [
-          "19:00"
-        ],
         "Lunes 16 de noviembre": [
           "18:00"
         ],
@@ -58,9 +55,6 @@
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
       "showtimes": {
-        "Sábado 14 de noviembre": [
-          "21:30"
-        ],
         "Domingo 15 de noviembre": [
           "19:15"
         ],
@@ -107,8 +101,6 @@
       "trailerUrl": null,
       "showtimes": {
         "Sábado 14 de noviembre": [
-          "19:00",
-          "21:00",
           "23:00"
         ],
         "Domingo 15 de noviembre": [
