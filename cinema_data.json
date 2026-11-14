@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T19:18:05.870586Z",
-  "expires_at": "2026-11-14T19:18:05.870586Z",
+  "generated_at": "2026-11-14T00:42:53.151157Z",
+  "expires_at": "2026-11-15T00:42:53.151157Z",
   "version": "1.0",
   "movies": [
     {
@@ -67,9 +67,6 @@
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=w4Af1KDSkgs",
       "showtimes": {
-        "Viernes 13 de noviembre": [
-          "21:15"
-        ],
         "Sábado 14 de noviembre": [
           "17:00"
         ],
@@ -94,10 +91,6 @@
       "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 13 de noviembre": [
-          "20:00",
-          "22:00"
-        ],
         "Sábado 14 de noviembre": [
           "19:00",
           "21:00",
