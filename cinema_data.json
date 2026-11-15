@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T19:35:15.310139Z",
-  "expires_at": "2026-11-16T19:35:15.310139Z",
+  "generated_at": "2026-11-15T23:47:53.022684Z",
+  "expires_at": "2026-11-16T23:47:53.022684Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "overview": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "rating": 6.9,
+      "rating": 6.875,
       "releaseDate": "2026-10-31",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
@@ -55,9 +55,6 @@
       "duration": "102 min",
       "trailerUrl": "https://www.youtube.com/watch?v=w4Af1KDSkgs",
       "showtimes": {
-        "Domingo 15 de noviembre": [
-          "21:45"
-        ],
         "Martes 17 de noviembre": [
           "21:00"
         ],
@@ -76,9 +73,6 @@
       "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 15 de noviembre": [
-          "21:00"
-        ],
         "Lunes 16 de noviembre": [
           "19:00",
           "21:00"
@@ -98,7 +92,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 7.986,
+      "rating": 7.96,
       "releaseDate": "2026-09-25",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
