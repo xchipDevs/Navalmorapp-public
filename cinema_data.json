@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T13:33:23.498033Z",
-  "expires_at": "2026-11-16T13:33:23.498033Z",
+  "generated_at": "2026-11-15T19:35:15.310139Z",
+  "expires_at": "2026-11-16T19:35:15.310139Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
       "showtimes": {
-        "Domingo 15 de noviembre": [
-          "17:00"
-        ],
         "Lunes 16 de noviembre": [
           "17:00"
         ],
@@ -37,9 +34,6 @@
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
       "showtimes": {
-        "Domingo 15 de noviembre": [
-          "19:15"
-        ],
         "Lunes 16 de noviembre": [
           "20:30"
         ],
@@ -75,17 +69,15 @@
     {
       "title": "SCROOGE Y LOS FANTASMAS DE LA NAVIDAD",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
       "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.788,
+      "rating": 7.7,
       "releaseDate": "2026-11-11",
       "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
         "Domingo 15 de noviembre": [
-          "19:00",
-          "21:00",
-          "17:15"
+          "21:00"
         ],
         "Lunes 16 de noviembre": [
           "19:00",
