@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T23:47:53.022684Z",
-  "expires_at": "2026-11-16T23:47:53.022684Z",
+  "generated_at": "2026-11-16T05:10:28.001069Z",
+  "expires_at": "2026-11-17T05:10:28.001069Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "overview": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "rating": 6.875,
+      "rating": 6.9,
       "releaseDate": "2026-10-31",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
@@ -21,6 +21,24 @@
         ],
         "Miércoles 18 de noviembre": [
           "17:00"
+        ]
+      }
+    },
+    {
+      "title": "LA BOLA NEGRA",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "rating": 8.0,
+      "releaseDate": "2026-09-25",
+      "duration": "159 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
+      "showtimes": {
+        "Lunes 16 de noviembre": [
+          "18:00"
+        ],
+        "Miércoles 18 de noviembre": [
+          "19:00"
         ]
       }
     },
@@ -46,29 +64,11 @@
       }
     },
     {
-      "title": "SACAMANTECAS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7338FnwdzX9oNpODZIJH1OliUGV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/rs4w35BjZU8L2CihVNIyGIrxU2W.jpg",
-      "overview": "Álava, finales del siglo XIX. Mientras la III Guerra Carlista agoniza, varias mujeres aparecen estranguladas en las afueras de Vitoria. Ángela Berrosteguieta, hermana de una de las víctimas, llega en busca de justicia, decidida a demostrar que Juan Díaz de Garayo, un campesino analfabeto, es el responsable de los crímenes. Sin embargo, Pío Pinedo, jefe de los alguaciles, se enfrenta a la falta de recursos en tiempos de guerra y a la presión de las autoridades, que prefieren ocultar la creciente ola de asesinatos.",
-      "rating": 7.0,
-      "releaseDate": "2026-11-06",
-      "duration": "102 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=w4Af1KDSkgs",
-      "showtimes": {
-        "Martes 17 de noviembre": [
-          "21:00"
-        ],
-        "Miércoles 18 de noviembre": [
-          "17:00"
-        ]
-      }
-    },
-    {
       "title": "SCROOGE Y LOS FANTASMAS DE LA NAVIDAD",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
       "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.7,
+      "rating": 7.637,
       "releaseDate": "2026-11-11",
       "duration": "115 min",
       "trailerUrl": null,
@@ -88,20 +88,20 @@
       }
     },
     {
-      "title": "LA BOLA NEGRA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-      "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 7.96,
-      "releaseDate": "2026-09-25",
-      "duration": "159 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=9NNU-vSeOB0",
+      "title": "SACAMANTECAS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7338FnwdzX9oNpODZIJH1OliUGV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/rs4w35BjZU8L2CihVNIyGIrxU2W.jpg",
+      "overview": "Álava, finales del siglo XIX. Mientras la III Guerra Carlista agoniza, varias mujeres aparecen estranguladas en las afueras de Vitoria. Ángela Berrosteguieta, hermana de una de las víctimas, llega en busca de justicia, decidida a demostrar que Juan Díaz de Garayo, un campesino analfabeto, es el responsable de los crímenes. Sin embargo, Pío Pinedo, jefe de los alguaciles, se enfrenta a la falta de recursos en tiempos de guerra y a la presión de las autoridades, que prefieren ocultar la creciente ola de asesinatos.",
+      "rating": 7.0,
+      "releaseDate": "2026-11-06",
+      "duration": "102 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=w4Af1KDSkgs",
       "showtimes": {
-        "Lunes 16 de noviembre": [
-          "18:00"
+        "Martes 17 de noviembre": [
+          "21:00"
         ],
         "Miércoles 18 de noviembre": [
-          "19:00"
+          "17:00"
         ]
       }
     }
