@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T05:10:28.001069Z",
-  "expires_at": "2026-11-17T05:10:28.001069Z",
+  "generated_at": "2026-11-16T15:01:19.676942Z",
+  "expires_at": "2026-11-17T15:01:19.676942Z",
   "version": "1.0",
   "movies": [
     {
@@ -68,7 +68,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
       "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.637,
+      "rating": 7.7,
       "releaseDate": "2026-11-11",
       "duration": "115 min",
       "trailerUrl": null,
