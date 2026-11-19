@@ -1,68 +1,8 @@
 {
-  "generated_at": "2026-11-19T01:45:02.595885Z",
-  "expires_at": "2026-11-20T01:45:02.595885Z",
+  "generated_at": "2026-11-19T09:57:15.850361Z",
+  "expires_at": "2026-11-20T09:57:15.850361Z",
   "version": "1.0",
   "movies": [
-    {
-      "title": "EL GATO CON SOMBRERO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-      "overview": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "rating": 7.0,
-      "releaseDate": "2026-10-31",
-      "duration": "108 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
-      "showtimes": {
-        "Sábado 21 de noviembre": [
-          "17:00"
-        ],
-        "Domingo 22 de noviembre": [
-          "17:00"
-        ],
-        "Lunes 23 de noviembre": [
-          "18:00"
-        ]
-      }
-    },
-    {
-      "title": "RUEGA POR NOSOTRAS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
-      "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
-      "rating": 7.2,
-      "releaseDate": "2026-11-06",
-      "duration": "136 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
-      "showtimes": {
-        "Sábado 21 de noviembre": [
-          "19:30"
-        ],
-        "Lunes 23 de noviembre": [
-          "17:00"
-        ]
-      }
-    },
-    {
-      "title": "SCROOGE Y LOS FANTASMAS DE LA NAVIDAD",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
-      "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.6,
-      "releaseDate": "2026-11-11",
-      "duration": "115 min",
-      "trailerUrl": null,
-      "showtimes": {
-        "Viernes 20 de noviembre": [
-          "19:00"
-        ],
-        "Domingo 22 de noviembre": [
-          "19:30"
-        ],
-        "Lunes 23 de noviembre": [
-          "21:15"
-        ]
-      }
-    },
     {
       "title": "EL DIRECTOR",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
@@ -89,6 +29,10 @@
         ],
         "Martes 24 de noviembre": [
           "18:00"
+        ],
+        "Miércoles 25 de noviembre": [
+          "19:30",
+          "21:30"
         ]
       }
     },
@@ -97,7 +41,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.448,
+      "rating": 7.6,
       "releaseDate": "2026-11-18",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
@@ -120,6 +64,76 @@
         "Martes 24 de noviembre": [
           "18:00",
           "21:00"
+        ],
+        "Miércoles 25 de noviembre": [
+          "19:00",
+          "21:45"
+        ]
+      }
+    },
+    {
+      "title": "SCROOGE Y LOS FANTASMAS DE LA NAVIDAD",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "rating": 7.5,
+      "releaseDate": "2026-11-11",
+      "duration": "115 min",
+      "trailerUrl": null,
+      "showtimes": {
+        "Viernes 20 de noviembre": [
+          "19:00"
+        ],
+        "Domingo 22 de noviembre": [
+          "19:30"
+        ],
+        "Lunes 23 de noviembre": [
+          "21:15"
+        ],
+        "Miércoles 25 de noviembre": [
+          "17:30"
+        ]
+      }
+    },
+    {
+      "title": "EL GATO CON SOMBRERO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+      "overview": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "rating": 6.817,
+      "releaseDate": "2026-10-31",
+      "duration": "108 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
+      "showtimes": {
+        "Sábado 21 de noviembre": [
+          "17:00"
+        ],
+        "Domingo 22 de noviembre": [
+          "17:00"
+        ],
+        "Lunes 23 de noviembre": [
+          "18:00"
+        ],
+        "Miércoles 25 de noviembre": [
+          "17:00"
+        ]
+      }
+    },
+    {
+      "title": "RUEGA POR NOSOTRAS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+      "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "rating": 7.2,
+      "releaseDate": "2026-11-06",
+      "duration": "136 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
+      "showtimes": {
+        "Sábado 21 de noviembre": [
+          "19:30"
+        ],
+        "Lunes 23 de noviembre": [
+          "17:00"
         ]
       }
     }
