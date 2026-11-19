@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T18:40:46.485745Z",
-  "expires_at": "2026-11-19T18:40:46.485745Z",
+  "generated_at": "2026-11-19T01:45:02.595885Z",
+  "expires_at": "2026-11-20T01:45:02.595885Z",
   "version": "1.0",
   "movies": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "title": "RUEGA POR NOSOTRAS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
       "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
       "rating": 7.2,
@@ -34,9 +34,6 @@
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
       "showtimes": {
-        "Miércoles 18 de noviembre": [
-          "21:30"
-        ],
         "Sábado 21 de noviembre": [
           "19:30"
         ],
@@ -50,14 +47,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
       "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.579,
+      "rating": 7.6,
       "releaseDate": "2026-11-11",
       "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
-        "Miércoles 18 de noviembre": [
-          "21:00"
-        ],
         "Viernes 20 de noviembre": [
           "19:00"
         ],
@@ -103,7 +97,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.8,
+      "rating": 7.448,
       "releaseDate": "2026-11-18",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
