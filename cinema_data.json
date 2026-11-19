@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T09:57:15.850361Z",
-  "expires_at": "2026-11-20T09:57:15.850361Z",
+  "generated_at": "2026-11-19T18:55:31.667232Z",
+  "expires_at": "2026-11-20T18:55:31.667232Z",
   "version": "1.0",
   "movies": [
     {
@@ -41,7 +41,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.6,
+      "rating": 7.465,
       "releaseDate": "2026-11-18",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
@@ -76,7 +76,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
       "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.5,
+      "rating": 7.56,
       "releaseDate": "2026-11-11",
       "duration": "115 min",
       "trailerUrl": null,
