@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T18:21:56.099826Z",
-  "expires_at": "2026-11-21T18:21:56.099826Z",
+  "generated_at": "2026-11-21T01:07:30.843937Z",
+  "expires_at": "2026-11-22T01:07:30.843937Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "113 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 20 de noviembre": [
-          "21:00"
-        ],
         "Sábado 21 de noviembre": [
           "17:30",
           "21:45"
@@ -41,14 +38,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.305,
+      "rating": 7.38,
       "releaseDate": "2026-11-18",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
       "showtimes": {
-        "Viernes 20 de noviembre": [
-          "22:00"
-        ],
         "Sábado 21 de noviembre": [
           "19:00",
           "22:00"
@@ -73,9 +67,9 @@
     {
       "title": "SCROOGE Y LOS FANTASMAS DE LA NAVIDAD",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
       "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.485,
+      "rating": 7.5,
       "releaseDate": "2026-11-11",
       "duration": "115 min",
       "trailerUrl": null,
