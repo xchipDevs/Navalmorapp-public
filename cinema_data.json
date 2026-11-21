@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T01:07:30.843937Z",
-  "expires_at": "2026-11-22T01:07:30.843937Z",
+  "generated_at": "2026-11-21T09:18:59.980061Z",
+  "expires_at": "2026-11-22T09:18:59.980061Z",
   "version": "1.0",
   "movies": [
     {
@@ -34,11 +34,35 @@
       }
     },
     {
+      "title": "EL GATO CON SOMBRERO",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
+      "overview": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "rating": 6.8,
+      "releaseDate": "2026-10-31",
+      "duration": "108 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
+      "showtimes": {
+        "Sábado 21 de noviembre": [
+          "17:00"
+        ],
+        "Domingo 22 de noviembre": [
+          "17:00"
+        ],
+        "Lunes 23 de noviembre": [
+          "18:00"
+        ],
+        "Miércoles 25 de noviembre": [
+          "17:00"
+        ]
+      }
+    },
+    {
       "title": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aGFIoSGOv5iJGCviwGQJEfnHXIv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.38,
+      "rating": 7.5,
       "releaseDate": "2026-11-18",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
@@ -65,6 +89,24 @@
       }
     },
     {
+      "title": "RUEGA POR NOSOTRAS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+      "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "rating": 7.0,
+      "releaseDate": "2026-11-06",
+      "duration": "136 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
+      "showtimes": {
+        "Sábado 21 de noviembre": [
+          "19:30"
+        ],
+        "Lunes 23 de noviembre": [
+          "17:00"
+        ]
+      }
+    },
+    {
       "title": "SCROOGE Y LOS FANTASMAS DE LA NAVIDAD",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
@@ -82,48 +124,6 @@
         ],
         "Miércoles 25 de noviembre": [
           "17:30"
-        ]
-      }
-    },
-    {
-      "title": "EL GATO CON SOMBRERO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
-      "overview": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "rating": 6.8,
-      "releaseDate": "2026-10-31",
-      "duration": "108 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
-      "showtimes": {
-        "Sábado 21 de noviembre": [
-          "17:00"
-        ],
-        "Domingo 22 de noviembre": [
-          "17:00"
-        ],
-        "Lunes 23 de noviembre": [
-          "18:00"
-        ],
-        "Miércoles 25 de noviembre": [
-          "17:00"
-        ]
-      }
-    },
-    {
-      "title": "RUEGA POR NOSOTRAS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
-      "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
-      "rating": 7.0,
-      "releaseDate": "2026-11-06",
-      "duration": "136 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
-      "showtimes": {
-        "Sábado 21 de noviembre": [
-          "19:30"
-        ],
-        "Lunes 23 de noviembre": [
-          "17:00"
         ]
       }
     }
