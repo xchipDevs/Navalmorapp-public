@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T14:11:42.239171Z",
-  "expires_at": "2026-11-23T14:11:42.239171Z",
+  "generated_at": "2026-11-22T21:34:37.883246Z",
+  "expires_at": "2026-11-23T21:34:37.883246Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,10 +13,6 @@
       "duration": "113 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 22 de noviembre": [
-          "17:30",
-          "21:45"
-        ],
         "Lunes 23 de noviembre": [
           "19:15"
         ],
@@ -39,9 +35,6 @@
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
       "showtimes": {
-        "Domingo 22 de noviembre": [
-          "17:00"
-        ],
         "Lunes 23 de noviembre": [
           "18:00"
         ],
@@ -60,10 +53,6 @@
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
       "showtimes": {
-        "Domingo 22 de noviembre": [
-          "19:00",
-          "22:00"
-        ],
         "Lunes 23 de noviembre": [
           "20:15"
         ],
@@ -82,14 +71,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
       "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.484,
+      "rating": 7.5,
       "releaseDate": "2026-11-11",
       "duration": "115 min",
       "trailerUrl": null,
       "showtimes": {
-        "Domingo 22 de noviembre": [
-          "19:30"
-        ],
         "Lunes 23 de noviembre": [
           "21:15"
         ],
