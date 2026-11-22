@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T22:50:51.237357Z",
-  "expires_at": "2026-11-22T22:50:51.237357Z",
+  "generated_at": "2026-11-22T05:30:27.260874Z",
+  "expires_at": "2026-11-23T05:30:27.260874Z",
   "version": "1.0",
   "movies": [
     {
@@ -8,7 +8,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2hDvcWbWaCOkh8bwrVl0w6FJNog.jpg",
       "overview": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
-      "rating": 0.0,
+      "rating": 6.5,
       "releaseDate": "2026-11-20",
       "duration": "113 min",
       "trailerUrl": null,
@@ -55,7 +55,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/aGFIoSGOv5iJGCviwGQJEfnHXIv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.6,
+      "rating": 7.639,
       "releaseDate": "2026-11-18",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
@@ -78,26 +78,11 @@
       }
     },
     {
-      "title": "RUEGA POR NOSOTRAS",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
-      "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
-      "rating": 7.0,
-      "releaseDate": "2026-11-06",
-      "duration": "136 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
-      "showtimes": {
-        "Lunes 23 de noviembre": [
-          "17:00"
-        ]
-      }
-    },
-    {
       "title": "SCROOGE Y LOS FANTASMAS DE LA NAVIDAD",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
       "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.471,
+      "rating": 7.5,
       "releaseDate": "2026-11-11",
       "duration": "115 min",
       "trailerUrl": null,
@@ -110,6 +95,21 @@
         ],
         "Miércoles 25 de noviembre": [
           "17:30"
+        ]
+      }
+    },
+    {
+      "title": "RUEGA POR NOSOTRAS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+      "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "rating": 7.0,
+      "releaseDate": "2026-11-06",
+      "duration": "136 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
+      "showtimes": {
+        "Lunes 23 de noviembre": [
+          "17:00"
         ]
       }
     }
