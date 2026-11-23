@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T21:34:37.883246Z",
-  "expires_at": "2026-11-23T21:34:37.883246Z",
+  "generated_at": "2026-11-23T02:19:48.801669Z",
+  "expires_at": "2026-11-24T02:19:48.801669Z",
   "version": "1.0",
   "movies": [
     {
@@ -30,7 +30,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
       "overview": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "rating": 6.891,
+      "rating": 6.985,
       "releaseDate": "2026-10-31",
       "duration": "108 min",
       "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
@@ -48,7 +48,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/aGFIoSGOv5iJGCviwGQJEfnHXIv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.7,
+      "rating": 7.8,
       "releaseDate": "2026-11-18",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
