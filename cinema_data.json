@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T10:56:10.080102Z",
-  "expires_at": "2026-11-26T10:56:10.080102Z",
+  "generated_at": "2026-11-25T21:11:22.331961Z",
+  "expires_at": "2026-11-26T21:11:22.331961Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,24 +13,20 @@
       "duration": "113 min",
       "trailerUrl": null,
       "showtimes": {
-        "Miércoles 25 de noviembre": [
-          "19:30",
-          "21:30"
-        ]
-      }
-    },
-    {
-      "title": "EL GATO CON SOMBRERO",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
-      "overview": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "rating": 7.3,
-      "releaseDate": "2026-10-31",
-      "duration": "108 min",
-      "trailerUrl": "https://www.youtube.com/watch?v=bRMu8S6FQ9c",
-      "showtimes": {
-        "Miércoles 25 de noviembre": [
-          "17:00"
+        "Viernes 27 de noviembre": [
+          "19:30"
+        ],
+        "Sábado 28 de noviembre": [
+          "17:30"
+        ],
+        "Domingo 29 de noviembre": [
+          "20:45"
+        ],
+        "Lunes 30 de noviembre": [
+          "18:30"
+        ],
+        "Martes 1 de diciembre": [
+          "18:30"
         ]
       }
     },
@@ -44,24 +40,69 @@
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
       "showtimes": {
-        "Miércoles 25 de noviembre": [
-          "19:00",
+        "Viernes 27 de noviembre": [
+          "21:30"
+        ],
+        "Sábado 28 de noviembre": [
           "21:45"
+        ],
+        "Domingo 29 de noviembre": [
+          "18:00"
+        ],
+        "Lunes 30 de noviembre": [
+          "20:30"
+        ],
+        "Martes 1 de diciembre": [
+          "21:00",
+          "20:30"
         ]
       }
     },
     {
-      "title": "SCROOGE Y LOS FANTASMAS DE LA NAVIDAD",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
-      "overview": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.5,
-      "releaseDate": "2026-11-11",
-      "duration": "115 min",
-      "trailerUrl": null,
+      "title": "HECHIZO: BIENVENIDOS A HEXE",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
+      "overview": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+      "rating": 6.2,
+      "releaseDate": "2026-11-25",
+      "duration": "103 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=wkr5TpxKOTw",
       "showtimes": {
-        "Miércoles 25 de noviembre": [
-          "17:30"
+        "Viernes 27 de noviembre": [
+          "19:00",
+          "21:00"
+        ],
+        "Sábado 28 de noviembre": [
+          "17:00",
+          "19:00",
+          "21:00"
+        ],
+        "Domingo 29 de noviembre": [
+          "17:00",
+          "19:00",
+          "21:00"
+        ],
+        "Lunes 30 de noviembre": [
+          "18:00",
+          "20:00"
+        ],
+        "Martes 1 de diciembre": [
+          "19:00"
+        ]
+      }
+    },
+    {
+      "title": "RUEGA POR NOSOTRAS",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+      "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "rating": 7.167,
+      "releaseDate": "2026-11-06",
+      "duration": "136 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
+      "showtimes": {
+        "Sábado 28 de noviembre": [
+          "19:30"
         ]
       }
     }
