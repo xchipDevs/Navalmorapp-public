@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T21:11:22.331961Z",
-  "expires_at": "2026-11-26T21:11:22.331961Z",
+  "generated_at": "2026-11-26T03:58:20.919394Z",
+  "expires_at": "2026-11-27T03:58:20.919394Z",
   "version": "1.0",
   "movies": [
     {
@@ -35,7 +35,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/aGFIoSGOv5iJGCviwGQJEfnHXIv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.8,
+      "rating": 7.786,
       "releaseDate": "2026-11-18",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
