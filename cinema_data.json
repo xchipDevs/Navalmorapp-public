@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T07:06:24.686584Z",
-  "expires_at": "2026-11-28T07:06:24.686584Z",
+  "generated_at": "2026-11-27T17:53:36.906446Z",
+  "expires_at": "2026-11-28T17:53:36.906446Z",
   "version": "1.0",
   "movies": [
     {
@@ -38,7 +38,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
       "overview": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
-      "rating": 5.8,
+      "rating": 5.5,
       "releaseDate": "2026-11-25",
       "duration": "103 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wkr5TpxKOTw",
@@ -73,7 +73,7 @@
     },
     {
       "title": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eKYwrBki1B2DqS3ZtSN1IyVL7lW.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jIsgnEnvk6JWNkzUBi4pCtXhh5t.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
       "rating": 7.8,
