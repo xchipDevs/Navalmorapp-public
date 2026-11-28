@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T09:52:41.537928Z",
-  "expires_at": "2026-11-29T09:52:41.537928Z",
+  "generated_at": "2026-11-28T17:58:55.765136Z",
+  "expires_at": "2026-11-29T17:58:55.765136Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "113 min",
       "trailerUrl": null,
       "showtimes": {
-        "Sábado 28 de noviembre": [
-          "17:30"
-        ],
         "Domingo 29 de noviembre": [
           "20:45"
         ],
@@ -35,13 +32,12 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
       "overview": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
-      "rating": 5.9,
+      "rating": 6.1,
       "releaseDate": "2026-11-25",
       "duration": "103 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wkr5TpxKOTw",
       "showtimes": {
         "Sábado 28 de noviembre": [
-          "17:00",
           "19:00",
           "21:00"
         ],
@@ -69,7 +65,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/jIsgnEnvk6JWNkzUBi4pCtXhh5t.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.738,
+      "rating": 7.733,
       "releaseDate": "2026-11-18",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
@@ -97,7 +93,7 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
       "overview": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
-      "rating": 7.375,
+      "rating": 7.444,
       "releaseDate": "2026-11-06",
       "duration": "136 min",
       "trailerUrl": "https://www.youtube.com/watch?v=JYAoX8VqKw0",
