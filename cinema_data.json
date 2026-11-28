@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T17:53:36.906446Z",
-  "expires_at": "2026-11-28T17:53:36.906446Z",
+  "generated_at": "2026-11-28T01:12:44.054103Z",
+  "expires_at": "2026-11-29T01:12:44.054103Z",
   "version": "1.0",
   "movies": [
     {
@@ -13,9 +13,6 @@
       "duration": "113 min",
       "trailerUrl": null,
       "showtimes": {
-        "Viernes 27 de noviembre": [
-          "19:30"
-        ],
         "Sábado 28 de noviembre": [
           "17:30"
         ],
@@ -38,15 +35,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
       "overview": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
-      "rating": 5.5,
+      "rating": 5.9,
       "releaseDate": "2026-11-25",
       "duration": "103 min",
       "trailerUrl": "https://www.youtube.com/watch?v=wkr5TpxKOTw",
       "showtimes": {
-        "Viernes 27 de noviembre": [
-          "19:00",
-          "21:00"
-        ],
         "Sábado 28 de noviembre": [
           "17:00",
           "19:00",
@@ -76,14 +69,11 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/jIsgnEnvk6JWNkzUBi4pCtXhh5t.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "overview": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.8,
+      "rating": 7.785,
       "releaseDate": "2026-11-18",
       "duration": "159 min",
       "trailerUrl": "https://www.youtube.com/watch?v=71wxo7pAKVE",
       "showtimes": {
-        "Viernes 27 de noviembre": [
-          "21:30"
-        ],
         "Sábado 28 de noviembre": [
           "21:45"
         ],
